@@ -2766,45 +2766,9 @@ https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
 #EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/%E0%B8%AB%E0%B8%AD%E0%B9%81%E0%B8%95%E0%B9%8B%E0%B8%A7%E0%B9%81%E0%B8%95%E0%B8%81-%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%94-Oh-My-Ghost-The-Finale-2024-300x450.jpg" group-title="DOOMOVIES",หอแต๋วแตก แหกสัปะหยด Oh My Ghost The Finale
-https://main.24playerhd.com/m3u8/2049b2b7c05193358600d233/2049b2b7c05193358600d233168.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/11/A-Legend-%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%9F%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-2024-300x450.jpg" group-title="DOOMOVIES",A Legend พลิกตำนานฟัดทะลุเวลา 
-https://main.24playerhd.com/newplaylist/8788c89d98270ae5c63e42c9/8788c89d98270ae5c63e42c9.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/Dragon-Ball-Super-Super-Hero-%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88-300x450.png" group-title="DOOMOVIES",Dragon Ball Super: Super Hero ดราก้อนบอลซูเปอร์ ซูเปอร์ฮีโร่
-https://main.24playerhd.com/newplaylist/fc074838f1ba52f895c0bd59/fc074838f1ba52f895c0bd59.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2021/07/Space.Jam_.a.New_.Legacy-300x450.jpeg" group-title="DOOMOVIES",Go See Space Jam 
-https://main.24playerhd.com/newplaylist/2e7289f64dc4a1a9c3679389/2e7289f64dc4a1a9c3679389.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Alien-Romulus-%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99-%E0%B9%82%E0%B8%A3%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%B1%E0%B8%AA-2024-300x450.jpg" group-title="DOOMOVIES",Alien Romulus เอเลี่ยน โรมูลัส (2024) 
-https://main.24playerhd.com/newplaylist/a335cc48a2a9fc2d8339e20d/a335cc48a2a9fc2d8339e20d.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/%E0%B8%8A.%E0%B8%9E.%E0%B9%91-%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B8%9E-Operation-Undead-2024-300x450.jpg" group-title="DOOMOVIES",ช.พ.๑ สมรภูมิคืนชีพ Operation Undead (2024)
-https://main.24playerhd.com/newplaylist/fb1d8c9ac47d9f2e95dcee40/fb1d8c9ac47d9f2e95dcee40.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Striking-Rescue-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E2%80%8B-%E0%B8%8B%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81-2024-300x450.jpg" group-title="DOOMOVIES",Striking Rescue คนเดือดซัดนรก (2024)
-https://main.24playerhd.com/newplaylist/39c4722ac51bf2184f5dd67f/39c4722ac51bf2184f5dd67f.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%9B-300x450.png" group-title="DOOMOVIES",The Cursed Land (2024) แดนสาป
-https://main.24playerhd.com/newplaylist/fa689eda0ca1c83768b30cf3/fa689eda0ca1c83768b30cf3.m3u8
+#https://main.24playerhd.com/m3u8/2049b2b7c05193358600d233/2049b2b7c05193358600d233168.m3u8
 
 --------------------------------------------------------------------------------------
 ####DOOMSERIES####
 #EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Squid-Game-Season-2-2024-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-2-300x450.jpg" group-title="DOOMSERIES",Squid Game Season 2 (2024) สควิดเกม เล่นลุ้นตาย 2 EP1
-https://main.24playerhd.com/newplaylist/0eb21478795eb8a03e8c71ae/0eb21478795eb8a03e8c71ae.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Squid-Game-Season-2-2024-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-2-300x450.jpg" group-title="DOOMSERIES",Squid Game Season 2 (2024) สควิดเกม เล่นลุ้นตาย 2 EP2
-https://main.24playerhd.com/newplaylist/e92abb5db7d91e41e5143919/e92abb5db7d91e41e5143919.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Squid-Game-Season-2-2024-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-2-300x450.jpg" group-title="DOOMSERIES",Squid Game Season 2 (2024) สควิดเกม เล่นลุ้นตาย 2 EP3
-https://main.24playerhd.com/newplaylist/736bcab59de0cb6bfe9de415/736bcab59de0cb6bfe9de415.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Squid-Game-Season-2-2024-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-2-300x450.jpg" group-title="DOOMSERIES",Squid Game Season 2 (2024) สควิดเกม เล่นลุ้นตาย 2 EP4
-https://main.24playerhd.com/newplaylist/fe975506e49102057dca258a/fe975506e49102057dca258a.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Squid-Game-Season-2-2024-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-2-300x450.jpg" group-title="DOOMSERIES",Squid Game Season 2 (2024) สควิดเกม เล่นลุ้นตาย 2 EP5
-https://main.24playerhd.com/newplaylist/6dd9c3eb713faa401de82cdf/6dd9c3eb713faa401de82cdf.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Squid-Game-Season-2-2024-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-2-300x450.jpg" group-title="DOOMSERIES",Squid Game Season 2 (2024) สควิดเกม เล่นลุ้นตาย 2 EP6
-https://main.24playerhd.com/newplaylist/b0973fe6248bab4ddc6d3f48/b0973fe6248bab4ddc6d3f48.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Squid-Game-Season-2-2024-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-2-300x450.jpg" group-title="DOOMSERIES",Squid Game Season 2 (2024) สควิดเกม เล่นลุ้นตาย 2 EP7
-https://main.24playerhd.com/newplaylist/f52d2000e3679127a9a0e18f/f52d2000e3679127a9a0e18f.m3u8
-
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Tomorrow-and-I-2024-%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95-300x450.jpg" group-title="DOOMSERIES",Tomorrow and I (2024) อนาคต EP1
-https://main.24playerhd.com/newplaylist/95e0418ead4e1d56b26dd152/95e0418ead4e1d56b26dd152.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Tomorrow-and-I-2024-%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95-300x450.jpg" group-title="DOOMSERIES",Tomorrow and I (2024) อนาคต EP2
-https://main.24playerhd.com/newplaylist/6a9582983f859c04677f53da/6a9582983f859c04677f53da.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Tomorrow-and-I-2024-%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95-300x450.jpg" group-title="DOOMSERIES",Tomorrow and I (2024) อนาคต EP3
-https://main.24playerhd.com/newplaylist/3f1011265637a907f066e3f4/3f1011265637a907f066e3f4.m3u8
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Tomorrow-and-I-2024-%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95-300x450.jpg" group-title="DOOMSERIES",Tomorrow and I (2024) อนาคต EP4
-https://main.24playerhd.com/newplaylist/5d15aac43a8cb39de67be690/5d15aac43a8cb39de67be690.m3u8
-
+#https://main.24playerhd.com/newplaylist/0eb21478795eb8a03e8c71ae/0eb21478795eb8a03e8c71ae.m3u8
