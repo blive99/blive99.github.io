@@ -2463,6 +2463,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 
 ###music box###
 
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี", MONO29 Music Station
+http://45.144.165.223:9090/memfs/53c35834-e834-400c-98f8-479275bcfd44.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://w7.pngwing.com/pngs/758/128/png-transparent-television-channel-music-box-ua-streaming-television-others-television-emblem-text.png" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี",MUSIC BOX
 https://bestcommt2.github.io/m3u8/music%20box.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/JRrw8YxS/M2-ROCK.png" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี",M2rock HD
