@@ -67,7 +67,7 @@ http://45.144.165.223:9090/memfs/b312e2fa-74a8-41e3-9466-1beb5c9afda8.m3u8
 
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://d2duuy9yo5pldo.cloudfront.net/dashboard-resources/roviosupport/720/8d5278ae-fb5c-4373-b6e3-c6f0f6ae4ff9.webp",PlayID AngryBirds1
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://playid.ddnsgeek.com:8080/live/Natt/12345/19222.m3u8
+http://45.150.128.170:8080/live/Natt/12345/19222.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://d2duuy9yo5pldo.cloudfront.net/dashboard-resources/roviosupport/720/8d5278ae-fb5c-4373-b6e3-c6f0f6ae4ff9.webp",PlayID AngryBirds2
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://playid.ddnsgeek.com:8080/live/Natt/12345/19218.m3u8
@@ -100,7 +100,13 @@ http://45.144.165.187:8080/playidtv1/12345/17715
 http://45.144.165.187:8080/playidtv1/12345/11051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.150.128.170:8080/images/cb0880574c042710862bc5b02ff693c0.png" group-title="📺 PREMIUM PLAY TV",CONCERTS
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/18671
+http://45.150.128.170:8080/live/Natt/12345/18671.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg",PlayID ฟังเพลง
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+http://45.150.128.170:8080/live/Natt/12345/18676.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png",PlayID HITS THAI
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+http://45.150.128.170:8080/live/Natt/12345/76.m3u8
 
 --------------------------------------------------------------------------------------
 ###BallThai###
