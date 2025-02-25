@@ -103,7 +103,7 @@ http://45.144.165.187:8080/playidtv1/12345/11051
 http://45.150.128.170:8080/live/Natt/12345/18671.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg",PlayID ฟังเพลง
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.150.128.170:8080/live/Natt/12345/18676.m3u8
+http://playid.ddnsgeek.com:8080/live/Natt/12345/18676.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png",PlayID HITS THAI
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://45.150.128.170:8080/live/Natt/12345/76.m3u8
