@@ -2773,9 +2773,10 @@ https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
-#EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/%E0%B8%AB%E0%B8%AD%E0%B9%81%E0%B8%95%E0%B9%8B%E0%B8%A7%E0%B9%81%E0%B8%95%E0%B8%81-%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%94-Oh-My-Ghost-The-Finale-2024-300x450.jpg" group-title="DOOMOVIES",หอแต๋วแตก แหกสัปะหยด Oh My Ghost The Finale
-#https://main.24playerhd.com/m3u8/2049b2b7c05193358600d233/2049b2b7c05193358600d233168.m3u8
-
+#EXTINF:1 tvg-logo="https://irp.shirokami.me/vLgMeKcqJkyNxXT0xoQDS635_JPG_Wfc6jv8_FMipmc/rs:fill:220:330:1/g:no/aHR0cHM6Ly9pbWcuc2hpcm9rYW1pLm1lL2ltYWdlcy8yMDIzLzA3LzE0LzhkYjI1Y2M1OTk3ZDQ2YTg0YjU0ZGM3Y2RkZWFiMDQxLmpwZw.webp" group-title="DOOMOVIES",Dragon Ball Super Super Hero ดราก้อนบอลซูเปอร์ ซูเปอร์ฮีโร่
+https://files.akuma-player.xyz/files/99754ab6efd9c2393fd7ac2db720ac7e_1080p.txt
+#EXTINF:1 tvg-logo="https://irp.shirokami.me/WuJLqXIQLjl5qzzbl8hQse4dbcaU3s5sX62Vm820BN8/rs:fill:220:330:1/g:no/aHR0cHM6Ly9pbWcuc2hpcm9rYW1pLm1lL2ltYWdlcy8yMDIxLzEwLzA1L2ltYWdlMzBkZWY1Yzc0NjYxMWQ2MS5tZC5qcGc.webp" group-title="DOOMOVIES",Dragon Ball Z TheMovie ดราก้อนบอล แซด เดอะมูฟวี่ 12 ฟิวชั่นของโกคูและเบจิต้า พากย์ไทย
+https://files.akuma-player.xyz/files/b7e492c3a98a37c2211b8bd86292eed5_.txt
 --------------------------------------------------------------------------------------
 ####DOOMSERIES####
 #EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Squid-Game-Season-2-2024-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-2-300x450.jpg" group-title="DOOMSERIES",Squid Game Season 2 (2024) สควิดเกม เล่นลุ้นตาย 2 EP1
