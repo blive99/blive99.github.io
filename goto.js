@@ -73,31 +73,31 @@ http://45.150.128.170:8080/live/Natt/12345/19222.m3u8
 http://playid.ddnsgeek.com:8080/live/Natt/12345/19218.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/Q7vHFFZx/logo-iplay.png",IPLAY Media
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/37
+http://45.144.165.187:8080/playidtv1234567890/12345/37
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/17788
+http://45.144.165.187:8080/playidtv1234567890/12345/17788
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/zhx7GzP0/playidmov2.png", PlayID Movie 2
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/18833
+http://45.144.165.187:8080/playidtv1234567890/12345/18833
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PlayID สยองขวัญ
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/15672
+http://45.144.165.187:8080/playidtv1234567890/12345/15672
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV"tvg-id="" tvg-logo="https://i.ibb.co/nMygLJzn/Playidmov1.png",PlayID HITS2K
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/15675
+http://45.144.165.187:8080/playidtv1234567890/12345/15675
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png",PLAYTV MOVIE
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/11052
+http://45.144.165.187:8080/playidtv1234567890/12345/11052
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PlayID หนังไทย
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/live/playidtv1/12345/9198.m3u8
+http://45.144.165.187:8080/live/playidtv1234567890/12345/9198.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/x5LCMKZ/20250108-170408.png", PLAYIDTV เป็นต่อ
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/17715
+http://45.144.165.187:8080/playidtv1234567890/12345/17715
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/jZ7P3hJ/vvt.png",PlayID STREAM 2
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/11051
+http://45.144.165.187:8080/playidtv1234567890/12345/11051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.150.128.170:8080/images/cb0880574c042710862bc5b02ff693c0.png" group-title="📺 PREMIUM PLAY TV",CONCERTS
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://45.150.128.170:8080/live/Natt/12345/18671.m3u8
@@ -2224,10 +2224,10 @@ https://webhdrunns.iosplayer.ru/ddh2/premium775/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pjQFsZD9/true4k.png" group-title="8️⃣ ช่องกีฬา4K", ลิงค์จะเปิด แค่ เสาร์-อาทิตย์ หรือ มีแข่ง
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://playid.ddnsgeek.com:8080/live/Natt/12345/89.m3u8
-http://45.144.165.187:8080/live/playidtv1/12345/90.m3u8
+http://45.144.165.187:8080/live/playidtv1234567890/12345/90.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.144.165.187:8080/images/c40061e5636458fc9928a739a84fbeb3.png" group-title="8️⃣ ช่องกีฬา4K", True Premier Football 1
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/live/playidtv1/12345/18747.m3u8
+http://45.144.165.187:8080/live/playidtv1234567890/12345/18747.m3u8
 http://myserver.myphuket.net:25461/live/test1/test1/26.m3u8
 #https://github.com/user-attachments/assets/4f36ec6a-3679-47cb-ad78-dd0c6d217ecf
 
