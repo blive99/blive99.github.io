@@ -20,7 +20,7 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 ของฟรีกูเอามาแจก พวกมึงก็เอาแต่ก๊อป ดับสิรอไร
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://203.154.243.89:11001/izaa?m3u8
+http://49.0.64.96:8007/IZAA
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/H-Channel
@@ -45,12 +45,7 @@ http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png",Science
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/WSCI
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/pBHghpSx/237x0-icon.png",Superrix
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/Cinemachi
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/a7015e822ee44bbfed24ad119bc5b8bf.jpg",PlayID GAGS
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://googlestreamthai.sytes.net/images/6Nj6Zksh_mahxcpy7TqctVE0TFlqYrSYoh1HrfmSE9CTIFkGFAxg2hahLRWLP_R4qMELcmq3calJpzus7adTfqh3HJpFl_IJLweRQPHspSM.png" group-title="📺 PREMIUM PLAY TV",หนังเอเชีย เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
@@ -1318,7 +1313,7 @@ http://49.0.64.96:8007/GOLF
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/60kkgs2x/logo-HIFIGHT.png" group-title="6️⃣ ช่องกีฬา",HIFIGHT
 http://49.0.64.96:8007/HIFIGHT
 #EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-logo="https://img2.pic.in.th/pic/308864143_166781909281516_6364889195803126705_n.jpg", HiSports HD
-http://203.154.243.89:11001/hisport?m3u8
+http://49.0.64.96:8007/HiSports
 #EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-logo="https://i.ibb.co/tMGhSds1/logo-tennis-tv.png",Tennis HD
 http://49.0.64.96:8007/TENNIS
 #EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-logo="https://i.ibb.co/pgJmNNT/TOPFIGHT.png",Top Fight HD
@@ -2330,6 +2325,14 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 
 --------------------------------------------------------------------------------------
 ###MOVIETV###
+
+#EXTINF:-1 group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง"  tvg-logo="https://i.ibb.co/pBHghpSx/237x0-icon.png",Superrix
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/Cinemachi
+
+#EXTINF:-1 group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง"  tvg-id="" tvg-logo="http://45.150.128.170:8080/images/a7015e822ee44bbfed24ad119bc5b8bf.jpg",PlayID GAGS
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
 
 
 #EXTINF:-1  group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง" tvg-logo="https://i.imgur.com/pnbzE2V.png",Rama Channel
