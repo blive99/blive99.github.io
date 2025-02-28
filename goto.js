@@ -71,7 +71,7 @@ http://45.150.128.170:8080/live/Natt/12345/19222.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://d2duuy9yo5pldo.cloudfront.net/dashboard-resources/roviosupport/720/8d5278ae-fb5c-4373-b6e3-c6f0f6ae4ff9.webp",PlayID AngryBirds2
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://playid.ddnsgeek.com:8080/live/Natt/12345/19218.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/Q7vHFFZx/logo-iplay.png",IPLAY Media
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/d9e8f4e6e2dbbd77b9e9bb36e15aab22.png",IPLAY Media
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://45.144.165.187:8080/playidtv1234567890/12345/37
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
@@ -80,7 +80,7 @@ http://45.144.165.187:8080/playidtv1234567890/12345/17788
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/zhx7GzP0/playidmov2.png", PlayID Movie 2
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://45.144.165.187:8080/playidtv1234567890/12345/18833
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PlayID สยองขวัญ
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/71b7b337e2987e91fec8e799fe2841ef.jpg", PlayID สยองขวัญ
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://45.144.165.187:8080/playidtv1234567890/12345/15672
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV"tvg-id="" tvg-logo="https://i.ibb.co/nMygLJzn/Playidmov1.png",PlayID HITS2K
@@ -107,6 +107,9 @@ http://45.150.128.170:8080/live/Natt/12345/15676.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/fbf1d24f2e78c7abd99593125bd2ca47.png",PlayID HITS THAI
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://45.150.128.170:8080/live/Natt/12345/76.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/fbf1d24f2e78c7abd99593125bd2ca47.png",PlayID สารคดีไอที
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+http://45.150.128.170:8080/live/Natt/12345/11042.m3u8
 
 --------------------------------------------------------------------------------------
 ###BallThai###
