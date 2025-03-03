@@ -589,28 +589,28 @@ https://cdn1.googlecdnforstreaming.live/live/bein8/playlist.m3u8
 
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/nbatv/playlist.m3u8
+https://cdn1.googlecdnforstreaming.live/live/motogp/playlist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test2
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/golfchannel/playlist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test3
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/golf2/playlist.m3u8
+https://cdn1.googlecdnforstreaming.live/live/nba/playlist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test4
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/golf/playlist.m3u8
+https://cdn1.googlecdnforstreaming.live/live/volleyball1/playlist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test5
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/motovision/playlist.m3u8
+https://cdn1.googlecdnforstreaming.live/live/moodengnow/playlist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test6
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/truethaifilm/playlist.m3u8
+https://cdn1.googlecdnforstreaming.live/live/alure-channel/playlist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test7
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/motovision/playlist.m3u8
+https://cdn1.googlecdnforstreaming.live/live/truefilm1/playlist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/filmhd/playlist.m3u8
+https://cdn1.googlecdnforstreaming.live/live/truethaifilm/playlist.m3u8
 
 
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", TRUE Golf Channel
@@ -2813,9 +2813,8 @@ https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
 #EXTINF:1 tvg-logo="https://irp.shirokami.me/vLgMeKcqJkyNxXT0xoQDS635_JPG_Wfc6jv8_FMipmc/rs:fill:220:330:1/g:no/aHR0cHM6Ly9pbWcuc2hpcm9rYW1pLm1lL2ltYWdlcy8yMDIzLzA3LzE0LzhkYjI1Y2M1OTk3ZDQ2YTg0YjU0ZGM3Y2RkZWFiMDQxLmpwZw.webp" group-title="DOOMOVIES",Dragon Ball Super Super Hero ดราก้อนบอลซูเปอร์ ซูเปอร์ฮีโร่
-https://files.akuma-player.xyz/files/99754ab6efd9c2393fd7ac2db720ac7e_1080p.txt
-#EXTINF:1 tvg-logo="https://irp.shirokami.me/WuJLqXIQLjl5qzzbl8hQse4dbcaU3s5sX62Vm820BN8/rs:fill:220:330:1/g:no/aHR0cHM6Ly9pbWcuc2hpcm9rYW1pLm1lL2ltYWdlcy8yMDIxLzEwLzA1L2ltYWdlMzBkZWY1Yzc0NjYxMWQ2MS5tZC5qcGc.webp" group-title="DOOMOVIES",Dragon Ball Z TheMovie ดราก้อนบอล แซด เดอะมูฟวี่ 12 ฟิวชั่นของโกคูและเบจิต้า พากย์ไทย
-https://files.akuma-player.xyz/files/b7e492c3a98a37c2211b8bd86292eed5_.txt
+#https://files.akuma-player.xyz/files/99754ab6efd9c2393fd7ac2db720ac7e_1080p.txt
+
 --------------------------------------------------------------------------------------
 ####DOOMSERIES####
 #EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Squid-Game-Season-2-2024-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-2-300x450.jpg" group-title="DOOMSERIES",Squid Game Season 2 (2024) สควิดเกม เล่นลุ้นตาย 2 EP1
