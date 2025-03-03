@@ -587,6 +587,32 @@ https://cdn1.googlecdnforstreaming.live/live/bein7/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein8/playlist.m3u8
 
+#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test1
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/nbatv/playlist.m3u8
+#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test2
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/golfchannel/playlist.m3u8
+#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test3
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/golf2/playlist.m3u8
+#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test4
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/golf/playlist.m3u8
+#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test5
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/motovision/playlist.m3u8
+#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test6
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/truethaifilm/playlist.m3u8
+#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test7
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/motovision/playlist.m3u8
+#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test8
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/filmhd/playlist.m3u8
+
+
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", TRUE Golf Channel
 https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="true-tennis-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp", TRUE Tennis
