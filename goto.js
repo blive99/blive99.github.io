@@ -502,6 +502,10 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/nfl/playlist.m3u8
+#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="https://i.ibb.co/V0CqBx96/nba.png" ,NBATV
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/nba/playlist.m3u8
+
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -586,6 +590,13 @@ https://cdn1.googlecdnforstreaming.live/live/bein7/playlist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" ,BeinSportHD 8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein8/playlist.m3u8
+#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 9
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein9/playlist.m3u8
+#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp" ,BeinSportHD 10
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein10/playlist.m3u8
+
 
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -593,9 +604,7 @@ https://cdn1.googlecdnforstreaming.live/live/motogp/playlist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test2
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/golfchannel/playlist.m3u8
-#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test3
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/nba/playlist.m3u8
+
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="" ,test4
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/volleyball1/playlist.m3u8
