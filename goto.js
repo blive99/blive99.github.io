@@ -654,6 +654,8 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueBBCLIFESTYLE.m3u8
 #EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="4️⃣ ช่องทรูวิชั่น",TRUE Lifetime
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
+#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="4️⃣ ช่องทรูวิชั่น",True Asian Foon Channel
+https://bestcommt2.github.io/m3u8/true/trueasianfoonchannel.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="4️⃣ ช่องทรูวิชั่น",True AXN
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="4️⃣ ช่องทรูวิชั่น", TRUE HISTORY
@@ -1349,7 +1351,7 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/truesport6/th-sport/truesport7/chu
 
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp" group-title="6️⃣ ช่องกีฬา",Golf Channel Asian
-http://iptv12k.com:35461/live/654321/123456/651.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueGOLF.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/9HBJp44q/golf-ch.png" group-title="6️⃣ ช่องกีฬา",Golf Channel
 http://49.0.64.96:8007/GOLF
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/60kkgs2x/logo-HIFIGHT.png" group-title="6️⃣ ช่องกีฬา",HIFIGHT
@@ -1418,7 +1420,8 @@ https://sscsott.com/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
-
+#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/NHK-Logo.png" , NHK
+https://bestcommt2.github.io/m3u8/NHK.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ###กีฬาต่างประเทศ### 
