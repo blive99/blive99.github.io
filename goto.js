@@ -68,31 +68,31 @@ http://playid.ddnsgeek.com:8080/live/Natt/12345/19222.m3u8
 http://playid.ddnsgeek.com:8080/live/Natt/12345/19218.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/d9e8f4e6e2dbbd77b9e9bb36e15aab22.png",IPLAY Media
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
-http://45.144.165.187:8080/playidtv1234567890/12345/37
+http://45.144.165.187:8080/playidtv/12345/37
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
-http://45.144.165.187:8080/playidtv1234567890/12345/17788
+http://45.144.165.187:8080/playidtv/12345/17788
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/zhx7GzP0/playidmov2.png", PlayID Movie 2
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
-http://45.144.165.187:8080/playidtv1234567890/12345/18833
+http://45.144.165.187:8080/playidtv/12345/18833
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/71b7b337e2987e91fec8e799fe2841ef.jpg", PlayID สยองขวัญ
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
-http://45.144.165.187:8080/playidtv1234567890/12345/15672
+http://45.144.165.187:8080/playidtv/12345/15672
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV"tvg-id="" tvg-logo="https://i.ibb.co/nMygLJzn/Playidmov1.png",PlayID HITS2K
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
-http://45.144.165.187:8080/playidtv1234567890/12345/15675
+http://45.144.165.187:8080/playidtv/12345/15675
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png",PLAYTV MOVIE
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
-http://45.144.165.187:8080/playidtv1234567890/12345/11052
+http://45.144.165.187:8080/playidtv/12345/11052
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PlayID หนังไทย
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
-http://45.144.165.187:8080/playidtv1234567890/12345/9198.m3u8
+http://45.144.165.187:8080/playidtv/12345/9198.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/x5LCMKZ/20250108-170408.png", PLAYIDTV เป็นต่อ
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
-http://45.144.165.187:8080/playidtv1234567890/12345/17715
+http://45.144.165.187:8080/playidtv/12345/17715
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/jZ7P3hJ/vvt.png",PlayID STREAM 2
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
-http://45.144.165.187:8080/playidtv1234567890/12345/11051
+http://45.144.165.187:8080/playidtv/12345/11051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.150.128.170:8080/images/cb0880574c042710862bc5b02ff693c0.png" group-title="📺 PREMIUM PLAY TV",CONCERTS
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
 http://45.150.128.170:8080/live/Natt/12345/18671.m3u8
