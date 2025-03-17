@@ -2326,10 +2326,12 @@ https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png" group-title="9️⃣ ช่องการ์ตูน",Zoo Moo (1080p)
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="9️⃣ ช่องการ์ตูน" tvg-logo="https://i.ibb.co/XrbX1w1X/favpng-babytv-enchanted-babyfirsttv-television-logo.png",BabyTV
+http://185.189.225.150:85/BabyTV/index.m3u8
+#EXTINF:-1 group-title="9️⃣ ช่องการ์ตูน" tvg-logo="https://i.ibb.co/TxmtLxqQ/pngegg.png",BabyFirst.us
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
 
-#EXTINF:-1 group-title="9️⃣ ช่องการ์ตูน" tvg-logo="https://i.ytimg.com/vi/Zn1yvsGD-TU/maxresdefault.jpg",BabyBus
-#https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8
 #EXTINF:-1 group-title="9️⃣ ช่องการ์ตูน"   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVfKsOCHZW1jzOsGZydivGZP2ZDwROxtPdWQ&usqp=CAU",Disney Junior NO 24/7
 #https://livestream.zazerconer.workers.dev/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8
 #EXTINF:-1 group-title="9️⃣ ช่องการ์ตูน" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbxe5sIiySX5-PgYL5nGo334cNGlHE8D4EQ&usqp=CAU" ,BabyBus - Kids Songs and Cartoons
@@ -2377,9 +2379,9 @@ https://bestcommt2.github.io/m3u8/amc.m3u8
 #EXTINF:-1  group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง" tvg-logo="https://i.ibb.co/Kj8xx5xY/image.png",fyi
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://bestcommt2.github.io/m3u8/fyi.m3u8
-#EXTINF:-1  group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg",E!
+#EXTINF:-1  group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง" tvg-logo="https://i.ibb.co/C58Zc0bx/E.png",E!
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://bestcommt2.github.io/m3u8/E!.m3u8
+http://185.236.229.62:9981/play/a03j
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR FILM HD" tvg-logo="https://i.ibb.co/xK8W9pQn/my-movie-1.png" group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง" , Mov 1
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/movie1.m3u8
@@ -2500,8 +2502,12 @@ http://49.0.64.96:8007/M2ROCK
 http://49.0.64.96:8007/M4JAZZ
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/GQBG7k8D/M6-country.png" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี",M6country HD
 http://49.0.64.96:8007/M6COUNTRY
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี",MTV
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี",MTV UK
 http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/422.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/XfqdPGcV/kisspng-viacom-media-networks-television-channel-mtv-live-lam-radio-hd-5b3af928812e35-20983841153059.png" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี",MTV LIVE US
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/xSLWNbLz/kisspng-logo-viacom-media-networks-mtv-television-graphic-mtv-logo-5b3724b452b681-064230281530340532.png" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี",MTV US
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98471110cca20007d39f76/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b53-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=81574af2-8af4-46c8-8d63-00cbea99cbf5
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี",RetroMusicTV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/nrWNyLc.jpeg" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี",OckoGold
@@ -2573,14 +2579,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 #EXTINF:-0 tvg-id="HGTV" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo-500x281.png" group-title="1️⃣ 2️⃣ ช่องสารคดี",National Geographic
 http://185.189.225.150:85/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6JshDmB/geo-wild.png" group-title="1️⃣ 2️⃣ ช่องสารคดี",Nat Geo Wild
-https://bestcommt2.github.io/m3u8/Nat%20Geo%20Wild.m3u8
+http://185.236.229.62:9981/play/a05z
 #EXTINF:-1 group-title="1️⃣ 2️⃣ ช่องสารคดี" tvg-id="discoveryturbouk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
 https://bestcommt2.github.io/m3u8/Discovery%20Turbo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/512px-Discovery_Science_-_Logo_2012.svg.png" group-title="1️⃣ 2️⃣ ช่องสารคดี", Discovery science
 http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/72.m3u8
 
 #EXTINF:-1 group-title="1️⃣ 2️⃣ ช่องสารคดี" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature 4K(EN)
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-0 tvg-id="OUTDOOR" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Outdoor_Channel_logo_2007-2017.svg/1200px-Outdoor_Channel_logo_2007-2017.svg.png" group-title="1️⃣ 2️⃣ ช่องสารคดี",OUTDOOR
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
