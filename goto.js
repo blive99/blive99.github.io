@@ -16,8 +16,55 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 https://ctrl.laotv.la/live/WWE/manifest.mpd
 
 --------------------------------------------------------------------------------------
+###VIP SPORT###
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch1.webp" group-title="📺 VIP SPORT", TRUE PREMIER FOOTBALL HD 1
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/1/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+https://keela2.com/stream/6/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch2.webp" group-title="📺 VIP SPORT", TRUE PREMIER FOOTBALL HD 2
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/2/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+https://keela2.com/stream/7/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch3.webp" group-title="📺 VIP SPORT", TRUE PREMIER FOOTBALL HD 3
+#EXTVLCOPT:http-referrer=https://keela2.com	
+https://keela2.com/stream/3/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch4.webp" group-title="📺 VIP SPORT", TRUE PREMIER FOOTBALL HD 4
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/4/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch5.webp" group-title="📺 VIP SPORT", TRUE PREMIER FOOTBALL HD 5
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/5/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png" group-title="📺 VIP SPORT",TRUE SPORT 1
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/16/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 2
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/17/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 3
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/18/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 4
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/19/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 5
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/20/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 7
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/21/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="📺 VIP SPORT",beIN SPORT 1
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/8/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch7.png" group-title="📺 VIP SPORT",beIN SPORT 2
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/9/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch8.png" group-title="📺 VIP SPORT",beIN SPORT 3
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/10/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+
+--------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
-ของฟรีกูเอามาแจก พวกมึงก็เอาแต่ก๊อป ดับสิรอไร
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/IZAA
