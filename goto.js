@@ -146,16 +146,16 @@ http://45.144.165.187:8080/playidtv/1234/17715
 http://45.144.165.187:8080/playidtv/1234/11051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.150.128.170:8080/images/cb0880574c042710862bc5b02ff693c0.png" group-title="📺 PREMIUM PLAY TV",CONCERTS
 #EXTVLCOPT:http-user-agent=playidtv24
-http://45.150.128.170:8080/live/ott168/ott168/18671.m3u8
+http://playid.ddnsgeek.com:8080/live/Natt/12345/18671.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg",PlayID ฟังเพลง
 #EXTVLCOPT:http-user-agent=playidtv24
-http://45.150.128.170:8080/live/ott168/ott168/15676.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/fbf1d24f2e78c7abd99593125bd2ca47.png",PlayID HITS THAI
+http://playid.ddnsgeek.com:8080/live/Natt/12345/15676.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/fbf1d24f2e78c7abd99593125bd2ca47.png",PlayID BlockBuster
 #EXTVLCOPT:http-user-agent=playidtv24
-http://45.150.128.170:8080/live/ott168/ott168/76.m3u8
+http://playid.ddnsgeek.com:8080/live/Natt/12345/76.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/ced9d0c3b52aec27c156df1abd734622.png",PlayID สารคดีไอที
 #EXTVLCOPT:http-user-agent=playidtv24
-http://45.150.128.170:8080/live/ott168/ott168/11042.m3u8
+http://playid.ddnsgeek.com:8080/live/Natt/12345/11042.m3u8
 
 --------------------------------------------------------------------------------------
 ###BallThai###
