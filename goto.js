@@ -20,8 +20,8 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch1.webp" group-title="📺 VIP SPORT", TRUE PREMIER FOOTBALL HD 1
 #EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/1/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
-https://keela2.com/stream/6/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+https://keela2.com/stream/1/index.m3u8?token=mvFWafOIir5JDlQN
+https://keela2.com/stream/6/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch2.webp" group-title="📺 VIP SPORT", TRUE PREMIER FOOTBALL HD 2
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://keela2.com/stream/2/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
@@ -146,16 +146,16 @@ http://45.144.165.187:8080/playidtv/1234/17715
 http://45.144.165.187:8080/playidtv/1234/11051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.150.128.170:8080/images/cb0880574c042710862bc5b02ff693c0.png" group-title="📺 PREMIUM PLAY TV",CONCERTS
 #EXTVLCOPT:http-user-agent=playidtv24
-http://45.150.128.170:8080/live/Natt/1234/18671.m3u8
+http://45.150.128.170:8080/live/ott168/ott168/18671.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg",PlayID ฟังเพลง
 #EXTVLCOPT:http-user-agent=playidtv24
-http://45.150.128.170:8080/live/Natt/1234/15676.m3u8
+http://45.150.128.170:8080/live/ott168/ott168/15676.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/fbf1d24f2e78c7abd99593125bd2ca47.png",PlayID HITS THAI
 #EXTVLCOPT:http-user-agent=playidtv24
-http://45.150.128.170:8080/live/Natt/1234/76.m3u8
+http://45.150.128.170:8080/live/ott168/ott168/76.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/ced9d0c3b52aec27c156df1abd734622.png",PlayID สารคดีไอที
 #EXTVLCOPT:http-user-agent=playidtv24
-http://45.150.128.170:8080/live/Natt/1234/11042.m3u8
+http://45.150.128.170:8080/live/ott168/ott168/11042.m3u8
 
 --------------------------------------------------------------------------------------
 ###BallThai###
