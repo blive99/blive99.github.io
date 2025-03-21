@@ -65,6 +65,25 @@ https://keela2.com/stream/10/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FWMOV
+#EXTVLCOPT:http-user-agent=fuckid
+https://bestcommt2.github.io/m3u8/FWMOV.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg",FWSOV
+#EXTVLCOPT:http-user-agent=fuckid
+https://bestcommt2.github.io/m3u8/FWSOV.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg",FWTOON
+#EXTVLCOPT:http-user-agent=fuckid
+https://bestcommt2.github.io/m3u8/FWTOON.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg",FWDOC
+#EXTVLCOPT:http-user-agent=fuckid
+https://bestcommt2.github.io/m3u8/FWDOC.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240421225339%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",FWวัวชน
+#EXTVLCOPT:http-user-agent=fuckid
+https://bestcommt2.github.io/m3u8/FW%E0%B8%A7%E0%B8%B1%E0%B8%A7%E0%B8%8A%E0%B8%99.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240528173456FARMTV.jpg",FWอีสานทีวี
+#EXTVLCOPT:http-user-agent=fuckid
+https://bestcommt2.github.io/m3u8/FWISSANTV.m3u8
+
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/IZAA
@@ -2293,11 +2312,11 @@ https://webhdrunns.iosplayer.ru/ddh2/premium775/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pjQFsZD9/true4k.png" group-title="8️⃣ ช่องกีฬา4K", ลิงค์จะเปิด แค่ เสาร์-อาทิตย์ หรือ มีแข่ง
 #EXTVLCOPT:http-user-agent=playidtv24
-http://playid.ddnsgeek.com:8080/live/Natt/1234/89.m3u8
-http://playid.ddnsgeek.com:8080/live/Natt/1234/90.m3u8
+http://playid.ddnsgeek.com:8080/live/Natt/12345/89.m3u8
+http://playid.ddnsgeek.com:8080/live/Natt/12345/90.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.144.165.187:8080/images/c40061e5636458fc9928a739a84fbeb3.png" group-title="8️⃣ ช่องกีฬา4K", True Premier Football 1
 #EXTVLCOPT:http-user-agent=playidtv24
-http://playid.ddnsgeek.com:8080/live/Natt/1234/18747.m3u8
+http://playid.ddnsgeek.com:8080/live/Natt/12345/18747.m3u8
 http://myserver.myphuket.net:25461/live/test1/test1/26.m3u8
 #https://github.com/user-attachments/assets/4f36ec6a-3679-47cb-ad78-dd0c6d217ecf
 
