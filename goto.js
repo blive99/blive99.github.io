@@ -75,6 +75,12 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg",FWTOON
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg" group-title="📺 PREMIUM PLAY TV", FWDOC
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213640FWsport.jpg" group-title="📺 PREMIUM PLAY TV", FWSPORT
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=
 
 
 
@@ -706,15 +712,16 @@ https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="true-tennis-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp", TRUE Tennis
 https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
-http://myserver.myphuket.net:25461/live/test1/test1/55.m3u8
+http://playid-stream.zapto.org:9092/memfs/7d7e6a62-1bae-4bc4-b1ba-8353475b2a52.m3u8
+
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-http://myserver.myphuket.net:25461/live/test1/test1/56.m3u8
+http://playid-stream.zapto.org:9092/memfs/340c5e4e-3cad-4f47-923a-798bdd74e113.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
+http://playid-stream.zapto.org:9092/memfs/880779d1-fabe-44a3-8b43-f18fa788325a.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
+http://playid-stream.zapto.org:9092/memfs/3e5a07de-7f34-4a16-a747-90f5c84d2c53.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="4️⃣ ช่องทรูวิชั่น",True Film Asia
