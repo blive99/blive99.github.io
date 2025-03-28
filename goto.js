@@ -68,13 +68,14 @@ https://keela2.com/stream/10/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FWMOV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://bestcommt2.github.io/m3u8/FWMOV.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg",FWSOV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://bestcommt2.github.io/m3u8/FWSOV.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg",FWTOON
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://bestcommt2.github.io/m3u8/FWTOON.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+
 
 
 
@@ -160,7 +161,7 @@ http://playid.ddnsgeek.com:8080/Natt/12345/19389
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FW MOVIE
 #EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
 http://45.144.165.187:8080/playidtv/12345/11051
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FW SOV
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg",FW SOV
 #EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
 http://45.144.165.187:8080/playidtv/12345/22885
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/t3xtr8Q/20241120-191736.png",PlayID การ์ตูน ชาแนล
