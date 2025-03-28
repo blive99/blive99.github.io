@@ -134,53 +134,66 @@ http://45.144.165.223:9090/memfs/53c35834-e834-400c-98f8-479275bcfd44.m3u8
 
 
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://d2duuy9yo5pldo.cloudfront.net/dashboard-resources/roviosupport/720/8d5278ae-fb5c-4373-b6e3-c6f0f6ae4ff9.webp",PlayID AngryBirds1
-#EXTVLCOPT:http-user-agent=playidtv24
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
 http://playid.ddnsgeek.com:8080/live/Natt/1234/19222.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://d2duuy9yo5pldo.cloudfront.net/dashboard-resources/roviosupport/720/8d5278ae-fb5c-4373-b6e3-c6f0f6ae4ff9.webp",PlayID AngryBirds2
-#EXTVLCOPT:http-user-agent=playidtv24
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
 http://playid.ddnsgeek.com:8080/live/Natt/1234/19218.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/d9e8f4e6e2dbbd77b9e9bb36e15aab22.png",IPLAY Media
-#EXTVLCOPT:http-user-agent=playidtv24
-http://45.144.165.187:8080/playidtv/1234/37
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/37
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/5fde65ec0167bcf8129661c2efda8a6f.png",FW MOV
-#EXTVLCOPT:http-user-agent=playidtv24
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
 http://playid.ddnsgeek.com:8080/Natt/12345/19389
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FW MOVIE
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/11051
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FW SOV
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/22885
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/t3xtr8Q/20241120-191736.png",PlayID การ์ตูน ชาแนล
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/11041
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/jZ7P3hJ/vvt.png", PLAYID MOV2
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/17238
+
 
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
-#EXTVLCOPT:http-user-agent=playidtv24
-http://45.144.165.187:8080/playidtv/1234/17788
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/17788
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/zhx7GzP0/playidmov2.png", PlayID Movie 2
-#EXTVLCOPT:http-user-agent=playidtv24
-http://45.144.165.187:8080/playidtv/1234/18833
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/18833
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/71b7b337e2987e91fec8e799fe2841ef.jpg", PlayID สยองขวัญ
-#EXTVLCOPT:http-user-agent=playidtv24
-http://45.144.165.187:8080/playidtv/1234/15672
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/15672
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV"tvg-id="" tvg-logo="https://i.ibb.co/nMygLJzn/Playidmov1.png",PlayID HITS2K
-#EXTVLCOPT:http-user-agent=playidtv24
-http://45.144.165.187:8080/playidtv/1234/15675
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/15675
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png",PLAYTV MOVIE
-#EXTVLCOPT:http-user-agent=playidtv24
-http://45.144.165.187:8080/playidtv/1234/11052
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/11052
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PlayID หนังไทย
-#EXTVLCOPT:http-user-agent=playidtv24
-http://45.144.165.187:8080/playidtv/1234/9198.m3u8
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/9198.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/x5LCMKZ/20250108-170408.png", PLAYIDTV เป็นต่อ
-#EXTVLCOPT:http-user-agent=playidtv24
-http://45.144.165.187:8080/playidtv/1234/17715
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/17715
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/jZ7P3hJ/vvt.png",PlayID STREAM 2
-#EXTVLCOPT:http-user-agent=playidtv24
-http://45.144.165.187:8080/playidtv/1234/11051
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
+http://45.144.165.187:8080/playidtv/12345/11051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.150.128.170:8080/images/cb0880574c042710862bc5b02ff693c0.png" group-title="📺 PREMIUM PLAY TV",CONCERTS
-#EXTVLCOPT:http-user-agent=playidtv24
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
 http://playid.ddnsgeek.com:8080/live/Natt/12345/18671.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg",PlayID ฟังเพลง
-#EXTVLCOPT:http-user-agent=playidtv24
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
 http://playid.ddnsgeek.com:8080/live/Natt/12345/15676.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/fbf1d24f2e78c7abd99593125bd2ca47.png",PlayID BlockBuster
-#EXTVLCOPT:http-user-agent=playidtv24
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
 http://playid.ddnsgeek.com:8080/live/Natt/12345/76.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/ced9d0c3b52aec27c156df1abd734622.png",PlayID สารคดีไอที
-#EXTVLCOPT:http-user-agent=playidtv24
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
 http://playid.ddnsgeek.com:8080/live/Natt/12345/11042.m3u8
 
 --------------------------------------------------------------------------------------
@@ -2365,11 +2378,11 @@ https://webhdrunns.iosplayer.ru/ddh2/premium775/mono.m3u8
 ###8️⃣ ช่องกีฬา4K###
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pjQFsZD9/true4k.png" group-title="8️⃣ ช่องกีฬา4K", ลิงค์จะเปิด แค่ เสาร์-อาทิตย์ หรือ มีแข่ง
-#EXTVLCOPT:http-user-agent=playidtv24
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
 http://playid.ddnsgeek.com:8080/live/Natt/12345/89.m3u8
 http://playid.ddnsgeek.com:8080/live/Natt/12345/90.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.144.165.187:8080/images/c40061e5636458fc9928a739a84fbeb3.png" group-title="8️⃣ ช่องกีฬา4K", True Premier Football 1
-#EXTVLCOPT:http-user-agent=playidtv24
+#EXTVLCOPT:http-user-agent=https://iptv2.playid.workers.dev
 http://playid.ddnsgeek.com:8080/live/Natt/12345/18747.m3u8
 http://myserver.myphuket.net:25461/live/test1/test1/26.m3u8
 #https://github.com/user-attachments/assets/4f36ec6a-3679-47cb-ad78-dd0c6d217ecf
