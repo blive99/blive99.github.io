@@ -66,6 +66,18 @@ https://keela2.com/stream/10/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
 
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FWMOV
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://bestcommt2.github.io/m3u8/FWMOV.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg",FWSOV
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://bestcommt2.github.io/m3u8/FWSOV.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg",FWTOON
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://bestcommt2.github.io/m3u8/FWTOON.m3u8
+
+
+
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/IZAA
@@ -2441,7 +2453,8 @@ https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
 
 #EXTINF:-1 group-title="9️⃣ ช่องการ์ตูน" tvg-logo="https://i.ibb.co/RpQdDxCS/logo-boom-ANIME.png",BOOM ANIME
 https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png" group-title="9️⃣ ช่องการ์ตูน",boomerang
+https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
 
 
@@ -2454,8 +2467,7 @@ https://warningfm.github.io/v3/live/str/Kids/20e3acedb66331e.m3u8
 #EXTINF:-1 tvg-id="cartoonclub.iptv36.my.to" tvg-name="CARTOON CLUB" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png" group-title="9️⃣ ช่องการ์ตูน",CARTOON CLUB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png" group-title="9️⃣ ช่องการ์ตูน",boomerang
-https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="9️⃣ ช่องการ์ตูน",Pet Collective1
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
@@ -2755,8 +2767,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d
 -----------------------------------------------------------------------------------------------------------------------------------------
 ###สถานีทองถิ่นไทย### 
 
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cS149ckF/image.png" group-title="1️⃣ 3️⃣ ช่องสถานีทองถิ่นไทย", สถานีธรรม
-https://live.thaitvstream.com/play/wattasawang/index.m3u8
+
 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png" group-title="1️⃣ 3️⃣ ช่องสถานีทองถิ่นไทย", mounchontv
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
@@ -2939,6 +2950,27 @@ https://psiiptv-b.sky-cdn.com/v2h13-playlist/tracks-v1a1/mono.m3u8
 https://psiiptv-b.sky-cdn.com/v2h14-playlist/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/170_x_QsStd7nhyiNa84EJBvPcgDTCA0bI3xV1.jpg" group-title="MVTV", V2H15
 https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+###สถานีธรรม### 
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cS149ckF/image.png" group-title="ช่องคุณธรรม"", สถานีธรรม
+https://live.thaitvstream.com/play/wattasawang/index.m3u8
+
+#EXTINF:-1  group-title="ช่องคุณธรรม" tvg-logo="https://i.imgur.com/KvdFCD5.png",บุญนิยมทีวี
+http://live.boonniyom.tv/live/bntvhd.m3u8
+
+#EXTINF:-1  group-title="ช่องคุณธรรม" tvg-logo="https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png",SBB TV
+http://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist.m3u8
+
+#EXTINF:-1  group-title="ช่องคุณธรรม" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/logo-GBN-small1.png",GBN
+https://live1.gbnus.com/live/dhamma_high/playlist.m3u8
+ 
+#EXTINF:-1  group-title="ช่องคุณธรรม" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Thattachivo.png",หลวงพ่อทัตตชีโว
+https://live.zoom072.com/ch5/ch5.m3u8
+https://live.zoom072.com/ch6/ch6.m3u8
+https://live.zoom072.com/ch8/ch8.m3u8
+https://live.zoom072.com/ch9/ch9.m3u8
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
