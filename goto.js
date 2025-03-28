@@ -62,7 +62,15 @@ https://keela2.com/stream/9/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch8.png" group-title="📺 VIP SPORT",beIN SPORT 3
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://keela2.com/stream/10/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
-
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 1
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 5
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/26/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 8
+#EXTVLCOPT:http-referrer=https://keela2.com
+https://keela2.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
 
@@ -1541,7 +1549,7 @@ http://185.189.225.150:85/Eurosport1/index.m3u8
 http://185.189.225.150:85/Eurosport2/index.m3u8
 
 #EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="" tvg-logo="https://i.ibb.co/tTqXqqrf/espn.png" , ESPN
-https://super-cdn.link/espn/index.m3u8
+https://keela2.com/stream/33/index.m3u8?token=mvFWafOIir5JDlQN
 
 #EXTINF:-1  group-title="6️⃣ ช่องกีฬา" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250213_081044.png",One Golf HD
 https://sscsott.com/pk/ONEGOLF/tracks-v1a1/mono.m3u8
@@ -2982,16 +2990,30 @@ https://live.zoom072.com/ch9/ch9.m3u8
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
-#EXTINF:1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/03/In-Youth-We-Trust-2024-%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1-2544-1-187x269.png" group-title="DOOMOVIES",In Youth We Trust (2024) วัยหนุ่ม 2544
-https://main.24playerhd.com/newplaylist/3e6a3afc76304b960592fe44/3e6a3afc76304b960592fe44.m3u8
-#EXTINF:1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/03/Pha-Dam-Kham-Ai-2024-%E0%B8%9C%E0%B8%B2%E0%B8%94%E0%B8%B3%E0%B8%84%E0%B8%B3%E0%B9%84%E0%B8%AD%E0%B9%88-%E0%B8%8B%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%A5%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-187x269.png" group-title="DOOMOVIES",Pha Dam Kham Ai (2024) ผาดำคำไอ่ ซินเดอเรลล่าสตอรี่
-https://main.24playerhd.com/newplaylist/48ca4d681e46023c9bdb4a21/48ca4d681e46023c9bdb4a21.m3u8
-#EXTINF:1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/03/Popeyes-Revenge-2025-187x269.png" group-title="DOOMOVIES",Popeye’s Revenge (2025)
-https://main.24playerhd.com/newplaylist/58dc80e25e94e1e71f132d9c/58dc80e25e94e1e71f132d9c.m3u8
-#EXTINF:1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/03/Snow-White-2025-%E0%B8%AA%E0%B9%82%E0%B8%99%E0%B8%A7%E0%B9%8C%E0%B9%84%E0%B8%A7%E0%B8%97%E0%B9%8C-187x269.png" group-title="DOOMOVIES",Snow White (2025) สโนว์ไวท์
-https://main.24playerhd.com/newplaylist/07be783170a4c3cc0a11a862/07be783170a4c3cc0a11a862.m3u8
-#EXTINF:1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/03/Attack-on-Titan-the-Movie-The-Last-Attack-2024-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B1%E0%B8%99-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B9%E0%B9%88%E0%B9%82%E0%B8%88%E0%B8%A1%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2-1-187x269.png" group-title="DOOMOVIES",Attack on Titan the Movie The Last Attack (2024) ผ่าพิภพไททัน การจู่โจม
-https://main.24playerhd.com/newplaylist/61ebdb46fa801fe06f104c29/61ebdb46fa801fe06f104c29.m3u8
+#EXTINF:1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Captain-America-Brave-New-World-2025-%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99-%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-187x269.png" group-title="DOOMOVIES",Captain America Brave New World (2025) กัปตัน อเมริกา ศึกฮีโร่จักรวาล
+https://main.24playerhd.com/newplaylist/976de590c63cbb55c5428776/976de590c63cbb55c5428776.m3u8
+#EXTINF:1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Police-Modify-2024-%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94-1-187x269.png" group-title="DOOMOVIES",Police Modify (2024) ตำรวจแต่ง กำเนิดผู้พิทักษ์สันติหลุด
+https://main.24playerhd.com/newplaylist/d4fa5354e4f21374b8af5cfe/d4fa5354e4f21374b8af5cfe.m3u8
+#EXTINF:1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Dangerous-Boys-2-2024-%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%87-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%87%E0%B8%82%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B9%89%E0%B8%99-2-1-187x269.png" group-title="DOOMOVIES",Dangerous Boys 2 (2024) วัยเป้ง นักเลงขาสั้น 2
+https://m1free.inwstream.com:1936/movie4/Dangerous_Boys_2_2024/Dangerous_Boys_2_2024_th_1080.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250123171544mfqG71zWNX7q9ovhZ8zleLk24dm.jpg" group-title="" ,ศึกค้างคาวกินกล้วย Bat War (2024)
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Bat_War_2024/Bat_War_2024_th_1080.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240801001430MV5BZDZmOTg0ZDEtZDUyYS00OGNlLWFiMGItMGM4MjA0N2U1ZWRmXkEyXkFqcGdeQXVyNTE4NDk0NQ@@._V1_FMjpg_UX1000_.jpg" group-title="" ,เหมรฺย Cursed (The Promised) (2024)
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Cursed_2024/Cursed_2024_th_1080.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240725103017cutKmiY2waSRKvVVChIoQOEt4Xn.jpg" group-title="" ,พี่นาค 4 Pee Nak 4 (2024)
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Pee_Nak_4_2024/Pee_Nak_4_2024_TH_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202204120639419EGdwfRqzcKEWeU7R19gtfSAhS4.jpg" group-title="DOOMOVIES" ,สตรีเหล็กตบโลกแตก Iron Ladies Roar! (2014)
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Iron_Ladies_Roar_2014/Iron_Ladies_Roar_2014_th_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220412063803yzCH15v1mGWSl4npzBGoEU1YpoA.jpg" group-title="DOOMOVIES" ,สตรีเหล็ก 2 The Iron Ladies 2 (2003)
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/The_Iron_Ladies_2_2003/The_Iron_Ladies_2_2003_th_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200116161711Iron Ladies  สตรีเหล็ก [ 1-2 ].jpg" group-title="DOOMOVIES" ,สตรีเหล็ก The Iron Ladies (2000)
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/The_Iron_Ladies_2000/The_Iron_Ladies_2000_th_1080p.mp4/playlist.m3u8
 --------------------------------------------------------------------------------------
 ####DOOMSERIES####
 #EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Squid-Game-Season-2-2024-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-2-300x450.jpg" group-title="DOOMSERIES",Squid Game Season 2 (2024) สควิดเกม เล่นลุ้นตาย 2 EP1
