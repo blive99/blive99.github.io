@@ -3037,6 +3037,15 @@ https://m1free.inwstream.com:1936/movie3/The_Iron_Ladies_2000/The_Iron_Ladies_20
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250404060436z2TWhTRFzriygLygsjTbIHFYcQW.jpg" group-title="DOOMOVIES" ,404 สุขีนิรันดร์..Run Run 404 Run Run (2024)
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://m1free.inwstream.com:1936/movie4/404_Run_Run_2024/404_Run_Run_2024_th_1080.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://22-hd.com/wp-content/uploads/2025/04/The-Red-Envelope.webp" group-title="DOOMOVIES" ,ซองแดงแต่งผี (2025) The Red Envelope
+#EXTVLCOPT:http-referrer=https://22-hd.com/
+https://m5-txt-2.xdomovie247.com/playlist2/detail/c1ae522atnkYV/1080/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250418161507i7ptvi9Y5PFXVxCSbMyjcYEFOhU.jpg" group-title="DOOMOVIES" ,ผู้บ่าวนิกะห์ Isan Nikah (2024)
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Isan_Nikah_2024/Isan_Nikah_2024_th_1080.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250313231052yKnyTo3iHFFfEWLigzNhrysrvWb.jpg" group-title="DOOMOVIES" ,Rider (2024) ไรเดอร์
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie4/Rider_2024/Rider_2024_th_1080_F.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/04/A-Minecraft-Movie-2025-%E0%B9%84%E0%B8%A1%E0%B8%99%E0%B9%8C%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B8%95%E0%B9%8C-%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-187x269.png" group-title="DOOMOVIES" ,A Minecraft Movie (2025) ไมน์คราฟต์ มูฟวี่
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://m1free.inwstream.com:1936/movie4/A_Minecraft_Movie_2025/A_Minecraft_Movie_2025_thr_v1.mp4/playlist.m3u8
