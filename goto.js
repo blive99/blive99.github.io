@@ -140,13 +140,13 @@ http://49.0.64.96:8007/Animal
 http://49.0.64.96:8007/WSCI
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://googlestreamthai.sytes.net/images/6Nj6Zksh_mahxcpy7TqctVE0TFlqYrSYoh1HrfmSE9CTIFkGFAxg2hahLRWLP_R4qMELcmq3calJpzus7adTfqh3HJpFl_IJLweRQPHspSM.png" group-title="📺 PREMIUM PLAY TV",หนังเอเชีย เครดิตช่อง Moo7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.144.165.223/logo/ent/asianmovie.png" group-title="📺 PREMIUM PLAY TV",หนังเอเชีย เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.223:9090/memfs/2d8a0d34-c005-45f6-9a20-85efe6186a0a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://googlestreamthai.sytes.net/images/hwEKphjWX_0D_67iyvpU5Sjjjt1grdWy_75PfZEoAeX3u4kmx_M4hSOWsmWvVvZnWiik65BP9U3QWoE_irvWmOvs_hiLlfGwXR9VmhOTuLLT4kjOV3AH3xNt8tmbKGwc.png" group-title="📺 PREMIUM PLAY TV",อินเตอร์  เครดิตช่อง Moo7
+http://43.229.132.25/play/llaazWdGdtU2loOXh8ITa0tGwx_vepfgXTKHzz1igag/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.144.165.223/logo/ent/intermovie.png" group-title="📺 PREMIUM PLAY TV",อินเตอร์  เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.223:9090/memfs/3ef36d57-1d43-4502-ba80-9453b3bcbf05.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/-Healthy-Care-Logo_20250129_020436_0000.png",หนังไทย เครดิตช่อง Moo7
+http://43.229.132.25/play/llaazWdGdtU2loOXh8ITa60UotQug4TAp3Dvkig3Nak/m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.144.165.223/logo/ent/thaimovie.png",หนังไทย เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.223:9090/memfs/bac4e40a-9545-4c92-b778-c2a836aeab0b.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/dsrnQMQb/Healthy-Care-Logo-20250129-020436-000022.png" , THAIMOVIES 2 เครดิตช่อง Moo7
