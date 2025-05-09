@@ -742,17 +742,17 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-http://moo7.myddns.me:9093/PLAYIDTV-TRUE-MOVIE-HIT/index.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
-http://moo7.myddns.me:9093/PLAYIDTV-TRUE-FILM-1/index.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
-http://moo7.myddns.me:9093/PLAYIDTV-TRUE-FILM-2/index.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
 #https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="4️⃣ ช่องทรูวิชั่น",True Film Asia
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
-#https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
 #EXTINF:-0 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="TrueExploreWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
 #EXTINF:-0 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
@@ -774,9 +774,9 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="4️⃣ ช่องทรูวิชั่น",TRUE DreamWorks 
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="4️⃣ ช่องทรูวิชั่น",TRUE SPARK PLAY
-#https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
+#ghttps://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
 #EXTINF:-0 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" ,TRUE Nickjr
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truenickjr.m3u8
 #EXTINF:-0 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
@@ -3049,3 +3049,5 @@ https://m1free.inwstream.com:1936/movie4/A_Minecraft_Movie_2025/A_Minecraft_Movi
 ####DOOMSERIES####
 #EXTINF:1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/12/Squid-Game-Season-2-2024-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-2-300x450.jpg" group-title="DOOMSERIES",Squid Game Season 2 (2024) สควิดเกม เล่นลุ้นตาย 2 EP1
 #https://main.24playerhd.com/newplaylist/0eb21478795eb8a03e8c71ae/0eb21478795eb8a03e8c71ae.m3u8
+
+
