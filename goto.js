@@ -772,7 +772,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
 #EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="4️⃣ ช่องทรูวิชั่น",TRUE Lifetime
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="4️⃣ ช่องทรูวิชั่น",True Asian Foon Channel
-#https://bestcommt2.github.io/m3u8/true/trueasianfoonchannel.m3u8
+https://bestcommt2.github.io/m3u8/true/trueasianfoonchannel.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="4️⃣ ช่องทรูวิชั่น",True AXN
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="4️⃣ ช่องทรูวิชั่น", TRUE HISTORY
@@ -782,7 +782,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="4️⃣ ช่องทรูวิชั่น",TRUE SPARK PLAY
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
-#ghttps://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
 #EXTINF:-0 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" ,TRUE Nickjr
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truenickjr.m3u8
 #EXTINF:-0 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
@@ -791,8 +791,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 #EXTVLCOPT:http-user-agent=adminplayidtv
 http://playid.ddnsgeek.com:8080/playid/playid/85
 #EXTINF:-0 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/d21b73078bd90d93f4000fa7e78b660c.png" ,TRUE ANIMALPLANET
-#EXTVLCOPT:http-user-agent=adminplayidtv
-http://playid.ddnsgeek.com:8080/playid/playid/44
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
 
 
@@ -2682,7 +2681,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 
 ###music box###
 
-
+#EXTINF:-1 tvg-id=""  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Thaichaiyo_2012.png" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี",ไทชัยโย
+https://live.thaichaiyo.tv/tcy/live-manifest.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://w7.pngwing.com/pngs/758/128/png-transparent-television-channel-music-box-ua-streaming-television-others-television-emblem-text.png" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี",MUSIC BOX
 https://bestcommt2.github.io/m3u8/music%20box.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/JRrw8YxS/M2-ROCK.png" group-title="1️⃣ 1️⃣ ช่องมิวสิคและดนตรี",M2rock HD
