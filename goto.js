@@ -18,10 +18,10 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 --------------------------------------------------------------------------------------
 ###VIP SPORT###
 
-#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv1.png" group-title="📺 VIP SPORT", TRUE PREMIER FOOTBALL HD 1
+#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv1.png" group-title="📺 VIP SPORT", VBTV 1
 #EXTVLCOPT:http-referrer=http://tvzaa.myftp.org/
 http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2F_fFIe4C7xjX_opxPplasA/m3u8
-#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv2.png" group-title="📺 VIP SPORT", TRUE PREMIER FOOTBALL HD 2
+#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv2.png" group-title="📺 VIP SPORT", VBTV 2
 #EXTVLCOPT:http-referrer=http://tvzaa.myftp.org/
 http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GWk7jgFdGl1hfeZKznSlgg/m3u8
 
