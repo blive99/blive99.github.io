@@ -18,12 +18,23 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 --------------------------------------------------------------------------------------
 ###VIP SPORT###
 
-#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv1.png" group-title="📺 VIP SPORT", VBTV 1
-#EXTVLCOPT:http-referrer=http://tvzaa.myftp.org/
+#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv1.png" group-title="📺 VIP SPORT", ,VOLLEYBALL VNL 1
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2F_fFIe4C7xjX_opxPplasA/m3u8
-#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv2.png" group-title="📺 VIP SPORT", VBTV 2
-#EXTVLCOPT:http-referrer=http://tvzaa.myftp.org/
+http://playid.ddnsgeek.com:8080/playid/playid/46764
+#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv2.png" group-title="📺 VIP SPORT", ,VOLLEYBALL VNL 2
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GWk7jgFdGl1hfeZKznSlgg/m3u8
+http://playid.ddnsgeek.com:8080/playid/playid/46765
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 3" tvg-logo="http://45.150.128.170:8080/images/b2a368bfaab18c94802261bbd436139d.png" group-title="ช่องถ่ายทอดกีฬา",VOLLEYBALL VNL 3
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://playid.ddnsgeek.com:8080/playid/playid/46773
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="http://45.150.128.170:8080/images/b2a368bfaab18c94802261bbd436139d.png" group-title="ช่องถ่ายทอดกีฬา",VOLLEYBALL VNL 4
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://playid.ddnsgeek.com:8080/playid/playid/46796
+#EXTINF:-1 tvg-id="6390" tvg-name="WWE" tvg-logo="http://45.150.128.170:8080/images/d3dd954c50df599b69e1d40946be583b.png" group-title="ทีวี ต่างประเทศ",WWE
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://playid.ddnsgeek.com:8080/playid/playid/15665
 
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch1.webp" group-title="📺 VIP SPORT", TRUE PREMIER FOOTBALL HD 1
 #EXTVLCOPT:http-referrer=https://keela2.com
@@ -761,6 +772,9 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://applive.foruiptv.asia/live/dootvlive/dootvfree/159.ts
+#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/c2ef52b768218af08c89371ea763dd71.png",True Asian Series
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://applive.foruiptv.asia/live/dootvlive/dootvfree/65.ts
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="4️⃣ ช่องทรูวิชั่น",True Film Asia
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
