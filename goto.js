@@ -26,13 +26,13 @@ http://playid.ddnsgeek.com:8080/playid/playid/46764
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GWk7jgFdGl1hfeZKznSlgg/m3u8
 http://playid.ddnsgeek.com:8080/playid/playid/46765
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 3" tvg-logo="http://45.150.128.170:8080/images/b2a368bfaab18c94802261bbd436139d.png" group-title="ช่องถ่ายทอดกีฬา",VOLLEYBALL VNL 3
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 3" tvg-logo="http://45.150.128.170:8080/images/b2a368bfaab18c94802261bbd436139d.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL 3
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/playid/playid/46773
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="http://45.150.128.170:8080/images/b2a368bfaab18c94802261bbd436139d.png" group-title="ช่องถ่ายทอดกีฬา",VOLLEYBALL VNL 4
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="http://45.150.128.170:8080/images/b2a368bfaab18c94802261bbd436139d.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL 4
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/playid/playid/46796
-#EXTINF:-1 tvg-id="6390" tvg-name="WWE" tvg-logo="http://45.150.128.170:8080/images/d3dd954c50df599b69e1d40946be583b.png" group-title="ทีวี ต่างประเทศ",WWE
+#EXTINF:-1 tvg-id="6390" tvg-name="WWE" tvg-logo="http://45.150.128.170:8080/images/d3dd954c50df599b69e1d40946be583b.png" group-title="📺 VIP SPORT",WWE
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/playid/playid/15665
 
