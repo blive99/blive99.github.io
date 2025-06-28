@@ -19,6 +19,7 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 ###VNL###
 
 #EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv1.png" group-title="📺 VNL SPORT", ,VOLLEYBALL VNL 1
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playid/playid/46764.m3u8
 #EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv2.png" group-title="📺 VNL SPORT", ,VOLLEYBALL VNL 2
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
@@ -32,6 +33,9 @@ http://playid.ddnsgeek.com:8080/live/playid/playid/46796.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL-A
 #EXTVLCOPT:http-user-agent=https://warpdooball.net/
 https://keela2.com/stream/59/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL-E
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://applive.foruiptv.asia:80/live/dootvlive/forudootvfree/246.ts
 #EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL-B
 #EXTVLCOPT:http-user-agent=https://dookeela.live/
 https://cdn1.googlecdn.live:443/lsfb/vbtv/chunks.m3u8
@@ -41,13 +45,17 @@ https://dolive.thaim3u.com/xstream/football-play-4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL-D
 #EXTVLCOPT:http-user-agent=https://dookeela.live/
 https://cdn1.googlecdn.live:443/lsfb/vix/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL-E
-#EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://applive.foruiptv.asia:80/live/dootvlive/forudootvfree/246.ts
+
 
 
 ###VIP SPORT###
 
+#EXTINF:-1 tvg-id="" tvg-name="Monomax Sports" tvg-logo="http://45.150.128.170:8080/images/3410ac5a9e6766f01307d7c0c81d7b3e.png" group-title="📺 VIP SPORT",Monomax Sports
+http://playid.ddnsgeek.com:8080/live/playid/playid/37371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax Rok Cup" tvg-logo="http://45.150.128.170:8080/images/62fa40e062b2efacfffef2704d97b87f.png" group-title="📺 VIP SPORT",MonoMax Rok Cup
+http://playid.ddnsgeek.com:8080/live/playid/playid/49811.m3u8
+#EXTINF:-1 tvg-id="76632" tvg-name="FIFA Club World Cup" tvg-logo="https://cms-images.acc.indazn.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1285022803&quality=50&w=750" group-title="ช่องถ่ายทอดกีฬา",FIFA Club World Cup
+http://playid.ddnsgeek.com:8080/live/playid/playid/46907.m3u8
 #EXTINF:-1 tvg-id="6390" tvg-name="WWE" tvg-logo="http://45.150.128.170:8080/images/d3dd954c50df599b69e1d40946be583b.png" group-title="📺 VIP SPORT",WWE
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playid/playid/15665.m3u8
@@ -285,6 +293,12 @@ http://playid.ddnsgeek.com:8080/live/playid/playid/46.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/89a3920e7788e11a3890934c2f45b808.png",PlayID ซีรีย์ละครไทย
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playid/playid/11055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="สปอยหนัง" tvg-logo="http://45.150.128.170:8080/images/78805a221a988e79ef3f42d7c5bfd418.jpg" group-title="ช่องพรีเมียม พิเศษ",สปอยหนัง
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://playid.ddnsgeek.com:8080/live/playid/playid/49810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFM" tvg-logo="http://45.150.128.170:8080/images/dd5ba6701c128db0278b5259eb5ccdfb.png" group-title="ช่องพรีเมียม พิเศษ",EFM
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://playid.ddnsgeek.com:8080/live/playid/playid/49801.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/0aaaa16e7e13e770bf95417d2337e0f9.png",Astro IQIYI
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playid/playid/37951.m3u8
@@ -793,7 +807,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
+http://playid.ddnsgeek.com:8080/live/playid/playid/44.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
@@ -803,7 +817,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
 http://applive.foruiptv.asia/live/dootvlive/forudootvfree/159.ts
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/c2ef52b768218af08c89371ea763dd71.png",True Asian Series
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/live/playid/playid/65
+http://playid.ddnsgeek.com:8080/live/playid/playid/65.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="4️⃣ ช่องทรูวิชั่น",True Film Asia
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
@@ -812,19 +826,16 @@ http://applive.foruiptv.asia/live/dootvlive/forudootvfree/162.ts
 #https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Explore Wild
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/live/playid/playid/49
+http://playid.ddnsgeek.com:8080/live/playid/playid/47616.m3u8
 #EXTINF:-0 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
 #EXTINF:-0 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-#http://playid.ddnsgeek.com:8080/live/playid/playid/51
+#http://playid.ddnsgeek.com:8080/live/playid/playid/51.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="4️⃣ ช่องทรูวิชั่น", True Crime+Investigation
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
-#EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/d21b73078bd90d93f4000fa7e78b660c.png", True Explore Sci
-#EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/live/playid/playid/44
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="4️⃣ ช่องทรูวิชั่น",BBCLifestyle
 #https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueBBCLIFESTYLE.m3u8
 #EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="4️⃣ ช่องทรูวิชั่น",TRUE Lifetime
@@ -847,7 +858,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truenickjr.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://applive.foruiptv.asia/live/dootvlive/forudootvfree/200.ts
+http://playid.ddnsgeek.com:8080/live/playid/playid/83.m3u8
 #EXTINF:-0 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/d21b73078bd90d93f4000fa7e78b660c.png" ,TRUE ANIMALPLANET
 #https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
