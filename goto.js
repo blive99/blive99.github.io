@@ -16,47 +16,46 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 https://ctrl.laotv.la/live/WWE/manifest.mpd
 
 --------------------------------------------------------------------------------------
-###VNL###
-
-#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv1.png" group-title="📺 VNL SPORT", ,VOLLEYBALL VNL 1
-#EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/live/playidtv/12345/46764.m3u8
-#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv2.png" group-title="📺 VNL SPORT", ,VOLLEYBALL VNL 2
-#EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/live/playidtv/12345/46765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 3" tvg-logo="http://45.150.128.170:8080/images/b2a368bfaab18c94802261bbd436139d.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL 3
-#EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/live/playidtv/12345/46773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="http://45.150.128.170:8080/images/b2a368bfaab18c94802261bbd436139d.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL 4
-#EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/live/playidtv/12345/46796.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL-A
-#EXTVLCOPT:http-user-agent=https://warpdooball.net/
-https://keela2.com/stream/59/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL-B
-#EXTVLCOPT:http-user-agent=https://keela2.com	
-https://keela2.com/stream/103/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL-C
-#EXTVLCOPT:http-user-agent=https://dookeela.live/
-https://dolive.thaim3u.com/xstream/football-play-4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL-D
-#EXTVLCOPT:http-user-agent=https://dookeela.live/
-https://cdn1.googlecdn.live:443/lsfb/vix/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL-E
-#EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://applive.foruiptv.asia:80/live/dootvlive/forudootvfree/246.ts
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VNL SPORT",VOLLEYBALL VNL-F
-#EXTVLCOPT:http-user-agent=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch7/chunks.m3u8
-
 
 ###VIP SPORT###
-
+#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv1.png" group-title="📺 VIP SPORT", ,VOLLEYBALL VNL 1
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://playid.ddnsgeek.com:8080/live/playidtv/12345/46764.m3u8
+#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv2.png" group-title="📺 VIP SPORT", ,VOLLEYBALL VNL 2
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://playid.ddnsgeek.com:8080/live/playidtv/12345/46765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 3" tvg-logo="http://45.150.128.170:8080/images/b2a368bfaab18c94802261bbd436139d.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL 3
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://playid.ddnsgeek.com:8080/live/playidtv/12345/46773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="http://45.150.128.170:8080/images/b2a368bfaab18c94802261bbd436139d.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL 4
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://playid.ddnsgeek.com:8080/live/playidtv/12345/46796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-A
+#EXTVLCOPT:http-user-agent=https://warpdooball.net/
+https://keela2.com/stream/59/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-B
+#EXTVLCOPT:http-user-agent=https://keela2.com	
+https://keela2.com/stream/103/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-C
+#EXTVLCOPT:http-user-agent=https://dookeela.live/
+https://dolive.thaim3u.com/xstream/football-play-4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-D
+#EXTVLCOPT:http-user-agent=https://dookeela.live/
+https://cdn1.googlecdn.live:443/lsfb/vix/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-E
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://applive.foruiptv.asia:80/live/dootvlive/forudootvfree/246.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-F
+#EXTVLCOPT:http-user-agent=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/ch7/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Monomax Sports" tvg-logo="http://45.150.128.170:8080/images/3410ac5a9e6766f01307d7c0c81d7b3e.png" group-title="📺 VIP SPORT",Monomax Sports
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/37371.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MonoMax Rok Cup" tvg-logo="http://45.150.128.170:8080/images/62fa40e062b2efacfffef2704d97b87f.png" group-title="📺 VIP SPORT",MonoMax Rok Cup
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/49811.m3u8
-#EXTINF:-1 tvg-id="76632" tvg-name="FIFA Club World Cup" tvg-logo="https://cms-images.acc.indazn.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1285022803&quality=50&w=750" group-title="ช่องถ่ายทอดกีฬา",FIFA Club World Cup
+#EXTINF:-1 tvg-id="76632" tvg-name="FIFA Club World Cup" tvg-logo="https://cms-images.acc.indazn.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1285022803&quality=50&w=750" group-title="📺 VIP SPORT",FIFA Club World Cup
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/46907.m3u8
 #EXTINF:-1 tvg-id="6390" tvg-name="WWE" tvg-logo="http://45.150.128.170:8080/images/d3dd954c50df599b69e1d40946be583b.png" group-title="📺 VIP SPORT",WWE
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
