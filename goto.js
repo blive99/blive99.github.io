@@ -288,10 +288,10 @@ http://playid.ddnsgeek.com:8080/live/playidtv/12345/49801.m3u8
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/37951.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALURE" tvg-logo="http://45.150.128.170:8080/images/046f1c0978f44514da49e33c7bd14539.png" group-title="📺 PREMIUM PLAY TV",ALURE
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/playidtv/12345/49830
+http://playid.ddnsgeek.com:8080/live/playidtv/12345/49830.m3u8
 #EXTINF:-1 tvg-id="RUSH.th" tvg-name="RUSH" tvg-logo="http://45.150.128.170:8080/images/814f11580d6462a45c080c586789b27b.png" group-title="📺 PREMIUM PLAY TV",RUSH
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/playidtv/12345/49831
+http://playid.ddnsgeek.com:8080/live/playidtv/12345/49831.m3u8
 
 --------------------------------------------------------------------------------------
 ###BallThai###
