@@ -174,7 +174,7 @@ http://45.144.165.223:9090/memfs/3ef36d57-1d43-4502-ba80-9453b3bcbf05.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.144.165.223/logo/ent/thaimovie.png",หนังไทย เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.223:9090/memfs/bac4e40a-9545-4c92-b778-c2a836aeab0b.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/dsrnQMQb/Healthy-Care-Logo-20250129-020436-000022.png" , THAIMOVIES 2 เครดิตช่อง Moo7
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/lakorn.png" , ละครไทย เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://43.229.79.245:8080/live/moo7/moo7/119703.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/b5tS24Gb/karaoke.png",คาราโอเกะ เครดิตช่อง Moo7
@@ -192,7 +192,7 @@ http://43.229.79.245:8080/live/moo7/moo7/198781.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/B27tgxBq/476617001-926520919688193-4958318381878111383-n.jpg",MAJUNGTV เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://43.229.79.245:8080/live/moo7/moo7/149923.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://moo7hd.myddns.me:5103/logo/xtream_logo/02moo_ent/sit_var.png" , VARIETY TV เครดิตช่อง Moo7
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/sitcom.png" , VARIETY TV เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://43.229.79.245:8080/live/moo7/moo7/31422.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.144.165.223/Movielogo/989bb003-1117-48a9-9e48-1f83d7ee1b39.png" , SHOWTHAI เครดิตช่อง Moo7
@@ -210,9 +210,19 @@ http://43.229.79.245:8080/live/moo7/moo7/79231.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000652021.png" , Concert เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://43.229.79.245:8080/live/moo7/moo7/119707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PLUS" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/tvplus.png" group-title="📺 PREMIUM PLAY TV",TV PLUS
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://43.229.79.245:8080/live/moo7/moo7/31426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon TV" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/doremon.png" group-title="📺 PREMIUM PLAY TV",Doraemon TV
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://43.229.79.245:8080/live/moo7/moo7/101611.m3u8
+
+
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png", MONO29 Music Station เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://bestcommt2.github.io/m3u8/MonoMusic.m3u8
+
+
 
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/7ee89a96efdbfcc609f6930a9312adef.png",IPLAY Media
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
@@ -1375,103 +1385,6 @@ https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8
 #EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-spotv2.png",SPOTV2
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
-
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1 fw4free
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2 fw4free
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3 fw4free
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4 fw4free
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5 fw4free
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="truepremierfootball1.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1Fuckid
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL1.m3u8
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="truepremierfootball2.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2Fuckid
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL2.m3u8
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="truepremierfootball3.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3Fuckid
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL3.m3u8
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="truepremierfootball4.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4Fuckid
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL4.m3u8
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5Fuckid
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL5.m3u8
-
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="truepremierfootball1.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1dolive
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="truepremierfootball2.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2dolive
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="truepremierfootball3.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3dolive
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="truepremierfootball4.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4dolive
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5dolive
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EPL-1 (dookeela) tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" group-title="6️⃣ ช่องกีฬา",EPL-1 dookeela
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EPL-2 (dookeela) tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" group-title="6️⃣ ช่องกีฬา",EPL-2 dookeela
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="EPL-3 (dookeela) tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" group-title="6️⃣ ช่องกีฬา",EPL-3 dookeela
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EPL-4 (dookeela) tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png" group-title="6️⃣ ช่องกีฬา",EPL-4 dookeela
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EPL-5 (dookeela) tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png" group-title="6️⃣ ช่องกีฬา",EPL-5 dookeela
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EPL-1 (dookeela) tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" group-title="6️⃣ ช่องกีฬา",EPL-1 andaman888
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
-https://cdnsv1.bunnycdncloud.com/andaman888th/tpf1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EPL-2 (dookeela) tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" group-title="6️⃣ ช่องกีฬา",EPL-2 andaman888
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
-https://cdnsv1.bunnycdncloud.com/andaman888th/tpf2/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="EPL-3 (dookeela) tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" group-title="6️⃣ ช่องกีฬา",EPL-3 andaman888
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
-https://cdnsv1.bunnycdncloud.com/andaman888th/tpf3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EPL-4 (dookeela) tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png" group-title="6️⃣ ช่องกีฬา",EPL-4 andaman888
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
-https://cdnsv1.bunnycdncloud.com/andaman888th/tpf4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EPL-5 (dookeela) tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png" group-title="6️⃣ ช่องกีฬา",EPL-5 andaman888
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
-https://cdnsv1.bunnycdncloud.com/andaman888th/tpf5/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="beinsports1thailand.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png", Bein Sports 1-livescorethai
 #EXTVLCOPT:http-referrer=https://fw4free.com/
