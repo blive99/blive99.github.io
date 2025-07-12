@@ -226,9 +226,9 @@ http://playid.ddnsgeek.com:8080/live/playidtv/12345/9198.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.144.165.187:8080/images/3a959738e7fbac5143bc1964568d6408.png",PlayID การ์ตูน ชาแนล
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/11041.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/jZ7P3hJ/vvt.png",PlayID STREAM 2
+#EXTINF:-1 tvg-id="" tvg-name="PlayID หนังพากย์ไทย" tvg-logo="http://45.150.128.170:8080/images/32e8d6ab99d42602e7b135905dc10bfb.png" group-title="📺 PREMIUM PLAY TV",PlayID หนังพากย์ไทย
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/live/playidtv/12345/11051.m3u8
+http://playid.ddnsgeek.com:8080/playidtv/12345/17238
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png",PLAYTV MOVIE
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/11052.m3u8
@@ -238,10 +238,10 @@ http://playid.ddnsgeek.com:8080/live/playidtv/12345/15672.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV"tvg-id="" tvg-logo="http://45.150.128.170:8080/images/ad3974817193e9c102f08f5f5cb1577f.png",PlayID HITS 2K
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/17715.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV"tvg-id="" tvg-logo="https://i.ibb.co/nMygLJzn/Playidmov1.png",PlayID MOVIE 2K/4K
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV"tvg-id="" tvg-logo="http://45.150.128.170:8080/images/3c646a1b12bcfb038dc167aa4c69a821.png",PlayID MOVIE 2K/4K
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/17788.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Series 
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/f26d98d0ce25a5ff96549502e3300e9e.png", PlayID Series 
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/9199.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/jZ7P3hJ/vvt.png", PLAYID MOV2
@@ -262,7 +262,7 @@ http://playid.ddnsgeek.com:8080/live/playidtv/12345/18833.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/5963ec11c666ea07f9c1d1a9db3ba547.jpg",PlayID โคนัน&วันพีช
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/15674.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/x5LCMKZ/20250108-170408.png", PLAYIDTV เป็นต่อ
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/a2aa6ff9f62a9ba92fc0f3d73c43f38a.png", PLAYIDTV เป็นต่อ
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/18876.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.150.128.170:8080/images/b8681a55af2ddb3f277a729570cb55c5.png",PlayID ฟังเพลง
