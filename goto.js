@@ -448,7 +448,7 @@ https://freelive.inwstream.com:1936/freelive-edge/dtv30_mcothd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://freelive.inwstream.com:1936/freelive-edge/dtv31_onehd/playlist.m3u8
 #EXTINF:-1 tvg-id="CH3.th" tvg-name="CH3 HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="2⃣ ช่องทีวีดิจิตอลไทย",CH3 HD
-http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/dtv33_ch3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="2⃣ ช่องทีวีดิจิตอลไทย",Amarin TV
 https://freelive2.inwstream.com:1936/freelive-edge/dtv34_amarintvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="2⃣ ช่องทีวีดิจิตอลไทย",CH7 HD
@@ -2202,7 +2202,15 @@ https://m1free.inwstream.com:1936/movie4/Brick_2025/Brick_2025_TH_1080p.mp4/play
 #EXTINF:-1 tvg-logo="https://2umax.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth.webp" group-title="DOOMOVIES" ,Jurassic World Rebirth (2025) จูราสสิค เวิลด์ กำเนิดชีวิตใหม่
 https://m4-txt-2.xdomovie247.com/playlist2/detail/ddb9b5cfgNjT4/1080/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://2umax.com/wp-content/uploads/2025/07/Superman-2025.webp" group-title="DOOMOVIES" ,ซูเปอร์แมน (2025) Superman
-https://m5-txt-2.xdomovie247.com/playlist2/detail/f11a57880i2Vw/1080/hls/index.m3u8
+#EXTVLCOPT:http-referrer=https://movie345hd.com/
+https://serverdatam3u8.com/movie/M15378.mp4/chunk.m3u8
+#EXTINF:-1 tvg-logo="https://ufa365movie.com/wp-content/uploads/2025/06/2-8.jpg" group-title="DOOMOVIES" ,M3GAN 2.0 (2025) เมแกน 2.0
+#EXTVLCOPT:http-referrer=https://movie345hd.com/
+https://serverdatam3u8.com/movie/M15364.mp4/chunk.m3u8
+#EXTINF:-1 tvg-logo="https://ufa365movie.com/wp-content/uploads/2025/07/4.jpg" group-title="DOOMOVIES" ,Dora And The Search For Sol Dorado (2025) ดอร่ากับการผจญภัยโซลดอราโด้
+#EXTVLCOPT:http-referrer=https://movie345hd.com/
+https://serverdatam3u8.com/movie/M15373.mp4/chunk.m3u8
+
 
 
 --------------------------------------------------------------------------------------
