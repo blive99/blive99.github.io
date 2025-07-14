@@ -48,12 +48,27 @@ http://applive.foruiptv.asia:80/live/dootvlive/forudootvfree/246.ts
 #EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-F
 #EXTVLCOPT:http-user-agent=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/ch7/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONO SPORT 1" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/sport1.png" group-title="📺 VIP SPORT",MONO SPORT 1
+http://43.229.79.245:8080/live/moo7/moo7/195193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONO MAX SPORT 1" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/max1.png" group-title="📺 VIP SPORT",MONO MAX SPORT 1
+http://43.229.79.245:8080/live/moo7/moo7/29851.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Monomax Sports" tvg-logo="http://45.150.128.170:8080/images/3410ac5a9e6766f01307d7c0c81d7b3e.png" group-title="📺 VIP SPORT",Monomax Sports
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/37371.m3u8
+#EXTINF:-1 tvg-id="iptv36.mono29" tvg-name="Mono 29 FHD" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/mono29.png" group-title="📺 VIP SPORT",Mono 29 FHD
+http://43.229.79.245:8080/live/moo7/moo7/204653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONO PLUS" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/monoplus.png" group-title="📺 VIP SPORT",MONO PLUS
+http://43.229.79.245:8080/live/moo7/moo7/195194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONO ASIAN HITS" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/asianhit.png" group-title="📺 VIP SPORT",MONO ASIAN HITS
+http://43.229.79.245:8080/live/moo7/moo7/195195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONO MUSIC" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/monomusic.png" group-title="📺 VIP SPORT",MONO MUSIC
+http://43.229.79.245:8080/live/moo7/moo7/195196.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MonoMax Rok Cup" tvg-logo="http://45.150.128.170:8080/images/62fa40e062b2efacfffef2704d97b87f.png" group-title="📺 VIP SPORT",MonoMax Rok Cup
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/49811.m3u8
+http://43.229.79.245:8080/live/moo7/moo7/195197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax Rok Cup" tvg-logo="https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/hbyXvyZASoNoPvCuwVvwTd3312t9G6FT.png" group-title="📺 VIP SPORT",RAAT Thailand Endurance Championship 2025
+https://esports.monomax.me/RokLiveStream/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="76632" tvg-name="FIFA Club World Cup" tvg-logo="https://cms-images.acc.indazn.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1285022803&quality=50&w=750" group-title="📺 VIP SPORT",FIFA Club World Cup
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://playid.ddnsgeek.com:8080/live/playidtv/12345/46907.m3u8
@@ -80,10 +95,10 @@ https://keela2.com/stream/20/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 https://keela2.com/stream/21/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="📺 VIP SPORT",beIN SPORT 1
 #EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/8/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+https://keela3.com/stream/34/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch7.png" group-title="📺 VIP SPORT",beIN SPORT 2
 #EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/9/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+https://keela3.com/stream/36/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch8.png" group-title="📺 VIP SPORT",beIN SPORT 3
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://keela2.com/stream/10/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
@@ -108,6 +123,8 @@ https://keela2.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 8
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://keela2.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/934724791b70983e3427a6058f91e5e4.jpg" group-title="📺 VIP SPORT",ช่องวัวชน
+https://keela3.com/stream/101/index.m3u8?token=J5iyZmyDDiw7NdQm
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
 
