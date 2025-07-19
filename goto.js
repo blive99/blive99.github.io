@@ -118,7 +118,7 @@ https://stream2.aws-live-streaming.com/bbs/trueidsports1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/live/playidtv/12345/12251.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://w7.pngwing.com/pngs/507/428/png-transparent-mutv-hd-logo-thumbnail.png" group-title="📺 VIP SPORT",MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+https://dkl-c33es.cdn.akamaiz.com/doofootballfun/mutv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png" group-title="📺 VIP SPORT",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 --------------------------------------------------------------------------------------
@@ -832,7 +832,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
 #EXTINF:-0 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
-https://dkl-c33es.cdn.akamaiz.com/doofootballfun//truex-zyte/chunks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/doofootballfun/truex-zyte/chunks.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/live/playidtv/12345/83.m3u8
