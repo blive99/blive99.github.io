@@ -1654,7 +1654,8 @@ https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Outdoor.us" tvg-logo="https://i.postimg.cc/44HKd1pw/IMG-2158.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Outdoor Channel
 https://fl5.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-
+#EXTINF:-1 group-title="📺 ช่องกีฬา" tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/22/1/wwe-logo-png_seeklogo-220438.png" , WWE
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/wwe.m3u8
 
 --------------------------------------------
 ###8️⃣ ช่องกีฬา4K###
@@ -1827,16 +1828,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #https://cdn08jtedge.indihometv.com/dassdvr/133/kplus/manifest.mpd
 
-#EXTINF:-1 group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/300px-Logo_tvN.svg.png",tvN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 #EXTINF:-1 group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvNMOVIE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
 
-
+#EXTINF:-1  group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง"   tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg",tvN
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/tvN.m3u8
+#EXTINF:-1  group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง"  tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",Celestial-classic-movies
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/celestial-classic-movies.m3u8
 
 
 
