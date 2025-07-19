@@ -30,24 +30,6 @@ http://45.144.165.187:8080/live/playidtv/12345/46773.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="http://45.150.128.170:8080/images/b2a368bfaab18c94802261bbd436139d.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL 4
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/live/playidtv/12345/46796.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-A
-#EXTVLCOPT:http-user-agent=https://warpdooball.net/
-https://keela2.com/stream/59/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-B
-#EXTVLCOPT:http-user-agent=https://keela2.com	
-https://keela2.com/stream/103/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-C
-#EXTVLCOPT:http-user-agent=https://dookeela.live/
-https://dolive.thaim3u.com/xstream/football-play-4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-D
-#EXTVLCOPT:http-user-agent=https://dookeela.live/
-https://cdn1.googlecdn.live:443/lsfb/vix/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-E
-#EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://applive.foruiptv.asia:80/live/dootvlive/forudootvfree/246.ts
-#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-F
-#EXTVLCOPT:http-user-agent=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch7/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MONO SPORT 1" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/sport1.png" group-title="📺 VIP SPORT",MONO SPORT 1
 http://43.229.79.245:8080/live/moo7/moo7/195193.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MONO MAX SPORT 1" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/max1.png" group-title="📺 VIP SPORT",MONO MAX SPORT 1
@@ -127,6 +109,10 @@ https://keela2.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
 https://keela3.com/stream/101/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1743311087.png" group-title="📺 VIP SPORT", Trueidsport1
 http://bestcommt2.github.io/m3u8/true/trueidsports1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://w7.pngwing.com/pngs/507/428/png-transparent-mutv-hd-logo-thumbnail.png" group-title="📺 VIP SPORT",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png" group-title="📺 VIP SPORT",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
 
@@ -1605,15 +1591,7 @@ https://webhdrunns.iosplayer.ru/zeko/premium123/mono.m3u8
 --------------------------------------------
 ###8️⃣ ช่องกีฬา4K###
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pjQFsZD9/true4k.png" group-title="8️⃣ ช่องกีฬา4K", ลิงค์จะเปิด แค่ เสาร์-อาทิตย์ หรือ มีแข่ง
-#EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://45.144.165.187:8080/live/Natt/12345/89.m3u8
-http://45.144.165.187:8080/live/Natt/12345/90.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.144.165.187:8080/images/c40061e5636458fc9928a739a84fbeb3.png" group-title="8️⃣ ช่องกีฬา4K", True Premier Football 1
-#EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://45.144.165.187:8080/live/Natt/12345/18747.m3u8
-http://myserver.myphuket.net:25461/live/test1/test1/26.m3u8
-#https://github.com/user-attachments/assets/4f36ec6a-3679-47cb-ad78-dd0c6d217ecf
+
 
 
 #EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="8️⃣ ช่องกีฬา4K",UK: Sky Sports Premier League FHD 1
