@@ -2327,4 +2327,4 @@ https://main.24playerhd.com/newplaylist/fa5b84dcdef32772326a30ba/fa5b84dcdef3277
 --------------------------------------------------------------------------------------
 ####DOOMSERIES####
 #EXTINF:-1 tvg-logo="" group-title="test" ,test
-http://192.168.1.113:8888/ipvt_ch3
+http://192.168.1.200:8888/ipvt_ch3
