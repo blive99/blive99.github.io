@@ -2322,3 +2322,9 @@ https://main.24playerhd.com/newplaylist/50fcf8cbbc631a5ba8ac787c/50fcf8cbbc631a5
 https://main.24playerhd.com/newplaylist/581a29d384ad37dbf0ab271e/581a29d384ad37dbf0ab271e.m3u8
 #EXTINF:1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/Squid-Game-Season-3-2025-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-3-300x450.jpg" group-title="DOOMSERIES",Squid Game Season 3 (2025) สควิดเกม เล่นลุ้นตาย ซีซั่น 3    EP 6
 https://main.24playerhd.com/newplaylist/fa5b84dcdef32772326a30ba/fa5b84dcdef32772326a30ba.m3u8
+
+
+--------------------------------------------------------------------------------------
+####DOOMSERIES####
+#EXTINF:-1 tvg-logo="" group-title="test" ,test
+http://192.168.1.113:8888/ipvt_ch3
