@@ -232,9 +232,9 @@ http://43.229.79.245:8080/live/moo7/moo7/101611.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png", MONO29 Music Station เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://43.229.79.245:8080/live/moo7/moo7/195196.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id=" tvg-logo=" https://img2.pic.in.th/pic/_2025_07_18_08_38_54_237.png", boxoffice เครดิตช่อง Moo7
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/_2025_07_18_08_38_54_237.png", boxoffice เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://moo7hd.myddns.me:9192/stream/boxoffice/index.m3u8
+http://cors.freeddns.org:8888/ipvt_011
 
 
 
