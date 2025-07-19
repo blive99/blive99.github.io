@@ -227,7 +227,7 @@ http://43.229.79.245:8080/live/moo7/moo7/101611.m3u8
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://43.229.79.245:8080/live/moo7/moo7/195196.m3u8
 
-#EXTINF:-1 group-title="PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/_2025_07_18_08_38_54_237.png", boxoffice เครดิตช่อง Moo7
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id=" tvg-logo="https://img2.pic.in.th/pic/_2025_07_18_08_38_54_237.png", boxoffice เครดิตช่อง Moo7
 http://moo7hd.myddns.me:9192/stream/boxoffice/index.m3u8
 
 
@@ -1370,23 +1370,23 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=30ab6c314236e53c0284271258ccbf85&chunkHttps=true&tmid=B0001&tpbk=HMGbWOrIHiufB7WE&rrt=1752809394&tmod=rfk&rsid=9d1b9e3f-1991-45b2-9142-799b9ba0c4a0&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1752895794
 
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="5️⃣ PEA Volley
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="5️⃣ AISPLAY",PEA Volley
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V1001/HLS/V1001.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=30ab6c314236e53c0284271258ccbf85&chunkHttps=true&tmid=V1001&tpbk=HMGbWOrIHiufB7WE&rrt=1752809489&tmod=rfk&rsid=eb2403a1-487a-49cb-a36c-eb6a14b5be65&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1752895794
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//AseanU23_01.png" group-title="5️⃣ PAseanU23 1
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//AseanU23_01.png" group-title="5️⃣ AISPLAY",PAseanU23 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL101/HLS/TL101.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=30ab6c314236e53c0284271258ccbf85&chunkHttps=true&tmid=TL101&tpbk=HMGbWOrIHiufB7WE&rrt=1752809634&tmod=rfk&rsid=90743349-f9d4-43e2-b123-c19f86b93949&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1752895794
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//AseanU23_02.png" group-title="5️⃣ AseanU23 2
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//AseanU23_02.png" group-title="5️⃣ AISPLAY",AseanU23 2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL102/HLS/TL102.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=30ab6c314236e53c0284271258ccbf85&chunkHttps=true&tmid=TL102&tpbk=HMGbWOrIHiufB7WE&rrt=1752809656&tmod=rfk&rsid=817378e8-6f08-4294-94e2-fa1f495a2a29&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1752895794
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///IceHockey2025_1.png" group-title="5️⃣ IceHockey2025 1
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///IceHockey2025_1.png" group-title="5️⃣ AISPLAY",IceHockey2025 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V1005/HLS/V1005.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=30ab6c314236e53c0284271258ccbf85&chunkHttps=true&tmid=V1005&tpbk=HMGbWOrIHiufB7WE&rrt=1752809728&tmod=rfk&rsid=0a4627b7-ff3b-42bb-88b3-7e91cf5d2a0c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1752895794
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///IceHockey2025_2.png" group-title="5️⃣ IceHockey2025 2
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///IceHockey2025_2.png" group-title="5️⃣ AISPLAY",IceHockey2025 2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V1006/HLS/V1006.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=30ab6c314236e53c0284271258ccbf85&chunkHttps=true&tmid=V1006&tpbk=HMGbWOrIHiufB7WE&rrt=1752809757&tmod=rfk&rsid=45da4159-6d55-4427-af77-1f5d61e1e484&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1752895794
@@ -1525,22 +1525,7 @@ http://49.0.64.96:8007/GINX
 #EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" , NBC Sports Washington
 http://49.0.64.96:8007/NBA
 
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="" tvg-logo="https://raz-media.se/wp-content/uploads/2022/04/fight-sports.png" ,Fight Sports
-https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา"tvg-logo="https://i.postimg.cc/Fs7MsvTL/BILLIARDTV.png",สนุ๊กเกอร์
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="Tennis" tvg-name="Tennis" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Zz0zN2MyODZlNjQ4M2QxMWVlYjE4YmYyOTc0ZmNlODAwZA.png" group-title="6️⃣ ช่องกีฬา",Tennis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="TRACE SPORT STARS" tvg-name="TRACE SPORT STARS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/220px-TraceSSLogo.png" group-title="6️⃣ ช่องกีฬา",TRACE SPORT STARS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="redbulltv.us" tvg-name="RED BULL TV" tvg-logo="https://i.postimg.cc/rmVb62dz/Redbull1.png" group-title="6️⃣ ช่องกีฬา",RED BULL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J SPORTS 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1557,25 +1542,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/images52505e220d433d2a.png" , GO Sports
 https://cdn-th-vip.livestreaming.in.th/gosporttv/gosporttv/playlist.m3u8
 
-#EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="6️⃣ ช่องกีฬา", Eurosport 1 España (Backup)
-http://185.189.225.150:85/Eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/CxNv6nGZ/IMG-1838.png" group-title="🇹🇭 THAILAND",T Sport 7
+https://freelive2.inwstream.com:1936/freelive-edge/dtv07_tsports7/playlist.m3u8
 
-#EXTINF:-1 cuid="1062" tvg-chno="1062" tvg-name="Eurosport 2 🇪🇸" tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="6️⃣ ช่องกีฬา", Eurosport 2 España (Backup)
-http://185.189.225.150:85/Eurosport2/index.m3u8
 
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="" tvg-logo="https://i.ibb.co/tTqXqqrf/espn.png" , ESPN
-https://keela2.com/stream/33/index.m3u8?token=mvFWafOIir5JDlQN
-
-#EXTINF:-1  group-title="6️⃣ ช่องกีฬา" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250213_081044.png",One Golf HD
-https://sscsott.com/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA HD" tvg-logo="https://i.ibb.co/V0CqBx96/nba.png" group-title="6️⃣ ช่องกีฬา",NBA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
-
-#EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/NHK-Logo.png" , NHK
-https://bestcommt2.github.io/m3u8/NHK.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ###กีฬาต่างประเทศ### 
@@ -1586,6 +1556,121 @@ https://bestcommt2.github.io/m3u8/NHK.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrunns.iosplayer.ru/zeko/premium123/mono.m3u8
 
+#EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ", Eurosport 1 España (Backup)
+http://185.189.225.150:85/Eurosport1/index.m3u8
+
+#EXTINF:-1 cuid="1062" tvg-chno="1062" tvg-name="Eurosport 2 🇪🇸" tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ", Eurosport 2 España (Backup)
+http://185.189.225.150:85/Eurosport2/index.m3u8
+
+#EXTINF:-1 group-title="7️⃣ ช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://raz-media.se/wp-content/uploads/2022/04/fight-sports.png" ,Fight Sports
+https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+#EXTINF:-1 group-title="7️⃣ ช่องกีฬาต่างประเทศ"tvg-logo="https://i.postimg.cc/Fs7MsvTL/BILLIARDTV.png",สนุ๊กเกอร์
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="Tennis" tvg-name="Tennis" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Zz0zN2MyODZlNjQ4M2QxMWVlYjE4YmYyOTc0ZmNlODAwZA.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="TRACE SPORT STARS" tvg-name="TRACE SPORT STARS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/220px-TraceSSLogo.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",TRACE SPORT STARS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="redbulltv.us" tvg-name="RED BULL TV" tvg-logo="https://i.postimg.cc/rmVb62dz/Redbull1.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",RED BULL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="7️⃣ ช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://i.ibb.co/tTqXqqrf/espn.png" , ESPN
+https://keela2.com/stream/33/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/0jfSRj1p/IMG-2118.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",ESPN 2
+http://143.244.60.30/ESPN_2/index.m3u8
+
+#EXTINF:-1  group-title="7️⃣ ช่องกีฬาต่างประเทศ" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250213_081044.png",One Golf HD
+https://sscsott.com/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA HD" tvg-logo="https://i.ibb.co/V0CqBx96/nba.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",NBA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+
+#EXTINF:-1 group-title="7️⃣ ช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/NHK-Logo.png" , NHK
+https://bestcommt2.github.io/m3u8/NHK.m3u8
+#EXTINF:-1 tvg-id="FIFA.us" tvg-logo="https://i.postimg.cc/g0BccBJ5/IMG-2292.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX.us" tvg-logo="https://i.postimg.cc/T1qRzgjp/IMG-2262.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",FOX NHRA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=732
+#EXTINF:-1 tvg-id="CBS.us" tvg-logo="https://i.postimg.cc/DfWHKLrq/IMG-2219.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",CBSSN
+https://fl5.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",MLB
+https://shorturl.at/asgqF
+#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.postimg.cc/s2qD7bRx/IMG-2227.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",MLB Network
+http://143.244.60.30/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NFL.us" tvg-logo="https://i.postimg.cc/L8QYk7xP/IMG-2245.webp" group-title="7️⃣ ช่องกีฬาต่างประเทศ",NFL Network
+http://143.244.60.30/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="YESnetwork.us" tvg-logo="https://i.postimg.cc/kgPQFhqj/IMG-2228.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Yes Network
+https://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NBA.us" tvg-logo="https://i.postimg.cc/14hDkLpY/IMG-2226.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="Tennis.us" tvg-logo="https://i.postimg.cc/sgJ0JczR/IMG-2224.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",TENNIS Channel
+http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Bein.us" tvg-logo="https://i.postimg.cc/zfDNbnp7/IMG-2011.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Bein Sports
+https://fl5.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="Bein.us" tvg-logo="https://i.postimg.cc/W4p6DdPV/IMG-2099.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Bein Sports xtra
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein.es" tvg-logo="https://i.postimg.cc/G3yVLt36/IMG-2233.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Bein Sports xtra esp
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Foxsports.us" tvg-logo="https://i.postimg.cc/zv9BSgXw/IMG-2104.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Fox Sports 1
+https://fl5.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="Foxsports.us" tvg-logo="https://i.postimg.cc/dVR1rDMd/IMG-2105.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Fox Sports 2
+https://fl5.moveonjoy.com/FOX_SPORTS_2/index.m3u8
+#EXTINF:-1 tvg-id="TSNsports.ca" tvg-logo="https://i.postimg.cc/brNnZbVm/IMG-2110.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",TSN 1
+http://143.244.60.30/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSNsports.ca" tvg-logo="https://i.postimg.cc/L65fRt1X/IMG-2109.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",TSN 2
+http://143.244.60.30/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSNsports.ca" tvg-logo="https://i.postimg.cc/KYSgnCsk/IMG-2108.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",TSN 3
+http://143.244.60.30/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSNsports.ca" tvg-logo="https://i.postimg.cc/Y9tGPY7t/IMG-2107.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",TSN 4
+http://143.244.60.30/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSNsports.ca" tvg-logo="https://i.postimg.cc/Y2nGXvsw/IMG-2106.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",TSN 5
+http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.us" tvg-logo="https://i.postimg.cc/yNNmrSt5/IMG-2154.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",DAZN 1
+http://212.102.60.231/DAZN_1/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.us" tvg-logo="https://i.postimg.cc/Kz6tzpjS/IMG-2155.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",DAZN 2
+http://212.102.60.231/DAZN_2/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.us" tvg-logo="https://i.postimg.cc/gkPvb713/IMG-2159.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",DAZN Ringside
+https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Sports.db" tvg-logo="https://i.postimg.cc/RZXTyWbg/IMG-2284.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 tvg-id="Sports.db" tvg-logo="https://i.postimg.cc/DzS1NBGz/IMG-2285.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="Sports.db" tvg-logo="https://i.postimg.cc/zGVLD3Gt/IMG-2286.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/FFMvp0qW/IMG-2230.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",ESPN U
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/85NhvyQ2/IMG-2236.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",TNT
+https://fl3.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-logo="https://i.postimg.cc/fRFvFj4F/IMG-2238.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",TBS
+https://fl3.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="7️⃣ ช่องกีฬาต่างประเทศ",UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 tvg-id="Billiard.uk" tvg-logo="https://i.postimg.cc/PryXKbr7/IMG-2264.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Billiard TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=840
+#EXTINF:-1 tvg-id="Worldbilliards.kr" tvg-logo="https://i.postimg.cc/wMz7TdjC/IMG-2248.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",World Billiards TV
+https://shorturl.at/iTUf5
+#EXTINF:-1 tvg-id="Trace.au" tvg-logo="https://i.postimg.cc/TPwGsdrc/IMG-2012.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Motorracing.us" tvg-logo="https://i.postimg.cc/MpXG4Lhm/IMG-2204.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Motor Racing
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/f34ba059-f7c4-4d2b-afb2-6e7b03553966/2.m3u8
+#EXTINF:-1 tvg-id="Motorvision.us" tvg-logo="https://i.postimg.cc/pL7dtZvb/IMG-2177.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Motorvision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=443
+#EXTINF:-1 tvg-id="Redbull.us" tvg-logo="https://i.postimg.cc/QCDrKFgh/IMG-1983.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="Americanninja.us" tvg-logo="https://i.postimg.cc/W17gHWr6/IMG-2299.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",American Ninja Warrior
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="Outdoor.us" tvg-logo="https://i.postimg.cc/YCJ2cbWv/IMG-2085.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Outdoor America
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Outdoor.us" tvg-logo="https://i.postimg.cc/44HKd1pw/IMG-2158.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Outdoor Channel
+https://fl5.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 
 
 --------------------------------------------
