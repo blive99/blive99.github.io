@@ -1654,7 +1654,7 @@ https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Outdoor.us" tvg-logo="https://i.postimg.cc/44HKd1pw/IMG-2158.png" group-title="7️⃣ ช่องกีฬาต่างประเทศ",Outdoor Channel
 https://fl5.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="📺 ช่องกีฬา" tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/22/1/wwe-logo-png_seeklogo-220438.png" , WWE
+#EXTINF:-1 group-title="7️⃣ ช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/22/1/wwe-logo-png_seeklogo-220438.png" , WWE
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/wwe.m3u8
 
 --------------------------------------------
