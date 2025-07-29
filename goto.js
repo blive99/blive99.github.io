@@ -34,10 +34,12 @@ http://45.144.165.187:8080/live/playidtv/12345/46796.m3u8
 https://keela3.com/stream/41/index.m3u8?token=J5iyZmyDDiw7NdQm
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MONO SPORT 1" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/sport1.png" group-title="📺 VIP SPORT",MONO SPORT 1
-http://43.229.79.245:8080/live/moo7/moo7/195193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MONO MAX SPORT 1" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/max1.png" group-title="📺 VIP SPORT",MONO MAX SPORT 1
-http://43.229.79.245:8080/live/moo7/moo7/29851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONO SPORT 1" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="📺 VIP SPORT",MONO MAX SPORT 1
+http://45.144.165.187:8080/live/playidtv/12345/15725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONO MAX SPORT 1" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax02.png" group-title="📺 VIP SPORT",MONO MAX SPORT 2
+http://43.229.79.245:8080/live/moo7/moo7/37473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONO SPORT 1" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax03.png" group-title="📺 VIP SPORT",MONO MAX SPORT 3
+https://keela3.com/stream/39/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-id="" tvg-name="Monomax Sports" tvg-logo="http://45.150.128.170:8080/images/3410ac5a9e6766f01307d7c0c81d7b3e.png" group-title="📺 VIP SPORT",Monomax Sports
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/live/playidtv/12345/37371.m3u8
@@ -81,13 +83,13 @@ https://keela2.com/stream/20/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 https://keela2.com/stream/21/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="📺 VIP SPORT",beIN SPORT 1
 #EXTVLCOPT:http-referrer=https://keela2.com
-https://keela3.com/stream/34/index.m3u8?token=J5iyZmyDDiw7NdQm
+https://keela2.com/stream/1/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch7.png" group-title="📺 VIP SPORT",beIN SPORT 2
 #EXTVLCOPT:http-referrer=https://keela2.com
-https://keela3.com/stream/36/index.m3u8?token=J5iyZmyDDiw7NdQm
+https://keela2.com/stream/2/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch8.png" group-title="📺 VIP SPORT",beIN SPORT 3
 #EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/10/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+https://keela2.com/stream/3/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 1
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://keela2.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
@@ -118,7 +120,7 @@ https://stream2.aws-live-streaming.com/bbs/trueidsports1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/live/playidtv/12345/12251.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://w7.pngwing.com/pngs/507/428/png-transparent-mutv-hd-logo-thumbnail.png" group-title="📺 VIP SPORT",MUTV
-https://dkl-c33es.cdn.akamaiz.com/doofootballfun/mutv/chunks.m3u8
+https://keela3.com/stream/85/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png" group-title="📺 VIP SPORT",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 --------------------------------------------------------------------------------------
@@ -2364,3 +2366,7 @@ https://main.24playerhd.com/newplaylist/fa5b84dcdef32772326a30ba/fa5b84dcdef3277
 ####DOOMSERIES####
 #EXTINF:-1 tvg-logo="" group-title="test" ,test
 http://192.168.1.200:8888/ipvt_ch3
+#EXTINF:-1 tvg-logo="" group-title="test" ,test2
+https://r3-sn-5fo-c37ed15.googleuservideo.com/ball24tv_s1/monomax2_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test" ,test3
+https://r3-sn-5fo-c37ed15.googleuservideo.com/ball24tv_s1/monomax1_480p/playlist.m3u8
