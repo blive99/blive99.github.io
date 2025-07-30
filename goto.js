@@ -2364,9 +2364,9 @@ https://main.24playerhd.com/newplaylist/fa5b84dcdef32772326a30ba/fa5b84dcdef3277
 
 --------------------------------------------------------------------------------------
 ####DOOMSERIES####
-#EXTINF:-1 tvg-logo="" group-title="test" ,test
-http://192.168.1.200:8888/ipvt_ch3
-#EXTINF:-1 tvg-logo="" group-title="test" ,test2
-https://r3-sn-5fo-c37ed15.googleuservideo.com/ball24tv_s1/monomax2_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test" ,test3
-https://r3-sn-5fo-c37ed15.googleuservideo.com/ball24tv_s1/monomax1_480p/playlist.m3u8
+#EXTINF:-1 group-title="test" tvg-id="premier1.iptv36.my.to" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png", MONOMAX 1
+#EXTVLCOPT:http-referrer=https://ball67.com/
+https://cdnsv1.bunnycdncloud.com/ball67/monomax1/th-sport/monomax1/chunks.m3u8?n
+#EXTINF:-1 group-title="test" tvg-id="premier1.iptv36.my.to" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png", MONOMAX 2
+#EXTVLCOPT:http-referrer=https://ball67.com/
+https://cdnsv1.bunnycdncloud.com/ball67/monomax2/playlist.m3u8
