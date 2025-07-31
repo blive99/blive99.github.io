@@ -37,6 +37,7 @@ https://keela3.com/stream/41/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
+https://stream2.aws-live-streaming.com/bbs/monomax1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax02.png" group-title="📺 VIP SPORT",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
@@ -58,9 +59,9 @@ https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
 https://keela3.com/stream/39/index.m3u8?token=J5iyZmyDDiw7NdQm
 
 #EXTINF:-1 tvg-id="iptv36.mono29" tvg-name="Mono 29 FHD" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/mono29.png" group-title="📺 VIP SPORT",Mono 29 FHD
-http://43.229.79.245:8080/live/moo7/moo7/204653.m3u8
+https://stream2.aws-live-streaming.com/bbs/mono29/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MONO PLUS" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/monoplus.png" group-title="📺 VIP SPORT",MONO PLUS
-http://43.229.79.245:8080/live/moo7/moo7/195194.m3u8
+https://stream2.aws-live-streaming.com/bbs/mono29plus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MONO ASIAN HITS" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/asianhit.png" group-title="📺 VIP SPORT",MONO ASIAN HITS
 http://43.229.79.245:8080/live/moo7/moo7/195195.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MONO MUSIC" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/monomusic.png" group-title="📺 VIP SPORT",MONO MUSIC
@@ -100,27 +101,6 @@ https://keela2.com/stream/2/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch8.png" group-title="📺 VIP SPORT",beIN SPORT 3
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://keela2.com/stream/3/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 1
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 2
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/23/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 3
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/24/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 5
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/26/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 6
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/27/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 7
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 8
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/934724791b70983e3427a6058f91e5e4.jpg" group-title="📺 VIP SPORT",ช่องวัวชน
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://keela3.com/stream/101/index.m3u8?token=J5iyZmyDDiw7NdQm
@@ -133,6 +113,28 @@ http://45.144.165.187:8080/live/playidtv/12345/12251.m3u8
 https://keela3.com/stream/85/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png" group-title="📺 VIP SPORT",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 1
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 2
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/23/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 3
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/24/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 5
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/26/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 6
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/27/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 7
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 8
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
+
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
 
@@ -199,54 +201,59 @@ http://45.144.165.223:9090/memfs/3ef36d57-1d43-4502-ba80-9453b3bcbf05.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.144.165.223/logo/ent/thaimovie.png",หนังไทย เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.223:9090/memfs/bac4e40a-9545-4c92-b778-c2a836aeab0b.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/lakorn.png" , ละครไทย เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/119703.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/b5tS24Gb/karaoke.png",คาราโอเกะ เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.223:9090/memfs/b312e2fa-74a8-41e3-9466-1beb5c9afda8.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://iptvview.sytes.net/Cover_Movie/Netflix_onair.png" , NETFLIXONAIR เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/31426.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012839.png" , SUPERCARTOON เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/34959.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012847.png" , HISPORTS เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/198781.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/B27tgxBq/476617001-926520919688193-4958318381878111383-n.jpg",MAJUNGTV เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/149923.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/sitcom.png" , VARIETY TV เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/31422.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.144.165.223/Movielogo/989bb003-1117-48a9-9e48-1f83d7ee1b39.png" , SHOWTHAI เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/33061.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://moo7hd.myddns.me:5103/logo/entertainment/อมตะหนังไทย.png" , อมตะหนังไทย เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/31423.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://moo7hd.myddns.me:5103/logo/%E0%B9%80%E0%B8%AE%E0%B8%AE%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5.png" , เฮฮาทีวี ทีวีอารมณ์ดี  เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/101590.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000521833.png" , M HORROR MOVIES  เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/79231.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000652021.png" , Concert เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/119707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV PLUS" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/tvplus.png" group-title="📺 PREMIUM PLAY TV",TV PLUS
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/31426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Doraemon TV" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/doremon.png" group-title="📺 PREMIUM PLAY TV",Doraemon TV
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/101611.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png", MONO29 Music Station เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://43.229.79.245:8080/live/moo7/moo7/195196.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/_2025_07_18_08_38_54_237.png", boxoffice เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://moo7hd.myddns.me:9192/stream/boxoffice/index.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/b5tS24Gb/karaoke.png",คาราโอเกะ เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.223:9090/memfs/b312e2fa-74a8-41e3-9466-1beb5c9afda8.m3u8
+
+
+
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/lakorn.png" , ละครไทย เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/119703.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://iptvview.sytes.net/Cover_Movie/Netflix_onair.png" , NETFLIXONAIR เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/31426.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012839.png" , SUPERCARTOON เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/34959.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012847.png" , HISPORTS เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/198781.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/B27tgxBq/476617001-926520919688193-4958318381878111383-n.jpg",MAJUNGTV เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/149923.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/sitcom.png" , VARIETY TV เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/31422.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.144.165.223/Movielogo/989bb003-1117-48a9-9e48-1f83d7ee1b39.png" , SHOWTHAI เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/33061.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://moo7hd.myddns.me:5103/logo/entertainment/อมตะหนังไทย.png" , อมตะหนังไทย เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/31423.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://moo7hd.myddns.me:5103/logo/%E0%B9%80%E0%B8%AE%E0%B8%AE%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5.png" , เฮฮาทีวี ทีวีอารมณ์ดี  เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/101590.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000521833.png" , M HORROR MOVIES  เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/79231.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000652021.png" , Concert เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/119707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PLUS" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/tvplus.png" group-title="📺 PREMIUM PLAY TV",TV PLUS
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/31426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon TV" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/doremon.png" group-title="📺 PREMIUM PLAY TV",Doraemon TV
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/101611.m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png", MONO29 Music Station เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://43.229.79.245:8080/live/moo7/moo7/195196.m3u8
+
 
 
 
@@ -264,7 +271,7 @@ http://45.144.165.187:8080/live/playidtv/12345/9198.m3u8
 http://45.144.165.187:8080/live/playidtv/12345/11041.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayID หนังพากย์ไทย" tvg-logo="http://45.150.128.170:8080/images/32e8d6ab99d42602e7b135905dc10bfb.png" group-title="📺 PREMIUM PLAY TV",PlayID หนังพากย์ไทย
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://45.144.165.187:8080/playidtv/12345/17238
+http://45.144.165.187:8080/live/playidtv/12345/17238.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png",PLAYTV MOVIE
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/live/playidtv/12345/11052.m3u8
@@ -2375,7 +2382,4 @@ https://main.24playerhd.com/newplaylist/fa5b84dcdef32772326a30ba/fa5b84dcdef3277
 --------------------------------------------------------------------------------------
 ####test####
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
+
