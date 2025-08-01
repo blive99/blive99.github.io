@@ -104,36 +104,16 @@ https://keela2.com/stream/3/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/934724791b70983e3427a6058f91e5e4.jpg" group-title="📺 VIP SPORT",ช่องวัวชน
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://keela3.com/stream/101/index.m3u8?token=J5iyZmyDDiw7NdQm
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1743311087.png" group-title="📺 VIP SPORT", Trueidsport1
+#EXTINF:-1 tvg-logo="https://dookeela2.live/uploads/1743311087.png" group-title="📺 VIP SPORT", Trueidsport1
 https://stream2.aws-live-streaming.com/bbs/trueidsports1/playlist.m3u8
 #EXTINF:-1 tvg-id="9574" tvg-name="LFC TV" tvg-logo="http://45.144.165.187:8080/live/images/4fb9719b588d646530cf83eac4ec6080.png" group-title="📺 VIP SPORT",LFC TV
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://45.144.165.187:8080/live/live/playidtv/12345/12251.m3u8
+http://45.144.165.187:8080/live/playidtv/12345/12251.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://w7.pngwing.com/pngs/507/428/png-transparent-mutv-hd-logo-thumbnail.png" group-title="📺 VIP SPORT",MUTV
 https://keela3.com/stream/85/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png" group-title="📺 VIP SPORT",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 1
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 2
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/23/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 3
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/24/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 5
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/26/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 6
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/27/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 7
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 VIP SPORT",TRUE BallThai 8
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
+
 
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
@@ -307,6 +287,27 @@ http://45.144.165.187:8080/live/playidtv/12345/9200.m3u8
 
 --------------------------------------------------------------------------------------
 ###BallThai###
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 1
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 2
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/23/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 3
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/24/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 5
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/26/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 6
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/27/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 7
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 8
+#EXTVLCOPT:http-referrer=https://keela2.com
+#https://keela2.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
 #EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
 https://cdn1.googlecdn.live/dooballrealtime/trueballthai1/playlist.m3u8
