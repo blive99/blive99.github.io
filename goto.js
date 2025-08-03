@@ -38,29 +38,26 @@ https://keela3.com/stream/41/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax1/playlist.m3u8
-https://cdnsv1.bunnycdncloud.com/ball67/monomax1/th-sport/monomax1/chunks.m3u8
-https://cdnsv1.bunnycdncloud.com/ball67/monomax1/playlist.m3u8
-https://r3-sn-5fo-c37ed15.googleuservideo.com/ball24tv_s1/monomax1_480p/playlist.m3u8
+https://r3-sn-5fo-c37ed15.googleuservideo.com/ball24tv_s1/monomax1_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgMTo0OToxOCBBTSZoYXNoX3ZhbHVlPU1vMmFLSnNRRjZQYmtDOUJIZ2FrNEE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNSZpZD00MTI5NTQ=
+https://cdnsv1.bunnycdncloud.com/ball67/monomax1/th-sport/monomax1/chunks.m3u8?nimblesessionid=25373464&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgMTo1MDoyMCBBTSZoYXNoX3ZhbHVlPTl2NWVaaU1GMFE0aVgzdmJEcDdCeFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xNzU0MTg1ODIwMjg4JnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax02.png" group-title="📺 VIP SPORT",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax2/playlist.m3u8
-https://cdnsv1.bunnycdncloud.com/ball67/monomax2/th-sport/monomax2/chunks.m3u8
-https://cdnsv1.bunnycdncloud.com/ball67/monomax2/playlist.m3u8
-https://r3-sn-5fo-c37ed15.googleuservideo.com/ball24tv_s1/monomax2_480p/playlist.m3u8
+https://r3-sn-5fo-c37ed15.googleuservideo.com/ball24tv_s1/monomax2_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgMTo0NzozNyBBTSZoYXNoX3ZhbHVlPU1OZVNtN1hDSDZpckowenZBRlg5eWc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNSZpZD0zOTUwOTQ=
+https://cdnsv1.bunnycdncloud.com/ball67/monomax2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgMTo1MToxOCBBTSZoYXNoX3ZhbHVlPU9tRjYrUHY3WW9pVnM0ZFFmRXN6RlE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xNzU0MTg1ODc4NzY5JnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax03.png" group-title="📺 VIP SPORT",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax3/playlist.m3u8
-https://cdnsv1.bunnycdncloud.com/ball67/monomax3/th-sport/monomax3/chunks.m3u8
-https://cdnsv1.bunnycdncloud.com/ball67/monomax3/playlist.m3u8
-https://r3-sn-5fo-c37ed15.googleuservideo.com/ball24tv_s1/monomax3_480p/playlist.m3u8
+https://r3-sn-5fo-c37ed15.googleuservideo.com/ball24tv_s1/monomax3_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgMTo0ODoyNSBBTSZoYXNoX3ZhbHVlPVM5QWh3cy9CbGk2ZVFNb2VaZk42RWc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNSZpZD0zNzEwODc=
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax04.png" group-title="📺 VIP SPORT",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
+https://r3-sn-5fo-c37ed15.googleuservideo.com/ball24tv_s1/monomax4_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgMTo0OTo0NyBBTSZoYXNoX3ZhbHVlPUMxRnp4V1NjZlJVMjNOam1TYW5jNXc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNSZpZD02NDcxNDk=
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax05.png" group-title="📺 VIP SPORT",MONOMAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
