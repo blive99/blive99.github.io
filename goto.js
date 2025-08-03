@@ -82,16 +82,16 @@ http://45.144.165.187:8080/live/playidtv/12345/46907.m3u8
 http://45.144.165.187:8080/live/playidtv/12345/15665.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png" group-title="📺 VIP SPORT",TRUE SPORT 1
 #EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/16/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+https://dolive.thaim3u.com/doodii-live/siamsport-4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 2
 #EXTVLCOPT:http-referrer=https://keela2.com
-https://keela3.com/stream/83/index.m3u8?token=J5iyZmyDDiw7NdQm
+https://dolive.thaim3u.com/doodii-live/siamsport-5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 3
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://keela2.com/stream/18/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 4
 #EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/19/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+https://dolive.thaim3u.com/doodii-live/siamsport-7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 5
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://keela2.com/stream/20/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
@@ -2318,8 +2318,12 @@ https://serverdatam3u8.com/movie/M15364.mp4/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://ufa365movie.com/wp-content/uploads/2025/07/4.jpg" group-title="📺 ดูหนังออนไลน์" ,Dora And The Search For Sol Dorado (2025) ดอร่ากับการผจญภัยโซลดอราโด้
 #EXTVLCOPT:http-referrer=https://movie345hd.com/
 https://serverdatam3u8.com/movie/M15373.mp4/chunk.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://movie345hd.com/wp-content/uploads/2025/08/1.jpgg" group-title="📺 ดูหนังออนไลน์" ,The Stone (2025) เดอะ สโตน พระแท้ คนเก๊
+https://m1free.inwstream.com:1936/movie4/The_Stone_2025/The_Stone_2025_th_1080.mp4/chunk.m3u8
+#EXTINF:-1 tvg-logo="https://img.fw4free.com/postor/202508020318575rz3NUSHxKIV5mWLrVqiJcUZSAg.jpg" group-title="📺 ดูหนังออนไลน์" ,รถทัวร์วีไอผี VIP Death Seat (2024)
+https://m1free.inwstream.com:1936/movie4/VIP_Death_Seat_2024/VIP_Death_Seat_2024_th_1080.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/07/The-Fantastic-Four-First-Steps-2025-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%81%E0%B8%97%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-4-%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-187x269.png" group-title="📺 ดูหนังออนไลน์" ,The Fantastic Four First Steps (2025) เดอะ แฟนแทสติก 4 จุดเริ่มต้นปฐมบท
+https://main.24playerhd.com/newplaylist/4f2068078ffe65ecc6564fc7/4f2068078ffe65ecc6564fc7.m3u8
 
 --------------------------------------------------------------------------------------
 ####DOOMSERIES####
