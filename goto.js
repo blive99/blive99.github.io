@@ -35,34 +35,39 @@ https://keela3.com/stream/41/index.m3u8?token=J5iyZmyDDiw7NdQm
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fw4free.com/
+#EXTVLCOPT:http-referrer=https://99dooball.com/
 https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax1/playlist.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_1HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax02.png" group-title="📺 VIP SPORT",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fw4free.com/
+#EXTVLCOPT:http-referrer=https://99dooball.com/
 https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax2/chunks.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax2/playlist.m3u8
 https://219.livedoomovies.com:4431/Monomax_Live_1HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax03.png" group-title="📺 VIP SPORT",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax3/chunks.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax3/playlist.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_3HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax04.png" group-title="📺 VIP SPORT",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fw4free.com/
+#EXTVLCOPT:http-referrer=https://99dooball.com/
 https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax4/chunks.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_4HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax05.png" group-title="📺 VIP SPORT",MONOMAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fw4free.com/
+#EXTVLCOPT:http-referrer=https://99dooball.com/
 https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax5/chunks.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_5HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MONO SPORT 1" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax03.png" group-title="📺 VIP SPORT",MONO MAX SPORT 3
@@ -2404,11 +2409,11 @@ https://main.24playerhd.com/newplaylist/fa5b84dcdef32772326a30ba/fa5b84dcdef3277
 https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="test",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://99dooball.com/
+#EXTVLCOPT:http-referrer=https://168dooball.net
 https://168dooball.net/live-stream/?mode=ball&ch=monomax1
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="test",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://99dooball.com/
+#EXTVLCOPT:http-referrer=https://www.ball24.tv
 https://www.ball24.tv/allchannel/?id=monomax1
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="test",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
