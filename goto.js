@@ -2400,5 +2400,45 @@ https://main.24playerhd.com/newplaylist/fa5b84dcdef32772326a30ba/fa5b84dcdef3277
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://168dooball.net/live-stream/?mode=ball&ch=monomax1
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://www.ball24.tv/allchannel/?id=monomax1
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/dklsport1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://slave02.appball.vip/hls/ch11.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+http://145.79.8.138:8080/hls/test3.m3u8
+{"name": "Max 1A","image": "https://dookeela2.live/uploads/1753517049.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name": "Max 1B","image": "https://dookeela2.live/uploads/1753517049.png","url": "https://fw4free.inwstream.com/fw4free/ch1.stream/playlist.m3u8", "referer": "https://fw4free.com/","info":"","playInNatPlayer": "true"},
+{"name":"Max 1C", "image":"https://dookeela2.live/uploads/1753517049.png", "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax1", "playInNatPlayer":"true"},
+{"name":"Max 1D", "image":"https://dookeela2.live/uploads/1753517049.png", "url": "https://www.ball24.tv/allchannel/?id=monomax1", "playInNatPlayer":"true"},
+{"name":"Max 1E", "image":"https://dookeela2.live/uploads/1753517049.png", "url": "https://www.ball24.tv/allchannel/?id=monomax1", "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36", "info": "มือถือ", "playInNatPlayer":"true"}, 
+
+
+{"name": "Max 3A","image": "https://dookeela2.live/uploads/1753873776.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/ais-monomax-3/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name":"Max 3B", "image":"https://dookeela2.live/uploads/1753873776.png", "url": "https://www.ball24.tv/allchannel/?id=monomax2", "playInNatPlayer":"true"}, 
+{"name":"Max 3C", "image":"https://dookeela2.live/uploads/1753873776.png", "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax2", "playInNatPlayer":"true"}, 
+
+{"name": "Max 4A","image": "https://dookeela2.live/uploads/1753873817.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/ais-monomax-4/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name":"Max 4B", "image":"https://dookeela2.live/uploads/1753873817.png", "url": "https://slave02.appball.vip/hls/ch11.m3u8", "playInNatPlayer":"true"}, 
+{"name":"Max 4C", "image":"https://dookeela2.live/uploads/1753873817.png", "url": "http://145.79.8.138:8080/hls/test3.m3u8", "referer": "https://dookeela.live/live", "playInNatPlayer":"true"}, 
+
+{"name": "Max 5","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+
+{"name": "Max 6","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://cdn2.aws-live-streaming.com/lsmscore/dklsport1/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+ 
+
