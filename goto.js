@@ -2398,30 +2398,41 @@ https://main.24playerhd.com/newplaylist/fa5b84dcdef32772326a30ba/fa5b84dcdef3277
 --------------------------------------------------------------------------------------
 ####test####
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="test",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="test",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://168dooball.net/live-stream/?mode=ball&ch=monomax1
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="test",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://www.ball24.tv/allchannel/?id=monomax1
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="test",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://cdn2.aws-live-streaming.com/lsmscore/dklsport1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="test",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://slave02.appball.vip/hls/ch11.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="ช่องกีฬาไทย",MONOMAX1
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="test",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 http://145.79.8.138:8080/hls/test3.m3u8
+
+#EXTINF:-1 tvg-name="Rush" tvg-logo="https://dookeela.live/uploads/1741273735.png" group-title="test", Rush
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3
+https://dookeela.live/live-tv/rush-stories
+#EXTINF:-1 tvg-name="Alure Channel" tvg-logo="https://dookeela.live/uploads/1731057748.png" group-title="test", Alure Channel
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3
+https://dookeela.live/live-tv/alure-channel
+
+
 {"name": "Max 1A","image": "https://dookeela2.live/uploads/1753517049.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
 {"name": "Max 1B","image": "https://dookeela2.live/uploads/1753517049.png","url": "https://fw4free.inwstream.com/fw4free/ch1.stream/playlist.m3u8", "referer": "https://fw4free.com/","info":"","playInNatPlayer": "true"},
 {"name":"Max 1C", "image":"https://dookeela2.live/uploads/1753517049.png", "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax1", "playInNatPlayer":"true"},
