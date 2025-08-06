@@ -2423,11 +2423,11 @@ https://slave02.appball.vip/hls/ch11.m3u8
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 http://145.79.8.138:8080/hls/test3.m3u8
 
-#EXTINF:-1 tvg-name="Rush" tvg-logo="https://dookeela.live/uploads/1741273735.png" group-title="test", Rush
+#EXTINF:-1 tvg-name="Rush" tvg-logo="https://dookeela2.live/uploads/1741273735.png" group-title="test", Rush
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3
 https://dookeela2.live/live-tv/rush-stories
-#EXTINF:-1 tvg-name="Alure Channel" tvg-logo="https://dookeela.live/uploads/1731057748.png" group-title="test", Alure Channel
+#EXTINF:-1 tvg-name="Alure Channel" tvg-logo="https://dookeela2.live/uploads/1731057748.png" group-title="test", Alure Channel
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3
 https://dookeela2.live/live-tv/alure-channel
