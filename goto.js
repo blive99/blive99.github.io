@@ -2426,11 +2426,11 @@ http://145.79.8.138:8080/hls/test3.m3u8
 #EXTINF:-1 tvg-name="Rush" tvg-logo="https://dookeela.live/uploads/1741273735.png" group-title="test", Rush
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3
-https://dookeela.live/live-tv/rush-stories
+https://dookeela2.live/live-tv/rush-stories
 #EXTINF:-1 tvg-name="Alure Channel" tvg-logo="https://dookeela.live/uploads/1731057748.png" group-title="test", Alure Channel
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3
-https://dookeela.live/live-tv/alure-channel
+https://dookeela2.live/live-tv/alure-channel
 
 
 {"name": "Max 1A","image": "https://dookeela2.live/uploads/1753517049.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
