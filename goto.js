@@ -36,10 +36,10 @@ https://keela3.com/stream/41/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
-https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax1/playlist.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_1HD/chunklist.m3u8
+https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax02.png" group-title="📺 VIP SPORT",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -784,7 +784,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 ทรูไอดีทีวี", TRUE HISTORY
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 ทรูไอดีทีวี",TRUE DreamWorks 
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/dreamworks/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 ทรูไอดีทีวี",TRUE SPARK PLAY
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
@@ -795,9 +795,7 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/truex-zyte/chunks.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/animal-planet/chunks.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/discovery-asia/chunks.m3u8
-#EXTINF:-1 tvg-id="1477" tvg-name="History (TH)" tvg-logo="http://45.144.165.187:8080/images/af21208dc3c604549a12e8d12ab0e283.png" group-title="📺 ทรูไอดีทีวี",History (TH)
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/history/chunks.m3u8
-#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Crime%2BInvestigation_logo_2013.png" group-title="📺 ทรูไอดีทีวี",CrimeInvestigation
+#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Crime%2BInvestigation_logo_2013.png" group-title="📺 ทรูไอดีทีวี",TRUE CrimeInvestigation
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/crime-investigation/chunks.m3u8
 
 
@@ -1629,7 +1627,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/wwe.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-#EXTINF:-1 tvg-ID="" tvg-name="ID ▎ANIPLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Aniplus.svg/revision/latest/smart/width/386/height/259?cb=20240505213033" group-title="📺 ดูการ์ตูนทีวี",ID ▎ANIPLUS
+#EXTINF:-1 tvg-ID="" tvg-name="ID ▎ANIPLUS" tvg-logo="https://dookeela2.live/uploads/1749743199.png" group-title="📺 ดูการ์ตูนทีวี", ANIPLUS
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/anipluschannel/chunks.m3u8
 #EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี" tvg-id="Cartoonito.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",Cartoonito
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/cartoonito/chunks.m3u8
@@ -1637,6 +1635,8 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/cartoonito/chunks.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/cartoon-network/chunks.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://dookeela2.live/uploads/1721687729.png" group-title="📺 ดูการ์ตูนทีวี",Moonbug th
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/moonbug/chunks.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://dookeela2.live/uploads/1709573298.png" group-title="📺 ดูการ์ตูนทีวี",CBeebies
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/cbeebies/chunks.m3u8
 
 #EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี" tvg-logo="https://i.postimg.cc/yWqNWZf5/Mr-Bean.png",Mr. Bean
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
@@ -1714,12 +1714,8 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/disney-channel/chunks.m3u8
 
 #EXTINF:-1 group-title="📺 หนังและบันเทิง"tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="📺 หนังและบันเทิง", True Crime+Investigation
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
-#EXTINF:-1 group-title="📺 หนังและบันเทิง"tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 หนังและบันเทิง",BBCLifestyle
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueBBCLIFESTYLE.m3u8
-#EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="📺 หนังและบันเทิง",TRUE Lifetime
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
-#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="📺 หนังและบันเทิง",True Asian Foon Channel
-https://bestcommt2.github.io/m3u8/true/trueasianfoonchannel.m3u8
+
+
 
 #EXTINF:-1 group-title="📺 หนังและบันเทิง" tvg-logo="https://i.ibb.co/pBHghpSx/237x0-icon.png",Superrix
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
@@ -1859,51 +1855,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 group-title="📺 หนังและบันเทิง"tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill
 #https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
------------------------------------------------------------------------------------------------------------------------------------------
 
-###music box###
-
-#EXTINF:-1 tvg-id=""  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Thaichaiyo_2012.png" group-title="📺 ฟังเพลง",ไทชัยโย
-https://live.thaichaiyo.tv/tcy/live-manifest.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://w7.pngwing.com/pngs/758/128/png-transparent-television-channel-music-box-ua-streaming-television-others-television-emblem-text.png" group-title="📺 ฟังเพลง",MUSIC BOX
-https://bestcommt2.github.io/m3u8/music%20box.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/JRrw8YxS/M2-ROCK.png" group-title="📺 ฟังเพลง",M2rock HD
-http://49.0.64.96:8007/M2ROCK
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/LDmsSMbz/M4-jazz.png" group-title="📺 ฟังเพลง",M4JAZZ HD
-http://49.0.64.96:8007/M4JAZZ
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/GQBG7k8D/M6-country.png" group-title="📺 ฟังเพลง",M6country HD
-http://49.0.64.96:8007/M6COUNTRY
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" group-title="📺 ฟังเพลง",MTV UK
-http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/422.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/XfqdPGcV/kisspng-viacom-media-networks-television-channel-mtv-live-lam-radio-hd-5b3af928812e35-20983841153059.png" group-title="📺 ฟังเพลง",MTV LIVE US
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/xSLWNbLz/kisspng-logo-viacom-media-networks-mtv-television-graphic-mtv-logo-5b3724b452b681-064230281530340532.png" group-title="📺 ฟังเพลง",MTV US
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98471110cca20007d39f76/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b53-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=81574af2-8af4-46c8-8d63-00cbea99cbf5
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="📺 ฟังเพลง",RetroMusicTV
-https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/nrWNyLc.jpeg" group-title="📺 ฟังเพลง",OckoGold
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/512px-%C3%93%C4%8Dko_Expres_logo.png" group-title="📺 ฟังเพลง",OckoGold
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_mq.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="📺 ฟังเพลง", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/200px-NOW_Rock_logo.png",NOW ROCK
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co.com/NpQc5Sv/K-Pop.jpg" group-title="📺 ฟังเพลง", KPOP PLAY
-https://live.24hrkpop.com/hls/3/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZbDC2h2l8cNdnXt4Q4Hgu_r1rvhBOpmGLR8k9jUwmA&s" group-title="📺 ฟังเพลง",New K-Pop
-https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ZECK MUSIK vevo" tvg-id="ZECK MUSIK vevo" group-title="📺 ฟังเพลง" tvg-logo="https://i.ibb.co/Kr3FMb8/vevo.jpg",Vevo
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="📺 ฟังเพลง"", MTV 
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-
-#EXTINF:-1 tvg-id="MTVLive.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png" group-title="📺 ฟังเพลง",MTV Live HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ###Documentary###
@@ -1925,20 +1877,19 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/thainess/chunks.m3u8
 
 
 #EXTINF:-1 channel-id="656535fc2c46f30008870fae" tvg-id="656535fc2c46f30008870fae" tvg-chno="3560" tvg-name="BBC Earth" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" group-title="📺 สารคดีรอบโลก", BBC Earth
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bbc-earth/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bbc-earth/chunks.m3u8
 #EXTINF:-1 tvg-id="4030" tvg-name="BBC Earth" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6868-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=218" group-title="📺 สารคดีรอบโลก",BBC Earth
 https://stream2.aws-live-streaming.com/bbs/bbc-earth/playlist.m3u8
 #EXTINF:-1 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 สารคดีรอบโลก",BBCLifestyle TH
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueBBCLIFESTYLE.m3u8
-
+#EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="📺 หนังและบันเทิง",TRUE Lifetime
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
+#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="📺 หนังและบันเทิง",True Asian Foon Channel
+https://bestcommt2.github.io/m3u8/true/trueasianfoonchannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksMk8dyv/diy.png" group-title="📺 สารคดีรอบโลก",DIY Network
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="📺 สารคดีรอบโลก" tvg-id="AFN Network" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",AFN Network
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://bestcommt2.github.io/m3u8/ASIA%20Food%20Network.m3u8
 
 #EXTINF:-1 channel-id="563a970aa1a1f7fe7c9daad7" tvg-id="563a970aa1a1f7fe7c9daad7" tvg-chno="3110" tvg-name="Pluto TV Science" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="📺 สารคดีรอบโลก", Pluto TV Science
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
@@ -2020,7 +1971,51 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54e483f5e4b0b2f20e6bceb2/1506453010727-3K82IMBN91KM2UKQW3TX/smithsonian-channel.png" group-title="📺 สารคดีรอบโลก" tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects", Smithsonian Channel
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 
+###music box###
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Thaichaiyo_2012.png" group-title="📺 ฟังเพลง",ไทชัยโย
+https://live.thaichaiyo.tv/tcy/live-manifest.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://w7.pngwing.com/pngs/758/128/png-transparent-television-channel-music-box-ua-streaming-television-others-television-emblem-text.png" group-title="📺 ฟังเพลง",MUSIC BOX
+https://bestcommt2.github.io/m3u8/music%20box.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/JRrw8YxS/M2-ROCK.png" group-title="📺 ฟังเพลง",M2rock HD
+http://49.0.64.96:8007/M2ROCK
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/LDmsSMbz/M4-jazz.png" group-title="📺 ฟังเพลง",M4JAZZ HD
+http://49.0.64.96:8007/M4JAZZ
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/GQBG7k8D/M6-country.png" group-title="📺 ฟังเพลง",M6country HD
+http://49.0.64.96:8007/M6COUNTRY
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" group-title="📺 ฟังเพลง",MTV UK
+http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/422.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/XfqdPGcV/kisspng-viacom-media-networks-television-channel-mtv-live-lam-radio-hd-5b3af928812e35-20983841153059.png" group-title="📺 ฟังเพลง",MTV LIVE US
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/xSLWNbLz/kisspng-logo-viacom-media-networks-mtv-television-graphic-mtv-logo-5b3724b452b681-064230281530340532.png" group-title="📺 ฟังเพลง",MTV US
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98471110cca20007d39f76/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b53-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=81574af2-8af4-46c8-8d63-00cbea99cbf5
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="📺 ฟังเพลง",RetroMusicTV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/nrWNyLc.jpeg" group-title="📺 ฟังเพลง",OckoGold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/512px-%C3%93%C4%8Dko_Expres_logo.png" group-title="📺 ฟังเพลง",OckoGold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_mq.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="📺 ฟังเพลง", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/200px-NOW_Rock_logo.png",NOW ROCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co.com/NpQc5Sv/K-Pop.jpg" group-title="📺 ฟังเพลง", KPOP PLAY
+https://live.24hrkpop.com/hls/3/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZbDC2h2l8cNdnXt4Q4Hgu_r1rvhBOpmGLR8k9jUwmA&s" group-title="📺 ฟังเพลง",New K-Pop
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ZECK MUSIK vevo" tvg-id="ZECK MUSIK vevo" group-title="📺 ฟังเพลง" tvg-logo="https://i.ibb.co/Kr3FMb8/vevo.jpg",Vevo
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="📺 ฟังเพลง"", MTV 
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="MTVLive.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png" group-title="📺 ฟังเพลง",MTV Live HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 -----------------------------------------------------------------------------------------
 ###NEWS###
 
