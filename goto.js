@@ -1696,7 +1696,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8
 
 #EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี"   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVfKsOCHZW1jzOsGZydivGZP2ZDwROxtPdWQ&usqp=CAU",Disney Junior NO 24/7
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/disney-junior/chunks.m3u8
-#EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
+#EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี"   tvg-logo="https://dookeela2.live/uploads/1716361978.png",Disney Channel
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/disney-channel/chunks.m3u8
 
 #EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbxe5sIiySX5-PgYL5nGo334cNGlHE8D4EQ&usqp=CAU" ,BabyBus - Kids Songs and Cartoons
@@ -1827,8 +1827,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4gNhVWH.png?v=1.1.1.1" group-title="📺 หนังและบันเทิง"tvg-id="Warner.id" tvg-name="Warner TV", Warner TV
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/warnertv/chunks.m3u8
 
