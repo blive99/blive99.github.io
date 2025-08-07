@@ -1830,25 +1830,28 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4gNhVWH.png?v=1.1.1.1" group-title="📺 หนังและบันเทิง"tvg-id="Warner.id" tvg-name="Warner TV", Warner TV
-#https://warningfm.github.io/v3/live/str/Mov/warner.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/warnertv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="📺 หนังและบันเทิง"tvg-id="mjh-ahm-FAST" tvg-name="Action Hollywood Movies", Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="📺 หนังและบันเทิง"tvg-logo="https://dookeela2.live/uploads/1718690264.png",ROCK Action TH
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/rock-action/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="📺 หนังและบันเทิง"tvg-logo="https://dookeela2.live/uploads/1718690283.png",ROCK ENTERTAINMENT TH
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/rock-entertainment/chunks.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="HITS.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg" group-title="📺 หนังและบันเทิง",Hits
-#https://liveaneviadev.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="📺 หนังและบันเทิง"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",HITS Movies
-#https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits-movies/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1875,16 +1878,17 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/mysci/chunks.m3u8
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/thainess/chunks.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="📺 สารคดีรอบโลก", TLC TH
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tlc/chunks.m3u8
 #EXTINF:-1 channel-id="656535fc2c46f30008870fae" tvg-id="656535fc2c46f30008870fae" tvg-chno="3560" tvg-name="BBC Earth" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" group-title="📺 สารคดีรอบโลก", BBC Earth
 #https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bbc-earth/chunks.m3u8
 #EXTINF:-1 tvg-id="4030" tvg-name="BBC Earth" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6868-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=218" group-title="📺 สารคดีรอบโลก",BBC Earth
 https://stream2.aws-live-streaming.com/bbs/bbc-earth/playlist.m3u8
 #EXTINF:-1 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 สารคดีรอบโลก",BBCLifestyle TH
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueBBCLIFESTYLE.m3u8
-#EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="📺 หนังและบันเทิง",TRUE Lifetime
+#EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="📺 สารคดีรอบโลก",TRUE Lifetime
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
-#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="📺 หนังและบันเทิง",True Asian Foon Channel
+#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="📺 สารคดีรอบโลก",True Asian Foon Channel
 https://bestcommt2.github.io/m3u8/true/trueasianfoonchannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksMk8dyv/diy.png" group-title="📺 สารคดีรอบโลก",DIY Network
