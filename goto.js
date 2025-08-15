@@ -314,23 +314,23 @@ http://playid.ddnsgeek.com:8080/thaihd/12345/15672
 http://playid.ddnsgeek.com:8080/thaihd/12345/37
 --------------------------------------------------------------------------------------
 ###BallThai###
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="Thai League",PLAY SPORTS FOOTBALL 1
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
 http://playid.ddnsgeek.com:8080/thaihd/12345/41222
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 2" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="Thai League",PLAY SPORTS FOOTBALL 2
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 2" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
 http://playid.ddnsgeek.com:8080/thaihd/12345/46796
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 3" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="Thai League",PLAY SPORTS FOOTBALL 3
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 3" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
 http://playid.ddnsgeek.com:8080/thaihd/12345/50365
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 4" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="Thai League",PLAY SPORTS FOOTBALL 4
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 4" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
 http://playid.ddnsgeek.com:8080/thaihd/12345/51219
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 5" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="Thai League",PLAY SPORTS FOOTBALL 5
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 5" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
 http://playid.ddnsgeek.com:8080/thaihd/12345/51235
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 6" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="Thai League",PLAY SPORTS FOOTBALL 6
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 6" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
 http://playid.ddnsgeek.com:8080/thaihd/12345/51236
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 7" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="Thai League",PLAY SPORTS FOOTBALL 7
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 7" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
 http://playid.ddnsgeek.com:8080/thaihd/12345/51237
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 8" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="Thai League",PLAY SPORTS FOOTBALL 8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 8" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
 http://playid.ddnsgeek.com:8080/thaihd/12345/51238
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="Thai League",PLAY SPORTS FOOTBALL 9
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
 http://playid.ddnsgeek.com:8080/thaihd/12345/51239
 #EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 1
 #EXTVLCOPT:http-referrer=https://keela2.com
