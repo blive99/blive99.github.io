@@ -19,6 +19,7 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 
 ###VIP SPORT###
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/ONE.jfif" group-title="📺 VIP SPORT",ONE Championship
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
 https://sport.livedoomovies.com:4432/02_ONE_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://45.144.165.223/logo/vbtv1.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL 1
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
@@ -332,6 +333,24 @@ http://playid.ddnsgeek.com:8080/thaihd/12345/51237
 http://playid.ddnsgeek.com:8080/thaihd/12345/51238
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
 http://playid.ddnsgeek.com:8080/thaihd/12345/51239
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 2" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 3" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball3/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 4" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball4/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 5" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball5/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 6" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball6/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 7" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball7/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 8" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball8/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball9/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 1
 #EXTVLCOPT:http-referrer=https://keela2.com
 #https://keela2.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
@@ -353,96 +372,6 @@ http://playid.ddnsgeek.com:8080/thaihd/12345/51239
 #EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 8
 #EXTVLCOPT:http-referrer=https://keela2.com
 #https://keela2.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai1/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai1/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-1/chunks.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",BallThai2
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai2/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",BallThai2
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai2/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",BallThai2
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-2/chunks.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai3
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai3/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai3
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai3/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai3
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-3/chunks.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",BallThai4
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai4/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",BallThai4
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai4/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",BallThai4
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-4/chunks.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp",BallThai5
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai5/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp",BallThai5
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai5/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp",BallThai5
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-5/chunks.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp",BallThai6
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai6/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp",BallThai6
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai6/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp",BallThai6
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-6/chunks.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp",BallThai7
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai7/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp",BallThai7
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai7/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp",BallThai7
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-7/chunks.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp",BallThai8
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai8/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp",BallThai8
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai8/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp",BallThai8
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-8/chunks.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp",BallThai9
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai9/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp",BallThai9
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai9/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp",BallThai9
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-9/chunks.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai10
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai10/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai10
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai10/playlist.m3u8
-#EXTINF:-1 group-title="📺 ไทยพรีเมียร์" tvg-id="📺 ไทยพรีเมียร์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai10
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-10/chunks.m3u8
 
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
