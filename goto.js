@@ -1272,6 +1272,22 @@ https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
 
+#EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL1.m3u8
+#EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL2.m3u8
+#EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL3.m3u8
+#EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL4.m3u8
+#EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL5.m3u8
+
 #EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-id="beinsports1thailand.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png", Bein Sports 1-livescorethai
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/bein1.stream/playlist.m3u8
