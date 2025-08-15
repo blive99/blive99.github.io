@@ -82,6 +82,16 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
 https://sport.livedoomovies.com:4432/Monomax_Live_6HD/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MONOMAX 7" tvg-logo="http://103.114.203.129:8080/images/1e027b07c0170facd7cd7b396caee3eb.png" group-title="📺 VIP SPORT",MONOMAX 7
+http://playid.ddnsgeek.com:8080/thaihd/12345/51187
+#EXTINF:-1 tvg-id="Play Sports HD1" tvg-name="MONOMAX 8" tvg-logo="http://103.114.203.129:8080/images/5089355ae929078a89c14d585c550b00.png" group-title="📺 VIP SPORT",MONOMAX 8
+http://playid.ddnsgeek.com:8080/thaihd/12345/46773
+#EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="http://103.114.203.129:8080/images/dc20fe47b48b622680bae85e94f60785.png" group-title="📺 VIP SPORT",MONOMAX 9
+http://playid.ddnsgeek.com:8080/thaihd/12345/113
+#EXTINF:-1 tvg-id="true-ball-thai-2" tvg-name="MONOMAX 10" tvg-logo="http://103.114.203.129:8080/images/d7691285da9aff5acc8839acd8c9b293.png" group-title="📺 VIP SPORT",MONOMAX 10
+http://playid.ddnsgeek.com:8080/thaihd/12345/114
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="http://103.114.203.129:8080/images/fe0a71f3659eac0b4b6602dab4e3419d.png" group-title="📺 VIP SPORT",MONOMAX 11
+http://playid.ddnsgeek.com:8080/thaihd/12345/115
 
 #EXTINF:-1 tvg-id="iptv36.mono29" tvg-name="Mono 29 FHD" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/mono29.png" group-title="📺 VIP SPORT",Mono 29 FHD
 https://stream2.aws-live-streaming.com/bbs/mono29/playlist.m3u8
@@ -129,7 +139,7 @@ https://keela3.com/stream/101/index.m3u8?token=J5iyZmyDDiw7NdQm
 https://stream2.aws-live-streaming.com/bbs/trueidsports1/playlist.m3u8
 #EXTINF:-1 tvg-id="9574" tvg-name="LFC TV" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/uk-liverpool.jpg" group-title="📺 VIP SPORT",LFC TV
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/lfctv/chunks.m3u8
+https://live.vpnhosted.com/LFCTV_HD/index.m3u8?token=ebc039573be17beca9b37e8cff39b7d6
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/uk-mutv.jpg" group-title="📺 VIP SPORT",MUTV
 https://keela3.com/stream/85/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png" group-title="📺 VIP SPORT",Real Madrid TV
@@ -266,8 +276,62 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/alure-channel/chunks.m3u8
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/rush-stories/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="EFM" tvg-logo="http://103.114.203.129:8080/images/040749fd333bd938ee4dd101fed87f6e.png" group-title="📺 PREMIUM PLAY TV",EFM
+http://playid.ddnsgeek.com:8080/thaihd/12345/49801
+#EXTINF:-1 tvg-id="" tvg-name="PLAYID ซีรีย์`ไทย" tvg-logo="http://103.114.203.129:8080/images/e10af3f934e832297997b709c38f80dd.png" group-title="📺 PREMIUM PLAY TV",PLAYID ซีรีย์`ไทย
+http://playid.ddnsgeek.com:8080/thaihd/12345/18833
+#EXTINF:-1 tvg-id="" tvg-name="PLAYID รวมเป็นต่อ" tvg-logo="http://103.114.203.129:8080/images/20d4a4f84994a352b713603d9418ea74.png" group-title="📺 PREMIUM PLAY TV",PLAYID รวมเป็นต่อ
+http://playid.ddnsgeek.com:8080/thaihd/12345/18876
+#EXTINF:-1 tvg-id="" tvg-name="โคนัน วันพีซ" tvg-logo="http://103.114.203.129:8080/images/1d4e86e5eebde94659bef41687fdc193.jpg" group-title="📺 PREMIUM PLAY TV",โคนัน วันพีซ
+http://playid.ddnsgeek.com:8080/thaihd/12345/15674
+#EXTINF:-1 tvg-id="" tvg-name="PlayID Series พากย์ไทย" tvg-logo="http://103.114.203.129:8080/images/fb214d22f4290d63a2acb24735eae56a.png" group-title="📺 PREMIUM PLAY TV",PlayID Series พากย์ไทย
+http://playid.ddnsgeek.com:8080/thaihd/12345/17239
+#EXTINF:-1 tvg-id="" tvg-name="ทีวี ดาวเทียม infosat" tvg-logo="" group-title="📺 PREMIUM PLAY TV",ทีวี ดาวเทียม infosat
+http://playid.ddnsgeek.com:8080/thaihd/12345/19220
+#EXTINF:-1 tvg-id="" tvg-name="PlayID Series " tvg-logo="http://103.114.203.129:8080/images/750f4832564f212f32eb69f22a5c5041.png" group-title="📺 PREMIUM PLAY TV",PlayID Series 
+http://playid.ddnsgeek.com:8080/thaihd/12345/9199
+#EXTINF:-1 tvg-id="369724" tvg-name="อนิเมะการ์ตูน" tvg-logo="http://103.114.203.129:8080/images/40503a438c549be836b6f04169b332a0.png" group-title="📺 PREMIUM PLAY TV",อนิเมะการ์ตูน
+http://playid.ddnsgeek.com:8080/thaihd/12345/11041
+#EXTINF:-1 tvg-id="" tvg-name="PlayID สารคดีไอที" tvg-logo="http://103.114.203.129:8080/images/9959c00f53506fd7c939602b2db87da3.png" group-title="📺 PREMIUM PLAY TV",PlayID สารคดีไอที
+http://playid.ddnsgeek.com:8080/thaihd/12345/11042
+#EXTINF:-1 tvg-id="" tvg-name="netflix สารคดี" tvg-logo="http://103.114.203.129:8080/images/9dc23f250cf096b06912e98e927a7645.png" group-title="📺 PREMIUM PLAY TV",netflix สารคดี
+http://playid.ddnsgeek.com:8080/thaihd/12345/46
+#EXTINF:-1 tvg-id="" tvg-name="PlayID Universal" tvg-logo="http://103.114.203.129:8080/images/27c484beb0b9ac59752534a62191bc37.png" group-title="📺 PREMIUM PLAY TV",PlayID Universal
+http://playid.ddnsgeek.com:8080/thaihd/12345/17237
+#EXTINF:-1 tvg-id="" tvg-name="PlayID MOVIE 2K/4K" tvg-logo="http://103.114.203.129:8080/images/a0f6d13b1cb8e0e893437df4b35e1fcf.png" group-title="📺 PREMIUM PLAY TV",PlayID MOVIE 2K/4K
+http://playid.ddnsgeek.com:8080/thaihd/12345/17788
+#EXTINF:-1 tvg-id="" tvg-name="PLAYID MOVIE 2" tvg-logo="http://103.114.203.129:8080/images/b0a9e98b08fae1c2de0d9d15a7031f48.png" group-title="📺 PREMIUM PLAY TV",PLAYID MOVIE 2
+http://playid.ddnsgeek.com:8080/thaihd/12345/40448
+#EXTINF:-1 tvg-id="" tvg-name="PlayID MOVIE 3" tvg-logo="https://i.ibb.co/1tdYdYFv/20250415-120622.png" group-title="📺 PREMIUM PLAY TV",PlayID MOVIE 3
+http://playid.ddnsgeek.com:8080/thaihd/12345/11055
+#EXTINF:-1 tvg-id="" tvg-name="PlayID HITS " tvg-logo="http://103.114.203.129:8080/images/6f7ed462c1495ffe276e0f53fd06cd5f.png" group-title="📺 PREMIUM PLAY TV",PlayID HITS 
+http://playid.ddnsgeek.com:8080/thaihd/12345/17715
+#EXTINF:-1 tvg-id="368396" tvg-name="PlayID Blockbuster" tvg-logo="http://103.114.203.129:8080/images/907c34563fd992634bf88398017ea841.png" group-title="📺 PREMIUM PLAY TV",PlayID Blockbuster
+http://playid.ddnsgeek.com:8080/thaihd/12345/76
+#EXTINF:-1 tvg-id="" tvg-name="PLAYID สยองขวัญ " tvg-logo="http://103.114.203.129:8080/images/40503a438c549be836b6f04169b332a0.png" group-title="📺 PREMIUM PLAY TV",PLAYID สยองขวัญ 
+http://playid.ddnsgeek.com:8080/thaihd/12345/15672
+#EXTINF:-1 tvg-id="" tvg-name="iPLAY Media" tvg-logo="http://103.114.203.129:8080/images/4035a212af50c4accbc7f7743dda0c2e.png" group-title="📺 PREMIUM PLAY TV",iPLAY Media
+http://playid.ddnsgeek.com:8080/thaihd/12345/37
 --------------------------------------------------------------------------------------
 ###BallThai###
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="Thai League",PLAY SPORTS FOOTBALL 1
+http://playid.ddnsgeek.com:8080/thaihd/12345/41222
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 2" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="Thai League",PLAY SPORTS FOOTBALL 2
+http://playid.ddnsgeek.com:8080/thaihd/12345/46796
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 3" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="Thai League",PLAY SPORTS FOOTBALL 3
+http://playid.ddnsgeek.com:8080/thaihd/12345/50365
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 4" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="Thai League",PLAY SPORTS FOOTBALL 4
+http://playid.ddnsgeek.com:8080/thaihd/12345/51219
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 5" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="Thai League",PLAY SPORTS FOOTBALL 5
+http://playid.ddnsgeek.com:8080/thaihd/12345/51235
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 6" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="Thai League",PLAY SPORTS FOOTBALL 6
+http://playid.ddnsgeek.com:8080/thaihd/12345/51236
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 7" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="Thai League",PLAY SPORTS FOOTBALL 7
+http://playid.ddnsgeek.com:8080/thaihd/12345/51237
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 8" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="Thai League",PLAY SPORTS FOOTBALL 8
+http://playid.ddnsgeek.com:8080/thaihd/12345/51238
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="Thai League",PLAY SPORTS FOOTBALL 9
+http://playid.ddnsgeek.com:8080/thaihd/12345/51239
 #EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 1
 #EXTVLCOPT:http-referrer=https://keela2.com
 #https://keela2.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
