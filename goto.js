@@ -35,7 +35,7 @@ https://sport.livedoomovies.com:4432/02_ONE_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-A
 https://keela3.com/stream/41/index.m3u8?token=J5iyZmyDDiw7NdQm
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax01.png" group-title="📺 VIP SPORT",MONOMAX1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport1.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
@@ -44,7 +44,7 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax1/playlist.m3u8
 https://219.livedoomovies.com:4431/Monomax_Live_1HD/chunklist.m3u8
 https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax02.png" group-title="📺 VIP SPORT",MONOMAX2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport2.png" group-title="📺 VIP SPORT",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://stream2.aws-live-streaming.com/bbs/ais-monomax-2/playlist.m3u8
@@ -52,7 +52,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/monomax2/chunks.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-2/playlist.m3u8
 https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
 https://219.livedoomovies.com:4431/Monomax_Live_2HD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax03.png" group-title="📺 VIP SPORT",MONOMAX3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport3.png" group-title="📺 VIP SPORT",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://stream2.aws-live-streaming.com/bbs/ais-monomax-3/playlist.m3u8
@@ -61,7 +61,7 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-3/playlist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax3/chunks.m3u8
 https://sport.livedoomovies.com:4432/Monomax_Live_3HD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax04.png" group-title="📺 VIP SPORT",MONOMAX4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport4.png" group-title="📺 VIP SPORT",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://stream2.aws-live-streaming.com/bbs/ais-monomax-4/playlist.m3u8
@@ -70,16 +70,16 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-4/playlist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax4/chunks.m3u8
 https://sport.livedoomovies.com:4432/Monomax_Live_4HD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax05.png" group-title="📺 VIP SPORT",MONOMAX5
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport5.png" group-title="📺 VIP SPORT",MONOMAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax5/chunks.m3u8
 https://sport.livedoomovies.com:4432/Monomax_Live_5HD/chunklist.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax06.png" group-title="📺 VIP SPORT",MONOMAX6
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport6.png" group-title="📺 VIP SPORT",MONOMAX6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://99dooball.com/
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
 https://sport.livedoomovies.com:4432/Monomax_Live_6HD/chunklist.m3u8
 
 
@@ -127,10 +127,10 @@ https://keela2.com/stream/3/index.m3u8?token=mvFWafOIir5JDlQN
 https://keela3.com/stream/101/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-logo="https://dookeela2.live/uploads/1743311087.png" group-title="📺 VIP SPORT", Trueidsport1
 https://stream2.aws-live-streaming.com/bbs/trueidsports1/playlist.m3u8
-#EXTINF:-1 tvg-id="9574" tvg-name="LFC TV" tvg-logo="http://45.144.165.187:8080/live/images/4fb9719b588d646530cf83eac4ec6080.png" group-title="📺 VIP SPORT",LFC TV
+#EXTINF:-1 tvg-id="9574" tvg-name="LFC TV" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/uk-liverpool.jpg" group-title="📺 VIP SPORT",LFC TV
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/lfctv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://w7.pngwing.com/pngs/507/428/png-transparent-mutv-hd-logo-thumbnail.png" group-title="📺 VIP SPORT",MUTV
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/uk-mutv.jpg" group-title="📺 VIP SPORT",MUTV
 https://keela3.com/stream/85/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png" group-title="📺 VIP SPORT",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
