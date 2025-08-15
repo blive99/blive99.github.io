@@ -351,28 +351,68 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball7/chunks.m3u
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball8/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball9/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 1
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 2
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/23/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 3
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/24/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 5
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/26/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 6
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/27/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 7
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://truegether.true.th/hubfs/assets_pages/entertainment/images/Logo-TVS-NOW_BALL-THAI.png" group-title="📺 ไทยพรีเมียร์",TRUE BallThai 8
-#EXTVLCOPT:http-referrer=https://keela2.com
-#https://keela2.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
-
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 2" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 3" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 4" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 5" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 6" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 7" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 8" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax9/playlist.m3u8
+#EXTINF:-1 tvg-name="PlaysportsFootball1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball2" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball3" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball4" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball5" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball6" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball7" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball8" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL008/HLS/TL008.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball8" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL009/HLS/TL009.m3u8 
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
 
