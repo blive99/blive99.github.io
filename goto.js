@@ -1315,19 +1315,19 @@ https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
 
 #EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1
 #EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
-https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL1.m3u8
+https://bestcommt2.github.io/m3u8/EPL1.m3u8
 #EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2
 #EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
-https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL2.m3u8
+https://bestcommt2.github.io/m3u8/EPL2.m3u8
 #EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
 #EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
-https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL3.m3u8
+https://bestcommt2.github.io/m3u8/EPL3.m3u8
 #EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
 #EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
-https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL4.m3u8
+https://bestcommt2.github.io/m3u8/EPL4.m3u8
 #EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
 #EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
-https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL5.m3u8
+https://bestcommt2.github.io/m3u8/EPL5.m3u8
 #EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/epl1_sd/playlist.m3u8
