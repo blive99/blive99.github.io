@@ -42,7 +42,7 @@ https://keela3.com/stream/41/index.m3u8?token=J5iyZmyDDiw7NdQm
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax1/playlist.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax1/playlist.m3u8
 https://playid.vercel.app/sports/max1.m3u8
-https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax-1/chunks.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax1/playlist.m3u8
 
 https://delicate-hall-d108.wirdytv.workers.dev/Monomax_Live_1HD/chunklist.m3u8
@@ -56,7 +56,6 @@ https://stream2.aws-live-streaming.com/bbs/ais-monomax-2/playlist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax-2/chunks.m3u8
 https://playid.vercel.app/sports/max2.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-2/playlist.m3u8
-
 https://delicate-hall-d108.wirdytv.workers.dev/Monomax_Live_2HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport03.png" group-title="📺 VIP SPORT",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1675,10 +1674,10 @@ https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
 
 
 
-#EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/BC.png",Boomerang CARTOON
+#EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/BC.png",Boomerang CARTOON
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
-#EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/BoomThailand2025.png",Boomerang
+#EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี"tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/BoomThailand2025.png",Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
