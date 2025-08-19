@@ -43,36 +43,36 @@ http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax1/playlist.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax1/playlist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax1/playlist.m3u8
+https://playid.vercel.app/sports/max1.m3u8
 https://delicate-hall-d108.wirdytv.workers.dev/Monomax_Live_1HD/chunklist.m3u8
-https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport02.png" group-title="📺 VIP SPORT",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-2/playlist.m3u8
 https://stream2.aws-live-streaming.com/bbs/ais-monomax-2/playlist.m3u8
-https://cdn2.aws-live-streaming.com/lsmscore/monomax2/chunks.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax-2/chunks.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-2/playlist.m3u8
-https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
+https://playid.vercel.app/sports/max2.m3u8
 https://delicate-hall-d108.wirdytv.workers.dev/Monomax_Live_2HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport03.png" group-title="📺 VIP SPORT",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-3/playlist.m3u8
 https://stream2.aws-live-streaming.com/bbs/ais-monomax-3/playlist.m3u8
-https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-3/playlist.m3u8
-https://cdn2.aws-live-streaming.com/lsmscore/monomax3/chunks.m3u8
+https://playid.vercel.app/sports/max3.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax-3/chunks.m3u8
 https://sport.livedoomovies.com:4432/Monomax_Live_3HD/chunklist.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport04.png" group-title="📺 VIP SPORT",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-4/playlist.m3u8
 https://stream2.aws-live-streaming.com/bbs/ais-monomax-4/playlist.m3u8
-https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-4/playlist.m3u8
-https://cdn2.aws-live-streaming.com/lsmscore/monomax4/chunks.m3u8
+https://playid.vercel.app/sports/max4.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax-4/chunks.m3u8
 https://sport.livedoomovies.com:4432/Monomax_Live_4HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport05.png" group-title="📺 VIP SPORT",MONOMAX5
@@ -80,8 +80,8 @@ https://sport.livedoomovies.com:4432/Monomax_Live_4HD/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-5/playlist.m3u8
 https://cdn1.googlecdn.live:8081/ballsod24hrs/monomax5/playlist.m3u8
-https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
-https://cdn2.aws-live-streaming.com/lsmscore/monomax5/chunks.m3u8
+https://playid.vercel.app/sports/max5.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax-5/chunks.m3u8
 https://sport.livedoomovies.com:4432/Monomax_Live_5HD/chunklist.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport06.png" group-title="📺 VIP SPORT",MONOMAX6
@@ -1667,11 +1667,12 @@ https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
 
 
 
-#EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี" tvg-logo="https://i.ibb.co/RpQdDxCS/logo-boom-ANIME.png",BOOM ANIME
+#EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/BC.png",Boomerang CARTOON
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png" group-title="📺 ดูการ์ตูนทีวี",boomerang
+#EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/BoomThailand2025.png",Boomerang
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
-
 
 
 
