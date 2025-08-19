@@ -2272,22 +2272,16 @@ https://main.24playerhd.com/newplaylist/b09126699cc146571e77d4a6/b09126699cc1465
 https://m1free.inwstream.com:1936/movie4/Brick_2025/Brick_2025_TH_1080p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2umax.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth.webp" group-title="📺 ดูหนังออนไลน์" ,Jurassic World Rebirth (2025) จูราสสิค เวิลด์ กำเนิดชีวิตใหม่
 https://m4-txt-2.xdomovie247.com/playlist2/detail/ddb9b5cfgNjT4/1080/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://2umax.com/wp-content/uploads/2025/07/Superman-2025.webp" group-title="📺 ดูหนังออนไลน์" ,ซูเปอร์แมน (2025) Superman
-#EXTVLCOPT:http-referrer=https://movie345hd.com/
-https://serverdatam3u8.com/movie/M15378.mp4/chunk.m3u8
-#EXTINF:-1 tvg-logo="https://ufa365movie.com/wp-content/uploads/2025/06/2-8.jpg" group-title="📺 ดูหนังออนไลน์" ,M3GAN 2.0 (2025) เมแกน 2.0
-#EXTVLCOPT:http-referrer=https://movie345hd.com/
-https://serverdatam3u8.com/movie/M15364.mp4/chunk.m3u8
-#EXTINF:-1 tvg-logo="https://ufa365movie.com/wp-content/uploads/2025/07/4.jpg" group-title="📺 ดูหนังออนไลน์" ,Dora And The Search For Sol Dorado (2025) ดอร่ากับการผจญภัยโซลดอราโด้
-#EXTVLCOPT:http-referrer=https://movie345hd.com/
-https://serverdatam3u8.com/movie/M15373.mp4/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://movie345hd.com/wp-content/uploads/2025/08/1.jpgg" group-title="📺 ดูหนังออนไลน์" ,The Stone (2025) เดอะ สโตน พระแท้ คนเก๊
 https://m1free.inwstream.com:1936/movie4/The_Stone_2025/The_Stone_2025_th_1080.mp4/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://img.fw4free.com/postor/202508020318575rz3NUSHxKIV5mWLrVqiJcUZSAg.jpg" group-title="📺 ดูหนังออนไลน์" ,รถทัวร์วีไอผี VIP Death Seat (2024)
 https://m1free.inwstream.com:1936/movie4/VIP_Death_Seat_2024/VIP_Death_Seat_2024_th_1080.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/07/The-Fantastic-Four-First-Steps-2025-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%81%E0%B8%97%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-4-%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-187x269.png" group-title="📺 ดูหนังออนไลน์" ,The Fantastic Four First Steps (2025) เดอะ แฟนแทสติก 4 จุดเริ่มต้นปฐมบท
-https://main.24playerhd.com/newplaylist/4f2068078ffe65ecc6564fc7/4f2068078ffe65ecc6564fc7.m3u8
-
+https://main.24playerhd.com/newplaylist/4f2068078ffe65ecc6564fc7/4f2068078ffe65ecc6564fc7438.m3u8
+#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Halabala-2025-%E0%B8%AE%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%B2-%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Halabala (2025) ฮาลาบาลา ป่าจิตหลุด
+https://main.24playerhd.com/newplaylist/d9d9d1f7f521fb0512be1103/d9d9d1f7f521fb0512be1103438.m3u8
+#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Tha-Rae-The-Exorcist-2025-%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B9%88-300x450.png" group-title="📺 ดูหนังออนไลน์" ,TTha Rae The Exorcist (2025) ท่าแร่
+https://main.24playerhd.com/newplaylist/dd7d3db252acca508c9d5c6f/dd7d3db252acca508c9d5c6f438.m3u8
 
 --------------------------------------------------------------------------------------
 ####DOOMSERIES####
