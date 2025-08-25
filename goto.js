@@ -33,34 +33,33 @@ http://103.114.203.129:8080/viptv/12345/51379
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax1/playlist.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax1/playlist.m3u8
 https://playid.vercel.app/sports/max1.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax-1/chunks.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax1/playlist.m3u8
-
+https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
 https://delicate-hall-d108.wirdytv.workers.dev/Monomax_Live_1HD/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport02.png" group-title="📺 VIP SPORT",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn1.googlecdnforstreaming.live/live/monomax2/chunks.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-2/playlist.m3u8
 https://stream2.aws-live-streaming.com/bbs/ais-monomax-2/playlist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax-2/chunks.m3u8
 https://playid.vercel.app/sports/max2.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-2/playlist.m3u8
+https://cdn1.googlecdnforstreaming.live/live/monomax2/chunks.m3u8
 https://delicate-hall-d108.wirdytv.workers.dev/Monomax_Live_2HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport03.png" group-title="📺 VIP SPORT",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
-https://cdn1.googlecdnforstreaming.live/live/monomax3/chunks.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-3/playlist.m3u8
 https://playid.vercel.app/sports/max3.m3u8
 https://stream2.aws-live-streaming.com/bbs/ais-monomax-3/playlist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax-3/chunks.m3u8
+https://cdn1.googlecdnforstreaming.live/live/monomax3/chunks.m3u8
 https://sport.livedoomovies.com:4432/Monomax_Live_3HD/chunklist.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-3/playlist.m3u8
 
