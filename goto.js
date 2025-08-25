@@ -44,47 +44,49 @@ https://delicate-hall-d108.wirdytv.workers.dev/Monomax_Live_1HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport02.png" group-title="📺 VIP SPORT",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://99dooball.com/
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax2/playlist.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-2/playlist.m3u8
 https://stream2.aws-live-streaming.com/bbs/ais-monomax-2/playlist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax-2/chunks.m3u8
 https://playid.vercel.app/sports/max2.m3u8
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-2/playlist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax2/chunks.m3u8
 https://delicate-hall-d108.wirdytv.workers.dev/Monomax_Live_2HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport03.png" group-title="📺 VIP SPORT",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fw4free.com/
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax3/playlist.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-3/playlist.m3u8
 https://playid.vercel.app/sports/max3.m3u8
 https://stream2.aws-live-streaming.com/bbs/ais-monomax-3/playlist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax-3/chunks.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax3/chunks.m3u8
 https://sport.livedoomovies.com:4432/Monomax_Live_3HD/chunklist.m3u8
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-3/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport04.png" group-title="📺 VIP SPORT",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://99dooball.com/
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax4/playlist.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-4/playlist.m3u8
 https://playid.vercel.app/sports/max4.m3u8
 https://stream2.aws-live-streaming.com/bbs/ais-monomax-4/playlist.m3u8
-https://playid.vercel.app/sports/max4.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax-4/chunks.m3u8
 https://sport.livedoomovies.com:4432/Monomax_Live_4HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport05.png" group-title="📺 VIP SPORT",MONOMAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax5/playlist.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-5/playlist.m3u8
 https://playid.vercel.app/sports/max5.m3u8
 https://cdn1.googlecdn.live:8081/ballsod24hrs/monomax5/playlist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/monomax-5/chunks.m3u8
 https://sport.livedoomovies.com:4432/Monomax_Live_5HD/chunklist.m3u8
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ais-monomax-5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport06.png" group-title="📺 VIP SPORT",MONOMAX6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax6/playlist.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-6/playlist.m3u8
 https://playid.vercel.app/sports/max6.m3u8
 https://sport.livedoomovies.com:4432/Monomax_Live_6HD/chunklist.m3u8
