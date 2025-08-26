@@ -2308,6 +2308,12 @@ https://main.24playerhd.com/newplaylist/4f2068078ffe65ecc6564fc7/4f2068078ffe65e
 https://main.24playerhd.com/newplaylist/d9d9d1f7f521fb0512be1103/d9d9d1f7f521fb0512be1103438.m3u8
 #EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Tha-Rae-The-Exorcist-2025-%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B9%88-300x450.png" group-title="📺 ดูหนังออนไลน์" ,TTha Rae The Exorcist (2025) ท่าแร่
 https://main.24playerhd.com/newplaylist/dd7d3db252acca508c9d5c6f/dd7d3db252acca508c9d5c6f438.m3u8
+#EXTINF:-1 tvg-logo="https://de88.me/wp-content/uploads/2025/08/%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B0%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A32025GoldRushGang-692x1024.jpg" group-title="📺 ดูหนังออนไลน์" ,เขาชุมทอง คะนองชุมโจร Gold Rush Gang HD พากย์ไทย เต็มเรื่อง
+https://12.dedkub.cyou/hd/720/1494-Gold.Rush.Gang.2025.mp4
+#EXTINF:-1 tvg-logo="https://de88.me/wp-content/uploads/2025/08/%E0%B8%AE%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%942025Halabala-692x1024.jpg" group-title="📺 ดูหนังออนไลน์" ,เฮาลาบาลา ป่าจิตหลุด (2025) Halabala
+https://10.dedkub.cyou/hd/720/1486-Halabala.Survival.Cut.2025.mp4
+#EXTINF:-1 tvg-logo="https://de88.me/wp-content/uploads/2025/08/Ironheart2025%E0%B9%84%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95.jpg" group-title="📺 ดูหนังออนไลน์" ,เIronheart (2025) ไอรอนฮาร์ต ปี 1
+https://11.dedkub.cyou/Ironheart/S01E01.mp4
 
 --------------------------------------------------------------------------------------
 ####DOOMSERIES####
