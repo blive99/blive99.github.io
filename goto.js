@@ -129,25 +129,25 @@ https://www.livedoomovies.com/Monomax_PL_6HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX 7" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport07.png" group-title="📺 VIP SPORT",MONOMAX 7
 http://bestcommt2.github.io/m3u8/monomax7.m3u8
-http://playid.ddnsgeek.com:8080/thaihd/12345/51187
+http://45.144.165.187:8080/xtreamvip/12345/51187
 https://playid.vercel.app/sports/max7.m3u8
 https://www.livedoomovies.com/Monomax_Live_7HD/chunklist.m3u8
 https://www.livedoomovies.com/Monomax_PL_7HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="Play Sports HD1" tvg-name="MONOMAX 8" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png" group-title="📺 VIP SPORT",MONOMAX 8
 http://bestcommt2.github.io/m3u8/monomax8.m3u8
-http://playid.ddnsgeek.com:8080/thaihd/12345/46773
+http://45.144.165.187:8080/xtreamvip/12345/46773
 https://playid.vercel.app/sports/max8.m3u8
 https://www.livedoomovies.com/Monomax_Live_8HD/chunklist.m3u8
 https://www.livedoomovies.com/Monomax_PL_8HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport09.png" group-title="📺 VIP SPORT",MONOMAX 9
 http://bestcommt2.github.io/m3u8/monomax9.m3u8
-http://playid.ddnsgeek.com:8080/thaihd/12345/113
+http://45.144.165.187:8080/xtreamvip/12345/113
 https://playid.vercel.app/sports/max9.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-2" tvg-name="MONOMAX 10" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport010.png" group-title="📺 VIP SPORT",MONOMAX 10
-http://playid.ddnsgeek.com:8080/thaihd/12345/114
+http://45.144.165.187:8080/xtreamvip/12345/114
 https://playid.vercel.app/sports/max10.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport011.png" group-title="📺 VIP SPORT",MONOMAX 11
-http://playid.ddnsgeek.com:8080/thaihd/12345/115
+http://45.144.165.187:8080/xtreamvip/12345/115
 
 
 #EXTINF:-1 tvg-id="6390" tvg-name="WWE" tvg-logo="http://45.150.128.170:8080/images/d3dd954c50df599b69e1d40946be583b.png" group-title="📺 VIP SPORT",WWE
@@ -324,150 +324,150 @@ http://45.144.165.223:9090/memfs/b312e2fa-74a8-41e3-9466-1beb5c9afda8.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/iqiyi/chunks.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/xGSyeMdB8E2L2W05mZ5BnFeeOWOOa6iJ.png",Alure-channel
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/thaihd/12345/49830
+http://45.144.165.187:8080/xtreamvip/12345/10380
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/ANp2vVsSLLRzwpYR7vqlXF6TxJWKSm0L.png",Rush-stories
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/thaihd/12345/49831
+http://45.144.165.187:8080/xtreamvip/12345/9200
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png" group-title="📺 PREMIUM PLAY TV",Zหนัง​
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/at
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EFM" tvg-logo="http://103.114.203.129:8080/images/040749fd333bd938ee4dd101fed87f6e.png" group-title="📺 PREMIUM PLAY TV",EFM
-http://playid.ddnsgeek.com:8080/thaihd/12345/49801
-#EXTINF:-1 tvg-id="" tvg-name="PLAYID ซีรีย์`ไทย" tvg-logo="http://103.114.203.129:8080/images/e10af3f934e832297997b709c38f80dd.png" group-title="📺 PREMIUM PLAY TV",PLAYID ซีรีย์`ไทย
-http://playid.ddnsgeek.com:8080/thaihd/12345/18833
-#EXTINF:-1 tvg-id="" tvg-name="PLAYID รวมเป็นต่อ" tvg-logo="http://103.114.203.129:8080/images/20d4a4f84994a352b713603d9418ea74.png" group-title="📺 PREMIUM PLAY TV",PLAYID รวมเป็นต่อ
-http://playid.ddnsgeek.com:8080/thaihd/12345/18876
-#EXTINF:-1 tvg-id="" tvg-name="โคนัน วันพีซ" tvg-logo="http://103.114.203.129:8080/images/1d4e86e5eebde94659bef41687fdc193.jpg" group-title="📺 PREMIUM PLAY TV",โคนัน วันพีซ
-http://playid.ddnsgeek.com:8080/thaihd/12345/15674
-#EXTINF:-1 tvg-id="" tvg-name="PlayID Series พากย์ไทย" tvg-logo="http://103.114.203.129:8080/images/fb214d22f4290d63a2acb24735eae56a.png" group-title="📺 PREMIUM PLAY TV",PlayID Series พากย์ไทย
-http://playid.ddnsgeek.com:8080/thaihd/12345/17239
+#EXTINF:-1 tvg-id="" tvg-name="EFM" tvg-logo="http://45.144.165.187:8080/images/040749fd333bd938ee4dd101fed87f6e.png" group-title="📺 PREMIUM PLAY TV",EFM
+http://45.144.165.187:8080/xtreamvip/12345/49801
+#EXTINF:-1 tvg-id="" tvg-name="PLAYID ซีรีย์`ไทย" tvg-logo="http://45.144.165.187:8080/images/e10af3f934e832297997b709c38f80dd.png" group-title="📺 PREMIUM PLAY TV",PLAYID ซีรีย์`ไทย
+http://45.144.165.187:8080/xtreamvip/12345/18833
+#EXTINF:-1 tvg-id="" tvg-name="PLAYID รวมเป็นต่อ" tvg-logo="http://45.144.165.187:8080/images/20d4a4f84994a352b713603d9418ea74.png" group-title="📺 PREMIUM PLAY TV",PLAYID รวมเป็นต่อ
+http://45.144.165.187:8080/xtreamvip/12345/18876
+#EXTINF:-1 tvg-id="" tvg-name="โคนัน วันพีซ" tvg-logo="http://45.144.165.187:8080/images/1d4e86e5eebde94659bef41687fdc193.jpg" group-title="📺 PREMIUM PLAY TV",โคนัน วันพีซ
+http://45.144.165.187:8080/xtreamvip/12345/15674
+#EXTINF:-1 tvg-id="" tvg-name="PlayID Series พากย์ไทย" tvg-logo="http://45.144.165.187:8080/images/fb214d22f4290d63a2acb24735eae56a.png" group-title="📺 PREMIUM PLAY TV",PlayID Series พากย์ไทย
+http://45.144.165.187:8080/xtreamvip/12345/17239
 #EXTINF:-1 tvg-id="" tvg-name="ทีวี ดาวเทียม infosat" tvg-logo="" group-title="📺 PREMIUM PLAY TV",ทีวี ดาวเทียม infosat
-http://playid.ddnsgeek.com:8080/thaihd/12345/19220
-#EXTINF:-1 tvg-id="" tvg-name="PlayID Series " tvg-logo="http://103.114.203.129:8080/images/750f4832564f212f32eb69f22a5c5041.png" group-title="📺 PREMIUM PLAY TV",PlayID Series 
-http://playid.ddnsgeek.com:8080/thaihd/12345/9199
-#EXTINF:-1 tvg-id="369724" tvg-name="อนิเมะการ์ตูน" tvg-logo="http://103.114.203.129:8080/images/40503a438c549be836b6f04169b332a0.png" group-title="📺 PREMIUM PLAY TV",อนิเมะการ์ตูน
-http://playid.ddnsgeek.com:8080/thaihd/12345/11041
-#EXTINF:-1 tvg-id="" tvg-name="PlayID สารคดีไอที" tvg-logo="http://103.114.203.129:8080/images/9959c00f53506fd7c939602b2db87da3.png" group-title="📺 PREMIUM PLAY TV",PlayID สารคดีไอที
-http://playid.ddnsgeek.com:8080/thaihd/12345/11042
-#EXTINF:-1 tvg-id="" tvg-name="netflix สารคดี" tvg-logo="http://103.114.203.129:8080/images/9dc23f250cf096b06912e98e927a7645.png" group-title="📺 PREMIUM PLAY TV",netflix สารคดี
-http://playid.ddnsgeek.com:8080/thaihd/12345/46
-#EXTINF:-1 tvg-id="" tvg-name="PlayID Universal" tvg-logo="http://103.114.203.129:8080/images/27c484beb0b9ac59752534a62191bc37.png" group-title="📺 PREMIUM PLAY TV",PlayID Universal
-http://playid.ddnsgeek.com:8080/thaihd/12345/17237
-#EXTINF:-1 tvg-id="" tvg-name="PlayID MOVIE 2K/4K" tvg-logo="http://103.114.203.129:8080/images/a0f6d13b1cb8e0e893437df4b35e1fcf.png" group-title="📺 PREMIUM PLAY TV",PlayID MOVIE 2K/4K
-http://playid.ddnsgeek.com:8080/thaihd/12345/17788
-#EXTINF:-1 tvg-id="" tvg-name="PLAYID MOVIE 2" tvg-logo="http://103.114.203.129:8080/images/b0a9e98b08fae1c2de0d9d15a7031f48.png" group-title="📺 PREMIUM PLAY TV",PLAYID MOVIE 2
-http://playid.ddnsgeek.com:8080/thaihd/12345/40448
+http://45.144.165.187:8080/xtreamvip/12345/19220
+#EXTINF:-1 tvg-id="" tvg-name="PlayID Series " tvg-logo="http://45.144.165.187:8080/images/750f4832564f212f32eb69f22a5c5041.png" group-title="📺 PREMIUM PLAY TV",PlayID Series 
+http://45.144.165.187:8080/xtreamvip/12345/9199
+#EXTINF:-1 tvg-id="369724" tvg-name="อนิเมะการ์ตูน" tvg-logo="http://45.144.165.187:8080/images/40503a438c549be836b6f04169b332a0.png" group-title="📺 PREMIUM PLAY TV",อนิเมะการ์ตูน
+http://45.144.165.187:8080/xtreamvip/12345/11041
+#EXTINF:-1 tvg-id="" tvg-name="PlayID สารคดีไอที" tvg-logo="http://45.144.165.187:8080/images/9959c00f53506fd7c939602b2db87da3.png" group-title="📺 PREMIUM PLAY TV",PlayID สารคดีไอที
+http://45.144.165.187:8080/xtreamvip/12345/11042
+#EXTINF:-1 tvg-id="" tvg-name="netflix สารคดี" tvg-logo="http://45.144.165.187:8080/images/9dc23f250cf096b06912e98e927a7645.png" group-title="📺 PREMIUM PLAY TV",netflix สารคดี
+http://45.144.165.187:8080/xtreamvip/12345/46
+#EXTINF:-1 tvg-id="" tvg-name="PlayID Universal" tvg-logo="http://45.144.165.187:8080/images/27c484beb0b9ac59752534a62191bc37.png" group-title="📺 PREMIUM PLAY TV",PlayID Universal
+http://45.144.165.187:8080/xtreamvip/12345/17237
+#EXTINF:-1 tvg-id="" tvg-name="PlayID MOVIE 2K/4K" tvg-logo="http://45.144.165.187:8080/images/a0f6d13b1cb8e0e893437df4b35e1fcf.png" group-title="📺 PREMIUM PLAY TV",PlayID MOVIE 2K/4K
+http://45.144.165.187:8080/xtreamvip/12345/17788
+#EXTINF:-1 tvg-id="" tvg-name="PLAYID MOVIE 2" tvg-logo="http://45.144.165.187:8080/images/b0a9e98b08fae1c2de0d9d15a7031f48.png" group-title="📺 PREMIUM PLAY TV",PLAYID MOVIE 2
+http://45.144.165.187:8080/xtreamvip/12345/40448
 #EXTINF:-1 tvg-id="" tvg-name="PlayID MOVIE 3" tvg-logo="https://i.ibb.co/1tdYdYFv/20250415-120622.png" group-title="📺 PREMIUM PLAY TV",PlayID MOVIE 3
-http://playid.ddnsgeek.com:8080/thaihd/12345/11055
-#EXTINF:-1 tvg-id="" tvg-name="PlayID HITS " tvg-logo="http://103.114.203.129:8080/images/6f7ed462c1495ffe276e0f53fd06cd5f.png" group-title="📺 PREMIUM PLAY TV",PlayID HITS 
-http://playid.ddnsgeek.com:8080/thaihd/12345/17715
-#EXTINF:-1 tvg-id="368396" tvg-name="PlayID Blockbuster" tvg-logo="http://103.114.203.129:8080/images/907c34563fd992634bf88398017ea841.png" group-title="📺 PREMIUM PLAY TV",PlayID Blockbuster
-http://playid.ddnsgeek.com:8080/thaihd/12345/76
-#EXTINF:-1 tvg-id="" tvg-name="PLAYID สยองขวัญ " tvg-logo="http://103.114.203.129:8080/images/40503a438c549be836b6f04169b332a0.png" group-title="📺 PREMIUM PLAY TV",PLAYID สยองขวัญ 
-http://playid.ddnsgeek.com:8080/thaihd/12345/15672
-#EXTINF:-1 tvg-id="" tvg-name="iPLAY Media" tvg-logo="http://103.114.203.129:8080/images/4035a212af50c4accbc7f7743dda0c2e.png" group-title="📺 PREMIUM PLAY TV",iPLAY Media
-http://playid.ddnsgeek.com:8080/thaihd/12345/37
-#EXTINF:-1 tvg-id="" tvg-name="PLAY IDTV หนังหลายภาค" tvg-logo="http://103.114.203.129:8080/images/b0a9e98b08fae1c2de0d9d15a7031f48.png" group-title="📺 PREMIUM PLAY TV",PLAY IDTV หนังหลายภาค
-http://playid.ddnsgeek.com:8080/thaihd/12345/40448
-#EXTINF:-1 tvg-id="" tvg-name="PlayID MOVIE 3" tvg-logo="http://103.114.203.129:8080/images/29efb2063241af95e4ee6c5fb75c5119.png" group-title="📺 PREMIUM PLAY TV",PlayID MOVIE 3
-http://playid.ddnsgeek.com:8080/thaihd/12345/11055
+http://45.144.165.187:8080/xtreamvip/12345/11055
+#EXTINF:-1 tvg-id="" tvg-name="PlayID HITS " tvg-logo="http://45.144.165.187:8080/images/6f7ed462c1495ffe276e0f53fd06cd5f.png" group-title="📺 PREMIUM PLAY TV",PlayID HITS 
+http://45.144.165.187:8080/xtreamvip/12345/17715
+#EXTINF:-1 tvg-id="368396" tvg-name="PlayID Blockbuster" tvg-logo="http://45.144.165.187:8080/images/907c34563fd992634bf88398017ea841.png" group-title="📺 PREMIUM PLAY TV",PlayID Blockbuster
+http://45.144.165.187:8080/xtreamvip/12345/76
+#EXTINF:-1 tvg-id="" tvg-name="PLAYID สยองขวัญ " tvg-logo="http://45.144.165.187:8080/images/40503a438c549be836b6f04169b332a0.png" group-title="📺 PREMIUM PLAY TV",PLAYID สยองขวัญ 
+http://45.144.165.187:8080/xtreamvip/12345/15672
+#EXTINF:-1 tvg-id="" tvg-name="iPLAY Media" tvg-logo="http://45.144.165.187:8080/images/4035a212af50c4accbc7f7743dda0c2e.png" group-title="📺 PREMIUM PLAY TV",iPLAY Media
+http://45.144.165.187:8080/xtreamvip/12345/37
+#EXTINF:-1 tvg-id="" tvg-name="PLAY IDTV หนังหลายภาค" tvg-logo="http://45.144.165.187:8080/images/b0a9e98b08fae1c2de0d9d15a7031f48.png" group-title="📺 PREMIUM PLAY TV",PLAY IDTV หนังหลายภาค
+http://45.144.165.187:8080/xtreamvip/12345/40448
+#EXTINF:-1 tvg-id="" tvg-name="PlayID MOVIE 3" tvg-logo="http://45.144.165.187:8080/images/29efb2063241af95e4ee6c5fb75c5119.png" group-title="📺 PREMIUM PLAY TV",PlayID MOVIE 3
+http://45.144.165.187:8080/xtreamvip/12345/11055
 --------------------------------------------------------------------------------------
 ###BallThai###
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
-http://playid.ddnsgeek.com:8080/thaihd/12345/41222
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 2" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
-http://playid.ddnsgeek.com:8080/thaihd/12345/46796
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 3" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
-http://playid.ddnsgeek.com:8080/thaihd/12345/50365
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 4" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
-http://playid.ddnsgeek.com:8080/thaihd/12345/51219
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 5" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
-http://playid.ddnsgeek.com:8080/thaihd/12345/51235
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 6" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
-http://playid.ddnsgeek.com:8080/thaihd/12345/51236
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 7" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
-http://playid.ddnsgeek.com:8080/thaihd/12345/51237
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 8" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
-http://playid.ddnsgeek.com:8080/thaihd/12345/51238
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
-http://playid.ddnsgeek.com:8080/thaihd/12345/51239
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://45.144.165.187:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
+http://45.144.165.187:8080/xtreamvip/12345/41222
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 2" tvg-logo="http://45.144.165.187:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+http://45.144.165.187:8080/xtreamvip/12345/46796
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 3" tvg-logo="http://45.144.165.187:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
+http://45.144.165.187:8080/xtreamvip/12345/50365
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 4" tvg-logo="http://45.144.165.187:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
+http://45.144.165.187:8080/xtreamvip/12345/51219
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 5" tvg-logo="http://45.144.165.187:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
+http://45.144.165.187:8080/xtreamvip/12345/51235
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 6" tvg-logo="http://45.144.165.187:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
+http://45.144.165.187:8080/xtreamvip/12345/51236
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 7" tvg-logo="http://45.144.165.187:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
+http://45.144.165.187:8080/xtreamvip/12345/51237
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 8" tvg-logo="http://45.144.165.187:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
+http://45.144.165.187:8080/xtreamvip/12345/51238
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://45.144.165.187:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
+http://45.144.165.187:8080/xtreamvip/12345/51239
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://45.144.165.187:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 2" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 2" tvg-logo="http://45.144.165.187:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 3" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 3" tvg-logo="http://45.144.165.187:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball3/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 4" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 4" tvg-logo="http://45.144.165.187:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball4/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 5" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 5" tvg-logo="http://45.144.165.187:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball5/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 6" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 6" tvg-logo="http://45.144.165.187:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball6/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 7" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 7" tvg-logo="http://45.144.165.187:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball7/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 8" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 8" tvg-logo="http://45.144.165.187:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball8/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://45.144.165.187:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/playsportsfootball9/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://45.144.165.187:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 2" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 2" tvg-logo="http://45.144.165.187:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 3" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 3" tvg-logo="http://45.144.165.187:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 4" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 4" tvg-logo="http://45.144.165.187:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 5" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 5" tvg-logo="http://45.144.165.187:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 6" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 6" tvg-logo="http://45.144.165.187:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 7" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 7" tvg-logo="http://45.144.165.187:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 8" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 8" tvg-logo="http://45.144.165.187:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://45.144.165.187:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax9/playlist.m3u8
-#EXTINF:-1 tvg-name="PlaysportsFootball1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
+#EXTINF:-1 tvg-name="PlaysportsFootball1" tvg-logo="http://45.144.165.187:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8 
-#EXTINF:-1 tvg-name="PlaysportsFootball2" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+#EXTINF:-1 tvg-name="PlaysportsFootball2" tvg-logo="http://45.144.165.187:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8 
-#EXTINF:-1 tvg-name="PlaysportsFootball3" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
+#EXTINF:-1 tvg-name="PlaysportsFootball3" tvg-logo="http://45.144.165.187:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8 
-#EXTINF:-1 tvg-name="PlaysportsFootball4" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
+#EXTINF:-1 tvg-name="PlaysportsFootball4" tvg-logo="http://45.144.165.187:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8 
-#EXTINF:-1 tvg-name="PlaysportsFootball5" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
+#EXTINF:-1 tvg-name="PlaysportsFootball5" tvg-logo="http://45.144.165.187:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8 
-#EXTINF:-1 tvg-name="PlaysportsFootball6" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
+#EXTINF:-1 tvg-name="PlaysportsFootball6" tvg-logo="http://45.144.165.187:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8 
-#EXTINF:-1 tvg-name="PlaysportsFootball7" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
+#EXTINF:-1 tvg-name="PlaysportsFootball7" tvg-logo="http://45.144.165.187:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8 
-#EXTINF:-1 tvg-name="PlaysportsFootball8" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
+#EXTINF:-1 tvg-name="PlaysportsFootball8" tvg-logo="http://45.144.165.187:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL008/HLS/TL008.m3u8 
-#EXTINF:-1 tvg-name="PlaysportsFootball8" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
+#EXTINF:-1 tvg-name="PlaysportsFootball8" tvg-logo="http://45.144.165.187:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL009/HLS/TL009.m3u8 
@@ -551,8 +551,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/sd-tnn2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YATEEM TV" tvg-logo="https://yateem.tv/wp-content/uploads/2019/01/Logo-Header.png" group-title="📺 ทีวีดิจิตอล",YATEEM TV
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="📺 ทีวีดิจิตอล",JKN 18
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 #EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="📺 ทีวีดิจิตอล",News1
@@ -865,24 +863,24 @@ https://bestcommt2.github.io/m3u8/truethaifilm.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
 https://bestcommt2.github.io/m3u8/trueseries.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-http://playid.ddnsgeek.com:8080/thaihd/12345/66
+http://45.144.165.187:8080/xtreamvip/12345/66
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
 https://bestcommt2.github.io/m3u8/truefilm1.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
-http://playid.ddnsgeek.com:8080/thaihd/12345/79
-#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True AsianMore" tvg-logo="http://103.114.203.129:8080/images/29756d07f0f12c09a3df52c3956b3d07.jpg",True Asian More
-http://playid.ddnsgeek.com:8080/thaihd/12345/80
-#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="http://103.114.203.129:8080/images/fa5cfe7f5aab47c8bcf018bd83b4d450.png",True ID Asian Series
+http://45.144.165.187:8080/xtreamvip/12345/79
+#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True AsianMore" tvg-logo="http://45.144.165.187:8080/images/29756d07f0f12c09a3df52c3956b3d07.jpg",True Asian More
+http://45.144.165.187:8080/xtreamvip/12345/80
+#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="http://45.144.165.187:8080/images/fa5cfe7f5aab47c8bcf018bd83b4d450.png",True ID Asian Series
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://playid.ddnsgeek.com:8080/thaihd/12345/65
+http://45.144.165.187:8080/xtreamvip/12345/65
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="📺 ทรูไอดีทีวี",True Film Asia
 https://bestcommt2.github.io/m3u8/truefilmasia.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://bestcommt2.github.io/m3u8/trueccm.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueExploreWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
-http://playid.ddnsgeek.com:8080/thaihd/12345/47616
+http://45.144.165.187:8080/xtreamvip/12345/47616
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
-http://playid.ddnsgeek.com:8080/thaihd/12345/52
+http://45.144.165.187:8080/xtreamvip/12345/52
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
 https://bestcommt2.github.io/m3u8/trueexploresci.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 ทรูไอดีทีวี",True AXN
@@ -890,23 +888,23 @@ https://bestcommt2.github.io/m3u8/trueAXN.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 ทรูไอดีทีวี", TRUE HISTORY
 https://bestcommt2.github.io/m3u8/trueH2.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 ทรูไอดีทีวี",TRUE DreamWorks 
-http://playid.ddnsgeek.com:8080/thaihd/12345/54
+http://45.144.165.187:8080/xtreamvip/12345/54
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 ทรูไอดีทีวี",TRUE SPARK PLAY
 https://bestcommt2.github.io/m3u8/truesparkplay.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://bestcommt2.github.io/m3u8/truewb.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
-http://playid.ddnsgeek.com:8080/thaihd/12345/82
+http://45.144.165.187:8080/xtreamvip/12345/82
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
-http://playid.ddnsgeek.com:8080/thaihd/12345/83
+http://45.144.165.187:8080/xtreamvip/12345/83
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
-http://playid.ddnsgeek.com:8080/thaihd/12345/44
+http://45.144.165.187:8080/xtreamvip/12345/44
 #EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Crime%2BInvestigation_logo_2013.png" group-title="📺 ทรูไอดีทีวี",TRUE CrimeInvestigation
-http://playid.ddnsgeek.com:8080/thaihd/12345/40450
-#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="http://103.114.203.129:8080/images/29d39c2737e7fabbcc3f5718eb778143.jpg" group-title="📺 ทรูไอดีทีวี",BBC Lifestyles TH
-http://playid.ddnsgeek.com:8080/thaihd/12345/10554
-#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="http://103.114.203.129:8080/images/0cd67ab98341f468fa7c5f8d5cd77b61.jpg" group-title="📺 ทรูไอดีทีวี",Lifetime TH
-http://playid.ddnsgeek.com:8080/thaihd/12345/126
+http://45.144.165.187:8080/xtreamvip/12345/40450
+#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="http://45.144.165.187:8080/images/29d39c2737e7fabbcc3f5718eb778143.jpg" group-title="📺 ทรูไอดีทีวี",BBC Lifestyles TH
+http://45.144.165.187:8080/xtreamvip/12345/10554
+#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="http://45.144.165.187:8080/images/0cd67ab98341f468fa7c5f8d5cd77b61.jpg" group-title="📺 ทรูไอดีทีวี",Lifetime TH
+http://45.144.165.187:8080/xtreamvip/12345/126
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ###AISPLAY###
@@ -1698,15 +1696,15 @@ https://bestcommt2.github.io/m3u8/wwe.m3u8
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 tvg-ID="" tvg-name="ID ▎ANIPLUS" tvg-logo="https://dookeela2.live/uploads/1749743199.png" group-title="📺 ดูการ์ตูนทีวี", ANIPLUS
-http://playid.ddnsgeek.com:8080/thaihd/12345/49943
+http://45.144.165.187:8080/xtreamvip/12345/49943
 #EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี" tvg-id="Cartoonito.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",Cartoonito
-http://playid.ddnsgeek.com:8080/thaihd/12345/60
+http://45.144.165.187:8080/xtreamvip/12345/60
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="📺 ดูการ์ตูนทีวี",Cartoon Network
 https://bestcommt2.github.io/m3u8/cn.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://dookeela2.live/uploads/1709573298.png" group-title="📺 ดูการ์ตูนทีวี",CBeebies
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/cbeebies/chunks.m3u8
-#EXTINF:-1 tvg-id="89936" tvg-name="Dreamworks" tvg-logo="http://103.114.203.129:8080/images/d54e66ce7b497b5264bd99c575f6403f.png" group-title="📺 ดูการ์ตูนทีวี",Dreamworks
-http://playid.ddnsgeek.com:8080/thaihd/12345/54
+#EXTINF:-1 tvg-id="89936" tvg-name="Dreamworks" tvg-logo="http://45.144.165.187:8080/images/d54e66ce7b497b5264bd99c575f6403f.png" group-title="📺 ดูการ์ตูนทีวี",Dreamworks
+http://45.144.165.187:8080/xtreamvip/12345/54
 
 
 
@@ -1925,13 +1923,13 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits-movies/chunks.m3u8
 https://bestcommt2.github.io/m3u8/khongdeethai.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="📺 สารคดีรอบโลก", Samrujlok GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://playid.ddnsgeek.com:8080/thaihd/12345/51972
+http://45.144.165.187:8080/xtreamvip/12345/51972
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="📺 สารคดีรอบโลก", Animal Show GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://bestcommt2.github.io/m3u8/goodtvanimalshow.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="📺 สารคดีรอบโลก", MySci GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://playid.ddnsgeek.com:8080/thaihd/12345/51971
+http://45.144.165.187:8080/xtreamvip/12345/51971
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="📺 สารคดีรอบโลก", Thainess GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://bestcommt2.github.io/m3u8/goodtvthainess.m3u8
