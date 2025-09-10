@@ -210,26 +210,28 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FWMOV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026006&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6Mjg6MTYgQU0maGFzaF92YWx1ZT1NRkhLc1l1WFRudXlVb1J4Uk5uYTVnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg",FWSOV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026030&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6Mjk6NTEgQU0maGFzaF92YWx1ZT1mMlNJbVFYMDJ5cGd6Z2NTV3RzaGd3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg",FWTOON
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026041&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzA6MDkgQU0maGFzaF92YWx1ZT1XZC9hS2cvZlh0aVpFcEtEVGZnRWlBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg" group-title="📺 PREMIUM PLAY TV", FWDOC
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=
+https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026049&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzA6MzcgQU0maGFzaF92YWx1ZT0zWXNKdkJqbzZ4MGREOWYzYm0xSlZ3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213640FWsport.jpg" group-title="📺 PREMIUM PLAY TV", FWSPORT
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=
+https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026055&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzE6MDEgQU0maGFzaF92YWx1ZT1UV0JjdU5Lb3VuRzRkbXViT3Q0aU53PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1  group-title="📺 PREMIUM PLAY TV" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/SouthernRegion.png",ถิ่นใต้
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDQ6MzA6MjIgQU0maGFzaF92YWx1ZT1tdVhuMk03d2d4RDZVeVN2OGkrYWpnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1  group-title="📺 PREMIUM PLAY TV" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/ISAANTV.png",ทีวีอีสาน
+https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8?nimblesessionid=188026061&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzE6MjAgQU0maGFzaF92YWx1ZT1NVTQ3WHg4ZHJkSW9LTjlSdzExdERRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1  group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20250819112058%E0%B8%A5%E0%B8%9A%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C.png",farm station
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDQ6MzA6MjIgQU0maGFzaF92YWx1ZT1tdVhuMk03d2d4RDZVeVN2OGkrYWpnPT0mdmFsaWRtaW51dGVzPTI=
-
+https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8?nimblesessionid=188026071&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzE6NDMgQU0maGFzaF92YWx1ZT02L0NJSStBRHNCOXVSVU0xTjRsc0dRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213343just_for_laughs_gags.jpg",GAGS
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://freelive2.inwstream.com:1936/freelive-edge/gags_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026097&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzM6MjMgQU0maGFzaF92YWx1ZT1WOHExVjRKM2owOWpqS1FQYXAxVmF3PT0mdmFsaWRtaW51dGVzPTI=
 
 
 
@@ -484,19 +486,19 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL009/HLS/T
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
 #EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="📺 ทีวีดิจิตอล",NBT2 HD
 https://freelive2.inwstream.com:1936/freelive-edge/dtv02_nbthd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_215657.png"group-title="📺 ทีวีดิจิตอล",ช่อง NBT ภาคกลาง
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNlHC8AT7sZOLzCqWT3c-_UzBMH_iQt_7n6qpI5UmkKTfC113-iVTej3Hr2BI1PAPi6A&usqp=CAU"group-title="📺 ทีวีดิจิตอล",ช่อง NBT ภาคกลาง
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_211516.png"group-title="📺 ทีวีดิจิตอล",NBT ภาคอีสาน
+#EXTINF:-1 tvg-logo="https://nbtkhonkaen.prd.go.th/th/file/get/type/thumbnail/file/202502058fa150a9a1e6f99ae474605fe43d742b141732.png"group-title="📺 ทีวีดิจิตอล",NBT ภาคอีสาน
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_211503.png"group-title="📺 ทีวีดิจิตอล",NBT ภาคเหนือ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Jx8WNuSwNQXeMrzQvItTToEgW0w42k4SHA&s"group-title="📺 ทีวีดิจิตอล",NBT ภาคเหนือ
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_211528.png"group-title="📺 ทีวีดิจิตอล",NBT ภาคใต้
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-d8t7MX6bpAbCH3VAvsVpkqZvKfN2d5XR9fFyGosPW-cJ5bBJ4EkxgyFmEIV_TO_TXli2XeGTA=s900-c-k-c0x00ffffff-no-rj"group-title="📺 ทีวีดิจิตอล",NBT ภาคใต้
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="📺 ทีวีดิจิตอล",THAI PBS HD
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="📺 ทีวีดิจิตอล",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="tv5.iptv36.my.to" group-title="📺 ทีวีดิจิตอล" tvg-logo="https://iptv36.my.to/logo/tv5.png",TV5 FHD
+#EXTINF:-1 tvg-chno="7" tvg-id="tv5.iptv36.my.to" group-title="📺 ทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png",TV5 FHD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="📺 ทีวีดิจิตอล",T Sports 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -507,10 +509,11 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 #EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="📺 ทีวีดิจิตอล",TPTV
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="📺 ทีวีดิจิตอล",Nation TV
-http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="📺 ทีวีดิจิตอล",Workpoint
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
-https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+https://global-media.sooplive.com/live/workpoint/master.m3u8
 #EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="📺 ทีวีดิจิตอล",TRUE4U
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -518,22 +521,25 @@ https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 #EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="📺 ทีวีดิจิตอล",GMM 25
-https://freelive.inwstream.com:1936/freelive-edge/dtv25_gmmchannel/playlist.m3u8
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH8" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="📺 ทีวีดิจิตอล",CH8
-https://freelive2.inwstream.com:1936/freelive-edge/dtv27_ch8/playlist.m3u8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="📺 ทีวีดิจิตอล",MONO 29
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="📺 ทีวีดิจิตอล",MCOT HD
-https://freelive.inwstream.com:1936/freelive-edge/dtv30_mcothd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
 #EXTINF:-1 tvg-id="OneHD.th" tvg-name="ONE HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="📺 ทีวีดิจิตอล",ONE HD
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://freelive.inwstream.com:1936/freelive-edge/dtv31_onehd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
 #EXTINF:-1 tvg-id="CH3.th" tvg-name="CH3 HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="📺 ทีวีดิจิตอล",CH3 HD
-https://freelive2.inwstream.com:1936/freelive-edge/dtv33_ch3hd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="📺 ทีวีดิจิตอล",Amarin TV
-https://freelive2.inwstream.com:1936/freelive-edge/dtv34_amarintvhd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="📺 ทีวีดิจิตอล",CH7 HD
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="📺 ทีวีดิจิตอล",PPTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -541,9 +547,8 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="ไทยรัฐทีวี 32" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="📺 ทีวีดิจิตอล" ,ไทยรัฐทีวี 32
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://www.thairath.co.th/
-http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
 #EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/16.png" group-title="📺 ทีวีดิจิตอล", TNN16
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
