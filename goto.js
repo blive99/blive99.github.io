@@ -21,16 +21,16 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/ONE.jfif" group-title="📺 VIP SPORT",ONE Championship
 #EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
 https://sport.livedoomovies.com:4432/02_ONE_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 1" tvg-logo="http://103.114.203.129:8080/images/3e12a29f311fbb4d75f88a5bd398413b.png" group-title="📺 VIP SPORT",FIVB Volleyball 1
+#EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 1" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/SIAMSPORT_1HD.jpg" group-title="📺 VIP SPORT",FIVB Volleyball 1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4432/SIAMSPORT_1HD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 2" tvg-logo="http://103.114.203.129:8080/images/73f2b74242af3641ec1fdec310bb9457.png" group-title="📺 VIP SPORT",FIVB Volleyball 2
+#EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 2" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/SIAMSPORT_2HD.jpg" group-title="📺 VIP SPORT",FIVB Volleyball 2
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4432/SIAMSPORT_2HD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 3" tvg-logo="http://103.114.203.129:8080/images/43cfd287d5e610debeed5ae797f72a35.png" group-title="📺 VIP SPORT",FIVB Volleyball 3
+#EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 3" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/SIAMSPORT_3HD.jpg" group-title="📺 VIP SPORT",FIVB Volleyball 3
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4432/SIAMSPORT_3HD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 4" tvg-logo="http://103.114.203.129:8080/images/327adbeaa6f522e47a282c6133a917b3.png" group-title="📺 VIP SPORT",FIVB Volleyball 4
+#EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 4" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/SIAMSPORT_4HD.jpg" group-title="📺 VIP SPORT",FIVB Volleyball 4
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4432/SIAMSPORT_4HD/chunklist.m3u8
 
@@ -149,14 +149,6 @@ https://playid.vercel.app/sports/max10.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport011.png" group-title="📺 VIP SPORT",MONOMAX 11
 http://playid.ddnsgeek.com:8080/thaihd/12345/115
 
-#EXTINF:-1 tvg-id="iptv36.mono29" tvg-name="Mono 29 FHD" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/mono29.png" group-title="📺 VIP SPORT",Mono 29 FHD
-https://stream2.aws-live-streaming.com/bbs/mono29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MONO PLUS" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/monoplus.png" group-title="📺 VIP SPORT",MONO PLUS
-https://stream2.aws-live-streaming.com/bbs/mono29plus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MONO ASIAN HITS" tvg-logo="https://dookeela2.live/uploads/1703829940.png" group-title="📺 VIP SPORT",MONO ASIAN HITS
-http://playid.ddnsgeek.com:8080/thaihd/12345/46086
-#EXTINF:-1 tvg-id="" tvg-name="MONO MUSIC" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/MONOMAXSPORT/monomusic.png" group-title="📺 VIP SPORT",MONO MUSIC
-http://playid.ddnsgeek.com:8080/thaihd/12345/49832
 
 #EXTINF:-1 tvg-id="6390" tvg-name="WWE" tvg-logo="http://45.150.128.170:8080/images/d3dd954c50df599b69e1d40946be583b.png" group-title="📺 VIP SPORT",WWE
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
