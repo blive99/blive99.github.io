@@ -261,7 +261,7 @@ http://49.0.64.96:8007/WSCI
 #http://45.144.165.223:9090/memfs/2d8a0d34-c005-45f6-9a20-85efe6186a0a.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.144.165.223/logo/ent/intermovie.png" group-title="📺 PREMIUM PLAY TV",อินเตอร์  เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-#http://45.144.165.223:9090/memfs/3ef36d57-1d43-4502-ba80-9453b3bcbf05.m3u8
+https://bestcommt2.github.io/m3u8/truefilm1.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.144.165.223/logo/ent/thaimovie.png",หนังไทย เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 #http://45.144.165.223:9090/memfs/bac4e40a-9545-4c92-b778-c2a836aeab0b.m3u8
@@ -767,7 +767,9 @@ https://bestcommt2.github.io/m3u8/trueseries.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e105.hellotherepadawan.org/v5/H1w6I2lob_vRekoAXwKlOw/1756775851/a523850b6e0c201af21ac0a0393c5eeb/4ILXd-6wPre6M-spdwWZWQ/1756786531/live/vx-origin/sd-moviehits_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
-https://bestcommt2.github.io/m3u8/truefilm1.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la4.hellotherepadawan.org:9305/v5/FZLO6yAFdFYoWife9p3PPA/1757509596/ce46ff92c75725a72f16a690a320d106/o_YM043PfQgmFux2f7LuAQ/1757520276/live/dx-origin/hd-tfilm_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -808,7 +810,9 @@ https://la4.hellotherepadawan.org:9305/v5/N8KqZ7u8p61RfcK12GQvCg/1756776329/a523
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
 http://45.144.165.187:8080/xtreamvip/12345/83
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
-http://45.144.165.187:8080/xtreamvip/12345/44
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e103.hellotherepadawan.org/v5/nsV9PQ4XdBn_IFEX4PtHIQ/1757510120/ce46ff92c75725a72f16a690a320d106/aWO0lfaIqxWg6ERQ99grOA/1757520800/live/vx-origin/hd-discovery_720/chunks.m3u8
 #EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Crime%2BInvestigation_logo_2013.png" group-title="📺 ทรูไอดีทีวี",TRUE CrimeInvestigation
 http://45.144.165.187:8080/xtreamvip/12345/40450
 #EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="http://103.114.203.129:8080/images/29d39c2737e7fabbcc3f5718eb778143.jpg" group-title="📺 ทรูไอดีทีวี",BBC Lifestyles TH
