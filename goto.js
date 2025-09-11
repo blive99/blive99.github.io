@@ -276,7 +276,7 @@ http://bestcommt2.github.io/m3u8/true3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TrueSportHD4
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e102.hellotherepadawan.org/v5/WG54cxPORlDxdpIBeo28Rg/1756823332/0c97fa64d36e19348bb46d25cd9d737e/jiLtL4DKdenldcWXrGqHIA/1756834012/live/vx-origin/hd-tsport4_720/chunks.m3u8
+https://e103.hellotherepadawan.org/v5/akGPF8_Bpyq002olEos6dg/1756823387/eb79b2290aed13cdd693ebbf408b324d/mkG2iehRE5oGj5A2FIFYIQ/1756834067/live/vx-origin/th-tsporthd4_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 5
 http://bestcommt2.github.io/m3u8/true5.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 7
@@ -790,8 +790,7 @@ https://bestcommt2.github.io/m3u8/aisDiscover.m3u8
 
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/270px-NFL_Network_logo.svg.png",NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/nfl/playlist.m3u8
+https://bestcommt2.github.io/m3u8/NFL.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://i.ibb.co/V0CqBx96/nba.png" ,NBATV
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/nba/playlist.m3u8
