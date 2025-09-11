@@ -886,8 +886,12 @@ https://bestcommt2.github.io/m3u8/trueGOLF.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="true-tennis-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp", TRUE Tennis
 https://bestcommt2.github.io/m3u8/truetennis.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="📺 ทรูไอดีทีวี",True Thaifilm
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e110.hellotherepadawan.org/v5/X40s6Cro81Cb_AWSFJ_Ofw/1756776390/c9f3cb72feca0d48906cebc62d3b3dd7/cHqsqfn4Rddxu5xNSu05UQ/1756787070/live/dx-origin/sd-thaifilm_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
-https://bestcommt2.github.io/m3u8/truethaifilm.m3u8
+#https://bestcommt2.github.io/m3u8/truethaifilm.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
 https://bestcommt2.github.io/m3u8/trueseries.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
@@ -902,7 +906,7 @@ https://la4.hellotherepadawan.org:9305/v5/FZLO6yAFdFYoWife9p3PPA/1757509596/ce46
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e111.hellotherepadawan.org/v5/B5xV0nhc9fLWX6jcB5KzFg/1756776222/a523850b6e0c201af21ac0a0393c5eeb/AdPyOtKo5iykEBXIWpukYg/1756786902/live/dx-origin/hd-tfilm2_720/chunks.m3u8
-#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True AsianMore" tvg-logo="http://103.114.203.129:8080/images/29756d07f0f12c09a3df52c3956b3d07.jpg",True Asian More
+#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",True Asian More
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la4.hellotherepadawan.org:9314/v5/AUp5pFLfe_J6C-wWBLG9yQ/1756776008/a523850b6e0c201af21ac0a0393c5eeb/HTCnzeTp8gLYFtN24e6LCA/1756786688/live/vx-origin/hd-asianmore_480/chunks.m3u8
@@ -914,11 +918,12 @@ https://bestcommt2.github.io/m3u8/truefilmasia.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://bestcommt2.github.io/m3u8/trueccm.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueExploreWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e113.hellotherepadawan.org/v5/4ERgFNzLugJUuyaBYiXE9Q/1756776501/c9f3cb72feca0d48906cebc62d3b3dd7/i614W8nl7T1Posw4E9lMOg/1756787181/live/vx-origin/sd-expwild_720/chunks.m3u8
+#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Crime%2BInvestigation_logo_2013.png" group-title="📺 ทรูไอดีทีวี",TRUE CrimeInvestigation
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueexplorewild/chunks.m3u8?nimblesessionid=66209752
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
-http://45.144.165.187:8080/xtreamvip/12345/52
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueexplorelife/chunks.m3u8?nimblesessionid=59652772
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
 https://bestcommt2.github.io/m3u8/trueexploresci.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 ทรูไอดีทีวี",True AXN
@@ -942,11 +947,12 @@ http://45.144.165.187:8080/xtreamvip/12345/83
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e103.hellotherepadawan.org/v5/nsV9PQ4XdBn_IFEX4PtHIQ/1757510120/ce46ff92c75725a72f16a690a320d106/aWO0lfaIqxWg6ERQ99grOA/1757520800/live/vx-origin/hd-discovery_720/chunks.m3u8
 #EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Crime%2BInvestigation_logo_2013.png" group-title="📺 ทรูไอดีทีวี",TRUE CrimeInvestigation
-http://45.144.165.187:8080/xtreamvip/12345/40450
-#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="http://103.114.203.129:8080/images/29d39c2737e7fabbcc3f5718eb778143.jpg" group-title="📺 ทรูไอดีทีวี",BBC Lifestyles TH
-http://45.144.165.187:8080/xtreamvip/12345/10554
-#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="http://103.114.203.129:8080/images/0cd67ab98341f468fa7c5f8d5cd77b61.jpg" group-title="📺 ทรูไอดีทีวี",Lifetime TH
-http://45.144.165.187:8080/xtreamvip/12345/126
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/crime-investigation/playlist.m3u8
+#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="📺 ทรูไอดีทีวี",BBC Lifestyles TH
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/bbclifestyle.m3u8
+#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://dookeela.live/uploads/1720781589.png" group-title="📺 ทรูไอดีทีวี",Lifetime TH
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truelifetime.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ###AISPLAY###
