@@ -45,20 +45,20 @@ https://e106.hellotherepadawan.org/v5/AX1qNc_4-4YL9vcRMvVtGw/1756820756/0c97fa64
 http://bestcommt2.github.io/m3u8/monomax1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/Monomax_PL_1HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="📺 VIP SPORT",MONOMAX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://footballsod.live
 https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://keelasod.xyz/
+#EXTVLCOPT:http-referrer=https://keelasod.xyz//
 https://cdn.8kgoal.com/bbs/monomax-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/Monomax_PL_1HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -318,28 +318,28 @@ https://mt01.utako.moe/js4/index.m3u8
 
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FWMOV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026006&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6Mjg6MTYgQU0maGFzaF92YWx1ZT1NRkhLc1l1WFRudXlVb1J4Uk5uYTVnPT0mdmFsaWRtaW51dGVzPTI=
+#https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026006&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6Mjg6MTYgQU0maGFzaF92YWx1ZT1NRkhLc1l1WFRudXlVb1J4Uk5uYTVnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg",FWSOV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026030&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6Mjk6NTEgQU0maGFzaF92YWx1ZT1mMlNJbVFYMDJ5cGd6Z2NTV3RzaGd3PT0mdmFsaWRtaW51dGVzPTI=
+#https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026030&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6Mjk6NTEgQU0maGFzaF92YWx1ZT1mMlNJbVFYMDJ5cGd6Z2NTV3RzaGd3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg",FWTOON
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026041&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzA6MDkgQU0maGFzaF92YWx1ZT1XZC9hS2cvZlh0aVpFcEtEVGZnRWlBPT0mdmFsaWRtaW51dGVzPTI=
+#https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026041&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzA6MDkgQU0maGFzaF92YWx1ZT1XZC9hS2cvZlh0aVpFcEtEVGZnRWlBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg" group-title="📺 PREMIUM PLAY TV", FWDOC
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026049&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzA6MzcgQU0maGFzaF92YWx1ZT0zWXNKdkJqbzZ4MGREOWYzYm0xSlZ3PT0mdmFsaWRtaW51dGVzPTI=
+#https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026049&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzA6MzcgQU0maGFzaF92YWx1ZT0zWXNKdkJqbzZ4MGREOWYzYm0xSlZ3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213640FWsport.jpg" group-title="📺 PREMIUM PLAY TV", FWSPORT
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026055&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzE6MDEgQU0maGFzaF92YWx1ZT1UV0JjdU5Lb3VuRzRkbXViT3Q0aU53PT0mdmFsaWRtaW51dGVzPTI=
+#https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026055&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzE6MDEgQU0maGFzaF92YWx1ZT1UV0JjdU5Lb3VuRzRkbXViT3Q0aU53PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1  group-title="📺 PREMIUM PLAY TV" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/SouthernRegion.png",ถิ่นใต้
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8?nimblesessionid=188026061&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzE6MjAgQU0maGFzaF92YWx1ZT1NVTQ3WHg4ZHJkSW9LTjlSdzExdERRPT0mdmFsaWRtaW51dGVzPTI=
+#https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8?nimblesessionid=188026061&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzE6MjAgQU0maGFzaF92YWx1ZT1NVTQ3WHg4ZHJkSW9LTjlSdzExdERRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1  group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20250819112058%E0%B8%A5%E0%B8%9A%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C.png",farm station
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8?nimblesessionid=188026071&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzE6NDMgQU0maGFzaF92YWx1ZT02L0NJSStBRHNCOXVSVU0xTjRsc0dRPT0mdmFsaWRtaW51dGVzPTI=
+#https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8?nimblesessionid=188026071&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzE6NDMgQU0maGFzaF92YWx1ZT02L0NJSStBRHNCOXVSVU0xTjRsc0dRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213343just_for_laughs_gags.jpg",GAGS
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://freelive2.inwstream.com:1936/freelive-edge/gags_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026097&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzM6MjMgQU0maGFzaF92YWx1ZT1WOHExVjRKM2owOWpqS1FQYXAxVmF3PT0mdmFsaWRtaW51dGVzPTI=
+#https://freelive2.inwstream.com:1936/freelive-edge/gags_fw-iptv.stream/chunks.m3u8?nimblesessionid=188026097&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDk6MzM6MjMgQU0maGFzaF92YWx1ZT1WOHExVjRKM2owOWpqS1FQYXAxVmF3PT0mdmFsaWRtaW51dGVzPTI=
 
 
 
