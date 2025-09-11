@@ -918,7 +918,6 @@ https://bestcommt2.github.io/m3u8/truefilmasia.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://bestcommt2.github.io/m3u8/trueccm.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueExploreWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
-#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Crime%2BInvestigation_logo_2013.png" group-title="📺 ทรูไอดีทีวี",TRUE CrimeInvestigation
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueexplorewild/chunks.m3u8?nimblesessionid=66209752
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
