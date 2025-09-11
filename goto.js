@@ -443,7 +443,7 @@ https://monomax-d1yqi0.cdn.byteark.com/fleetstream/ALURE/1080p/index.m3u8
 https://monomax-bl9d80.cdn.byteark.com/fleetstream/RUSH/1080p/index.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/r4SQIxOmqPEEXsWRyoA1OvEo6u0rBwn7.png" ,โมโนพลัส
 https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png" group-title="📺 PREMIUM PLAY TV",Zหนัง​
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Zee_Nung_new.jpg" group-title="📺 PREMIUM PLAY TV",Zหนัง
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/at
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/master.m3u8
 
@@ -826,7 +826,6 @@ https://e102.hellotherepadawan.org/v5/WG54cxPORlDxdpIBeo28Rg/1756823332/0c97fa64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e109.hellotherepadawan.org/v5/WXrims3H6sA3asMFECiIFw/1756823504/eb79b2290aed13cdd693ebbf408b324d/IAvfT6KgXgOzsta90-d7Kw/1756834184/live/vx-origin/th-tsport5_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,Sport 7
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-tsport7.png" group-title="DOOBALL66 SPORT",tsport7bkp
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e112.hellotherepadawan.org/v5/j1fS6IvU-9S90Shg9mNHlw/1756823606/eb79b2290aed13cdd693ebbf408b324d/kVqWZlXdXnGWwXdkKA3p0g/1756834286/live/dx-origin/th-tsport7_720/chunks.m3u8
