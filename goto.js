@@ -20,7 +20,9 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 ###VIP SPORT###
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/ONE.jfif" group-title="📺 VIP SPORT",ONE Championship
 #EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
-https://sport.livedoomovies.com:4432/02_ONE_720p/chunklist.m3u8
+#https://sport.livedoomovies.com:4432/02_ONE_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="http://103.114.203.129:8080/images/db5e472498bd0b086a3c8671b5273cf4.png" group-title="📺 VIP SPORT",WWE
+https://smart.bengaldigital.live/WWE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 1" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/SIAMSPORT_1HD.jpg" group-title="📺 VIP SPORT",FIVB Volleyball 1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4432/SIAMSPORT_1HD/chunklist.m3u8
@@ -33,6 +35,13 @@ https://www.livedoomovies.com:4432/SIAMSPORT_3HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 4" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/SIAMSPORT_4HD.jpg" group-title="📺 VIP SPORT",FIVB Volleyball 4
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4432/SIAMSPORT_4HD/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="http://103.114.203.129:8080/images/b803a83090f09b4a29a3acc4c7713390.jpg" group-title="📺 VIP SPORT",NFL Network  51
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/23200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS NFL Network  52" tvg-logo="http://103.114.203.129:8080/images/1cdf5768cb5d74cdf2f4ad90f48fa074.jpg" group-title="📺 VIP SPORT",AIS NFL Network  52
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/51377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="http://103.114.203.129:8080/images/2d694c3b16418beb9dbdc21973b62d06.jpg" group-title="📺 VIP SPORT",AIS-NFL 53
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/18912.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -452,43 +461,45 @@ https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/1080p/index.m3u8
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PlayID MOVIE 2K/4K" tvg-logo="http://103.114.203.129:8080/images/a0f6d13b1cb8e0e893437df4b35e1fcf.png" group-title="📺 PREMIUM PLAY TV",PlayID MOVIE 2K/4K
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/17788
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/17788.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayID ASIAN" tvg-logo="http://103.114.203.129:8080/images/6f7ed462c1495ffe276e0f53fd06cd5f.png" group-title="📺 PREMIUM PLAY TV",PlayID ASIAN
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/17715
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/17715.m3u8
 #EXTINF:-1 tvg-id="368396" tvg-name="PlayID Blockbuster" tvg-logo="http://103.114.203.129:8080/images/907c34563fd992634bf88398017ea841.png" group-title="📺 PREMIUM PLAY TV",PlayID Blockbuster
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/76
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/76.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAYID สยองขวัญ " tvg-logo="http://103.114.203.129:8080/images/40503a438c549be836b6f04169b332a0.png" group-title="📺 PREMIUM PLAY TV",PLAYID สยองขวัญ 
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/15672
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/15672.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayID Universal" tvg-logo="http://103.114.203.129:8080/images/27c484beb0b9ac59752534a62191bc37.png" group-title="📺 PREMIUM PLAY TV",PlayID Universal
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/17237
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/17237.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayID Series พากย์ไทย" tvg-logo="http://103.114.203.129:8080/images/fb214d22f4290d63a2acb24735eae56a.png" group-title="📺 PREMIUM PLAY TV",PlayID Series พากย์ไทย
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/17239
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/17239.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayID Series " tvg-logo="http://103.114.203.129:8080/images/750f4832564f212f32eb69f22a5c5041.png" group-title="📺 PREMIUM PLAY TV",PlayID Series 
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/9199
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/9199.m3u8
 #EXTINF:-1 tvg-id="369724" tvg-name="อนิเมะการ์ตูน" tvg-logo="http://103.114.203.129:8080/images/40503a438c549be836b6f04169b332a0.png" group-title="📺 PREMIUM PLAY TV",อนิเมะการ์ตูน
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/11041
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/11041.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayID สารคดีไอที" tvg-logo="http://103.114.203.129:8080/images/9959c00f53506fd7c939602b2db87da3.png" group-title="📺 PREMIUM PLAY TV",PlayID สารคดีไอที
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/11042
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/11042.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="netflix สารคดี" tvg-logo="http://103.114.203.129:8080/images/9dc23f250cf096b06912e98e927a7645.png" group-title="📺 PREMIUM PLAY TV",netflix สารคดี
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/46
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 8 TH" tvg-logo="http://103.114.203.129:8080/images/b244de8cd2e5d2c1e745c6be15ee55d4.png" group-title="📺 PREMIUM PLAY TV",Channel 8 TH
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/15607
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/15607.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="โคนัน วันพีซ" tvg-logo="http://103.114.203.129:8080/images/1d4e86e5eebde94659bef41687fdc193.jpg" group-title="📺 PREMIUM PLAY TV",โคนัน วันพีซ
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/15674
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/15674.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ฟังเพลงออนไลน์" tvg-logo="http://103.114.203.129:8080/images/46ba79616463763746124ac67d2c3bbb.png" group-title="📺 PREMIUM PLAY TV",ฟังเพลงออนไลน์
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/15676
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/15676.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="สารคดี ออนไลน์" tvg-logo="http://45.150.128.170:8080/images/bf4f5b797f726646de409376fa663774.png" group-title="📺 PREMIUM PLAY TV",สารคดี ออนไลน์
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/11053
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/11053.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mounchontv" tvg-logo="http://103.114.203.129:8080/images/5d056f6440dea92693cf74eb1619e800.jpg" group-title="📺 PREMIUM PLAY TV",mounchontv
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/11054
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/11054.m3u8
 #EXTINF:-1 tvg-id="368460" tvg-name="Cool Channel" tvg-logo="http://45.150.128.170:8080/images/5f80e9b6d314508f5d408e85ba3ae855.png" group-title="📺 PREMIUM PLAY TV",Cool Channel
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/15655
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/15655.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAYID รวมเป็นต่อ" tvg-logo="http://103.114.203.129:8080/images/20d4a4f84994a352b713603d9418ea74.png" group-title="📺 PREMIUM PLAY TV",PLAYID รวมเป็นต่อ
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/18876
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/18876.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EFM" tvg-logo="http://103.114.203.129:8080/images/040749fd333bd938ee4dd101fed87f6e.png" group-title="📺 PREMIUM PLAY TV",EFM
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/49801
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/49801.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAYID ซีรีย์`ไทย" tvg-logo="http://103.114.203.129:8080/images/e10af3f934e832297997b709c38f80dd.png" group-title="📺 PREMIUM PLAY TV",PLAYID ซีรีย์`ไทย
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/18833
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/18833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PlayID MOVIE 3" tvg-logo="http://103.114.203.129:8080/images/29efb2063241af95e4ee6c5fb75c5119.png" group-title="ช่องพรีเมียม พิเศษ",PlayID MOVIE 3
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/11055.m3u8
 
 --------------------------------------------------------------------------------------
 ###BallThai###
@@ -966,7 +977,9 @@ https://bestcommt2.github.io/m3u8/truewb.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la4.hellotherepadawan.org:9305/v5/N8KqZ7u8p61RfcK12GQvCg/1756776329/a523850b6e0c201af21ac0a0393c5eeb/4pCYhfqiAUWYnwHNZ9YqtQ/1756787009/live/vx-origin/hd-xzyte_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
-http://45.144.165.187:8080/xtreamvip/12345/83
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la1.hellotherepadawan.org:9311/v5/U8X-9WTpJ5qr73I57TZEmw/1757346412/b92e3c0d620627313f8dfaf09ff8175a/LnbtgyQn7FdZPavn6FI_VQ/1757357092/live/lx-origin/uk-animalplanet_720/chunks.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
