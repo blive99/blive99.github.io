@@ -24,16 +24,16 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="http://103.114.203.129:8080/images/db5e472498bd0b086a3c8671b5273cf4.png" group-title="📺 VIP SPORT",WWE
 https://smart.bengaldigital.live/WWE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 1" tvg-logo="https://static.uflixtv.com/images/tv/png/hd-vnl1.png" group-title="📺 VIP SPORT",Volleyball 1
-#EXTVLCOPT:http-referrer=https://dooball669.com/
+
 https://e108.hellotherepadawan.org/v5/BebXXjiLaSNehPI8Bd_aWQ/1757326391/3f52450936c5404a43b040a0f8fb7d39/OfM-ewvFjErtz9_EAUf9FQ/1757337071/live//vx-origin/hd-vnl1_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 2" tvg-logo="https://static.uflixtv.com/images/tv/png/hd-vnl2.png" group-title="📺 VIP SPORT",Volleyball 2
-#EXTVLCOPT:http-referrer=https://dooball669.com/
+
 https://e108.hellotherepadawan.org/v5/BebXXjiLaSNehPI8Bd_aWQ/1757326391/3f52450936c5404a43b040a0f8fb7d39/OfM-ewvFjErtz9_EAUf9FQ/1757337071/live//vx-origin/hd-vnl2_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 3" tvg-logo="https://static.uflixtv.com/images/tv/png/hd-vnl3.png" group-title="📺 VIP SPORT",Volleyball 3
-#EXTVLCOPT:http-referrer=https://dooball669.com/
+
 https://e108.hellotherepadawan.org/v5/BebXXjiLaSNehPI8Bd_aWQ/1757326391/3f52450936c5404a43b040a0f8fb7d39/OfM-ewvFjErtz9_EAUf9FQ/1757337071/live//vx-origin/hd-vnl3_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIVB Volleyball 4" tvg-logo="https://static.uflixtv.com/images/tv/png/hd-vnl4.png" group-title="📺 VIP SPORT",Volleyball 4
-#EXTVLCOPT:http-referrer=https://dooball669.com/
+
 https://e108.hellotherepadawan.org/v5/BebXXjiLaSNehPI8Bd_aWQ/1757326391/3f52450936c5404a43b040a0f8fb7d39/OfM-ewvFjErtz9_EAUf9FQ/1757337071/live//vx-origin/hd-vnl4_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="http://103.114.203.129:8080/images/b803a83090f09b4a29a3acc4c7713390.jpg" group-title="📺 VIP SPORT",NFL Network  51
