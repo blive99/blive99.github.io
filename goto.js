@@ -47,7 +47,7 @@ http://playid.ddnsgeek.com:8080/live/thaihd/12345/18912.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball669.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e105.hellotherepadawan.org/v5/YH0w88_TZ55kbF8ttasaBg/1757676253/5fa50586ee44763a8d754d58bf3c43a8/amP6wbYdO3XrbMf4jtw27Q/1757686933/live/lx-origin/uflix-max03-fhd_1080/chunks.m3u8
+https://e105.hellotherepadawan.org/v5/YH0w88_TZ55kbF8ttasaBg/1757676253/5fa50586ee44763a8d754d58bf3c43a8/amP6wbYdO3XrbMf4jtw27Q/1757686933/live/lx-origin/uflix-max01-fhd_1080/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bestcommt2.github.io
@@ -2127,14 +2127,14 @@ http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/81.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
-#EXTINF:-0 tvg-id="HGTV" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo-500x281.png" group-title="📺 สารคดีรอบโลก",National Geographic
-http://185.189.225.150:85/NationalGeographic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v6JshDmB/geo-wild.png" group-title="📺 สารคดีรอบโลก",Nat Geo Wild
-http://185.236.229.62:9981/play/a05z
-#EXTINF:-1 group-title="📺 สารคดีรอบโลก" tvg-id="discoveryturbouk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
-https://bestcommt2.github.io/m3u8/Discovery%20Turbo.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/512px-Discovery_Science_-_Logo_2012.svg.png" group-title="📺 สารคดีรอบโลก", Discovery science
-http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/72.m3u8
+#EXTINF:-0 tvg-id="HGTV" tvg-name="" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/uk-natgeo.png" group-title="📺 สารคดีรอบโลก",National Geographic UK
+https://e108.hellotherepadawan.org/v5/BebXXjiLaSNehPI8Bd_aWQ/1757326391/3f52450936c5404a43b040a0f8fb7d39/OfM-ewvFjErtz9_EAUf9FQ/1757337071/live//vx-origin/uk-natgeo_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/uk-natgeowild.png" group-title="📺 สารคดีรอบโลก",Nat Geo Wild UK
+https://e105.hellotherepadawan.org/v5/YH0w88_TZ55kbF8ttasaBg/1757676253/5fa50586ee44763a8d754d58bf3c43a8/amP6wbYdO3XrbMf4jtw27Q/1757686933/live/lx-origin/uk-natgeowild_720/chunks.m3u8
+#EXTINF:-1 group-title="📺 สารคดีรอบโลก" tvg-id="discoveryturbouk.uk" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/uk-discoveryturbo.png",Discovery Turbo
+https://e105.hellotherepadawan.org/v5/YH0w88_TZ55kbF8ttasaBg/1757676253/5fa50586ee44763a8d754d58bf3c43a8/amP6wbYdO3XrbMf4jtw27Q/1757686933/live/lx-origin/uk-discoveryturbo_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/uk-discoveryscience.png" group-title="📺 สารคดีรอบโลก", Discovery science
+https://e105.hellotherepadawan.org/v5/YH0w88_TZ55kbF8ttasaBg/1757676253/5fa50586ee44763a8d754d58bf3c43a8/amP6wbYdO3XrbMf4jtw27Q/1757686933/live/lx-origin/uk-discoveryscience_720/chunks.m3u8
 
 #EXTINF:-1 group-title="📺 สารคดีรอบโลก" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature 4K(EN)
 https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
@@ -2151,11 +2151,10 @@ http://49.0.64.96:8007/Smithsonian
 #EXTINF:-1 group-title="📺 สารคดีรอบโลก" tvg-id="peopleareawesome.us" tvg-logo="https://cdn.shopify.com/s/files/1/0021/6029/6048/t/15/assets/logo-image-file.png",People Are Awesome
 #https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
 
-#EXTINF:0 tvg-name="DMAX UK" group-title="📺 สารคดีรอบโลก" tvg-logo="https://i.postimg.cc/PxjwjZPw/GANAS-DMAX.png", DMAX
-https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+#EXTINF:0 tvg-name="DMAX UK" group-title="📺 สารคดีรอบโลก" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/uk-dmax.png", DMAX
+https://e105.hellotherepadawan.org/v5/YH0w88_TZ55kbF8ttasaBg/1757676253/5fa50586ee44763a8d754d58bf3c43a8/amP6wbYdO3XrbMf4jtw27Q/1757686933/live/lx-origin/uk-dmax_720/chunks.m3u8
 
-#EXTINF:-1 group-title="📺 สารคดีรอบโลก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,Discovery Asia
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
 #EXTINF:-1 group-title="📺 สารคดีรอบโลก"tvg-logo="https://img2.pic.in.th/pic/DISCOVERY.png" ,Discovery HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
@@ -2175,11 +2174,7 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
-#EXTINF:-1 tvg-logo="https://dooball669.com/uploads/1714101765.png" group-title="📺 สารคดีรอบโลก",DMAX
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
