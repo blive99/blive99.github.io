@@ -2574,6 +2574,11 @@ https://main.24playerhd.com/newplaylist/3d434992f9ed7019f5fa5c78/3d434992f9ed701
 https://main.24playerhd.com/newplaylist/e60a2b73caa9fb764f29ecdf/e60a2b73caa9fb764f29ecdf438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Jazz-The-Racing-2025-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%88%E0%B9%8A%E0%B8%AA%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Jazz The Racing (2025) หลวงพี่แจ๊สโคตรซิ่ง
 https://main.24playerhd.com/newplaylist/c34830e45532a88473657bfc/c34830e45532a88473657bfc438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/The-Shadows-Edge-2025-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%9F%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94-187x269.png" group-title="📺 ดูหนังออนไลน์" ,The Shadow’s Edge (2025) แผนระห่ำ ใหญ่ฟัดเดือด
+https://main.24playerhd.com/newplaylist/6f19c7ff13ee900e7ec6f144/6f19c7ff13ee900e7ec6f144438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/Until-Dawn-2025-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A2%E0%B9%88%E0%B8%B3%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Until Dawn (2025) ต้องรอดก่อนย่ำรุ่ง
+https://main.24playerhd.com/newplaylist/bdc8432352737c2181e3a205/bdc8432352737c2181e3a205438.m3u8
+
 --------------------------------------------------------------------------------------
 ####DOOMSERIES####
 #EXTINF:1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/05/Mad-Unicorn-2025-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Mad Unicorn (2025) สงคราม ส่งด่วน EP 1
