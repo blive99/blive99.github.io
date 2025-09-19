@@ -546,87 +546,87 @@ https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live10_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749072.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 11
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport11.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live11_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749159.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 12
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport12.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live12_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749178.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 13
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport13.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live13_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749189.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 14
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport14.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live14_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749198.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 15
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport15.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live15_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749208.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 16
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport16.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live16_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749217.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 17
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport17.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live17_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749227.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 18
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport18.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live18_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749238.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 19
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport19.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live19_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749249.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 20
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport20.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live20_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749266.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 21
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport21.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live21_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749274.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 22
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport22.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live22_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749282.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 23
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport23.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live23_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749290.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 24
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport24.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live24_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749299.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 25
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport25.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live25_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749308.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 26
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport26.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-live26_1080/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://dookeela2.live/uploads/1757749317.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 27
+#EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport27.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -1052,11 +1052,11 @@ https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://141.11.159.117/live/boxtvfree/testtvlive/163.ts
+https://la1.hellotherepadawan.org:9312/v5/BebXXjiLaSNehPI8Bd_aWQ/1757326391/3f52450936c5404a43b040a0f8fb7d39/OfM-ewvFjErtz9_EAUf9FQ/1757337071/live/dx-origin/hd-tfilm_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://141.11.159.117/live/boxtvfree/testtvlive/164.ts
+https://la1.hellotherepadawan.org:9312/v5/BebXXjiLaSNehPI8Bd_aWQ/1757326391/3f52450936c5404a43b040a0f8fb7d39/OfM-ewvFjErtz9_EAUf9FQ/1757337071/live/dx-origin/hd-tfilm2_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
@@ -1085,8 +1085,6 @@ https://bestcommt2.github.io/m3u8/trueexploresci.m3u8
 https://bestcommt2.github.io/m3u8/trueAXN.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 ทรูไอดีทีวี", TRUE HISTORY
 https://bestcommt2.github.io/m3u8/trueH2.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 ทรูไอดีทีวี",TRUE SPARK PLAY
-https://bestcommt2.github.io/m3u8/truesparkplay.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://bestcommt2.github.io/m3u8/truewb.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
@@ -1104,18 +1102,13 @@ https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la1.hellotherepadawan.org:9311/v5/U8X-9WTpJ5qr73I57TZEmw/1757346412/b92e3c0d620627313f8dfaf09ff8175a/LnbtgyQn7FdZPavn6FI_VQ/1757357092/live/vx-origin/th-discovery_720/chunks.m3u8
-#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Crime%2BInvestigation_logo_2013.png" group-title="📺 ทรูไอดีทีวี",TRUE CrimeInvestigation
-https://bestcommt2.github.io/m3u8/ci.m3u8
-#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="📺 ทรูไอดีทีวี",BBC Lifestyles TH
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/bbclifestyle.m3u8
-#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2025/04/09183330/Lifetime-logo-x200.png" group-title="📺 ทรูไอดีทีวี",Lifetime TH
-https://bestcommt2.github.io/m3u8/truelifetime.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="D" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 ทรูไอดีทีวี",TRUE DreamWorks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/hd-dreamworks_720/chunks.m3u8
-
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 ทรูไอดีทีวี",TRUE SPARK PLAY
+#https://bestcommt2.github.io/m3u8/truesparkplay.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------
 ###AISPLAY###
 ###อ่านก่อนก๊อป ลิงค์มันจะต้องอัฟเดททุกวัน บางวันก็ไม่มีเวลามาอัฟให้####
@@ -2088,10 +2081,10 @@ https://bestcommt2.github.io/m3u8/truewb.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="📺 หนังและบันเทิง"tvg-logo="https://dookeela2.live/uploads/1718690264.png",ROCK Action TH
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/rock-action/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="📺 หนังและบันเทิง"tvg-logo="https://dookeela2.live/uploads/1718690283.png",ROCK ENTERTAINMENT TH
-https://bestcommt2.github.io/m3u8/rockentertainment.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="📺 หนังและบันเทิง"tvg-logo="https://static.uflixtv.com/images/tv/png/th-ais-rockaction.png",ROCK Action TH
+https://la1.hellotherepadawan.org:9312/v5/BebXXjiLaSNehPI8Bd_aWQ/1757326391/3f52450936c5404a43b040a0f8fb7d39/OfM-ewvFjErtz9_EAUf9FQ/1757337071/live/vx-origin/th-ais-rockaction_1080/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="📺 หนังและบันเทิง"tvg-logo="https://static.uflixtv.com/images/tv/png/th-ais-rockentertainment.png",ROCK ENTERTAINMENT TH
+https://la1.hellotherepadawan.org:9312/v5/BebXXjiLaSNehPI8Bd_aWQ/1757326391/3f52450936c5404a43b040a0f8fb7d39/OfM-ewvFjErtz9_EAUf9FQ/1757337071/live/vx-origin/th-ais-rockentertainment_1080/chunks.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2121,7 +2114,7 @@ https://bestcommt2.github.io/m3u8/khongdeethai.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/uflix-samrujlok_720/chunks.m3u8
+https://e105.hellotherepadawan.org/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-samrujlok_1080/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="📺 สารคดีรอบโลก", Animal Show GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://bestcommt2.github.io/m3u8/goodtvanimalshow.m3u8
@@ -2144,10 +2137,17 @@ http://66.90.99.154:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=
 https://stream2.aws-live-streaming.com/bbs/bbc-earth/playlist.m3u8
 #EXTINF:-1 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 สารคดีรอบโลก",BBCLifestyle TH
 https://bestcommt2.github.io/m3u8/trueBBCLIFESTYLE.m3u8
+#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="📺 สารคดีรอบโลก",BBC Lifestyles TH
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/bbclifestyle.m3u8
 #EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="📺 สารคดีรอบโลก",TRUE Lifetime
 https://bestcommt2.github.io/m3u8/truelifetime.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="📺 สารคดีรอบโลก",True Asian Foon Channel
 https://bestcommt2.github.io/m3u8/true/trueasianfoonchannel.m3u8
+
+#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Crime%2BInvestigation_logo_2013.png" group-title="📺 สารคดีรอบโลก",CrimeInvestigation
+https://bestcommt2.github.io/m3u8/ci.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksMk8dyv/diy.png" group-title="📺 สารคดีรอบโลก",DIY Network
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
@@ -2199,7 +2199,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e108.hellotherepadawan.org/v5/BebXXjiLaSNehPI8Bd_aWQ/1757326391/3f52450936c5404a43b040a0f8fb7d39/OfM-ewvFjErtz9_EAUf9FQ/1757337071/live//vx-origin/uk-natgeo_720/chunks.m3u8
+https://e105.hellotherepadawan.org/v5/BebXXjiLaSNehPI8Bd_aWQ/1757326391/3f52450936c5404a43b040a0f8fb7d39/OfM-ewvFjErtz9_EAUf9FQ/1757337071/live//vx-origin/uk-natgeo_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/uk-natgeowild.png" group-title="📺 สารคดีรอบโลก",Nat Geo Wild UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
