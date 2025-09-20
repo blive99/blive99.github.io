@@ -2529,6 +2529,16 @@ https://live.zoom072.com/ch8/ch8.m3u8
 https://live.zoom072.com/ch9/ch9.m3u8
 
 --------------------------------------------------------------------------------------
+####DOOMOVIESZOOM####
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/06/Haunting-of-Mount-Gede-2025-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B9%80%E0%B8%94-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน" ,Haunting of Mount Gede (2025) คำสาปแห่งเขาเกเด
+https://main.24playerhd.com/newplaylist/28eaba617c46744c5a1dffd6/28eaba617c46744c5a1dffd6438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/Lembayung-2024-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%97-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน" ,HLembayung (2024) โรงพยาบาท
+https://main.24playerhd.com/newplaylist/59d40cb0d9741c48051520e2/59d40cb0d9741c48051520e2438.m3u8
+#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Tha-Rae-The-Exorcist-2025-%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B9%88-300x450.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,TTha Rae The Exorcist (2025) ท่าแร่
+https://main.24playerhd.com/newplaylist/dd7d3db252acca508c9d5c6f/dd7d3db252acca508c9d5c6f438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/08/Kayaor-2025-%E0%B8%84%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B9%89%E0%B8%AD-%E0%B8%A5%E0%B8%9A%E0%B8%AB%E0%B8%A5%E0%B8%B9%E0%B9%88-%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B2-%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,Kayaor (2025) คายอ้อ ลบหลู่ ศรัทธา อาถรรพ์
+https://main.24playerhd.com/newplaylist/3d434992f9ed7019f5fa5c78/3d434992f9ed7019f5fa5c78438.m3u8
+--------------------------------------------------------------------------------------
 ####DOOMOVIES####
 #EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/01/Art-of-the-Devil-Beginning-2025-%E0%B8%9E%E0%B8%99%E0%B8%AD-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Art of the Devil Beginning (2025) พนอ
 https://main.24playerhd.com/newplaylist/27f2eea731744d8a864e5c5a/27f2eea731744d8a864e5c5a.m3u8
@@ -2549,16 +2559,12 @@ https://main.24playerhd.com/newplaylist/b09126699cc146571e77d4a6/b09126699cc1465
 https://main.24playerhd.com/newplaylist/4f2068078ffe65ecc6564fc7/4f2068078ffe65ecc6564fc7438.m3u8
 #EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Halabala-2025-%E0%B8%AE%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%B2-%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Halabala (2025) ฮาลาบาลา ป่าจิตหลุด
 https://main.24playerhd.com/newplaylist/d9d9d1f7f521fb0512be1103/d9d9d1f7f521fb0512be1103438.m3u8
-#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Tha-Rae-The-Exorcist-2025-%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B9%88-300x450.png" group-title="📺 ดูหนังออนไลน์" ,TTha Rae The Exorcist (2025) ท่าแร่
-https://main.24playerhd.com/newplaylist/dd7d3db252acca508c9d5c6f/dd7d3db252acca508c9d5c6f438.m3u8
 #EXTINF:-1 tvg-logo="https://de88.me/wp-content/uploads/2025/08/%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B0%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A32025GoldRushGang-692x1024.jpg" group-title="📺 ดูหนังออนไลน์" ,เขาชุมทอง คะนองชุมโจร Gold Rush Gang HD พากย์ไทย เต็มเรื่อง
 https://main.24playerhd.com/newplaylist/e3cf7b53ee83d191ee3c3c6c/e3cf7b53ee83d191ee3c3c6c438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/Thunderbolts-2025-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%9A%E0%B8%A5%E0%B8%95%E0%B9%8C%E0%B8%AA-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Thunderbolts* (2025) ธันเดอร์โบลต์ส
 https://main.24playerhd.com/newplaylist/a37433b74a26d920f4387276/a37433b74a26d920f4387276438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Tomb-Watcher-2025-%E0%B8%AA%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Tomb Watcher (2025) สุสานคนเป็น
 https://main.24playerhd.com/newplaylist/8c1c87e94f7a90d562376db3/8c1c87e94f7a90d562376db3438.m3u8
-#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/08/Kayaor-2025-%E0%B8%84%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B9%89%E0%B8%AD-%E0%B8%A5%E0%B8%9A%E0%B8%AB%E0%B8%A5%E0%B8%B9%E0%B9%88-%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B2-%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Kayaor (2025) คายอ้อ ลบหลู่ ศรัทธา อาถรรพ์
-https://main.24playerhd.com/newplaylist/3d434992f9ed7019f5fa5c78/3d434992f9ed7019f5fa5c78438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/08/Millionaire-2025-%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Millionaire (2025) ชายผู้ถูกลอตเตอรี่
 https://main.24playerhd.com/newplaylist/e60a2b73caa9fb764f29ecdf/e60a2b73caa9fb764f29ecdf438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Jazz-The-Racing-2025-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%88%E0%B9%8A%E0%B8%AA%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Jazz The Racing (2025) หลวงพี่แจ๊สโคตรซิ่ง
@@ -2576,7 +2582,7 @@ https://main.24playerhd.com/newplaylist/597944ca73f9b7bcf0d70eac/597944ca73f9b7b
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Survive-2024-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%94-1-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Survive (2024) ต้องรอด
 https://main.24playerhd.com/newplaylist/524d2b59662a21dcb981f8da/524d2b59662a21dcb981f8da438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2023/02/The-Platform-2019-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%9E%E0%B8%A5%E0%B8%95%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,The Platform (2019) เดอะ แพลตฟอร์ม
-https://hplay.hdplayfull.xyz/6569ea59-04f0-417c-b20b-3f348646090e/0
+https://hot.24playerhd.com/ioshls/1ba587deba4168320455e6865a1fd8b9/1ba587deba4168320455e6865a1fd8b9.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/The-Platform-2-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%9E%E0%B8%A5%E0%B8%95%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1-2-2024-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,The Platform 2 เดอะ แพลตฟอร์ม 2 (2024)
 https://main.24playerhd.com/newplaylist/602eb9b50b6da1d101ecd31b/602eb9b50b6da1d101ecd31b438.m3u8
 
@@ -2599,15 +2605,15 @@ https://main.24playerhd.com/newplaylist/581a29d384ad37dbf0ab271e/581a29d384ad37d
 https://main.24playerhd.com/newplaylist/fa5b84dcdef32772326a30ba/fa5b84dcdef32772326a30ba.m3u8
 
 #EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 1
-https://hplay.hdplayfull.xyz/f3d4f977-2b97-4aa3-b53a-8ea53282106c/0
+https://main.24playerhd.com/newplaylist/371929fc9e6744a8d42a10e3/371929fc9e6744a8d42a10e3438.m3u8
 #EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 2
-https://hplay.hdplayfull.xyz/ed5b8c48-2a50-4750-8a68-aa19127e0896/0
+https://main.24playerhd.com/newplaylist/1d9c1afe0cc91c2a566a533d/1d9c1afe0cc91c2a566a533d438.m3u8
 #EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 3
-https://hplay.hdplayfull.xyz/684feeb4-e3a6-4309-a99f-1eea4ffa1608/0
+https://main.24playerhd.com/newplaylist/fb620b6959c2724d988b3838/fb620b6959c2724d988b3838438.m3u8
 #EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 4
-https://hplay.hdplayfull.xyz/afc671fa-a97d-4eac-9f26-4c78be4a5d98/0
+https://main.24playerhd.com/newplaylist/408fd58ac761f2669ea0f004/408fd58ac761f2669ea0f004438.m3u8
 #EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 5
-https://hplay.hdplayfull.xyz/f4966f5d-fbe4-43a8-bf6d-b3cd978e82fb/0
+https://main.24playerhd.com/newplaylist/0a7f57ab1faff58125adb7b4/0a7f57ab1faff58125adb7b4438.m3u8
 
 
 --------------------------------------------------------------------------------------
