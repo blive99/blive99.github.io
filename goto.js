@@ -2547,6 +2547,9 @@ https://main.24playerhd.com/newplaylist/072fecd1c95b3dd86a2ea3b3/072fecd1c95b3dd
 https://main.24playerhd.com/newplaylist/990564f4d0eda078eaef0d7f/990564f4d0eda078eaef0d7f168.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/08/Omniscient-Reader-The-Prophecy-2025-%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,Omniscient Reader The Prophecy (2025) อ่านชะตาวันสิ้นโลก
 https://main.24playerhd.com/newplaylist/c4201eb9a40b7bc0e3e20fb6/c4201eb9a40b7bc0e3e20fb6438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/06/The-Demons-Bride-2025-%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B5-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%B5-%E0%B8%9B%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,The Demon’s Bride (2025) รันตี แต่งผี ปลุกปีศาจ
+https://main.24playerhd.com/newplaylist/dd36371e547176bf541a3a34/dd36371e547176bf541a3a34438.m3u8
+
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
@@ -2595,8 +2598,24 @@ https://main.24playerhd.com/newplaylist/524d2b59662a21dcb981f8da/524d2b59662a21d
 https://hot.24playerhd.com/ioshls/1ba587deba4168320455e6865a1fd8b9/1ba587deba4168320455e6865a1fd8b9.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/The-Platform-2-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%9E%E0%B8%A5%E0%B8%95%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1-2-2024-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,The Platform 2 เดอะ แพลตฟอร์ม 2 (2024)
 https://main.24playerhd.com/newplaylist/602eb9b50b6da1d101ecd31b/602eb9b50b6da1d101ecd31b438.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Mission Impossible 8 The Final Reckoning (2025) มิชชั่น อิมพอสซิเบิ้ล
+https://main.24playerhd.com/newplaylist/1ac1c9d37f840785233e86c3/1ac1c9d37f840785233e86c3438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/Final-Destination-Bloodlines-2025-%E0%B9%84%E0%B8%9F%E0%B8%99%E0%B8%AD%E0%B8%A5-%E0%B9%80%E0%B8%94%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%97%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%97%E0%B9%82%E0%B8%81%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Final Destination Bloodlines (2025) ไฟนอล เดสติเนชั่น ทายาทโกงตาย
+https://main.24playerhd.com/newplaylist/00bc5ca72b976a94723e8fbb/00bc5ca72b976a94723e8fbb438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/06/How-to-Train-Your-Dragon-2025-%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A7%E0%B8%81%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3-187x269.png" group-title="📺 ดูหนังออนไลน์" ,How to Train Your Dragon (2025) อภินิหารไวกิ้งพิชิตมังกร
+https://main.24playerhd.com/newplaylist/96945991af6d8c8f3e613381/96945991af6d8c8f3e613381438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/Night-of-Deception-2025-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Night of Deception (2025) คืนลวง
+https://main.24playerhd.com/newplaylist/05915afd901e1019e6b5263a/05915afd901e1019e6b5263a438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/The-Accountant-2-2025-%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%84%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%8C%E0%B8%86%E0%B8%B2%E0%B8%95-2-187x269.png" group-title="📺 ดูหนังออนไลน์" ,The Accountant 2 (2025) อัจฉริยะคนบัญชีเพชฌฆาต 2
+https://main.24playerhd.com/newplaylist/8ddd3db9f33a0287db214610/8ddd3db9f33a0287db214610438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/The-Accountant-2016-%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%84%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%8C%E0%B8%86%E0%B8%B2%E0%B8%95-1-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,The Accountant (2016) อัจฉริยะคนบัญชีเพชฌฆาต
+https://main.24playerhd.com/newplaylist/f4730e4eb03e49fc0d5abc1f/f4730e4eb03e49fc0d5abc1f438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/A-Working-Man-2025-%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81-187x269.png" group-title="📺 ดูหนังออนไลน์" ,A Working Man (2025) นรกหยุดนรก
+https://main.24playerhd.com/newplaylist8/36b174cc0a0065c3a29ea60b/36b174cc0a0065c3a29ea60b438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Havoc-2025-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Havoc (2025) ฝ่าหายนะครองเมือง
+https://main.24playerhd.com/newplaylist/ac6c9eb592e6f281af432f91/ac6c9eb592e6f281af432f91438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/Cleaner-2025-%E0%B9%84%E0%B8%95%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81-1-187x269.png" group-title="📺 ดูหนังออนไลน์" ,HCleaner (2025) ไต่ระทึกตึกนรก
+https://main.24playerhd.com/newplaylist/48e2c5a741110e471c386257/48e2c5a741110e471c386257438.m3u8
 --------------------------------------------------------------------------------------
 ####ดูซีรี####
 
@@ -2614,6 +2633,23 @@ https://main.24playerhd.com/newplaylist/581a29d384ad37dbf0ab271e/581a29d384ad37d
 #EXTINF:1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/Squid-Game-Season-3-2025-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-3-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Squid Game Season 3 (2025) สควิดเกม เล่นลุ้นตาย ซีซั่น 3    EP 6
 https://main.24playerhd.com/newplaylist/fa5b84dcdef32772326a30ba/fa5b84dcdef32772326a30ba.m3u8
 
+#EXTINF:1 tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Billionaires-Bunker-2025-200x300.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Billionaires Bunker (2025) ติดหรูอยู่บังเกอร์ (พากย์ไทย ซับไทย)  EP 1
+https://main.24playerhd.com/newplaylist/dc6e76a5645438e1247c5aac/dc6e76a5645438e1247c5aac438.m3u8
+#EXTINF:1 tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Billionaires-Bunker-2025-200x300.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Billionaires Bunker (2025) ติดหรูอยู่บังเกอร์ (พากย์ไทย ซับไทย)  EP 2
+https://main.24playerhd.com/newplaylist/aaa05acf5eda0cb0f4e14f8a/aaa05acf5eda0cb0f4e14f8a438.m3u8
+#EXTINF:1 tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Billionaires-Bunker-2025-200x300.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Billionaires Bunker (2025) ติดหรูอยู่บังเกอร์ (พากย์ไทย ซับไทย)  EP 3
+https://main.24playerhd.com/newplaylist/e3d3692938ba0b6ee102da9d/e3d3692938ba0b6ee102da9d438.m3u8
+#EXTINF:1 tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Billionaires-Bunker-2025-200x300.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Billionaires Bunker (2025) ติดหรูอยู่บังเกอร์ (พากย์ไทย ซับไทย)  EP 4
+https://main.24playerhd.com/newplaylist/aed58ebc83684e4e7dec052c/aed58ebc83684e4e7dec052c438.m3u8
+#EXTINF:1 tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Billionaires-Bunker-2025-200x300.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Billionaires Bunker (2025) ติดหรูอยู่บังเกอร์ (พากย์ไทย ซับไทย)  EP 5
+https://main.24playerhd.com/newplaylist/f4d2ad3f1ca3d83c05772bda/f4d2ad3f1ca3d83c05772bda438.m3u8
+#EXTINF:1 tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Billionaires-Bunker-2025-200x300.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Billionaires Bunker (2025) ติดหรูอยู่บังเกอร์ (พากย์ไทย ซับไทย)  EP 6
+https://main.24playerhd.com/newplaylist/08efc91d3aaae1d57fb189ad/08efc91d3aaae1d57fb189ad438.m3u8
+#EXTINF:1 tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Billionaires-Bunker-2025-200x300.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Billionaires Bunker (2025) ติดหรูอยู่บังเกอร์ (พากย์ไทย ซับไทย)  EP 7
+https://main.24playerhd.com/newplaylist/3632cdf983a141bb8b21aa78/3632cdf983a141bb8b21aa78438.m3u8
+#EXTINF:1 tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Billionaires-Bunker-2025-200x300.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Billionaires Bunker (2025) ติดหรูอยู่บังเกอร์ (พากย์ไทย ซับไทย)  EP 8
+https://main.24playerhd.com/newplaylist/10bf94b25b660f3a9d37c070/10bf94b25b660f3a9d37c070438.m3u8
+
 #EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 1
 https://main.24playerhd.com/newplaylist/371929fc9e6744a8d42a10e3/371929fc9e6744a8d42a10e3438.m3u8
 #EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 2
@@ -2624,6 +2660,7 @@ https://main.24playerhd.com/newplaylist/fb620b6959c2724d988b3838/fb620b6959c2724
 https://main.24playerhd.com/newplaylist/408fd58ac761f2669ea0f004/408fd58ac761f2669ea0f004438.m3u8
 #EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 5
 https://main.24playerhd.com/newplaylist/0a7f57ab1faff58125adb7b4/0a7f57ab1faff58125adb7b4438.m3u8
+
 
 
 --------------------------------------------------------------------------------------
