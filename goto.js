@@ -2598,6 +2598,17 @@ https://main.24playerhd.com/newplaylist/581a29d384ad37dbf0ab271e/581a29d384ad37d
 #EXTINF:1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/Squid-Game-Season-3-2025-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-3-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Squid Game Season 3 (2025) สควิดเกม เล่นลุ้นตาย ซีซั่น 3    EP 6
 https://main.24playerhd.com/newplaylist/fa5b84dcdef32772326a30ba/fa5b84dcdef32772326a30ba.m3u8
 
+#EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 1
+https://hplay.hdplayfull.xyz/f3d4f977-2b97-4aa3-b53a-8ea53282106c/0
+#EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 2
+https://hplay.hdplayfull.xyz/ed5b8c48-2a50-4750-8a68-aa19127e0896/0
+#EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 3
+https://hplay.hdplayfull.xyz/684feeb4-e3a6-4309-a99f-1eea4ffa1608/0
+#EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 4
+https://hplay.hdplayfull.xyz/afc671fa-a97d-4eac-9f26-4c78be4a5d98/0
+#EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 5
+https://hplay.hdplayfull.xyz/f4966f5d-fbe4-43a8-bf6d-b3cd978e82fb/0
+
 
 --------------------------------------------------------------------------------------
 ####test####
