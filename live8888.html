@@ -1,287 +1,318 @@
-IPTV Web Player (single-file React component)
-
-Features:
-- Play HLS (.m3u8) and DASH (.mpd) streams (including AES-128 keyed HLS segments handled by player if playlist references key URI)
-- Category menu (Sports, Kids, Movies, Custom)
-- Add / edit / delete stream links (saved to localStorage)
-- Simple, responsive UI using Tailwind CSS
-- Uses hls.js for HLS and dashjs for DASH playback (dynamic imports)
-
-How to run:
-1) Create a React app (Vite / Create React App) and install tailwind (or CDN tailwind in index.html). Example with CRA or Vite.
-2) Install dependencies: npm install hls.js dashjs
-3) Place this file (iptv-player.jsx) and import in your app (e.g., in App.jsx: `import IPTVPlayer from './iptv-player'` and then `<IPTVPlayer/>`).
-
-Notes & limitations
-- HLS decryption: if the m3u8 references a KEY URI, hls.js will request it. Make sure the key server has proper CORS headers.
-- DASH DRM: advanced DRM (Widevine/PlayReady) requires license servers and EME — this example handles clear DASH and simple setups via dash.js, but not full DRM integration.
-- Cross-origin resources (ts segments, keys, mpd) must allow CORS.
-
-*/
-
-import React, { useEffect, useRef, useState } from 'react';
-import Hls from 'hls.js';
-import dashjs from 'dashjs';
-
-export default function IPTVPlayer() {
-  // default sample data
-  const DEFAULT_PLAYLISTS = {
-    Sports: [
-      { id: genId(), name: 'Sample Sports HLS', url: 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8' }
-    ],
-    Kids: [
-      { id: genId(), name: 'Sample Kids DASH', url: 'https://dash.akamaized.net/envivio/EnvivioDash3/manifest.mpd' }
-    ],
-    Movies: [],
-    Custom: []
-  };
-
-  const [playlists, setPlaylists] = useState(() => loadPlaylists() || DEFAULT_PLAYLISTS);
-  const [activeCategory, setActiveCategory] = useState(Object.keys(DEFAULT_PLAYLISTS)[0]);
-  const [selected, setSelected] = useState(null);
-  const [adding, setAdding] = useState(false);
-  const [form, setForm] = useState({ name: '', url: '', category: 'Custom' });
-
-  const videoRef = useRef(null);
-  const hlsRef = useRef(null);
-  const dashRef = useRef(null);
-
-  useEffect(() => {
-    // if selected changed, load it
-    if (selected && selected.url) {
-      loadStream(selected.url);
-    } else {
-      unloadPlayers();
-    }
-    // cleanup on unmount
-    return () => unloadPlayers();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [selected]);
-
-  function genId() {
-    return Math.random().toString(36).slice(2, 9);
-  }
-
-  function loadPlaylists() {
-    try {
-      const raw = localStorage.getItem('iptv_playlists_v1');
-      return raw ? JSON.parse(raw) : null;
-    } catch (e) {
-      return null;
-    }
-  }
-
-  function savePlaylists(data) {
-    localStorage.setItem('iptv_playlists_v1', JSON.stringify(data));
-  }
-
-  function unloadPlayers() {
-    // destroy hls
-    if (hlsRef.current) {
-      hlsRef.current.destroy();
-      hlsRef.current = null;
-    }
-    if (dashRef.current) {
-      dashRef.current.reset();
-      dashRef.current = null;
-    }
-    const video = videoRef.current;
-    if (video) {
-      video.pause();
-      video.removeAttribute('src');
-      video.load();
-    }
-  }
-
-  async function loadStream(url) {
-    const video = videoRef.current;
-    if (!video) return;
-
-    unloadPlayers();
-
-    // Treat queryless / missing extension links: try to guess by inspecting url
-    const lower = url.split('?')[0].toLowerCase();
-    const looksLikeHLS = lower.endsWith('.m3u8') || lower.includes('m3u8');
-    const looksLikeDASH = lower.endsWith('.mpd') || lower.includes('mpd');
-
-    if (looksLikeHLS && Hls.isSupported()) {
-      const hls = new Hls({
-        // optional config: enable AES-128 key handling
-        // xhrSetup can be used to add headers if you need (commented example below).
-        // xhrSetup: (xhr, url) => { xhr.setRequestHeader('Origin', 'https://yourdomain.com'); }
-      });
-      hlsRef.current = hls;
-      hls.loadSource(url);
-      hls.attachMedia(video);
-      hls.on(Hls.Events.MANIFEST_PARSED, function () {
-        video.play().catch(() => {});
-      });
-      hls.on(Hls.Events.ERROR, function (event, data) {
-        console.error('HLS error', event, data);
-      });
-    } else if (looksLikeDASH) {
-      const player = dashjs.MediaPlayer().create();
-      dashRef.current = player;
-      player.initialize(video, url, true);
-      player.on('error', function (e) { console.error('dash error', e); });
-    } else {
-      // fallback: set video src directly (browser might play if native)
-      video.src = url;
-      video.addEventListener('loadedmetadata', () => video.play().catch(() => {}));
-    }
-  }
-
-  function handleAdd() {
-    if (!form.name || !form.url) return alert('กรุณากรอกชื่อและ URL');
-    const newItem = { id: genId(), name: form.name, url: form.url };
-    const copy = { ...playlists };
-    if (!copy[form.category]) copy[form.category] = [];
-    copy[form.category] = [newItem, ...copy[form.category]];
-    setPlaylists(copy);
-    savePlaylists(copy);
-    setForm({ name: '', url: '', category: form.category });
-    setAdding(false);
-  }
-
-  function handleDelete(cat, id) {
-    if (!confirm('ลบรายการนี้?')) return;
-    const copy = { ...playlists };
-    copy[cat] = copy[cat].filter(s => s.id !== id);
-    setPlaylists(copy);
-    savePlaylists(copy);
-    if (selected && selected.id === id) setSelected(null);
-  }
-
-  function handleImport() {
-    const txt = prompt('วาง JSON playlist ที่จะนำเข้า (รูปแบบ object ของ categories->array)');
-    if (!txt) return;
-    try {
-      const parsed = JSON.parse(txt);
-      const merged = { ...playlists, ...parsed };
-      setPlaylists(merged);
-      savePlaylists(merged);
-      alert('นำเข้าเรียบร้อย');
-    } catch (e) {
-      alert('ไม่สามารถนำเข้า JSON ได้');
-    }
-  }
-
-  function handleExport() {
-    const data = JSON.stringify(playlists, null, 2);
-    const blob = new Blob([data], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'iptv_playlists.json';
-    a.click();
-    URL.revokeObjectURL(url);
-  }
-
-  function createCategory() {
-    const name = prompt('ชื่อหมวดใหม่');
-    if (!name) return;
-    if (playlists[name]) return alert('มีหมวดนี้อยู่แล้ว');
-    const copy = { ...playlists, [name]: [] };
-    setPlaylists(copy);
-    savePlaylists(copy);
-    setActiveCategory(name);
-  }
-
-  return (
-    <div className="min-h-screen bg-gray-50 p-4 md:p-8">
-      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-6">
-        <aside className="col-span-1 bg-white rounded-2xl shadow p-4">
-          <div className="flex items-center justify-between mb-3">
-            <h2 className="text-lg font-semibold">เมนูช่อง</h2>
-            <div className="flex gap-2">
-              <button className="px-2 py-1 rounded-lg border text-sm" onClick={createCategory}>+ หมวด</button>
-              <button className="px-2 py-1 rounded-lg border text-sm" onClick={() => { setAdding(true); setForm({ name: '', url: '', category: 'Custom' }); }}>+ ช่อง</button>
-            </div>
-          </div>
-
-          <div className="space-y-2">
-            {Object.keys(playlists).map(cat => (
-              <button key={cat} onClick={() => setActiveCategory(cat)} className={`w-full text-left px-3 py-2 rounded-lg ${activeCategory === cat ? 'bg-indigo-600 text-white' : 'hover:bg-gray-100'}`}>
-                {cat} <span className="text-xs ml-2">({playlists[cat]?.length || 0})</span>
-              </button>
-            ))}
-          </div>
-
-          <div className="mt-4 text-sm text-gray-600">
-            <button className="mr-2" onClick={handleImport}>นำเข้า</button>
-            <button onClick={handleExport}>ส่งออก</button>
-          </div>
-        </aside>
-
-        <main className="md:col-span-3 bg-white rounded-2xl shadow p-4">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-            <div className="md:col-span-2">
-              <div className="aspect-video bg-black rounded-lg overflow-hidden">
-                <video ref={videoRef} controls playsInline style={{ width: '100%', height: '100%', background: 'black' }} />
-              </div>
-
-              <div className="mt-3 flex items-center justify-between">
-                <div>
-                  <h3 className="font-semibold">{selected ? selected.name : 'ยังไม่ได้เลือกช่อง'}</h3>
-                  <div className="text-xs text-gray-500">{selected ? selected.url : ''}</div>
-                </div>
-                <div>
-                  <button className="px-3 py-1 rounded border mr-2" onClick={() => { videoRef.current && videoRef.current.requestFullscreen && videoRef.current.requestFullscreen(); }}>Fullscreen</button>
-                  <button className="px-3 py-1 rounded border" onClick={() => { if (videoRef.current) { videoRef.current.pause(); videoRef.current.currentTime = 0; } }}>Stop</button>
-                </div>
-              </div>
-
-            </div>
-
-            <div>
-              <div className="mb-2 flex items-center justify-between">
-                <h4 className="font-semibold">รายการใน {activeCategory}</h4>
-                <div className="text-sm text-gray-500">คลิกเพื่อเล่น</div>
-              </div>
-
-              <div className="space-y-2 max-h-96 overflow-auto pr-2">
-                {(playlists[activeCategory] || []).map(item => (
-                  <div key={item.id} className={`p-2 rounded-lg flex items-center justify-between ${selected && selected.id === item.id ? 'bg-indigo-50' : 'hover:bg-gray-50'}`}>
-                    <div className="flex-1" onClick={() => setSelected(item)} style={{ cursor: 'pointer' }}>
-                      <div className="font-medium">{item.name}</div>
-                      <div className="text-xs text-gray-500 truncate">{item.url}</div>
-                    </div>
-                    <div className="flex items-center gap-2 ml-2">
-                      <button title="เล่น" onClick={() => setSelected(item)} className="px-2 py-1 border rounded">Play</button>
-                      <button title="ลบ" onClick={() => handleDelete(activeCategory, item.id)} className="px-2 py-1 border rounded">Del</button>
-                    </div>
-                  </div>
-                ))}
-
-                {(!playlists[activeCategory] || playlists[activeCategory].length === 0) && (
-                  <div className="text-sm text-gray-500">ยังไม่มีช่องในหมวดนี้</div>
-                )}
-              </div>
-            </div>
-          </div>
-
-          {/* add form modal */}
-          {adding && (
-            <div className="fixed inset-0 bg-black/40 flex items-center justify-center">
-              <div className="bg-white p-4 rounded-lg w-full max-w-md">
-                <h3 className="font-semibold mb-2">เพิ่มช่องใหม่</h3>
-                <div className="space-y-2">
-                  <input className="w-full p-2 border rounded" placeholder="ชื่อช่อง" value={form.name} onChange={e => setForm({ ...form, name: e.target.value })} />
-                  <input className="w-full p-2 border rounded" placeholder="URL (.m3u8 หรือ .mpd)" value={form.url} onChange={e => setForm({ ...form, url: e.target.value })} />
-                  <select className="w-full p-2 border rounded" value={form.category} onChange={e => setForm({ ...form, category: e.target.value })}>
-                    {Object.keys(playlists).map(k => <option key={k} value={k}>{k}</option>)}
-                  </select>
-                </div>
-                <div className="mt-3 flex justify-end gap-2">
-                  <button className="px-3 py-1 border rounded" onClick={() => setAdding(false)}>ยกเลิก</button>
-                  <button className="px-3 py-1 bg-indigo-600 text-white rounded" onClick={handleAdd}>บันทึก</button>
-                </div>
-              </div>
-            </div>
-          )}
-
-        </main>
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Simple IPTV Player (Static) — GitHub Pages</title>
+  <style>
+    :root{--bg:#0f1724;--card:#0b1220;--muted:#9aa4b2;--accent:#06b6d4}
+    html,body{height:100%;margin:0;font-family:Inter,system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(180deg,#071024 0%, #07182b 100%);color:#e6eef6}
+    .app{display:grid;grid-template-columns:260px 1fr;gap:18px;height:100vh;padding:18px}
+    .sidebar{background:var(--card);border-radius:12px;padding:14px;overflow:auto}
+    .logo{font-weight:700;margin-bottom:8px}
+    .cats{margin:12px 0}
+    .cat{padding:8px 10px;border-radius:8px;cursor:pointer;margin-bottom:6px}
+    .cat.active{background:#062b32}
+    .channels{margin-top:10px}
+    .channel{padding:8px;border-radius:8px;cursor:pointer;margin-bottom:6px;background:rgba(255,255,255,0.02)}
+    .main{display:flex;flex-direction:column;gap:12px}
+    .playerCard{background:var(--card);border-radius:12px;padding:12px;min-height:320px;display:flex;flex-direction:column}
+    video{width:100%;height:420px;background:#000;border-radius:8px}
+    .controls{display:flex;gap:8px;align-items:center;margin-top:8px}
+    .btn{background:var(--accent);border:none;padding:8px 12px;border-radius:8px;color:#002;cursor:pointer}
+    .muted{color:var(--muted);font-size:13px}
+    .formRow{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+    input,select,textarea{padding:8px;border-radius:8px;border:1px solid rgba(255,255,255,0.06);background:transparent;color:inherit}
+    .listHeader{display:flex;justify-content:space-between;align-items:center}
+    .small{font-size:13px}
+    .footer{font-size:12px;color:var(--muted)}
+    .topbar{display:flex;justify-content:space-between;align-items:center}
+    .search{width:100%;padding:8px;border-radius:8px}
+  </style>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar" id="sidebar">
+      <div class="logo">IPTV Player — Static</div>
+      <div class="topbar">
+        <input id="search" class="search" placeholder="ค้นหา channel หรือ url" />
       </div>
-    </div>
-  );
-}
+      <div class="cats" id="cats">
+        <!-- categories injected -->
+      </div>
+      <div class="listHeader"><strong>ช่อง</strong><button class="btn" id="btnAdd">เพิ่ม</button></div>
+      <div class="channels" id="channels"></div>
+      <div style="margin-top:12px" class="small footer">บันทึกช่องไว้บนเบราว์เซอร์ (localStorage). สามารถ Import/Export JSON เพื่อย้ายไปเครื่องอื่นได้.</div>
+      <div style="margin-top:8px">
+        <button id="btnExport" class="btn">Export</button>
+        <button id="btnImport" class="btn">Import</button>
+        <input type="file" id="fileImport" style="display:none" accept="application/json" />
+      </div>
+    </aside>
+
+    <main class="main">
+      <section class="playerCard">
+        <div style="display:flex;justify-content:space-between;gap:12px;align-items:center">
+          <div>
+            <div id="nowPlaying"><strong>ยังไม่ได้เล่น</strong></div>
+            <div class="muted" id="nowUrl"></div>
+          </div>
+          <div>
+            <select id="playerMode"><option value="auto">Auto</option><option value="hls">HLS (m3u8)</option><option value="dash">DASH (mpd)</option><option value="native">Direct (mp4/ts)</option></select>
+            <button id="btnReload" class="btn">Reload</button>
+          </div>
+        </div>
+        <div style="margin-top:10px"><video id="video" playsinline controls></video></div>
+        <div class="controls">
+          <button id="btnStop" class="btn">Stop</button>
+          <button id="btnFullscreen" class="btn">Fullscreen</button>
+          <div class="muted">Tip: ถ้าเป็น m3u8 ให้เลือก "HLS" หรือ "Auto"</div>
+        </div>
+
+        <hr style="margin:12px 0;border:none;border-top:1px solid rgba(255,255,255,0.03)" />
+
+        <div>
+          <strong>แก้ไข/เพิ่ม ช่อง</strong>
+          <div class="formRow">
+            <input id="fieldName" placeholder="ชื่อช่อง เช่น ช่องกีฬา" />
+            <select id="fieldCat"></select>
+            <select id="fieldType"><option value="hls">HLS (m3u8)</option><option value="dash">DASH (mpd)</option><option value="direct">Direct (mp4/ts)</option></select>
+          </div>
+          <div class="formRow">
+            <input id="fieldUrl" placeholder="URL เช่น https://.../playlist.m3u8" style="flex:1" />
+          </div>
+          <div class="formRow">
+            <input id="fieldKeyHex" placeholder="(ถ้ามี) key AES-128 เป็น hex (เช่น 001122...)" style="flex:1" />
+            <input id="fieldKeyUri" placeholder="(ถ้ามี) ถ้าต้องการใช้ key URI ให้ใส่ URI เดิม" style="flex:1" />
+          </div>
+          <div style="margin-top:8px">
+            <button id="btnSaveChannel" class="btn">บันทึก</button>
+            <button id="btnClearForm" class="btn">ล้าง</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="notes" style="background:var(--card);border-radius:12px;padding:12px;min-height:100px">
+        <strong>ข้อจำกัดสำคัญ</strong>
+        <ul class="muted">
+          <li>สคริปต์นี้เป็น static frontend — ถ้าสตรีมต้องการ token หรือ header พิเศษ คุณอาจต้องมี proxy/server เพื่อเพิ่ม header</li>
+          <li>การใส่ AES-128 key: ถ้าคุณใส่ค่า key เป็น hex สคริปต์จะสร้าง blob ให้สำหรับ key และแก้ไข playlist ชั่วคราวเพื่อให้เล่นได้ในเบราว์เซอร์</li>
+          <li>DRM ที่ซับซ้อน (Widevine, PlayReady) จะไม่ทำงาน ในกรณีนี้ต้องใช้ server + CDM</li>
+        </ul>
+      </section>
+    </main>
+  </div>
+
+  <!-- Libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.4.0/dist/hls.min.js"></script>
+  <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
+
+  <script>
+    // --- simple data model ---
+    const DEFAULT_CATS = ['กีฬา','เด็ก','หนัง','สารคดี','ข่าว','ดนตรี','อื่นๆ']
+    const sampleChannels = [
+      {id:cryptoRandomId(),name:'ตัวอย่าง HLS (สาธิต)',cat:'กีฬา',type:'hls',url:'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8'},
+      {id:cryptoRandomId(),name:'ตัวอย่าง DASH',cat:'หนัง',type:'dash',url:'https://dash.akamaized.net/envivio/EnvivioDash3/manifest.mpd'}
+    ]
+
+    function cryptoRandomId(){return 'c_'+Math.random().toString(36).slice(2,9)}
+
+    // load/save channels
+    function loadState(){
+      try{const raw=localStorage.getItem('iptv_channels_v1');if(!raw) return sampleChannels;return JSON.parse(raw)}catch(e){console.error(e);return sampleChannels}
+    }
+    function saveState(list){localStorage.setItem('iptv_channels_v1',JSON.stringify(list))}
+
+    let channels = loadState()
+    let selectedCat = null
+    let hlsPlayer = null
+    let dashPlayer = null
+
+    // UI refs
+    const catsEl = document.getElementById('cats')
+    const channelsEl = document.getElementById('channels')
+    const fieldCat = document.getElementById('fieldCat')
+    const fieldName = document.getElementById('fieldName')
+    const fieldUrl = document.getElementById('fieldUrl')
+    const fieldType = document.getElementById('fieldType')
+    const fieldKeyHex = document.getElementById('fieldKeyHex')
+    const fieldKeyUri = document.getElementById('fieldKeyUri')
+    const video = document.getElementById('video')
+    const nowPlaying = document.getElementById('nowPlaying')
+    const nowUrl = document.getElementById('nowUrl')
+    const playerMode = document.getElementById('playerMode')
+
+    // render categories and channel list
+    function uniqueCats(){
+      const set = new Set(DEFAULT_CATS)
+      channels.forEach(c=>set.add(c.cat||'อื่นๆ'))
+      return Array.from(set)
+    }
+    function renderCats(){
+      catsEl.innerHTML=''
+      uniqueCats().forEach(cat=>{
+        const d = document.createElement('div')
+        d.className='cat'+(cat===selectedCat? ' active':'')
+        d.textContent = cat
+        d.onclick = ()=>{selectedCat = cat;renderCats();renderChannels()}
+        catsEl.appendChild(d)
+      })
+      // fill fieldCat select
+      fieldCat.innerHTML=''
+      uniqueCats().forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;fieldCat.appendChild(o)})
+    }
+
+    function renderChannels(filterText=''){
+      channelsEl.innerHTML=''
+      const list = channels.filter(ch => (!selectedCat || ch.cat===selectedCat) && (!filterText || (ch.name+ch.url).toLowerCase().includes(filterText.toLowerCase())))
+      list.forEach(ch=>{
+        const el = document.createElement('div')
+        el.className='channel'
+        el.innerHTML = `<div style="display:flex;justify-content:space-between;align-items:center"><div><strong>${escapeHtml(ch.name)}</strong><div class='muted small'>${escapeHtml(ch.url)}</div></div><div><button data-id='${ch.id}' class='btn btnPlay'>เล่น</button><button data-id='${ch.id}' class='btn btnEdit'>แก้ไข</button><button data-id='${ch.id}' class='btn btnDel'>ลบ</button></div></div>`
+        channelsEl.appendChild(el)
+      })
+      // wire buttons
+      document.querySelectorAll('.btnPlay').forEach(b=>b.onclick = e=>playChannel(findChannelById(e.target.dataset.id)))
+      document.querySelectorAll('.btnEdit').forEach(b=>b.onclick = e=>editChannel(findChannelById(e.target.dataset.id)))
+      document.querySelectorAll('.btnDel').forEach(b=>b.onclick = e=>{if(confirm('ลบช่องนี้?')){channels = channels.filter(c=>c.id!==e.target.dataset.id);saveState(channels);renderChannels();renderCats()}})
+    }
+
+    function findChannelById(id){return channels.find(c=>c.id===id)}
+
+    // helpers
+    function escapeHtml(s){return (s+'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+
+    // Edit / Add
+    document.getElementById('btnAdd').onclick = ()=>{clearForm();}
+    document.getElementById('btnClearForm').onclick = clearForm
+
+    function clearForm(){fieldName.value='';fieldUrl.value='';fieldKeyHex.value='';fieldKeyUri.value='';fieldType.value='hls';}
+
+    document.getElementById('btnSaveChannel').onclick = ()=>{
+      const name = fieldName.value.trim(); const url = fieldUrl.value.trim(); const cat = fieldCat.value || 'อื่นๆ'; const type = fieldType.value; const keyHex = fieldKeyHex.value.trim(); const keyUri = fieldKeyUri.value.trim()
+      if(!name || !url){alert('กรุณากรอกชื่อและ url');return}
+      const existing = channels.find(c=>c.name===name && c.url===url)
+      if(existing){ // update
+        existing.cat=cat; existing.type=type; existing.keyHex=keyHex; existing.keyUri=keyUri
+      } else {
+        channels.push({id:cryptoRandomId(),name,cat,type,url,keyHex,keyUri})
+      }
+      saveState(channels);renderChannels();renderCats();clearForm();
+    }
+
+    function editChannel(ch){fieldName.value=ch.name;fieldUrl.value=ch.url;fieldKeyHex.value=ch.keyHex||'';fieldKeyUri.value=ch.keyUri||'';fieldType.value=ch.type||'hls';fieldCat.value=ch.cat||'อื่นๆ';window.scrollTo({top:0,behavior:'smooth'})}
+
+    // play logic
+    async function playChannel(ch){
+      nowPlaying.innerHTML = `<strong>${escapeHtml(ch.name)}</strong>`
+      nowUrl.textContent = ch.url
+      // stop previous
+      stopAll()
+      const mode = playerMode.value
+      const detect = mode==='auto'
+      const type = detect ? ch.type : (mode==='hls'? 'hls': mode==='dash'?'dash':'direct')
+
+      if(type==='hls' || (detect && ch.url.includes('.m3u8'))){
+        await playHls(ch)
+      } else if(type==='dash' || (detect && ch.url.includes('.mpd'))){
+        playDash(ch)
+      } else { // direct
+        playDirect(ch.url)
+      }
+    }
+
+    function stopAll(){
+      if(hlsPlayer){try{hlsPlayer.destroy()}catch(e){};hlsPlayer=null}
+      if(dashPlayer){try{dashPlayer.reset();}catch(e){};dashPlayer=null}
+      video.pause();video.removeAttribute('src');video.load();
+    }
+
+    function playDirect(url){video.src = url; video.play().catch(e=>console.warn(e))}
+
+    async function playHls(ch){
+      // if the user supplied a key hex, we attempt to fetch playlist and inject a blob key
+      let sourceUrl = ch.url
+      if(ch.keyHex){
+        try{
+          const playlistText = await fetch(ch.url).then(r=>r.text())
+          // create key blob
+          const keyBytes = hexToBytes(ch.keyHex)
+          const keyBlob = new Blob([new Uint8Array(keyBytes)])
+          const keyBlobUrl = URL.createObjectURL(keyBlob)
+          // replace EXT-X-KEY line: if user provided keyUri, replace that uri; otherwise replace first EXT-X-KEY
+          let modified = playlistText
+          if(ch.keyUri){
+            const regex = new RegExp(`(EXT-X-KEY:[^\n]*URI=")(${escapeRegExp(ch.keyUri)})("[^\n]*)`, 'i')
+            modified = modified.replace(regex, `$1${keyBlobUrl}$3`)
+          } else {
+            // replace first occurrence of URI="..."
+            modified = modified.replace(/(EXT-X-KEY:[^\n]*URI=")([^"]+)("[^\n]*)/i, `$1${keyBlobUrl}$3`)
+          }
+          // create playlist blob
+          const playlistBlob = new Blob([modified], {type:'application/vnd.apple.mpegurl'})
+          const playlistUrl = URL.createObjectURL(playlistBlob)
+          sourceUrl = playlistUrl
+        }catch(err){console.error('ไม่สามารถโหลดหรือแก้ไข playlist ได้',err);alert('ไม่สามารถโหลด playlist เพื่อแทรก key: '+err.message);}
+      }
+
+      if(window.Hls && Hls.isSupported()){
+        hlsPlayer = new Hls({enableWorker:true})
+        hlsPlayer.attachMedia(video)
+        hlsPlayer.on(Hls.Events.MEDIA_ATTACHED, ()=>{
+          hlsPlayer.loadSource(sourceUrl)
+          hlsPlayer.on(Hls.Events.MANIFEST_PARSED, ()=>{video.play().catch(e=>console.warn(e))})
+        })
+        // optional: intercept key requests to add headers (not implemented here)
+      } else {
+        // native HLS (Safari)
+        video.src = sourceUrl
+        video.play().catch(e=>console.warn(e))
+      }
+    }
+
+    function playDash(ch){
+      dashPlayer = dashjs.MediaPlayer().create()
+      dashPlayer.initialize(video, ch.url, true)
+    }
+
+    // utility: hex to bytes
+    function hexToBytes(hex){
+      const s = hex.replace(/[^0-9a-f]/gi,'')
+      const out = []
+      for(let i=0;i<s.length;i+=2) out.push(parseInt(s.substr(i,2),16))
+      return out
+    }
+    function escapeRegExp(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}
+
+    // buttons
+    document.getElementById('btnStop').onclick = ()=>stopAll()
+    document.getElementById('btnReload').onclick = ()=>{ // reload current source
+      const cur = nowUrl.textContent
+      if(cur){ playDirect(cur); }
+    }
+    document.getElementById('btnFullscreen').onclick = ()=>{if(document.fullscreenElement){document.exitFullscreen()}else{video.requestFullscreen().catch(()=>{})}}
+
+    // import/export
+    document.getElementById('btnExport').onclick = ()=>{
+      const data = JSON.stringify(channels, null, 2)
+      const blob = new Blob([data], {type:'application/json'})
+      const url = URL.createObjectURL(blob)
+      const a = document.createElement('a'); a.href=url; a.download='iptv-channels.json'; a.click()
+      URL.revokeObjectURL(url)
+    }
+    document.getElementById('btnImport').onclick = ()=>document.getElementById('fileImport').click()
+    document.getElementById('fileImport').onchange = async (e)=>{
+      const f = e.target.files[0]; if(!f) return; const txt = await f.text(); try{const parsed = JSON.parse(txt); if(Array.isArray(parsed)){channels = parsed; saveState(channels); renderCats(); renderChannels(); alert('นำเข้าเสร็จแล้ว')} else alert('ไฟล์ไม่ใช่รูปแบบที่ถูกต้อง')}catch(err){alert('Parse error: '+err.message)}
+    }
+
+    // search
+    document.getElementById('search').addEventListener('input', (e)=>renderChannels(e.target.value))
+
+    // init
+    renderCats(); renderChannels()
+
+    // small note: this file is designed for GitHub Pages (static). If your streams require special headers or token refresh,
+    // you will need a small proxy server to add those headers or sign URLs.
+  </script>
+</body>
+</html>
