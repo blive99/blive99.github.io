@@ -106,7 +106,7 @@ https://cdn.8kgoal.com/bbs/monomax-2/playlist.m3u8
 https://www.livedoomovies.com/Monomax_PL_2HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/126/index.m3u8?token=mvFWafOIir5JDlQN
+https://verb169.com/stream/157/index.m3u8?token=mvFWafOIir5JDlQN
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -130,6 +130,9 @@ https://e105.hellotherepadawan.org/v5/YH0w88_TZ55kbF8ttasaBg/1757676253/5fa50586
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_3HD/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
+https://verb169.com/stream/127/index.m3u8?token=mvFWafOIir5JDlQN
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport03.png" group-title="📺 VIP SPORT",MONOMAX3
 http://bestcommt2.github.io/m3u8/monomax3.m3u8
@@ -947,7 +950,12 @@ https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://bestcommt2.github.io/m3u8/truespotv2.m3u8
-
+#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
+#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
+https://verb169.com/stream/7/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
+#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
+https://verb169.com/stream/4/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
@@ -979,30 +987,20 @@ https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-tsport7_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-bein1_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
+https://verb169.com/stream/8/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-bein2_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
+https://verb169.com/stream/8/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,BeinSportHD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-bein3_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
+https://verb169.com/stream/10/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" ,BeinSportHD 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/hd-bein4_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
+https://verb169.com/stream/11/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" ,BeinSportHD 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/hd-bein5_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
+https://verb169.com/stream/12/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" ,BeinSportHD 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
@@ -1778,13 +1776,16 @@ http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://i.ibb.co/tTqXqqrf/espn.png" , ESPN
-https://keela2.com/stream/33/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
+https://verb169.com/stream/33/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/4/2/espn-2-logo-png_seeklogo-49202.png" , ESPN 2
-https://keela2.com/stream/34/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
+https://verb169.com/stream/34/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg" , ESPN 3
-https://keela2.com/stream/35/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
+https://verb169.com/stream/35/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://futbollibre-tv.su/img/logo-canal/ESPN_4.webp" , ESPN 4
-https://keela3.com/stream/48/index.m3u8?token=J5iyZmyDDiw7NdQm
+https://verb169.com/stream/48/index.m3u8?token=J5iyZmyDDiw7NdQm
 
 #EXTINF:-1  group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250213_081044.png",One Golf HD
 https://sscsott.com/pk/ONEGOLF/tracks-v1a1/mono.m3u8
