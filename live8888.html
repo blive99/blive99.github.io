@@ -1,9 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="th">
 <head>
   <meta charset="UTF-8">
-  <title>IPTV Player</title>
-  <!-- Video.js CSS -->
+  <title>IPTV Player Thailand</title>
   <link href="https://vjs.zencdn.net/7.21.0/video-js.css" rel="stylesheet" />
 
   <style>
@@ -11,99 +10,215 @@
       background: #111;
       color: #eee;
       font-family: sans-serif;
-      text-align: center;
       margin: 0;
       padding: 0;
     }
+    header {
+      background: #222;
+      padding: 10px 20px;
+      text-align: center;
+    }
     #player {
-      width: 80%;
+      width: 90%;
       max-width: 960px;
       margin: 20px auto;
     }
-    .channel-list {
-      margin: 20px auto;
+    .controls {
       max-width: 960px;
+      margin: 10px auto;
       display: flex;
-      flex-wrap: wrap;
       justify-content: center;
       gap: 10px;
     }
-    .channel-btn {
-      padding: 10px 15px;
-      background: #222;
-      border: 1px solid #444;
-      color: #eee;
-      cursor: pointer;
+    select {
+      padding: 6px 10px;
       border-radius: 6px;
+      border: 1px solid #444;
+      background: #222;
+      color: #eee;
     }
-    .channel-btn:hover {
-      background: #444;
+    .channel-list {
+      margin: 20px auto;
+      max-width: 1000px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+    }
+    .channel-card {
+      width: 200px;
+      background: #1c1c1c;
+      border: 1px solid #333;
+      border-radius: 10px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+    .channel-card:hover {
+      transform: scale(1.05);
+    }
+    .channel-thumb {
+      width: 100%;
+      height: 110px;
+      object-fit: cover;
+      background: #000;
+    }
+    .channel-info {
+      padding: 10px;
+      text-align: center;
+    }
+    .channel-logo {
+      height: 30px;
+      margin-bottom: 5px;
+    }
+    .channel-name {
+      font-size: 14px;
+      color: #fff;
     }
   </style>
 </head>
 <body>
-  <h1>📺 IPTV Player</h1>
+  <header>
+    <h1>📺 IPTV Player Thailand</h1>
+  </header>
 
-  <!-- Video Player -->
+  <!-- Player -->
   <div id="player">
     <video id="video" class="video-js vjs-default-skin" controls preload="auto"></video>
   </div>
 
-  <!-- Channel Buttons -->
-  <div class="channel-list">
-    <button class="channel-btn" onclick="playChannel('JKN 18')">JKN 18</button>
-    <button class="channel-btn" onclick="playChannel('Sample HLS')">Sample HLS</button>
+  <!-- Controls -->
+  <div class="controls">
+    <label>เลือกหมวด:
+      <select id="categorySelect" onchange="renderChannels()">
+        <option value="กีฬา">กีฬา</option>
+        <option value="ข่าว">ข่าว</option>
+        <option value="บันเทิง">บันเทิง</option>
+        <option value="การศึกษา">การศึกษา</option>
+      </select>
+    </label>
   </div>
+
+  <!-- Channel List -->
+  <div class="channel-list" id="channelList"></div>
 
   <!-- Video.js -->
   <script src="https://vjs.zencdn.net/7.21.0/video.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/videojs-contrib-eme@3.8.0/dist/videojs-contrib-eme.min.js"></script>
 
   <script>
-    // ช่องที่เราจะใส่
     const channels = {
-      "JKN 18": {
-        src: "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd",
-        type: "application/dash+xml",
-        keySystemOptions: [{
-          name: "org.w3.clearkey",
-          options: {
-            clearkeys: {
-              "333de6034a1d45fe91c829539caf1149": "2710efc048ca44bba4c2b57397989a26"
-            }
-          }
-        }]
-      },
-      "Sample HLS": {
-        src: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        type: "application/x-mpegURL"
-      }
+      "กีฬา": [
+        {
+          name: "True Sport HD",
+          src: "https://edge2-bkk.3bb.co.th/truesporthd.m3u8",
+          type: "application/x-mpegURL",
+          logo: "https://upload.wikimedia.org/wikipedia/commons/9/9b/True_Sport_HD.png",
+          thumb: "https://i.ytimg.com/vi/4R0wPvUmdGI/maxresdefault.jpg"
+        },
+        {
+          name: "PPTV HD 36",
+          src: "https://streaming-pp12.akamaized.net/hls/live/2033783-b/pptvhd/playlist.m3u8",
+          type: "application/x-mpegURL",
+          logo: "https://upload.wikimedia.org/wikipedia/commons/5/59/PPTVHD36.png",
+          thumb: "https://i.ytimg.com/vi/mQf4nCM8a-M/maxresdefault.jpg"
+        }
+      ],
+      "ข่าว": [
+        {
+          name: "Thai PBS News",
+          src: "https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
+          type: "application/x-mpegURL",
+          logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Thai_PBS_Logo.png",
+          thumb: "https://i.ytimg.com/vi/Xt4mC_rzFio/maxresdefault.jpg"
+        },
+        {
+          name: "Nation TV",
+          src: "https://nps-live.cdn.byteark.com/live/playlist.m3u8",
+          type: "application/x-mpegURL",
+          logo: "https://upload.wikimedia.org/wikipedia/commons/6/6e/NationTV_Logo.png",
+          thumb: "https://i.ytimg.com/vi/7AfJ2mKfQ9A/maxresdefault.jpg"
+        }
+      ],
+      "บันเทิง": [
+        {
+          name: "Workpoint TV",
+          src: "https://streaming.livescorethai.net/iptv/workpointhd.stream/playlist.m3u8",
+          type: "application/x-mpegURL",
+          logo: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Workpoint_TV.png",
+          thumb: "https://i.ytimg.com/vi/5o3i8u6GXc8/maxresdefault.jpg"
+        },
+        {
+          name: "CH3 Thailand",
+          src: "https://streaming.livescorethai.net/iptv/ch3hd.stream/playlist.m3u8",
+          type: "application/x-mpegURL",
+          logo: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Channel_3_HD_logo.png",
+          thumb: "https://i.ytimg.com/vi/0GmVsQt1zks/maxresdefault.jpg"
+        }
+      ],
+      "การศึกษา": [
+        {
+          name: "DLTV 1",
+          src: "https://dltv-live.cdn.byteark.com/live/playlist1.m3u8",
+          type: "application/x-mpegURL",
+          logo: "https://www.dltv.ac.th/_next/static/media/logo.1e86444b.png",
+          thumb: "https://i.ytimg.com/vi/MqXkLuhwxkM/maxresdefault.jpg"
+        },
+        {
+          name: "DLTV 2",
+          src: "https://dltv-live.cdn.byteark.com/live/playlist2.m3u8",
+          type: "application/x-mpegURL",
+          logo: "https://www.dltv.ac.th/_next/static/media/logo.1e86444b.png",
+          thumb: "https://i.ytimg.com/vi/m0gEdU9VRZM/maxresdefault.jpg"
+        }
+      ]
     };
 
-    // สร้าง player
-    const player = videojs('video', {
-      fluid: true,
-      autoplay: false
-    });
+    const player = videojs('video', { fluid: true, autoplay: false });
 
-    // ฟังก์ชันเลือกช่อง
-    function playChannel(name) {
-      const ch = channels[name];
-      if (!ch) return;
+    function renderChannels() {
+      const cat = document.getElementById("categorySelect").value;
+      const list = document.getElementById("channelList");
+      list.innerHTML = "";
+      (channels[cat] || []).forEach((ch, i) => {
+        const card = document.createElement("div");
+        card.className = "channel-card";
+        card.onclick = () => playChannel(cat, i);
 
-      player.reset(); // รีเซ็ตก่อนเปลี่ยนช่อง
+        const thumb = document.createElement("img");
+        thumb.className = "channel-thumb";
+        thumb.src = ch.thumb;
 
-      player.src({
-        src: ch.src,
-        type: ch.type,
-        keySystemOptions: ch.keySystemOptions || []
+        const info = document.createElement("div");
+        info.className = "channel-info";
+
+        const logo = document.createElement("img");
+        logo.className = "channel-logo";
+        logo.src = ch.logo;
+
+        const name = document.createElement("div");
+        name.className = "channel-name";
+        name.innerText = ch.name;
+
+        info.appendChild(logo);
+        info.appendChild(name);
+
+        card.appendChild(thumb);
+        card.appendChild(info);
+
+        list.appendChild(card);
       });
+    }
 
+    function playChannel(cat, idx) {
+      const ch = channels[cat][idx];
+      if (!ch) return;
+      player.reset();
+      player.src({ src: ch.src, type: ch.type });
       player.play();
     }
 
-    // เริ่มต้นเล่นช่องแรก
-    playChannel("JKN 18");
+    // เริ่มต้นที่หมวดกีฬา
+    renderChannels();
   </script>
 </body>
 </html>
