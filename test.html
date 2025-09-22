@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>IPTV Player (เล่น m3u8 / mpd / ts)</title>
+<style>
+:root{--bg:#0f1724;--card:#0b1220;--accent:#06b6d4;--muted:#9aa4b2;color-scheme:dark}
+html,body{height:100%;margin:0;background:linear-gradient(180deg,#071025 0%, #081428 100%);font-family:Inter,ui-sans-serif,system-ui,Arial}
+.app{display:grid;grid-template-columns:300px 1fr;gap:18px;height:100vh;padding:18px}
+.sidebar{background:rgba(255,255,255,0.02);border-radius:12px;padding:14px;overflow:auto}
+h2{margin:6px 0;color:#fff}
+.category{margin-top:10px}
+.cat-title{font-weight:600;color:var(--accent);display:flex;justify-content:space-between;align-items:center}
+.list{margin-top:8px}
+.item{padding:8px;border-radius:8px;margin-bottom:8px;background:rgba(255,255,255,0.02);cursor:pointer}
+.item:hover{background:rgba(255,255,255,0.03)}
+.main{display:flex;flex-direction:column;gap:12px}
+.player-card{background:rgba(255,255,255,0.02);border-radius:12px;padding:12px}
+video{width:100%;height:60vh;background:#000;border-radius:8px}
+.controls{display:flex;gap:8px;align-items:center;margin-top:8px}
+input,select,button,textarea{padding:8px;border-radius:8px;border:1px solid rgba(255,255,255,0.06);background:transparent;color:#fff;width:100%}
+.form-row{display:grid;grid-template-columns:1fr 120px;gap:8px}
+.small{width:120px}
+footer{color:var(--muted);font-size:13px;padding:8px;text-align:center}
+.muted{color:var(--muted);font-size:13px}
+.topbar{display:flex;gap:8px;align-items:center;margin-bottom:6px}
+</style>
+</head>
+<body>
+<div class="app">
+<aside class="sidebar">
+<div class="topbar">
+<h2>IPTV Player</h2>
+<div class="muted">เล่น m3u8 / mpd / ts</div>
+</div>
+
+
+<!-- Categories -->
+<div id="categories"></div>
+
+
+<hr style="margin:12px 0;border:none;border-top:1px dashed rgba(255,255,255,0.03)">
+<div>
+<h3 class="muted">เพิ่มสตรีมใหม่</h3>
+<div style="margin-top:6px">
+<input id="newTitle" placeholder="ชื่อ (เช่น TrueFilm)" />
+<input id="newUrl" placeholder="ลิงค์ (https://... .m3u8/.mpd/.ts)" style="margin-top:6px" />
+<select id="newType" style="margin-top:6px">
+<option value="auto">Auto (ตรวจจากนามสกุล)</option>
+<option value="m3u8">m3u8 (HLS)</option>
+<option value="mpd">mpd (DASH)</option>
+<option value="ts">ts (progressive .ts)</option>
+</select>
+<div style="margin-top:6px">
+<input id="keyUrl" placeholder="Key URL (ถ้ามี) - สำหรับ AES-128" />
+</div>
+<div style="margin-top:6px;display:flex;gap:8px">
+<button id="addBtn">เพิ่ม</button>
+<button id="clearBtn">รีเซ็ต</button>
+</div>
+</div>
+</div>
+
+
+<hr style="margin:12px 0;border:none;border-top:1px dashed rgba(255,255,255,0.03)">
+<div class="muted">เมนูการตั้งค่า</div>
+<div style="margin-top:8px">
+<button id="exportBtn">ส่งออก (JSON)</button>
+<button id="importBtn">นำเข้า (วาง JSON)</button>
+</div>
+</aside>
+
+
+<main class="main">
+<div class="player-card">
+<video id="video" controls playsinline></video>
+<div class="controls">
+<input id="directUrl" placeholder="วางลิงค์ที่นี่แล้วกดเล่น" />
+<select id="directType" style="width:140px">
+<option value="auto">Auto</option>
+</html>
