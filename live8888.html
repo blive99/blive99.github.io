@@ -57,13 +57,15 @@
         logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thai_PBS_logo.svg/512px-Thai_PBS_logo.svg.png",
         thumb: "https://i.ytimg.com/vi/TAFvx1Y9P9w/maxresdefault.jpg"
       },
-      {
+          {
         name: "PPTV HD 36",
-        src: "https://live-cdn-hwc.ch-cdn.com/playlist.m3u8", 
-        type: "application/x-mpegURL",
-        logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PPTVHD36_logo.png/512px-PPTVHD36_logo.png",
-        thumb: "https://upload.wikimedia.org/wikipedia/commons/5/52/PPTVHD36_court.jpg"
-      }
+        src: "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd",
+        type: "application/dash+xml",
+        logo: "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png",
+        thumb: "https://upload.wikimedia.org/wikipedia/commons/1/1e/JKN18_logo.png",
+        clearkeys: { "0aeffa7753674e77b99443fac7757b8a": "b8c8a462008a40aa91823e0b02e8dd31" } 
+      },
+
     ];
 
     const player = videojs('video', { fluid:true, autoplay:false });
