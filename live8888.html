@@ -1,313 +1,93 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="th">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>IPTV Web Player (M3U8 / MPD / MP4 / TS)</title>
-  <!-- CDN libraries (suitable for GitHub Pages) -->
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.4.6/dist/hls.min.js"></script>
-  <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
+  <meta charset="UTF-8">
+  <title>IPTV Player</title>
+  <link href="https://cdn.jsdelivr.net/npm/video.js@7.20.3/dist/video-js.min.css" rel="stylesheet">
   <style>
-    :root{--sidebar:#0f172a;--panel:#111827;--muted:#9ca3af;--accent:#06b6d4}
-    html,body{height:100%;margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial}
-    .app{display:grid;grid-template-columns:260px 1fr;grid-template-rows:1fr 220px;height:100vh;background:#0b1220;color:#e6eef6}
-    .sidebar{background:var(--sidebar);padding:16px;box-shadow:2px 0 8px rgba(0,0,0,.4);overflow:auto}
-    .brand{font-weight:700;margin-bottom:12px;display:flex;align-items:center;gap:8px}
-    .categories{margin-top:8px}
-    .cat{padding:8px;border-radius:8px;margin-bottom:6px;cursor:pointer;background:transparent}
-    .cat.active{background:#071124}
-    .center{padding:18px;display:flex;flex-direction:column;gap:12px;background:linear-gradient(180deg,#071523,transparent)}
-    .player-wrap{background:#000;border-radius:8px;padding:8px;display:flex;flex-direction:column;gap:8px}
-    video{width:100%;height:460px;background:#000;border-radius:6px;outline:none}
-    .controls{display:flex;gap:8px;align-items:center}
-    .channel-list{grid-column:1/3;padding:12px;background:#07172b;overflow:auto}
-    .channels{display:flex;flex-wrap:wrap;gap:10px}
-    .channel{width:180px;background:#061220;padding:8px;border-radius:8px;cursor:pointer;display:flex;gap:8px;align-items:center}
-    .channel img{width:56px;height:40px;object-fit:cover;border-radius:4px}
-    .ch-info{font-size:13px}
-    .muted{color:var(--muted);font-size:12px}
-    .form{display:flex;flex-direction:column;gap:8px;margin-top:12px}
-    input,select,textarea,button{padding:8px;border-radius:6px;border:1px solid rgba(255,255,255,.06);background:transparent;color:inherit}
-    .row{display:flex;gap:8px}
-    .small{font-size:12px;color:var(--muted)}
-    .btn{background:var(--accent);color:#042029;border:none;padding:8px 12px;border-radius:6px;cursor:pointer}
-    .btn.secondary{background:transparent;border:1px solid rgba(255,255,255,.06)}
-    .top-actions{display:flex;gap:8px;align-items:center;margin-left:auto}
-    .footer-note{font-size:12px;color:var(--muted)}
-    @media(max-width:880px){.app{grid-template-columns:1fr;grid-template-rows:auto 1fr 260px}.sidebar{order:2}.channel-list{grid-column:1}} 
+    body {margin:0;display:flex;height:100vh;font-family:sans-serif;background:#111;color:#eee;}
+    #menu {width:280px;background:#222;overflow-y:auto;padding:10px;}
+    #menu h3 {margin:10px 0;color:#f0db4f;border-bottom:1px solid #555;padding-bottom:5px;}
+    #menu ul {list-style:none;padding:0;margin:0;}
+    #menu li {padding:6px;cursor:pointer;display:flex;align-items:center;gap:6px;}
+    #menu li img {width:28px;height:28px;object-fit:contain;}
+    #menu li:hover {background:#444;}
+    #player {flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#000;}
+    video {width:100%;height:100%;}
   </style>
 </head>
 <body>
-  <div class="app">
-    <aside class="sidebar">
-      <div class="brand">⚡ IPTV Player <span style="font-weight:400;margin-left:6px;font-size:13px;">(local only, GitHub Pages)</span></div>
-      <div style="display:flex;gap:8px;align-items:center">
-        <input id="search" placeholder="ค้นหาช่อง/ชื่อ" style="flex:1" />
-        <button class="btn secondary" id="btn-import">นำเข้า M3U</button>
-      </div>
 
-      <div class="categories" id="categories"></div>
+<div id="menu"></div>
 
-      <hr style="border:none;border-top:1px solid rgba(255,255,255,.04);margin:12px 0" />
+<div id="player">
+  <video id="video" class="video-js vjs-big-play-centered" controls preload="auto"></video>
+</div>
 
-      <div>
-        <div style="font-weight:600;margin-bottom:6px">เพิ่มรายการใหม่</div>
-        <form id="addForm" class="form" onsubmit="return false">
-          <input id="field-name" placeholder="ชื่อช่อง (เช่น ช่องข่าว)" required />
-          <input id="field-url" placeholder="URL (m3u8 | mpd | mp4 | .ts)" required />
-          <input id="field-thumb" placeholder="URL รูปภาพตัวอย่าง (thumbnail)" />
-          <input id="field-group" placeholder="หมวด/กลุ่ม (เช่น กีฬา)" />
-          <select id="field-type">
-            <option value="auto">Auto (detect by extension)</option>
-            <option value="m3u8">m3u8 (HLS)</option>
-            <option value="mpd">mpd (MPEG-DASH)</option>
-            <option value="mp4">mp4</option>
-            <option value="ts">ts</option>
-          </select>
-          <input id="field-mpd-license" placeholder="MPD license URL (ถ้ามี)" />
-          <div style="display:flex;gap:8px">
-            <button class="btn" id="btn-add">เพิ่ม</button>
-            <button class="btn secondary" id="btn-clear">รีเซ็ต</button>
-          </div>
-        </form>
-        <div style="margin-top:8px" class="small">รายการจะถูกเก็บใน localStorage ของเบราว์เซอร์ และสามารถส่งออกเป็นไฟล์ .m3u</div>
-      </div>
-    </aside>
+<script src="https://cdn.jsdelivr.net/npm/video.js@7.20.3/dist/video.min.js"></script>
+<script>
+const channels = [
+  // === VIP SPORT ===
+  {group:"📺 VIP SPORT", name:"WWE", logo:"http://103.114.203.129:8080/images/db5e472498bd0b086a3c8671b5273cf4.png", url:"https://smart.bengaldigital.live/WWE/index.m3u8"},
+  {group:"📺 VIP SPORT", name:"MONOMAX1", logo:"https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png", url:"http://bestcommt2.github.io/m3u8/monomax1.m3u8"},
+  {group:"📺 VIP SPORT", name:"J SPORTS 1", logo:"https://www.jsports.co.jp/img/icon/ch1.png", url:"https://mt01.utako.moe/js1/index.m3u8"},
 
-    <main class="center">
-      <div style="display:flex;gap:12px;align-items:center">
-        <div style="font-weight:700">ตัวเล่นวิดีโอ</div>
-        <div class="top-actions">
-          <button class="btn" id="export-m3u">ส่งออกเป็น M3U</button>
-          <button class="btn secondary" id="btn-reset-all">ลบทั้งหมด</button>
-        </div>
-      </div>
+  // === PREMIUM PLAY TV ===
+  {group:"📺 PREMIUM PLAY TV", name:"IZAAMOVIE", logo:"https://i.ibb.co/B53tBWkh/logoizaamovie.png", url:"http://49.0.64.96:8007/IZAA"},
+  {group:"📺 PREMIUM PLAY TV", name:"Universal", logo:"https://i.ibb.co/MxZHkhvV/logo-universal.png", url:"http://49.0.64.96:8007/H-Channel"},
+  {group:"📺 PREMIUM PLAY TV", name:"FuckIDSeries", logo:"https://i.ibb.co/wFSYqgpG/logo-fuckseries.png", url:"http://49.0.64.96:8007/SERIES"},
+  {group:"📺 PREMIUM PLAY TV", name:"Asian Hits", logo:"https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Jc8ZGd3mxtwvL4JkQsprAhjuHrTUcdw5.png", url:"https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/1080p/index.m3u8"},
+  {group:"📺 PREMIUM PLAY TV", name:"Rush Stories", logo:"https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/ANp2vVsSLLRzwpYR7vqlXF6TxJWKSm0L.png", url:"https://monomax-bl9d80.cdn.byteark.com/fleetstream/RUSH/1080p/index.m3u8"},
 
-      <div class="player-wrap">
-        <video id="video" controls playsinline></video>
-        <div class="controls">
-          <div id="nowPlaying">ยังไม่ได้เลือกช่อง</div>
-          <div style="flex:1"></div>
-          <div class="footer-note">รองรับ HLS (hls.js) และ MPEG-DASH (dash.js)</div>
-        </div>
-      </div>
+  // === SPORT รวมกีฬา ===
+  {group:"📺 รวมช่องกีฬา", name:"Golf Channel Asian", logo:"https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp", url:"https://bestcommt2.github.io/m3u8/trueGOLF.m3u8"},
+  {group:"📺 รวมช่องกีฬา", name:"Golf Channel", logo:"https://i.ibb.co/9HBJp44q/golf-ch.png", url:"http://49.0.64.96:8007/GOLF"},
+  {group:"📺 รวมช่องกีฬา", name:"GO Sports", logo:"https://img2.pic.in.th/pic/images52505e220d433d2a.png", url:"https://cdn-th-vip.livestreaming.in.th/gosporttv/gosporttv/playlist.m3u8"},
+  {group:"📺 รวมช่องกีฬา", name:"T Sport 7", logo:"https://i.postimg.cc/CxNv6nGZ/IMG-1838.png", url:"https://freelive2.inwstream.com:1936/freelive-edge/dtv07_tsports7/playlist.m3u8"},
 
-      <div style="flex:1"></div>
+  // === การ์ตูน ===
+  {group:"📺 ดูการ์ตูนทีวี", name:"ANIMAX", logo:"https://i.ibb.co/vJdY0NG/animax.png", url:"https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd"},
+  {group:"📺 ดูการ์ตูนทีวี", name:"Cartoonito", logo:"https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png", url:"http://45.144.165.187:8080/xtreamvip/12345/60"},
+  {group:"📺 ดูการ์ตูนทีวี", name:"Cartoon Network", logo:"https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png", url:"https://bestcommt2.github.io/m3u8/cn.m3u8"},
+  {group:"📺 ดูการ์ตูนทีวี", name:"Dreamworks", logo:"http://103.114.203.129:8080/images/d54e66ce7b497b5264bd99c575f6403f.png", url:"http://45.144.165.187:8080/xtreamvip/12345/54"},
 
-    </main>
+  // === MOVIE ===
+  {group:"📺 หนังและบันเทิง", name:"Crime+Investigation", logo:"https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp", url:"https://bestcommt2.github.io/m3u8/ci.m3u8"},
+  {group:"📺 หนังและบันเทิง", name:"Superrix", logo:"https://i.ibb.co/pBHghpSx/237x0-icon.png", url:"http://49.0.64.96:8007/Cinemachi"},
+];
 
-    <section class="channel-list">
-      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
-        <div style="font-weight:700">รายการช่อง</div>
-        <div class="small muted">คลิกช่องเพื่อเล่น — สามารถนำเข้า/ส่งออก .m3u ได้</div>
-      </div>
+const menu = document.getElementById("menu");
+const video = videojs("video");
 
-      <div class="channels" id="channels"></div>
-    </section>
-  </div>
+function buildMenu() {
+  const groups = {};
+  channels.forEach(ch => {
+    if(!groups[ch.group]) groups[ch.group] = [];
+    groups[ch.group].push(ch);
+  });
 
-  <input id="file-input" type="file" accept=".m3u,.m3u8" style="display:none" />
-
-  <script>
-    // Simple data model stored in localStorage
-    const STORAGE_KEY = 'iptv_channels_v1';
-
-    // Helpers
-    const $ = id => document.getElementById(id);
-
-    // Default sample channels (optional)
-    const defaultChannels = [
-      // Example: {name:'Sample HLS',url:'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8',thumb:'',group:'ตัวอย่าง',type:'m3u8'}
-    ];
-
-    function loadChannels(){
-      try{
-        const raw = localStorage.getItem(STORAGE_KEY);
-        if(!raw) return defaultChannels.slice();
-        return JSON.parse(raw);
-      }catch(e){console.error(e);return defaultChannels.slice();}
-    }
-    function saveChannels(list){
-      localStorage.setItem(STORAGE_KEY,JSON.stringify(list));
-    }
-
-    let channels = loadChannels();
-
-    function detectType(url){
-      url = url.split('?')[0].split('#')[0];
-      if(url.endsWith('.m3u8')) return 'm3u8';
-      if(url.endsWith('.mpd')) return 'mpd';
-      if(url.endsWith('.mp4')) return 'mp4';
-      if(url.endsWith('.ts')) return 'ts';
-      return 'auto';
-    }
-
-    function renderCategories(){
-      const groups = Array.from(new Set(channels.map(c=>c.group||'อื่น ๆ'))).filter(g=>g);
-      const wrap = $('categories'); wrap.innerHTML='';
-      const allBtn = document.createElement('div'); allBtn.className='cat active'; allBtn.textContent='ทั้งหมด'; allBtn.onclick=()=>{filterGroup(null);document.querySelectorAll('.cat').forEach(el=>el.classList.remove('active'));allBtn.classList.add('active')};
-      wrap.appendChild(allBtn);
-      groups.forEach(g=>{
-        const d=document.createElement('div');d.className='cat';d.textContent=g;d.onclick=()=>{filterGroup(g);document.querySelectorAll('.cat').forEach(el=>el.classList.remove('active'));d.classList.add('active')};
-        wrap.appendChild(d);
-      });
-    }
-
-    let currentFilter = null;
-    function filterGroup(group){ currentFilter = group; renderChannels(); }
-
-    function renderChannels(){
-      const wrap = $('channels'); wrap.innerHTML='';
-      const list = channels.filter(c=>!currentFilter || (c.group||'อื่น ๆ')===currentFilter);
-      if(list.length===0){ wrap.innerHTML='<div class="muted">ไม่มีช่องในหมวดนี้</div>'; return; }
-      list.forEach((ch, idx)=>{
-        const el = document.createElement('div'); el.className='channel';
-        el.onclick = ()=>playChannel(ch);
-        const img = document.createElement('img'); img.src = ch.thumb || 'https://via.placeholder.com/160x90?text=No+Thumb'; img.onerror = ()=>{img.src='https://via.placeholder.com/160x90?text=No+Thumb'};
-        const info = document.createElement('div'); info.className='ch-info';
-        info.innerHTML = `<div style="font-weight:600">${escapeHtml(ch.name)}</div><div class="muted">${escapeHtml(ch.group||'อื่น ๆ')}</div>`;
-        el.appendChild(img); el.appendChild(info);
-        // context actions
-        const btnDel = document.createElement('button'); btnDel.textContent='⋮'; btnDel.style.marginLeft='auto'; btnDel.className='btn secondary'; btnDel.onclick = (e)=>{ e.stopPropagation(); if(confirm('ลบช่องนี้?')){ channels.splice(idx,1); saveChannels(channels); renderCategories(); renderChannels(); } };
-        el.appendChild(btnDel);
-        wrap.appendChild(el);
-      })
-    }
-
-    function escapeHtml(s){ return (s||'').toString().replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
-
-    // Player management
-    let hls = null, dashPlayer = null;
-    const video = $('video');
-
-    function clearPlayers(){
-      if(hls){ try{ hls.destroy(); }catch(e){} hls=null; }
-      if(dashPlayer){ try{ dashPlayer.reset(); }catch(e){} dashPlayer=null; }
-      video.pause(); video.removeAttribute('src'); video.load();
-    }
-
-    function playChannel(ch){
-      const url = ch.url;
-      const type = (ch.type && ch.type!=='auto') ? ch.type : detectType(url);
-      $('nowPlaying').textContent = `กำลังเล่น: ${ch.name} — ${url}`;
-      clearPlayers();
-
-      if(type==='m3u8'){
-        if(Hls.isSupported()){
-          hls = new Hls();
-          hls.loadSource(url);
-          hls.attachMedia(video);
-          hls.on(Hls.Events.MANIFEST_PARSED, ()=>video.play());
-        }else if(video.canPlayType('application/vnd.apple.mpegurl')){
-          video.src = url; video.play();
-        }else{ alert('เบราว์เซอร์นี้ไม่รองรับ HLS'); }
-      }else if(type==='mpd'){
-        // initialize dash.js and optionally set license/protection
-        dashPlayer = dashjs.MediaPlayer().create();
-        const protection = {};
-        if(ch.mpdLicense){
-          // set generic license URL for all key systems (user-provided)
-          protection = { 'com.widevine.alpha': { 'serverURL': ch.mpdLicense } };
-        }
-        dashPlayer.initialize(video, url, true);
-        if(Object.keys(protection).length){
-          dashPlayer.setProtectionData(protection);
-        }
-      }else{
-        // mp4 or ts or unknown -> assign to video tag
-        video.src = url; video.play().catch(()=>{});
-      }
-    }
-
-    // Add new channel
-    $('btn-add').addEventListener('click', ()=>{
-      const name = $('field-name').value.trim();
-      const url = $('field-url').value.trim();
-      if(!name || !url){ alert('กรุณากรอกชื่อและ URL'); return; }
-      const thumb = $('field-thumb').value.trim();
-      const group = $('field-group').value.trim() || 'ทั่วไป';
-      const type = $('field-type').value === 'auto' ? detectType(url) : $('field-type').value;
-      const mpdLicense = $('field-mpd-license').value.trim();
-      channels.push({name,url,thumb,group,type,mpdLicense});
-      saveChannels(channels); renderCategories(); renderChannels();
-      $('addForm').reset();
+  Object.keys(groups).forEach(g => {
+    const h = document.createElement("h3");
+    h.textContent = g;
+    menu.appendChild(h);
+    const ul = document.createElement("ul");
+    groups[g].forEach(ch => {
+      const li = document.createElement("li");
+      li.innerHTML = `<img src="${ch.logo}"> ${ch.name}`;
+      li.onclick = () => playChannel(ch);
+      ul.appendChild(li);
     });
+    menu.appendChild(ul);
+  });
+}
 
-    $('btn-clear').addEventListener('click', ()=>{ $('addForm').reset(); });
+function playChannel(ch) {
+  video.src({src: ch.url, type: ch.url.includes(".mpd")?"application/dash+xml":"application/x-mpegURL"});
+  video.play();
+}
 
-    // Export to M3U
-    function exportToM3U(){
-      let m3u = '#EXTM3U\n';
-      channels.forEach(ch=>{
-        const attrs = [];
-        if(ch.group) attrs.push(`group-title="${ch.group.replace(/\"/g,'') }"
-`);
-        if(ch.thumb) attrs.push(`tvg-logo="${ch.thumb.replace(/\"/g,'') }"`);
-        const ext = `#EXTINF:-1 ${attrs.join(' ')} ,${ch.name}\n`;
-        m3u += ext + ch.url + '\n';
-      });
-      const blob = new Blob([m3u],{type:'application/x-mpegurl'});
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a'); a.href = url; a.download = 'channels.m3u'; a.click(); URL.revokeObjectURL(url);
-    }
-    $('export-m3u').addEventListener('click', exportToM3U);
+buildMenu();
+</script>
 
-    // Import M3U
-    $('btn-import').addEventListener('click', ()=>{ $('file-input').click(); });
-    $('file-input').addEventListener('change', async (e)=>{
-      const f = e.target.files[0]; if(!f) return; const txt = await f.text(); parseM3U(txt); e.target.value='';
-    });
-
-    function parseM3U(text){
-      const lines = text.split(/\r?\n/).map(s=>s.trim()).filter(Boolean);
-      if(lines[0] && !lines[0].startsWith('#EXTM3U')){
-        alert('ไฟล์นี้ไม่ใช่ M3U ที่รองรับ'); return;
-      }
-      const imported = [];
-      for(let i=0;i<lines.length;i++){
-        const ln = lines[i];
-        if(ln.startsWith('#EXTINF')){
-          // parse attributes
-          const meta = ln.substring(8).split(',');
-          const attrPart = ln.match(/#EXTINF:-1\s*([^,]*)/);
-          let attrsRaw = '';
-          if(attrPart && attrPart[1]) attrsRaw = attrPart[1];
-          const attrs = {};
-          attrsRaw.replace(/([a-zA-Z0-9\-]+)=\"([^\"]*)\"/g,(_,k,v)=>{attrs[k]=v;});
-          const name = meta.slice(-1).join(',').trim() || 'ไม่ทราบชื่อ';
-          const url = (lines[i+1]||'').trim();
-          const ch = {name,url,thumb:attrs['tvg-logo']||'',group:attrs['group-title']||'ทั่วไป',type:detectType(url)};
-          imported.push(ch); i++;
-        }
-      }
-      if(imported.length===0){ alert('ไม่พบรายการในไฟล์ m3u'); return; }
-      // merge
-      channels = channels.concat(imported);
-      saveChannels(channels); renderCategories(); renderChannels(); alert('นำเข้า '+imported.length+' รายการ สำเร็จ');
-    }
-
-    // Reset all
-    $('btn-reset-all').addEventListener('click', ()=>{
-      if(!confirm('ลบรายการทั้งหมดและรีเซ็ตหรือไม่?')) return; channels = []; saveChannels(channels); renderCategories(); renderChannels(); clearPlayers();
-    });
-
-    // Search
-    $('search').addEventListener('input', (e)=>{
-      const q = e.target.value.trim().toLowerCase();
-      const wrap = $('channels'); wrap.innerHTML='';
-      const list = channels.filter(c=>c.name.toLowerCase().includes(q) || (c.group||'').toLowerCase().includes(q));
-      list.forEach((ch,idx)=>{ const el=document.createElement('div'); el.className='channel'; el.onclick=()=>playChannel(ch); el.innerHTML=`<img src="${ch.thumb||'https://via.placeholder.com/160x90?text=No+Thumb'}" onerror="this.src='https://via.placeholder.com/160x90?text=No+Thumb'"/><div class='ch-info'><div style='font-weight:600'>${escapeHtml(ch.name)}</div><div class='muted'>${escapeHtml(ch.group||'ทั่วไป')}</div></div>`; wrap.appendChild(el); });
-      if(list.length===0) wrap.innerHTML='<div class="muted">ไม่พบผลลัพธ์</div>';
-    });
-
-    // Simple M3U parser/export notes
-
-    // Init
-    renderCategories(); renderChannels();
-
-    // For GitHub Pages: just drop this single file into a repo and enable Pages (branch: main, root: /)
-    // Notes about MPD license: user can provide a license server URL when adding a channel (MPD license) -> dash.js will try to use it via protectionData for Widevine key-system.
-
-  </script>
 </body>
 </html>
