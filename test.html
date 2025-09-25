@@ -1,82 +1,312 @@
 <!doctype html>
 <html lang="th">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>IPTV Player (เล่น m3u8 / mpd / ts)</title>
-<style>
-:root{--bg:#0f1724;--card:#0b1220;--accent:#06b6d4;--muted:#9aa4b2;color-scheme:dark}
-html,body{height:100%;margin:0;background:linear-gradient(180deg,#071025 0%, #081428 100%);font-family:Inter,ui-sans-serif,system-ui,Arial}
-.app{display:grid;grid-template-columns:300px 1fr;gap:18px;height:100vh;padding:18px}
-.sidebar{background:rgba(255,255,255,0.02);border-radius:12px;padding:14px;overflow:auto}
-h2{margin:6px 0;color:#fff}
-.category{margin-top:10px}
-.cat-title{font-weight:600;color:var(--accent);display:flex;justify-content:space-between;align-items:center}
-.list{margin-top:8px}
-.item{padding:8px;border-radius:8px;margin-bottom:8px;background:rgba(255,255,255,0.02);cursor:pointer}
-.item:hover{background:rgba(255,255,255,0.03)}
-.main{display:flex;flex-direction:column;gap:12px}
-.player-card{background:rgba(255,255,255,0.02);border-radius:12px;padding:12px}
-video{width:100%;height:60vh;background:#000;border-radius:8px}
-.controls{display:flex;gap:8px;align-items:center;margin-top:8px}
-input,select,button,textarea{padding:8px;border-radius:8px;border:1px solid rgba(255,255,255,0.06);background:transparent;color:#fff;width:100%}
-.form-row{display:grid;grid-template-columns:1fr 120px;gap:8px}
-.small{width:120px}
-footer{color:var(--muted);font-size:13px;padding:8px;text-align:center}
-.muted{color:var(--muted);font-size:13px}
-.topbar{display:flex;gap:8px;align-items:center;margin-bottom:6px}
-</style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>FUCKIDPLUS3.0</title>
+  <style>
+    :root{--bg:#0f1724;--card:#0b1220;--accent:#ff8c00;--muted:#9aa6b2}
+    html,body{height:100%;margin:0;font-family:Inter,system-ui,Segoe UI,สวัส,Arial;background:linear-gradient(180deg,#071229 0%, #071a2f 100%);color:#e6eef6}
+    .app{display:grid;grid-template-columns:300px 1fr;gap:16px;height:100vh;padding:18px}
+    header{grid-column:1/-1;text-align:center;margin-bottom:6px}
+    h1{margin:0;font-size:22px;color:var(--accent);letter-spacing:2px}
+    .sidebar{background:var(--card);padding:12px;border-radius:12px;overflow:auto}
+    .groups{display:flex;flex-direction:column;gap:8px}
+    .group{padding:10px;border-radius:8px;background:transparent;cursor:pointer;border:1px solid rgba(255,255,255,0.02)}
+    .group:hover{background:rgba(255,255,255,0.02)}
+    .channels{margin-top:12px;display:grid;grid-template-columns:1fr;gap:8px}
+    .channel{display:flex;gap:8px;align-items:center;padding:8px;border-radius:8px;cursor:pointer}
+    .channel img{width:48px;height:32px;object-fit:cover;border-radius:4px}
+    .channel .meta{font-size:13px}
+    main{background:transparent;display:flex;flex-direction:column;gap:12px}
+    .player-card{background:var(--card);border-radius:12px;padding:12px;min-height:320px;display:flex;flex-direction:column}
+    video{width:100%;height:420px;background:black;border-radius:8px;outline:1px solid rgba(0,0,0,0.4)}
+    .controls{display:flex;gap:8px;align-items:center;margin-top:8px}
+    .controls button,input,select,textarea{background:transparent;border:1px solid rgba(255,255,255,0.06);color:inherit;padding:8px;border-radius:8px}
+    .forms{display:flex;gap:12px;flex-wrap:wrap}
+    .form{flex:1;min-width:240px;background:var(--card);padding:12px;border-radius:10px}
+    footer{grid-column:1/-1;text-align:center;color:var(--muted);font-size:12px}
+    .small{font-size:12px;color:var(--muted)}
+    .btn{background:var(--accent);border:none;color:#000;padding:8px 12px;border-radius:8px;cursor:pointer}
+    .list-empty{padding:12px;color:var(--muted);text-align:center}
+    @media(max-width:900px){.app{grid-template-columns:1fr;grid-auto-rows:auto}header{margin-bottom:10px}}
+  </style>
+  <!-- Libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.4.0/dist/hls.min.js"></script>
+  <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
 </head>
 <body>
-<div class="app">
-<aside class="sidebar">
-<div class="topbar">
-<h2>IPTV Player</h2>
-<div class="muted">เล่น m3u8 / mpd / ts</div>
-</div>
+  <div class="app">
+    <header><h1>FUCKIDPLUS3.0</h1></header>
 
+    <aside class="sidebar">
+      <div class="small">เมนูประเภทช่อง</div>
+      <div id="groups" class="groups"></div>
+      <hr style="opacity:.06;margin:12px 0" />
+      <div class="small">ช่องในหมวด</div>
+      <div id="channels" class="channels"></div>
+      <div id="emptyHint" class="list-empty" style="display:none">ยังไม่มีช่องในหมวดนี้ — กดปุ่ม <strong>เพิ่มรายการ</strong> ด้านล่างเพื่อเพิ่ม</div>
+    </aside>
 
-<!-- Categories -->
-<div id="categories"></div>
+    <main>
+      <div class="player-card">
+        <video id="player" controls crossorigin playsinline></video>
+        <div class="controls">
+          <div id="nowPlaying" class="small">ยังไม่ได้เลือกช่อง</div>
+          <div style="flex:1"></div>
+          <button id="btnPrev" class="btn" style="display:none">⏮️</button>
+          <button id="btnNext" class="btn" style="display:none">⏭️</button>
+        </div>
+      </div>
 
+      <div class="form" style="display:flex;flex-direction:column;gap:8px">
+        <strong>เพิ่ม/นำเข้ารายการ (รองรับ m3u8 / mp4 / ts / mpd)</strong>
+        <div class="forms">
+          <input id="fieldName" placeholder="ชื่อช่อง (เช่น MONOMAX1)" />
+          <input id="fieldUrl" placeholder="URL (http(s)://...)" />
+          <input id="fieldLogo" placeholder="URL รูปโลโก้ (ไม่บังคับ)" />
+          <input id="fieldGroup" placeholder="กลุ่ม/หมวด (เช่น 📺 VIP SPORT)" />
+        </div>
+        <div class="forms">
+          <select id="fieldType"><option value="auto">อัตโนมัติ (แยกจากนามสกุล)</option><option value="m3u8">m3u8</option><option value="mp4">mp4</option><option value="ts">ts</option><option value="mpd">mpd</option></select>
+          <input id="fieldMPDKey" placeholder="(ถ้าเป็น .mpd) ใส่ keyid:hexkey (เช่น 6187...:5119...)" />
+          <button id="btnAdd" class="btn">เพิ่มรายการ</button>
+        </div>
+        <div style="display:flex;gap:8px;margin-top:6px">
+          <input type="file" id="importFile" accept=".m3u,.m3u8" />
+          <button id="btnExport" class="btn">เซฟเป็น .m3u</button>
+          <button id="btnClear" style="background:#ff4444;color:#fff;border:none;border-radius:8px">ล้างทั้งหมด</button>
+        </div>
+        <div class="small">หมายเหตุ: การเล่นไฟล์จากโดเมนอื่นอาจถูกบล็อกด้วย CORS / การป้องกันลิขสิทธิ์ โปรดตรวจสอบว่าไฟล์อนุญาตให้เข้าถึงจากเบราว์เซอร์</div>
+      </div>
 
-<hr style="margin:12px 0;border:none;border-top:1px dashed rgba(255,255,255,0.03)">
-<div>
-<h3 class="muted">เพิ่มสตรีมใหม่</h3>
-<div style="margin-top:6px">
-<input id="newTitle" placeholder="ชื่อ (เช่น TrueFilm)" />
-<input id="newUrl" placeholder="ลิงค์ (https://... .m3u8/.mpd/.ts)" style="margin-top:6px" />
-<select id="newType" style="margin-top:6px">
-<option value="auto">Auto (ตรวจจากนามสกุล)</option>
-<option value="m3u8">m3u8 (HLS)</option>
-<option value="mpd">mpd (DASH)</option>
-<option value="ts">ts (progressive .ts)</option>
-</select>
-<div style="margin-top:6px">
-<input id="keyUrl" placeholder="Key URL (ถ้ามี) - สำหรับ AES-128" />
-</div>
-<div style="margin-top:6px;display:flex;gap:8px">
-<button id="addBtn">เพิ่ม</button>
-<button id="clearBtn">รีเซ็ต</button>
-</div>
-</div>
-</div>
+      <div class="form">
+        <strong>รายการในระบบ (คลิกเพื่อเลือกและเล่น)</strong>
+        <div id="allList" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:8px;margin-top:8px"></div>
+      </div>
 
+    </main>
 
-<hr style="margin:12px 0;border:none;border-top:1px dashed rgba(255,255,255,0.03)">
-<div class="muted">เมนูการตั้งค่า</div>
-<div style="margin-top:8px">
-<button id="exportBtn">ส่งออก (JSON)</button>
-<button id="importBtn">นำเข้า (วาง JSON)</button>
-</div>
-</aside>
+    <footer>ไฟล์ที่เซฟจะเป็น m3u (UTF-8). คุณสามารถอัปโหลดไฟล์ .m3u เพื่อเพิ่มรายการกลับเข้ามา</footer>
+  </div>
 
+<script>
+// --- ตัวอย่างเริ่มต้น (จากผู้ใช้) ---
+const defaultM3U = `###SPORT###
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bestcommt2.github.io
+http://bestcommt2.github.io/m3u8/monomax1.m3u8
+#EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J SPORTS 1
+https://mt01.utako.moe/js1/index.m3u8
+###PREMIUM PLAY TV###
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
+http://49.0.64.96:8007/IZAA
+###BallThai###
+#EXTINF:-1 tvg-name="PlaysportsFootball2" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/AISplay-sport2.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8 
+###ทีวีดิจิตอลไทย###
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="📺 ทีวีดิจิตอล",T Sports 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd`;
 
-<main class="main">
-<div class="player-card">
-<video id="video" controls playsinline></video>
-<div class="controls">
-<input id="directUrl" placeholder="วางลิงค์ที่นี่แล้วกดเล่น" />
-<select id="directType" style="width:140px">
-<option value="auto">Auto</option>
+// --- data structures ---
+let channels = []; // {name,url,logo,group,type,mpdKey}
+let currentGroup = null;
+let hls = null;
+let dashPlayer = null;
+const player = document.getElementById('player');
+
+// helpers
+function detectType(url, forced){
+  if(forced && forced!=='auto') return forced;
+  const u = url.split('?')[0].toLowerCase();
+  if(u.endsWith('.m3u8')) return 'm3u8';
+  if(u.endsWith('.mpd')) return 'mpd';
+  if(u.endsWith('.mp4')) return 'mp4';
+  if(u.endsWith('.ts')) return 'ts';
+  return 'unknown';
+}
+
+function saveToStorage(){ localStorage.setItem('fuckidplus_playlist', JSON.stringify(channels)); }
+function loadFromStorage(){ const s = localStorage.getItem('fuckidplus_playlist'); if(s) channels = JSON.parse(s); else parseM3U(defaultM3U); renderAll(); }
+
+// parse a user-supplied m3u-ish text.
+function parseM3U(text){
+  const lines = text.split(/\r?\n/).map(l=>l.trim()).filter(l=>l!=="");
+  let curGroup = 'Ungrouped';
+  let lastMeta = null;
+  for(let i=0;i<lines.length;i++){
+    const l = lines[i];
+    if(l.startsWith('###') && l.endsWith('###')){ curGroup = l.replace(/#/g,'').trim(); continue; }
+    if(l.startsWith('#EXTINF')){
+      lastMeta = l;
+      continue;
+    }
+    if(l.startsWith('#KODIPROP:')){
+      // attach to lastMeta by adding to it
+      if(lastMeta) lastMeta += '\n'+l;
+      continue;
+    }
+    if(l.startsWith('#EXTVLCOPT')){ if(lastMeta) lastMeta += '\n'+l; continue; }
+    if(!l.startsWith('#')){
+      const url = l;
+      const meta = lastMeta || '';
+      // extract name after comma
+      let name = '';
+      const commaIdx = meta.indexOf(',');
+      if(commaIdx>=0) name = meta.slice(commaIdx+1).trim();
+      // extract attributes
+      const logoMatch = meta.match(/tvg-logo\s*=\s*"([^"]+)"/i) || meta.match(/tvg-logo=([^\s,]+)/i);
+      const logo = logoMatch ? logoMatch[1] : '';
+      const groupMatch = meta.match(/group-title\s*=\s*"([^"]+)"/i);
+      const group = groupMatch ? groupMatch[1] : curGroup;
+      const idMatch = meta.match(/tvg-id\s*=\s*"([^"]+)"/i);
+      const tvgid = idMatch ? idMatch[1] : '';
+      // KODIPROP license
+      let mpdKey = '';
+      const kodipropMatch = meta.match(/license_key\s*=\s*([^\s]+)/i);
+      if(kodipropMatch) mpdKey = kodipropMatch[1].trim();
+      channels.push({name: name||url, url, logo, group, tvgid, mpdKey, type: detectType(url)});
+      lastMeta = null;
+    }
+  }
+}
+
+// render UI
+function renderGroups(){
+  const groupsEl = document.getElementById('groups'); groupsEl.innerHTML='';
+  const groups = [...new Set(channels.map(c=>c.group||'Ungrouped'))];
+  if(groups.length===0) groups.push('Ungrouped');
+  groups.forEach(g=>{
+    const el = document.createElement('div'); el.className='group'; el.textContent = g; el.onclick = ()=>{ currentGroup=g; renderChannels(); renderGroups(); };
+    if(g===currentGroup) el.style.outline='2px solid rgba(255,140,0,0.18)';
+    groupsEl.appendChild(el);
+  });
+}
+
+function renderChannels(){
+  const cont = document.getElementById('channels'); cont.innerHTML='';
+  const list = channels.filter(c=> (currentGroup?c.group===currentGroup:true));
+  if(list.length===0){ document.getElementById('emptyHint').style.display='block'; return; } else document.getElementById('emptyHint').style.display='none';
+  list.forEach(ch=>{
+    const el = document.createElement('div'); el.className='channel';
+    const img = document.createElement('img'); img.src = ch.logo || 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="48" height="32"><rect width="100%" height="100%" fill="%23071a2f"/></svg>';
+    const meta = document.createElement('div'); meta.className='meta'; meta.innerHTML = `<div style="font-weight:600">${ch.name}</div><div class="small">${ch.url.split('?')[0]}</div>`;
+    el.appendChild(img); el.appendChild(meta);
+    el.onclick = ()=>{ playChannel(ch); document.getElementById('nowPlaying').textContent = ch.name; };
+    cont.appendChild(el);
+  });
+}
+
+function renderAll(){
+  renderGroups(); renderChannels();
+  const allList = document.getElementById('allList'); allList.innerHTML='';
+  channels.forEach(ch=>{
+    const card = document.createElement('div'); card.className='channel'; card.style.background='rgba(255,255,255,0.02)';
+    const img = document.createElement('img'); img.src = ch.logo || '';
+    const meta = document.createElement('div'); meta.className='meta'; meta.innerHTML = `<div style="font-weight:600">${ch.name}</div><div class="small">${ch.group||''}</div>`;
+    card.appendChild(img); card.appendChild(meta);
+    card.onclick = ()=>{ playChannel(ch); document.getElementById('nowPlaying').textContent = ch.name; };
+    allList.appendChild(card);
+  });
+  saveToStorage();
+}
+
+// play logic
+function clearPlayers(){ if(hls){ hls.destroy(); hls=null; } if(dashPlayer){ try{ dashPlayer.reset(); }catch(e){} dashPlayer=null; }
+}
+
+function playChannel(ch){
+  clearPlayers();
+  const url = ch.url;
+  const type = detectType(url, ch.type);
+  player.pause();
+  player.removeAttribute('src');
+  player.load();
+  if(type==='m3u8'){
+    if(Hls.isSupported()){
+      hls = new Hls(); hls.loadSource(url); hls.attachMedia(player); hls.on(Hls.Events.MANIFEST_PARSED, ()=>player.play());
+    }else if(player.canPlayType('application/vnd.apple.mpegurl')){ player.src = url; player.play(); }
+  }else if(type==='mpd'){
+    // dash.js
+    dashPlayer = dashjs.MediaPlayer().create();
+    if(ch.mpdKey){
+      // expect mpdKey like keyid:hexkey
+      try{
+        const [kid, key] = ch.mpdKey.split(':');
+        const clearkeys = {};
+        clearkeys[kid] = key;
+        dashPlayer.setProtectionData({"org.w3.clearkey": {"clearkeys": clearkeys}});
+      }catch(e){ console.warn('invalid mpd key format', e); }
+    }
+    dashPlayer.initialize(player, url, true);
+  }else{
+    // mp4 or ts or unknown - use direct src
+    player.src = url; player.play().catch(e=>console.warn(e));
+  }
+}
+
+// UI hookups
+document.getElementById('btnAdd').addEventListener('click', ()=>{
+  const name = document.getElementById('fieldName').value.trim();
+  const url = document.getElementById('fieldUrl').value.trim();
+  const logo = document.getElementById('fieldLogo').value.trim();
+  const group = document.getElementById('fieldGroup').value.trim() || 'Ungrouped';
+  const type = document.getElementById('fieldType').value;
+  const mpdKey = document.getElementById('fieldMPDKey').value.trim();
+  if(!url) return alert('กรุณาระบุ URL');
+  const ch = {name: name||url, url, logo, group, mpdKey, type: detectType(url,type)};
+  channels.push(ch); renderAll(); document.getElementById('fieldName').value=''; document.getElementById('fieldUrl').value=''; document.getElementById('fieldLogo').value='';
+});
+
+// import .m3u file
+document.getElementById('importFile').addEventListener('change', (ev)=>{
+  const f = ev.target.files[0]; if(!f) return;
+  const reader = new FileReader(); reader.onload = e=>{
+    try{ parseM3U(e.target.result); renderAll(); alert('นำเข้าเสร็จเรียบร้อย'); }
+    catch(err){ alert('ไฟล์ไม่ถูกต้อง: '+err.message); }
+  }; reader.readAsText(f, 'utf-8');
+});
+
+// export to m3u
+function buildM3U(){
+  let out = '#EXTM3U\n';
+  // group by group
+  const byGroup = {};
+  channels.forEach(c=>{ const g = c.group||'Ungrouped'; if(!byGroup[g]) byGroup[g]=[]; byGroup[g].push(c); });
+  for(const g of Object.keys(byGroup)){
+    out += `###${g}###\n`;
+    byGroup[g].forEach(c=>{
+      // build EXTINF
+      let meta = '#EXTINF:-1 ';
+      if(c.tvgid) meta += `tvg-id="${c.tvgid}" `;
+      if(c.logo) meta += `tvg-logo="${c.logo}" `;
+      if(c.group) meta += `group-title="${c.group}" `;
+      meta += `,${c.name}\n`;
+      out += meta;
+      if(c.mpdKey) out += `#KODIPROP:inputstreamadaptive.license_key=${c.mpdKey}\n`;
+      out += c.url + '\n';
+    });
+  }
+  return out;
+}
+
+document.getElementById('btnExport').addEventListener('click', ()=>{
+  const text = buildM3U(); const blob = new Blob([text],{type:'text/plain;charset=utf-8'});
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'playlist.m3u'; document.body.appendChild(a); a.click(); a.remove();
+});
+
+// clear
+document.getElementById('btnClear').addEventListener('click', ()=>{ if(confirm('ล้างรายการทั้งหมด?')){ channels=[]; saveToStorage(); renderAll(); }});
+
+// load initial
+loadFromStorage();
+</script>
+</body>
 </html>
