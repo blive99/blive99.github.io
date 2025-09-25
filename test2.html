@@ -1,147 +1,407 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="th">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>FUCKIDPLUS3.0</title>
+
+  <!-- hls.js for HLS, dash.js for DASH -->
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
   <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
+
   <style>
-    body {margin:0; font-family:sans-serif; background:#111; color:#fff;}
-    header {background:#000; padding:10px; text-align:center; font-size:22px; color:orange;}
-    .container {display:flex; height:100vh;}
-    .sidebar {width:250px; background:#1c1c1c; overflow-y:auto; padding:10px;}
-    .sidebar h3 {margin-top:0;}
-    .channel {cursor:pointer; padding:8px; border-bottom:1px solid #333; display:flex; align-items:center;}
-    .channel img {width:36px; height:36px; margin-right:8px; border-radius:6px; object-fit:cover;}
-    .channel:hover {background:#333;}
-    .player {flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center;}
-    video {width:90%; height:auto; background:#000; border:2px solid #444; border-radius:8px;}
-    .add-form {margin-top:10px;}
-    .hidden {display:none;}
-    input, select {width:100%; padding:6px; margin:4px 0; border-radius:4px; border:1px solid #333; background:#222; color:#fff;}
-    button {padding:6px 10px; background:orange; color:#000; border:none; border-radius:4px; cursor:pointer;}
-    button:hover {background:#ffb84d;}
+    :root{
+      --bg:#0f1724; --card:#0b1220; --accent:#ff7f00; --muted:#98a1b3; --glass: rgba(255,255,255,0.03);
+    }
+    html,body{height:100%;margin:0;font-family:Inter, Roboto, Arial;background:linear-gradient(180deg,#071021 0%, #071727 100%);color:#e6eef8}
+    header{padding:14px 20px;text-align:center}
+    header h1{margin:0;color:var(--accent);font-size:28px;letter-spacing:1px}
+    .app{display:grid;grid-template-columns:300px 1fr;gap:16px;padding:12px;height:calc(100vh - 70px)}
+    aside{background:var(--card);border-radius:12px;padding:12px;overflow:auto}
+    .groups{display:flex;flex-direction:column;gap:6px}
+    .group-btn{background:transparent;border:1px solid rgba(255,255,255,0.03);padding:8px;border-radius:8px;text-align:left;color:var(--muted);cursor:pointer}
+    .group-btn.active{background:linear-gradient(90deg, rgba(255,127,0,0.12), rgba(255,127,0,0.04));color:#fff;border-color:rgba(255,127,0,0.18)}
+    .channels{margin-top:12px;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+    .channel-card{background:var(--glass);border-radius:8px;padding:6px;display:flex;gap:8px;align-items:center;cursor:pointer;border:1px solid rgba(255,255,255,0.02)}
+    .channel-card img{width:48px;height:32px;object-fit:cover;border-radius:4px}
+    .channel-card .meta{font-size:13px}
+    .player-area{background:var(--card);border-radius:12px;padding:12px;display:flex;flex-direction:column;gap:10px;overflow:auto}
+    .video-wrap{background:#000;border-radius:8px;padding:6px;display:flex;align-items:center;justify-content:center;min-height:320px}
+    video{width:100%;height:480px;max-height:65vh;background:#000;border-radius:6px}
+    .controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+    .btn{background:var(--accent);border:none;padding:8px 12px;border-radius:8px;color:#fff;cursor:pointer}
+    .btn.secondary{background:transparent;border:1px solid rgba(255,255,255,0.06)}
+    form{display:flex;flex-direction:column;gap:8px;margin-top:8px}
+    input,select,textarea{padding:8px;border-radius:8px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:#fff}
+    label{font-size:13px;color:var(--muted)}
+    .bottom-area{margin-top:8px;background:rgba(255,255,255,0.02);padding:10px;border-radius:8px}
+    .small{font-size:12px;color:var(--muted)}
+    .row{display:flex;gap:8px}
+    .row .flex{flex:1}
+    .hidden{display:none}
+    footer{padding:12px;text-align:center;color:var(--muted);font-size:12px}
+    @media(max-width:900px){.app{grid-template-columns:1fr;grid-auto-rows:auto}.video-wrap video{height:260px}}
   </style>
 </head>
 <body>
-  <header>FUCKIDPLUS3.0</header>
-  <div class="container">
-    <div class="sidebar">
-      <h3>📺 รายการ</h3>
-      <div id="channelList"></div>
-      <button onclick="toggleForm()">➕ เพิ่มช่อง</button>
-      <div id="addForm" class="add-form hidden">
-        <input type="text" id="chName" placeholder="ชื่อช่อง">
-        <input type="text" id="chGroup" placeholder="กลุ่ม (เช่น กีฬา, หนัง)">
-        <input type="text" id="chLogo" placeholder="ลิงก์โลโก้">
-        <input type="text" id="chUrl" placeholder="ลิงก์วิดีโอ (m3u8/mp4/ts/mpd)">
-        <input type="text" id="chLicenseKey" placeholder="License Key (clearkey สำหรับ mpd)">
-        <input type="text" id="chUA" placeholder="User-Agent (ถ้ามี)">
-        <button onclick="addChannel()">บันทึก</button>
+  <header><h1>FUCKIDPLUS3.0</h1></header>
+
+  <div class="app">
+    <aside>
+      <div>
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+          <strong class="small">กลุ่ม / หมวด</strong>
+          <div style="display:flex;gap:6px">
+            <button id="importBtn" class="btn secondary">นำเข้า M3U</button>
+            <button id="exportBtn" class="btn">บันทึก M3U</button>
+          </div>
+        </div>
+
+        <div class="groups" id="groupsList"></div>
+
+        <hr style="margin:10px 0;border:none;border-top:1px solid rgba(255,255,255,0.03)">
+
+        <div>
+          <strong class="small">ช่องรายการ</strong>
+          <div class="channels" id="channelsList"></div>
+        </div>
+
+        <div style="margin-top:12px">
+          <strong class="small">ค้นหา</strong>
+          <input id="searchInput" placeholder="ค้นหาชื่อช่อง..." />
+        </div>
+
       </div>
-    </div>
-    <div class="player">
-      <video id="videoPlayer" controls autoplay></video>
-    </div>
+    </aside>
+
+    <main class="player-area">
+      <div class="video-wrap">
+        <video id="video" controls crossorigin playsinline></video>
+      </div>
+
+      <div class="controls">
+        <div id="nowPlaying" class="small">ยังไม่ได้เลือกช่อง</div>
+        <div style="flex:1"></div>
+        <button id="reloadPlayer" class="btn secondary">รีโหลด player</button>
+      </div>
+
+      <div class="bottom-area">
+        <strong class="small">เพิ่มรายการใหม่</strong>
+        <form id="addForm" onsubmit="return false;">
+          <div class="row">
+            <div class="flex">
+              <label>ชื่อช่อง</label>
+              <input id="chName" required placeholder="เช่น MONOMAX1" />
+            </div>
+            <div style="width:140px">
+              <label>กลุ่ม</label>
+              <input id="chGroup" placeholder="เช่น 📺 VIP SPORT" />
+            </div>
+          </div>
+
+          <label>URL (m3u8 / mp4 / ts / mpd)</label>
+          <input id="chUrl" required placeholder="https://..." />
+
+          <div class="row">
+            <div class="flex">
+              <label>โลโก้ (URL)</label>
+              <input id="chLogo" placeholder="https://... (ขนาดแนะนำ 320x180)" />
+            </div>
+            <div style="width:180px">
+              <label>ชนิด (ถ้าไม่เลือกจะเดา)</label>
+              <select id="chType">
+                <option value="">Auto</option>
+                <option value="hls">HLS (.m3u8)</option>
+                <option value="dash">DASH (.mpd)</option>
+                <option value="progressive">MP4/TS</option>
+              </select>
+            </div>
+          </div>
+
+          <div style="margin-top:6px">
+            <label>สำหรับไฟล์ MPD: KID และ Key (ClearKey) — รูปแบบ kid:key (base64 หรือ hex)</label>
+            <div class="row">
+              <input id="mpdKid" placeholder="kid (เช่น base64kid หรือ hex)" />
+              <input id="mpdKey" placeholder="key (เช่น base64key หรือ hex)" />
+            </div>
+            <div class="small" style="margin-top:4px;color:var(--muted)">
+              หากใส่ KID และ Key ระบบจะพยายามตั้งค่า ClearKey สำหรับ dash.js ให้เล่นได้ (ต้องเป็น mpd + clearkey-compatible).
+            </div>
+          </div>
+
+          <div style="display:flex;gap:8px;margin-top:8px">
+            <button id="addBtn" class="btn">เพิ่มช่อง</button>
+            <button id="clearForm" class="btn secondary">ล้าง</button>
+          </div>
+        </form>
+
+        <hr style="margin:10px 0;border:none;border-top:1px solid rgba(255,255,255,0.03)">
+        <div>
+          <strong class="small">นำเข้าไฟล์ M3U</strong>
+          <input id="m3uFile" type="file" accept=".m3u,.m3u8,text/plain" />
+          <div class="small" style="margin-top:6px;color:var(--muted)">
+            เมื่อนำเข้า ระบบจะเพิ่มรายการจากไฟล์ M3U เข้ามาในรายการของเรา
+          </div>
+        </div>
+
+      </div>
+    </main>
   </div>
 
-  <script>
-    const video = document.getElementById('videoPlayer');
-    const channelList = document.getElementById('channelList');
-    const addForm = document.getElementById('addForm');
+  <footer>สร้างโดย FUCKIDPLUS3.0 — รองรับ HLS / DASH (mpd with ClearKey) / MP4 / TS</footer>
 
-    // URL ของ Proxy (แก้ตามที่คุณติดตั้ง เช่น /proxy.php หรือ http://localhost:3000/proxy)
-    const proxyUrl = "/proxy.php"; 
+<script>
+/* ======= Data model ======= */
+let channels = []; // {name, url, logo, group, type, mpdKid, mpdKey}
+let groups = new Set();
 
-    let channels = [
-      {
-        name: "WWE",
-        group: "VIP SPORT",
-        logo: "http://103.114.203.129:8080/images/db5e472498bd0b086a3c8671b5273cf4.png",
-        url: "https://smart.bengaldigital.live/WWE",
-        type: "m3u8"
-      },
-      {
-        name: "HBO TH",
-        group: "3BB ทีวี",
-        logo: "https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
-        url: "https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd",
-        type: "mpd",
-        licenseKey: "9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179",
-        userAgent: "AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6"
-      }
-    ];
+/* ======= Sample default playlist (จากตัวอย่างผู้ใช้) ======= */
+const defaultM3U = `###SPORT###
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bestcommt2.github.io
+http://bestcommt2.github.io/m3u8/monomax1.m3u8
+#EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J SPORTS 1
+https://mt01.utako.moe/js1/index.m3u8
+###PREMIUM PLAY TV###
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
+http://49.0.64.96:8007/IZAA
+###BallThai###
+#EXTINF:-1 tvg-name="PlaysportsFootball2" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/AISplay-sport2.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8 
+###ทีวีดิจิตอลไทย###
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="📺 ทีวีดิจิตอล",T Sports 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+`;
 
-    function renderChannels(){
-      channelList.innerHTML = '';
-      channels.forEach((ch,idx)=>{
-        const div = document.createElement('div');
-        div.className = 'channel';
-        div.innerHTML = `<img src="${ch.logo}" alt=""> <span>${ch.name}</span>`;
-        div.onclick = ()=> playChannel(idx);
-        channelList.appendChild(div);
+/* ======= Utilities: parse M3U (basic, flexible) ======= */
+function parseM3U(text){
+  const lines = text.split(/\r?\n/).map(l=>l.trim());
+  let result = [];
+  let lastExt = null;
+  for(let i=0;i<lines.length;i++){
+    const l = lines[i];
+    if(!l) continue;
+    if(l.startsWith('#EXTINF')){
+      lastExt = l;
+      continue;
+    }
+    if(l.startsWith('#') && l.toUpperCase().startsWith('#KODIPROP')){
+      // append to lastExt as extra metadata
+      if(lastExt) lastExt += '\n' + l;
+      continue;
+    }
+    if(l.startsWith('#')) continue;
+    // this is a URL line
+    if(lastExt){
+      const meta = parseExtInf(lastExt);
+      const url = l;
+      result.push({...meta, url});
+      lastExt = null;
+    } else {
+      // line without EXTINF: treat as a simple url entry
+      result.push({name: l, url: l, logo:'', group:''});
+    }
+  }
+  return result;
+}
+
+function parseExtInf(ext){
+  // very permissive parser: extract group-title, tvg-logo, tvg-name/tvg-id, and display name after comma
+  const obj = {name:'',logo:'',group:'',type:'',mpdKid:'',mpdKey:''};
+  // group-title
+  const g = ext.match(/group-title\s*=\s*"(.*?)"/i);
+  if(g) obj.group = g[1];
+  const logo = ext.match(/tvg-logo\s*=\s*"(.*?)"/i);
+  if(logo) obj.logo = logo[1];
+  const tvgName = ext.match(/tvg-name\s*=\s*"(.*?)"/i);
+  if(tvgName) obj.name = tvgName[1];
+  const tvgID = ext.match(/tvg-id\s*=\s*"(.*?)"/i);
+  if(tvgID && !obj.name) obj.name = tvgID[1];
+  // after last comma is display name
+  const afterComma = ext.split(',').pop().trim();
+  if(afterComma && afterComma !== ext) obj.name = obj.name || afterComma;
+
+  // check KODIPROP license_key if present
+  const k = ext.match(/license_key\s*=\s*([\w:]+)/i);
+  if(k){
+    const pair = k[1].split(':');
+    if(pair.length===2){ obj.mpdKid = pair[0]; obj.mpdKey = pair[1]; obj.type='dash'; }
+  }
+
+  return obj;
+}
+
+/* ======= UI rendering ======= */
+const groupsList = document.getElementById('groupsList');
+const channelsList = document.getElementById('channelsList');
+const nowPlaying = document.getElementById('nowPlaying');
+const video = document.getElementById('video');
+
+let currentGroup = null;
+let hlsPlayer = null;
+let dashPlayer = null;
+
+function rebuildGroups(){
+  groupsList.innerHTML = '';
+  const arr = Array.from(groups).sort();
+  // Add "All"
+  const allBtn = document.createElement('button');
+  allBtn.className = 'group-btn' + (currentGroup===null ? ' active':'');
+  allBtn.textContent = 'ทั้งหมด';
+  allBtn.onclick = ()=>{ currentGroup = null; rebuildGroups(); renderChannels(); };
+  groupsList.appendChild(allBtn);
+
+  arr.forEach(g=>{
+    const btn = document.createElement('button');
+    btn.className = 'group-btn' + (currentGroup===g ? ' active':'');
+    btn.textContent = g || '(ไม่มีหมวด)';
+    btn.onclick = ()=>{ currentGroup = g; rebuildGroups(); renderChannels(); };
+    groupsList.appendChild(btn);
+  });
+}
+
+function renderChannels(filterText=''){
+  channelsList.innerHTML = '';
+  const filtered = channels.filter(ch=>{
+    if(currentGroup && ch.group !== currentGroup) return false;
+    if(filterText && !(ch.name||'').toLowerCase().includes(filterText.toLowerCase())) return false;
+    return true;
+  });
+
+  if(filtered.length===0){
+    channelsList.innerHTML = `<div class="small" style="grid-column:1/-1;color:var(--muted)">ยังไม่มีรายการในหมวดนี้</div>`;
+    return;
+  }
+
+  filtered.forEach(ch=>{
+    const card = document.createElement('div');
+    card.className = 'channel-card';
+    card.onclick = ()=>playChannel(ch);
+    const img = document.createElement('img');
+    img.src = ch.logo || 'https://via.placeholder.com/320x180?text=No+Logo';
+    const meta = document.createElement('div');
+    meta.className = 'meta';
+    meta.innerHTML = `<div style="font-weight:600">${escapeHtml(ch.name||'Unnamed')}</div><div class="small">${escapeHtml(ch.url)}</div>`;
+    card.appendChild(img); card.appendChild(meta);
+    channelsList.appendChild(card);
+  });
+}
+
+function escapeHtml(s){ return String(s).replace(/[&<>"']/g, function(m){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m];}); }
+
+/* ======= Player logic ======= */
+function stopPlayers(){
+  if(hlsPlayer){ try{ hlsPlayer.destroy(); }catch(e){} hlsPlayer=null; }
+  if(dashPlayer){ try{ dashPlayer.reset(); }catch(e){} dashPlayer=null; }
+  try{ video.pause(); video.removeAttribute('src'); video.load(); }catch(e){}
+}
+
+function playChannel(ch){
+  stopPlayers();
+  nowPlaying.textContent = `กำลังเล่น: ${ch.name}`;
+  const url = ch.url;
+  const type = ch.type || detectType(url);
+  if(type==='hls'){
+    // use hls.js if supported, otherwise native
+    if(Hls && Hls.isSupported()){
+      hlsPlayer = new Hls();
+      hlsPlayer.loadSource(url);
+      hlsPlayer.attachMedia(video);
+      hlsPlayer.on(Hls.Events.MANIFEST_PARSED, function() { video.play().catch(()=>{}); });
+    } else {
+      video.src = url;
+      video.play().catch(()=>{});
+    }
+  } else if(type==='dash'){
+    // dash.js
+    dashPlayer = dashjs.MediaPlayer().create();
+    // if mpd kid/key provided, set protectionData for ClearKey
+    if(ch.mpdKid && ch.mpdKey){
+      const kid = normalizeToBase64(ch.mpdKid);
+      const key = normalizeToBase64(ch.mpdKey);
+      const clearkeys = {};
+      clearkeys[kid] = key;
+      dashPlayer.setProtectionData({
+        "org.w3.clearkey": { clearkeys }
       });
     }
+    dashPlayer.initialize(video, url, true);
+  } else {
+    // progressive mp4/ts or unknown => set src directly
+    video.src = url;
+    video.play().catch(()=>{});
+  }
+}
 
-    function buildProxyUrl(url, ua){
-      if(!ua) return url;
-      return `${proxyUrl}?url=${encodeURIComponent(url)}&ua=${encodeURIComponent(ua)}`;
-    }
+/* detect by extension */
+function detectType(url){
+  const u = url.split('?')[0].toLowerCase();
+  if(u.endsWith('.m3u8')) return 'hls';
+  if(u.endsWith('.mpd')) return 'dash';
+  if(u.endsWith('.mp4') || u.endsWith('.ts') || u.match(/\.(mov|mkv)$/)) return 'progressive';
+  // if contains m3u8 query
+  if(u.includes('m3u8')) return 'hls';
+  return 'progressive';
+}
 
-    function playChannel(idx){
-      const ch = channels[idx];
-      let playUrl = buildProxyUrl(ch.url, ch.userAgent);
+/* Normalize hex -> base64 (attempt) or return as-is (if already base64) */
+function normalizeToBase64(s){
+  // detect hex (only 0-9a-f)
+  if(/^[0-9a-fA-F]+$/.test(s) && s.length % 2 === 0){
+    // convert hex to bytes then to base64
+    const bytes = s.match(/.{1,2}/g).map(h=>parseInt(h,16));
+    let binary = '';
+    bytes.forEach(b=> binary += String.fromCharCode(b));
+    return btoa(binary);
+  }
+  // if seems already base64 allow (remove padding issues)
+  return s;
+}
 
-      if(video.canPlayType('application/vnd.apple.mpegurl') && playUrl.endsWith('.m3u8')){
-        video.src = playUrl;
-      } else if(playUrl.endsWith('.m3u8')){
-        const hls = new Hls();
-        hls.loadSource(playUrl);
-        hls.attachMedia(video);
-      } else if(playUrl.endsWith('.mpd')){
-        const player = dashjs.MediaPlayer().create();
-        if(ch.licenseKey){
-          const clearkey = {};
-          const parts = ch.licenseKey.split(":");
-          clearkey[parts[0]] = parts[1];
-          player.setProtectionData({
-            "org.w3.clearkey": {
-              "clearkeys": clearkey
-            }
-          });
-        }
-        player.initialize(video, playUrl, true);
-      } else if(playUrl.endsWith('.mp4') || playUrl.endsWith('.ts')){
-        video.src = playUrl;
-      } else {
-        alert("รูปแบบไฟล์ไม่รองรับ");
-      }
-    }
+/* ======= Add / Import / Export ======= */
+document.getElementById('addBtn').addEventListener('click',()=>{
+  const name = document.getElementById('chName').value.trim();
+  const url = document.getElementById('chUrl').value.trim();
+  if(!name || !url) return alert('กรุณากรอกชื่อและ URL');
+  const logo = document.getElementById('chLogo').value.trim();
+  const group = document.getElementById('chGroup').value.trim() || '(ไม่มีหมวด)';
+  const type = document.getElementById('chType').value || '';
+  const mpdKid = document.getElementById('mpdKid').value.trim();
+  const mpdKey = document.getElementById('mpdKey').value.trim();
 
-    function toggleForm(){
-      addForm.classList.toggle('hidden');
-    }
+  channels.push({name,url,logo,group,type,mpdKid,mpdKey});
+  groups.add(group);
+  rebuildGroups();
+  renderChannels(document.getElementById('searchInput').value);
+  document.getElementById('addForm').reset();
+});
 
-    function addChannel(){
-      const name = document.getElementById('chName').value;
-      const group = document.getElementById('chGroup').value;
-      const logo = document.getElementById('chLogo').value;
-      const url = document.getElementById('chUrl').value;
-      const licenseKey = document.getElementById('chLicenseKey').value;
-      const userAgent = document.getElementById('chUA').value;
-      if(!name || !url){alert("กรุณากรอกข้อมูลให้ครบ");return;}
-      let type = 'other';
-      if(url.includes('.m3u8')) type='m3u8';
-      else if(url.includes('.mpd')) type='mpd';
-      else if(url.includes('.mp4')) type='mp4';
-      else if(url.includes('.ts')) type='ts';
-      channels.push({name,group,logo,url,type,licenseKey,userAgent});
-      renderChannels();
-      toggleForm();
-    }
+document.getElementById('clearForm').addEventListener('click',()=>{
+  document.getElementById('addForm').reset();
+});
 
-    renderChannels();
-  </script>
-</body>
-</html>
+document.getElementById('searchInput').addEventListener('input', (e)=>{
+  renderChannels(e.target.value);
+});
+
+/* Import M3U button (open file input) */
+document.getElementById('importBtn').addEventListener('click', ()=>{
+  document.getElementById('m3uFile').click();
+});
+
+/* File input handling */
+document.getElementById('m3uFile').addEventListener('change', (ev)=>{
+  const f = ev.target.files[0];
+  if(!f) return;
+  const reader = new FileReader();
+  reader.onload = () => {
+    const txt = reader.result;
+    const parsed = parseM3U(txt);
+    parsed.fo
