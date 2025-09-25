@@ -2636,9 +2636,10 @@ https://main.24playerhd.com/newplaylist/0a7f57ab1faff58125adb7b4/0a7f57ab1faff58
 --------------------------------------------------------------------------------------
 ####test####
 #EXTINF:-1 tvg-logo="" group-title="test", test
-#EXTVLCOPT:http-user-agent=https://movie2freehd.com/
 https://worker.playmov.tv/movie2freehd.com/3-ssd/movie/store-2000/Sinkhole.2021.mp4/chunk.m3u8?nimblesessionid=1218842
 
 #EXTINF:-1 tvg-logo="" group-title="test", test
-#EXTVLCOPT:http-user-agent=https://www.77hdfree.com/
-https://playermhd.p2phls.xyz/1aeeebe9-1611-495a-9a06-0d2c375ed663/0
+https://playermhd.p2phls.xyz/1aeeebe9-1611-495a-9a06-0d2c375ed663/
+
+#EXTINF:-1 tvg-logo="" group-title="test", test
+https://insertped.com/insert/movie/215824092568.mp4
