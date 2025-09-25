@@ -2635,4 +2635,6 @@ https://main.24playerhd.com/newplaylist/0a7f57ab1faff58125adb7b4/0a7f57ab1faff58
 
 --------------------------------------------------------------------------------------
 ####test####
-
+#EXTINF:-1 tvg-logo="" group-title="test", test
+#EXTVLCOPT:http-user-agent=https://kixk.net/
+https://kixk.net/proxy?id=746477e8d13d
