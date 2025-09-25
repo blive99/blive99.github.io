@@ -404,4 +404,95 @@ document.getElementById('m3uFile').addEventListener('change', (ev)=>{
   reader.onload = () => {
     const txt = reader.result;
     const parsed = parseM3U(txt);
-    parsed.fo
+    parsed.forEach(p=>{
+      channels.push({
+        name: p.name || extractNameFromUrl(p.url),
+        url: p.url,
+        logo: p.logo || '',
+        group: p.group || '(ไม่มีหมวด)',
+        type: p.type || '',
+        mpdKid: p.mpdKid||'',
+        mpdKey: p.mpdKey||''
+      });
+      groups.add(p.group || '(ไม่มีหมวด)');
+    });
+    rebuildGroups();
+    renderChannels();
+    document.getElementById('m3uFile').value = '';
+  };
+  reader.readAsText(f);
+});
+
+/* Export to M3U */
+document.getElementById('exportBtn').addEventListener('click', ()=>{
+  if(channels.length===0) return alert('ไม่มีรายการให้บันทึก');
+  let text = '#EXTM3U\n';
+  channels.forEach(ch=>{
+    // form EXTINF line with basic tags
+    const tvgLogo = ch.logo ? `tvg-logo="${ch.logo}" ` : '';
+    const group = ch.group ? `group-title="${ch.group}" ` : '';
+    let ext = `#EXTINF:-1 ${tvgLogo}${group},${ch.name}\n`;
+    // if mpd clearkey present add KODIPROP line
+    if(ch.mpdKid && ch.mpdKey){
+      ext += `#KODIPROP:inputstreamaddon=inputstream.adaptive\n#KODIPROP:inputstream.adaptive.manifest_type=dash\n#KODIPROP:inputstream.adaptive.license_type=clearkey\n#KODIPROP:inputstream.adaptive.license_key=${ch.mpdKid}:${ch.mpdKey}\n`;
+    }
+    text += ext + ch.url + '\n';
+  });
+
+  const blob = new Blob([text], {type:'text/plain;charset=utf-8'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = 'playlist.m3u';
+  document.body.appendChild(a); a.click();
+  setTimeout(()=>{ URL.revokeObjectURL(url); a.remove(); }, 2000);
+});
+
+/* utility to extract name from url */
+function extractNameFromUrl(url){
+  try{
+    const p = url.split('/').pop().split('?')[0];
+    return decodeURIComponent(p).slice(0,30);
+  }catch(e){ return url; }
+}
+
+/* reload player button */
+document.getElementById('reloadPlayer').addEventListener('click', ()=>{
+  const currentLabel = nowPlaying.textContent;
+  stopPlayers();
+  nowPlaying.textContent = currentLabel + ' (reloaded)';
+});
+
+/* initial load of default playlist */
+function loadDefault(){
+  const parsed = parseM3U(defaultM3U);
+  parsed.forEach(p=>{
+    channels.push({
+      name: p.name || extractNameFromUrl(p.url),
+      url: p.url,
+      logo: p.logo || '',
+      group: p.group || '(ไม่มีหมวด)',
+      type: p.type || '',
+      mpdKid: p.mpdKid||'',
+      mpdKey: p.mpdKey||''
+    });
+    groups.add(p.group || '(ไม่มีหมวด)');
+  });
+  rebuildGroups(); renderChannels();
+}
+
+/* allow clicking channel to play — already wired in renderChannels */
+
+loadDefault();
+
+/* helpful: keyboard shortcuts */
+document.addEventListener('keydown', (e)=>{
+  if(e.key === ' '){ // space play/pause toggle when focused not in input
+    const active = document.activeElement;
+    if(active && (active.tagName==='INPUT' || active.tagName==='TEXTAREA' || active.isContentEditable)) return;
+    if(video.paused) video.play().catch(()=>{}); else video.pause();
+    e.preventDefault();
+  }
+});
+</script>
+</body>
+</html>
