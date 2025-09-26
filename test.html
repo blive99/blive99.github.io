@@ -3,170 +3,283 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Simple IPTV Player</title>
+  <title>IPTV + Kodi commands player</title>
+  <!-- Simple styles -->
   <style>
-    :root{--bg:#0f1724;--card:#0b1220;--accent:#ff8800;--muted:#94a3b8;color-scheme:dark}
-    html,body{height:100%;margin:0;font-family:Inter, system-ui, -apple-system,Segoe UI, Roboto, "Noto Sans", "Helvetica Neue", Arial}
-    body{background:linear-gradient(180deg,#071021 0%, #08121a 100%);color:#e6eef8}
-    .app{display:grid;grid-template-columns:260px 1fr;gap:18px;height:100vh;padding:18px}
-    .sidebar{background:rgba(255,255,255,0.03);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6)}
-    .brand{text-align:center;font-weight:700;color:var(--accent);font-size:20px;margin-bottom:10px}
-    .menu{display:flex;flex-direction:column;gap:8px}
-    .menu button{background:transparent;border:1px solid rgba(255,255,255,0.05);padding:8px;border-radius:8px;color:inherit;text-align:left;cursor:pointer}
-    .menu button.active{border-color:rgba(255,136,0,0.9);box-shadow:0 4px 12px rgba(255,136,0,0.06)}
-    .playlist{margin-top:12px}
-    .playlist li{list-style:none;padding:6px 8px;border-radius:6px;margin-bottom:6px;background:rgba(255,255,255,0.02);cursor:pointer}
-    .playlist li:hover{background:rgba(255,255,255,0.03)}
-    .main{display:flex;flex-direction:column;gap:12px}
+    :root{--bg:#0f1724;--card:#0b1220;--muted:#9aa4b2;--accent:#ff8a00}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:Inter,system-ui,Segoe UI,Roboto,Helvetica,Arial;background:var(--bg);color:#e6f0fa}
+    .app{display:grid;grid-template-columns:300px 1fr;min-height:100vh}
+    .sidebar{background:linear-gradient(180deg,#071028 0%, #06101b 100%);padding:16px;border-right:1px solid rgba(255,255,255,0.03)}
+    .brand{font-weight:700;color:var(--accent);text-align:center;margin-bottom:12px;font-size:20px}
+    textarea{width:100%;height:160px;background:transparent;border:1px dashed rgba(255,255,255,0.06);color:inherit;padding:8px;border-radius:6px}
+    button{background:var(--accent);border:0;padding:8px 12px;border-radius:6px;color:#07202b;font-weight:700;cursor:pointer}
+    .list{margin-top:12px;overflow:auto;max-height:58vh}
+    .channel{padding:8px;border-radius:6px;margin-bottom:6px;background:linear-gradient(90deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00));cursor:pointer}
+    .channel:hover{outline:1px solid rgba(255,255,255,0.02)}
+    .channel .title{font-weight:600}
+    .meta{font-size:12px;color:var(--muted)}
+    .main{padding:16px}
+    .player-wrap{background:var(--card);padding:12px;border-radius:8px}
+    video{width:100%;height:480px;background:black;border-radius:6px}
+    .row{display:flex;gap:12px;margin-top:12px}
+    .props{background:rgba(255,255,255,0.02);padding:8px;border-radius:6px;font-size:13px;color:var(--muted)}
     .controls{display:flex;gap:8px;align-items:center}
-    .input{flex:1;display:flex;gap:8px}
-    input[type=text]{width:100%;padding:10px;border-radius:8px;border:1px solid rgba(255,255,255,0.06);background:transparent;color:inherit}
-    button.btn{padding:10px 12px;border-radius:8px;border:none;background:var(--accent);color:#06121a;font-weight:600;cursor:pointer}
-    .player-wrap{background:var(--card);padding:10px;border-radius:12px;display:flex;flex-direction:column;gap:8px}
-    video{width:100%;height:60vh;border-radius:8px;background:black;outline:1px solid rgba(255,255,255,0.03)}
-    .meta{display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:13px}
-    .hint{font-size:13px;color:var(--muted);}
-    .small{font-size:12px;color:var(--muted)}
-    .footer{font-size:12px;color:var(--muted);padding:6px}
-    @media (max-width:900px){.app{grid-template-columns:1fr} .sidebar{display:none} video{height:45vh}}
+    .small{font-size:13px;color:var(--muted)}
+    .hint{font-size:12px;color:var(--muted);margin-top:8px}
+    .search{width:100%;padding:8px;border-radius:6px;border:1px solid rgba(255,255,255,0.03);background:transparent;color:inherit}
+    .topbar{display:flex;gap:12px;align-items:center;justify-content:space-between;margin-bottom:12px}
   </style>
+  <!-- hls.js and dash.js from CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.4.0/dist/hls.min.js"></script>
+  <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
 </head>
 <body>
   <div class="app">
     <aside class="sidebar">
       <div class="brand">FUCKIDPLUS3.0</div>
-      <div class="menu">
-        <button class="active" data-cat="live">ช่องสด</button>
-        <button data-cat="vod">VOD</button>
-        <button data-cat="fav">รายการโปรด</button>
+      <div class="top">
+        <div class="small">วางไฟล์ M3U (รองรับ #KODIPROP)</div>
+        <textarea id="m3uInput" placeholder="#EXTM3U\n#EXTINF:-1 tvg-id=\"ch1\" tvg-logo=\"https://...png\" group-title=\"หนัง\",Channel 1\n#KODIPROP:inputstreamaddon=inputstream.adaptive\n#KODIPROP:inputstream.adaptive.manifest_type=dash\nhttps://example.com/stream.mpd"></textarea>
+        <div style="display:flex;gap:8px;margin-top:8px">
+          <button id="loadBtn">โหลดเพลย์ลิสต์</button>
+          <button id="clearBtn" style="background:#334155;color:#fff">ล้าง</button>
+        </div>
+        <div class="hint">ตัวอย่าง: ใช้แท็ก <code>#KODIPROP:key=value</code> เพื่อส่ง properties พิเศษ (จะแสดงเป็นข้อมูลช่อง)</div>
       </div>
 
-      <div class="playlist">
-        <h4 class="small">รายการทดลอง</h4>
-        <ul id="playlistList">
-          <li data-url="http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=m3u8">ลิงค์ตัวอย่าง 186563</li>
-        </ul>
-        <div style="margin-top:10px">
-          <input id="newTitle" placeholder="ชื่อรายการ (ไม่บังคับ)" type="text" style="width:100%;padding:8px;border-radius:6px;margin-bottom:6px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:inherit">
-          <input id="newUrl" placeholder="วาง URL (m3u8 / mp4)" type="text" style="width:100%;padding:8px;border-radius:6px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:inherit">
-          <div style="display:flex;gap:8px;margin-top:8px">
-            <button id="addBtn" class="btn" style="flex:1">เพิ่มในรายการ</button>
-            <button id="clearBtn" class="btn" style="background:rgba(255,255,255,0.06);color:var(--accent)">ล้าง</button>
-          </div>
-        </div>
+      <div style="margin-top:12px">
+        <input id="search" class="search" placeholder="ค้นหาช่อง..." />
       </div>
+
+      <div class="list" id="channelList"></div>
     </aside>
 
     <main class="main">
-      <div class="controls">
-        <div class="input">
-          <input id="urlInput" type="text" placeholder="วางลิงก์ m3u8 หรือ mp4 แล้วกด เล่น หรือเลือกจากรายการซ้าย" value="http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=m3u8">
-          <button id="playBtn" class="btn">เล่น</button>
-        </div>
-        <div>
-          <button id="downloadBtn" class="btn" style="background:transparent;border:1px solid rgba(255,255,255,0.05);color:inherit">บันทึกลิงก์</button>
-        </div>
-      </div>
-
       <div class="player-wrap">
-        <video id="video" controls playsinline></video>
-        <div class="meta">
-          <div class="hint">สถานะ: <span id="status">พร้อม</span></div>
-          <div class="small">รองรับ HLS (m3u8) และ mp4 — เบราว์เซอร์บางตัวอาจต้องใช้ Hls.js</div>
+        <div style="display:flex;justify-content:space-between;align-items:center">
+          <div>
+            <h2 id="nowTitle">ยังไม่เล่น</h2>
+            <div id="nowGroup" class="small"></div>
+          </div>
+          <div class="controls">
+            <label class="small">ความดัง</label>
+            <input id="vol" type="range" min="0" max="1" step="0.01" value="1">
+          </div>
         </div>
+
+        <div style="margin-top:12px">
+          <video id="video" controls playsinline></video>
+        </div>
+
+        <div class="row">
+          <div style="flex:1">
+            <div class="props" id="propsBox">Properties ช่องจะแสดงที่นี่</div>
+          </div>
+          <div style="width:320px">
+            <div class="props">
+              <div><strong>ลิงก์</strong></div>
+              <div id="streamUrl" class="small" style="word-break:break-all"></div>
+              <div style="margin-top:8px"><strong>คำสั่ง Kodi (KODIPROP)</strong></div>
+              <pre id="kodiprops" class="small" style="white-space:pre-wrap"></pre>
+            </div>
+          </div>
+        </div>
+
       </div>
 
-      <div class="footer">หมายเหตุ: หากวิดีโอไม่เล่น ให้ตรวจสอบ CORS หรือนโยบายการเข้าถึงของเซิร์ฟเวอร์ต้นทาง และตรวจสอบว่าคุณมีสิทธิ์ในการเข้าถึงลิงก์ดังกล่าว</div>
+      <div style="margin-top:12px;color:var(--muted);font-size:13px">หมายเหตุ: เว็บเพลเยอร์นี้พยายามเล่น m3u8 (HLS), .mpd (DASH) และไฟล์ MP4/TS ผ่านเบราว์เซอร์และไลบรารี hls.js / dash.js หากสตรีมมี DRM (Widevine/Fairplay) ต้องตั้งค่า license server ในแท็ก #KODIPROP และเบราว์เซอร์ผูกรองรับ</div>
     </main>
   </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  <script>
-    const video = document.getElementById('video');
-    const urlInput = document.getElementById('urlInput');
-    const playBtn = document.getElementById('playBtn');
-    const status = document.getElementById('status');
-    const playlistList = document.getElementById('playlistList');
-    const addBtn = document.getElementById('addBtn');
-    const newUrl = document.getElementById('newUrl');
-    const newTitle = document.getElementById('newTitle');
-    const clearBtn = document.getElementById('clearBtn');
-
-    function setStatus(s){ status.textContent = s }
-
-    async function playUrl(url){
-      if(!url){ setStatus('ไม่มีลิงก์'); return }
-      setStatus('กำลังโหลด...');
-      // If browser supports native HLS (Safari), just set src
-      if(video.canPlayType('application/vnd.apple.mpegurl')){
-        video.src = url;
-        try{ await video.play(); setStatus('เล่นอยู่ (native HLS)') }catch(e){ setStatus('ต้องโต้ตอบจากผู้ใช้เพื่อเล่น') }
-        return;
+<script>
+// Parser for basic M3U and #KODIPROP lines
+function parseM3U(text){
+  const lines = text.split(/\r?\n/).map(l=>l.trim());
+  const items = [];
+  let i=0;
+  let lastInfo=null;
+  while(i<lines.length){
+    const line = lines[i];
+    if(!line){i++;continue}
+    if(line.startsWith('#EXTINF')){
+      lastInfo = {rawExt: line};
+      // parse common attributes
+      const commaIndex = line.indexOf(',');
+      lastInfo.title = (commaIndex>=0)? line.slice(commaIndex+1).trim() : line;
+      // attributes before comma
+      const attrPart = line.slice(8, commaIndex>=0?commaIndex:undefined);
+      // simple attr parse tvg-id, tvg-logo, group-title
+      const attrRegex = /([a-zA-Z0-9\-]+)=(?:"([^"]*)"|([^\s]*))/g;
+      let m;
+      while((m=attrRegex.exec(attrPart))!==null){
+        lastInfo[m[1]] = m[2]||m[3];
       }
-
-      // Use hls.js for HLS streams
-      if(window.Hls && Hls.isSupported()){
-        if(window._hls){ window._hls.destroy(); window._hls = null }
-        const hls = new Hls({
-          // debug:true // เปิดถ้าต้องการ
-        });
-        window._hls = hls;
-        hls.attachMedia(video);
-        hls.on(Hls.Events.MEDIA_ATTACHED, ()=>{
-          hls.loadSource(url);
-        });
-        hls.on(Hls.Events.MANIFEST_PARSED, ()=>{
-          video.play().then(()=> setStatus('เล่นอยู่ (Hls.js)')).catch(()=> setStatus('ต้องโต้ตอบจากผู้ใช้เพื่อเล่น'));
-        });
-        hls.on(Hls.Events.ERROR, function(event, data){
-          console.error('HLS error', event, data);
-          setStatus('เกิดข้อผิดพลาด: '+ (data && data.type ? data.type : 'unknown'));
-        });
-        return;
-      }
-
-      // Fallback: try to set as mp4
-      video.src = url;
-      try{ await video.play(); setStatus('เล่นอยู่ (fallback)') }catch(e){ setStatus('ไม่สามารถเล่นลิงก์นี้ได้') }
+      i++;continue
     }
+    if(line.startsWith('#KODIPROP')){
+      // KODIPROP: key=value
+      const propText = line.replace('#KODIPROP:','').trim();
+      // support multiple props separated by space or commas? we'll split by /\s+/ and by =
+      const props = propText.split(/\s+/);
+      if(!lastInfo) lastInfo = {rawExt:'#EXTINF:-1', title:'Unknown'};
+      lastInfo.kodiprops = lastInfo.kodiprops||{};
+      props.forEach(p=>{
+        const eq = p.indexOf('=');
+        if(eq>0){
+          const k = p.slice(0,eq).trim();
+          const v = p.slice(eq+1).trim();
+          lastInfo.kodiprops[k]=v;
+        }
+      });
+      i++;continue
+    }
+    if(line.startsWith('#')){ i++; continue }
+    // non-comment: assume url
+    if(lastInfo){
+      lastInfo.url = line;
+      items.push(lastInfo);
+      lastInfo = null;
+    } else {
+      // orphan url -> create generic item
+      items.push({title:line, url:line});
+    }
+    i++;
+  }
+  return items;
+}
 
-    playBtn.addEventListener('click', ()=>{
-      playUrl(urlInput.value.trim());
-    });
+// UI logic
+const loadBtn = document.getElementById('loadBtn');
+const clearBtn = document.getElementById('clearBtn');
+const m3uInput = document.getElementById('m3uInput');
+const listBox = document.getElementById('channelList');
+const search = document.getElementById('search');
+const nowTitle = document.getElementById('nowTitle');
+const nowGroup = document.getElementById('nowGroup');
+const propsBox = document.getElementById('propsBox');
+const kodipropsEl = document.getElementById('kodiprops');
+const streamUrlEl = document.getElementById('streamUrl');
+const video = document.getElementById('video');
+const vol = document.getElementById('vol');
+let channels = [];
+let hlsPlayer = null;
+let dashPlayer = null;
 
-    // click playlist
-    playlistList.addEventListener('click', (e)=>{
-      const li = e.target.closest('li'); if(!li) return;
-      const url = li.dataset.url;
-      if(url){ urlInput.value = url; playUrl(url); }
-    });
+function renderList(items){
+  listBox.innerHTML='';
+  items.forEach((it,idx)=>{
+    const el = document.createElement('div');
+    el.className='channel';
+    el.innerHTML = `<div class="title">${escapeHtml(it.title||'Untitled')}</div><div class="meta">${escapeHtml(it['group-title']||it.tvg-id||'')}</div>`;
+    el.addEventListener('click',()=>playChannel(it));
+    listBox.appendChild(el);
+  });
+}
 
-    addBtn.addEventListener('click', ()=>{
-      const url = newUrl.value.trim();
-      const title = newTitle.value.trim() || url.split('/').pop();
-      if(!url) return alert('กรุณาวาง URL');
-      const li = document.createElement('li'); li.textContent = title; li.dataset.url = url;
-      playlistList.appendChild(li);
-      newUrl.value = ''; newTitle.value = '';
-    });
+function escapeHtml(s){return String(s||'').replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":"&#39;"}[c]});}
 
-    clearBtn.addEventListener('click', ()=>{
-      newUrl.value = ''; newTitle.value = '';
-    });
+function playChannel(item){
+  // stop existing players
+  if(hlsPlayer){ hlsPlayer.destroy(); hlsPlayer = null; }
+  if(dashPlayer){ dashPlayer.reset(); dashPlayer = null; }
+  video.pause();
+  video.removeAttribute('src');
 
-    // quick play on load (optional)
-    window.addEventListener('load', ()=>{
-      // auto-play attempt disabled to avoid browser block; user should click เล่น
-      setStatus('พร้อม');
-    })
+  nowTitle.textContent = item.title || 'No title';
+  nowGroup.textContent = item['group-title'] || item.tvg_id || '';
+  propsBox.textContent = JSON.stringify(item, null, 2);
+  kodipropsEl.textContent = item.kodiprops? JSON.stringify(item.kodiprops, null, 2): 'ไม่มี';
+  streamUrlEl.textContent = item.url || '';
 
-    // Download link: save playlist to file
-    document.getElementById('downloadBtn').addEventListener('click', ()=>{
-      const items = Array.from(playlistList.querySelectorAll('li')).map(li=>({title:li.textContent,url:li.dataset.url}));
-      const blob = new Blob([JSON.stringify(items, null, 2)], {type:'application/json'});
-      const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'playlist.json'; a.click(); URL.revokeObjectURL(a.href);
-    });
+  const url = item.url || '';
+  if(!url){ alert('ไม่มีลิงก์สำหรับช่องนี้'); return }
 
-  </script>
+  const lower = url.toLowerCase();
+  // set volume
+  video.volume = parseFloat(vol.value);
+
+  if(lower.endsWith('.m3u8') || lower.includes('.m3u8') || lower.includes('application/vnd.apple.mpegurl')){
+    // HLS
+    if(video.canPlayType('application/vnd.apple.mpegurl')){
+      video.src = url;
+      video.play().catch(()=>{});
+    } else if(Hls && Hls.isSupported()){
+      hlsPlayer = new Hls();
+      // apply custom headers/license if provided in kodiprops (not all supported by hls.js without XHR hooks)
+      // Example: inputstream.adaptive.custom_headers=Authorization:Bearer=TOKEN -> naive parse
+      hlsPlayer.loadSource(url);
+      hlsPlayer.attachMedia(video);
+      hlsPlayer.on(Hls.Events.MANIFEST_PARSED,()=>{ video.play().catch(()=>{}); });
+    } else {
+      alert('เบราว์เซอร์ไม่รองรับ HLS');
+    }
+  } else if(lower.endsWith('.mpd') || lower.includes('.mpd')){
+    // DASH
+    if(dashjs){
+      dashPlayer = dashjs.MediaPlayer().create();
+      dashPlayer.initialize(video, url, true);
+      // if kodiprops includes license info, add protectionData
+      if(item.kodiprops){
+        const protection = {};
+        // support property license_url or licence_url
+        const lic = item.kodiprops.license_url || item.kodiprops.licence_url || item.kodiprops['license'] || item.kodiprops['widevine_license'];
+        if(lic){
+          // Note: configuring DRM may require more detail (headers, key ids) - user must supply proper KODIPROP entries.
+          protection['com.widevine.alpha'] = {serverURL: decodeURIComponent(lic)};
+          dashPlayer.setProtectionData(protection);
+        }
+      }
+    } else {
+      alert('dash.js ไม่พร้อมใช้งาน');
+    }
+  } else {
+    // generic media (mp4, ts)
+    video.src = url;
+    video.play().catch(()=>{});
+  }
+}
+
+loadBtn.addEventListener('click',()=>{
+  const text = m3uInput.value.trim();
+  if(!text){ alert('โปรดวางเนื้อหา M3U ในช่องด้านซ้าย'); return }
+  channels = parseM3U(text);
+  renderList(channels);
+});
+
+clearBtn.addEventListener('click',()=>{ m3uInput.value=''; listBox.innerHTML=''; channels=[]; nowTitle.textContent='ยังไม่เล่น'; streamUrlEl.textContent=''; propsBox.textContent='Properties ช่องจะแสดงที่นี่'; kodipropsEl.textContent=''; });
+
+search.addEventListener('input',()=>{
+  const q = search.value.toLowerCase();
+  renderList(channels.filter(c=> (c.title||'').toLowerCase().includes(q) || (c['group-title']||'').toLowerCase().includes(q) ));
+});
+
+vol.addEventListener('input',()=>{ video.volume = parseFloat(vol.value); });
+
+// auto sample: if user drag/drop an m3u file, read it
+window.addEventListener('dragover',e=>{ e.preventDefault(); });
+window.addEventListener('drop',e=>{
+  e.preventDefault();
+  const f = e.dataTransfer.files && e.dataTransfer.files[0];
+  if(!f) return;
+  const reader = new FileReader();
+  reader.onload = ()=>{ m3uInput.value = reader.result; loadBtn.click(); };
+  reader.readAsText(f);
+});
+
+// small helper: try to auto-detect m3u from url param ?m3u=...
+(function(){
+  try{
+    const p = new URLSearchParams(location.search);
+    if(p.has('m3u')){
+      // fetch not available offline, but we can set the url into textarea as single url entry
+      const m3u = p.get('m3u');
+      m3uInput.value = `#EXTM3U\n#EXTINF:-1,External playlist\n${m3u}`;
+      loadBtn.click();
+    }
+  }catch(e){}
+})();
+
+</script>
 </body>
 </html>
