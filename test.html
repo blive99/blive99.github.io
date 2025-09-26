@@ -3,242 +3,177 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>FUCKIDPLUS3.0 IPTV Player</title>
+  <title>HLS Player (ตัวอย่าง)</title>
   <style>
-    :root{--bg:#0f1724;--card:#111827;--muted:#9ca3af;--accent:#ff7a00;--glass:rgba(255,255,255,0.03)}
-    html,body{height:100%;margin:0;font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial}
-    body{background:linear-gradient(180deg,#071021 0%, #071321 60%);color:#fff}
-    header{display:flex;align-items:center;justify-content:center;padding:18px 12px}
-    .brand{font-weight:800;font-size:20px;color:var(--accent);text-align:center;letter-spacing:2px}
-
-    .app{display:grid;grid-template-columns:260px 1fr;gap:18px;padding:12px;max-width:1200px;margin:0 auto}
-
-    /* sidebar */
-    .sidebar{background:var(--card);padding:12px;border-radius:12px;box-shadow:0 6px 18px rgba(2,6,23,0.6)}
-    .sidebar h3{margin:0 0 8px 0;font-size:14px;color:var(--muted)}
-    .categories{display:flex;flex-direction:column;gap:8px}
-    .cat{padding:8px 10px;border-radius:8px;cursor:pointer;background:var(--glass);font-size:14px}
-    .cat.active{background:linear-gradient(90deg,rgba(255,122,0,0.12),rgba(255,122,0,0.06));border:1px solid rgba(255,122,0,0.12)}
-
-    /* main */
-    .main{display:flex;flex-direction:column;gap:12px}
-    .player-wrap{background:var(--card);padding:12px;border-radius:12px}
-    video{width:100%;height:420px;max-height:65vh;background:#000;border-radius:8px}
-    .controls{display:flex;gap:10px;align-items:center;margin-top:10px}
-    .input,select,button{padding:8px 10px;border-radius:8px;border:1px solid rgba(255,255,255,0.06);background:transparent;color:#fff}
-    .input{flex:1}
-    .btn{background:linear-gradient(90deg,var(--accent),#ff9b3b);border:none;color:#000;font-weight:700}
-
-    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:12px}
-    .card{background:var(--card);padding:8px;border-radius:10px;overflow:hidden;cursor:pointer}
-    .thumb{height:100px;border-radius:6px;background:#0b1220;display:flex;align-items:center;justify-content:center;font-size:12px;color:var(--muted)}
-    .title{margin-top:8px;font-weight:600;font-size:13px}
-    .meta{font-size:12px;color:var(--muted)}
-
-    .topbar{display:flex;justify-content:space-between;align-items:center}
-
-    /* mobile */
-    @media (max-width:900px){.app{grid-template-columns:1fr;}.sidebar{order:2}}
+    :root{
+      --bg:#0f1724;
+      --card:#0b1220;
+      --accent:#ff7a00; /* ส้ม */
+      --muted:#9aa6b2;
+    }
+    body{
+      margin:0;
+      font-family:Inter,system-ui,Segoe UI,Roboto,"Helvetica Neue",Arial;
+      background:linear-gradient(180deg,#071025 0%, #07172a 100%);
+      color:#e6eef6;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      min-height:100vh;
+      padding:24px;
+    }
+    .container{
+      width:100%;
+      max-width:980px;
+      background:var(--card);
+      border-radius:14px;
+      box-shadow:0 8px 30px rgba(3,6,12,0.6);
+      padding:20px;
+      gap:16px;
+      display:flex;
+      flex-direction:column;
+    }
+    header{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+    }
+    .title{
+      font-size:20px;
+      font-weight:700;
+      color:var(--accent);
+      text-align:center;
+      flex:1;
+    }
+    .player-wrap{
+      background:#000;
+      border-radius:8px;
+      overflow:hidden;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      position:relative;
+      aspect-ratio:16/9;
+    }
+    video{
+      width:100%;
+      height:100%;
+      display:block;
+      background:#000;
+      outline:none;
+    }
+    .controls{
+      display:flex;
+      gap:8px;
+      margin-top:10px;
+      align-items:center;
+    }
+    input[type="text"]{
+      flex:1;
+      padding:8px 10px;
+      border-radius:8px;
+      border:1px solid rgba(255,255,255,0.06);
+      background:transparent;
+      color:inherit;
+      font-size:14px;
+    }
+    button{
+      padding:8px 12px;
+      border-radius:8px;
+      border:0;
+      background:var(--accent);
+      color:#06121a;
+      font-weight:700;
+      cursor:pointer;
+    }
+    .note{ color:var(--muted); font-size:13px; margin-top:8px; }
+    @media (max-width:560px){
+      .title{ font-size:16px; }
+    }
   </style>
+  <!-- ใช้ hls.js จาก CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.3/dist/hls.min.js"></script>
 </head>
 <body>
-  <header>
-    <div class="brand">KIXK STREAM</div>
-  </header>
+  <div class="container" role="region" aria-label="HLS player example">
+    <header>
+      <div class="title">ชื่อเว็บของคุณ (ตัวอย่าง)</div>
+      <div style="width:12px"></div>
+    </header>
 
-  <div class="app">
-    <aside class="sidebar">
-      <h3>เมนูประเภท</h3>
-      <div class="categories" id="categories"></div>
-      <hr style="border:none;margin:10px 0;border-top:1px solid rgba(255,255,255,0.03)">
-      <button id="toggleList" class="input">ซ่อน/แสดง รายการช่อง</button>
-      <div style="height:8px"></div>
-      <div>
-        <small class="meta">เพิ่มช่อง (ซ่อนได้)</small>
-        <div style="display:flex;gap:6px;margin-top:6px">
-          <input id="newTitle" class="input" placeholder="ชื่อช่อง" />
-        </div>
-        <div style="display:flex;gap:6px;margin-top:6px">
-          <input id="newUrl" class="input" placeholder="ลิงก์ (m3u8 / mp4 / mpd)" />
-        </div>
-        <div style="display:flex;gap:6px;margin-top:6px">
-          <select id="newGroup" class="input">
-            <option>📺 ทั่วไป</option>
-            <option>📺 กีฬา</option>
-            <option>🎬 หนัง</option>
-            <option>🧒 เด็ก</option>
-            <option>📰 ข่าว</option>
-          </select>
-        </div>
-        <div style="display:flex;gap:6px;margin-top:8px">
-          <button id="addBtn" class="btn">เพิ่มช่อง</button>
-        </div>
-      </div>
-    </aside>
+    <div class="player-wrap" id="playerWrap">
+      <!-- ถ้า browser รองรับ native HLS (Safari) จะเล่นได้เลย -->
+      <video id="video" controls playsinline></video>
+    </div>
 
-    <main class="main">
-      <div class="player-wrap">
-        <div class="topbar">
-          <div style="display:flex;align-items:center;gap:12px">
-            <strong id="playingTitle">เลือกช่องเพื่อเริ่มเล่น</strong>
-            <span class="meta" id="playingGroup"></span>
-          </div>
-          <div>
-            <button id="loginBtn" class="input">เข้าสู่ระบบ</button>
-          </div>
-        </div>
-
-        <video id="video" controls playsinline></video>
-
-        <div class="controls">
-          <input id="directUrl" class="input" placeholder="วางลิงก์ตรงที่นี่ แล้วกด Play" />
-          <input id="decKey" class="input" placeholder="ใส่ key (ถ้ามี)" style="max-width:260px" />
-          <button id="playDirect" class="btn">Play</button>
-        </div>
-      </div>
-
-      <div>
-        <h3 class="meta">รายการช่อง</h3>
-        <div id="channelsGrid" class="grid"></div>
-      </div>
-    </main>
-  </div>
-
-  <!-- login modal (simple) -->
-  <div id="modal" style="position:fixed;inset:0;display:none;align-items:center;justify-content:center;background:rgba(0,0,0,0.6)">
-    <div style="background:var(--card);padding:18px;border-radius:10px;min-width:320px">
-      <h3>เข้าสู่ระบบ</h3>
-      <input id="user" class="input" placeholder="ชื่อผู้ใช้/อีเมล" style="margin-top:8px" />
-      <input id="pass" type="password" class="input" placeholder="รหัสผ่าน" style="margin-top:8px" />
-      <div style="display:flex;gap:8px;margin-top:12px;justify-content:flex-end">
-        <button id="closeModal" class="input">ยกเลิก</button>
-        <button id="doLogin" class="btn">เข้าสู่ระบบ</button>
-      </div>
+    <div class="controls" aria-hidden="false">
+      <input id="urlInput" type="text" placeholder="http://playid.ddnsgeek.com:8080/live/thaihd/12345/23200.m3u8" />
+      <button id="playBtn">Load & Play</button>
+      <button id="stopBtn" style="background:#374151;color:#fff">Stop</button>
+    </div>
+    <div class="note">
+      ใช้งานเฉพาะสำหรับสตรีมที่คุณมีสิทธิ์เท่านั้น — ถ้าเกิดปัญหา CORS หรือ mixed-content (http/https) ให้ตรวจสอบเซิร์ฟเวอร์หรือใช้ proxy ที่คุณควบคุมได้อย่างถูกกฎหมาย
     </div>
   </div>
 
-  <!-- include hls.js and dash.js from CDN -->
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
-
   <script>
-    // Sample channels - user can replace with their own or extend
-    const channels = [
-      { title: 'Demo HLS (WWE)', url: 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', group: '📺 ทั่วไป', logo: '' , hidden:false},
-      { title: 'Demo MP4 Movie', url: 'https://www.w3schools.com/html/mov_bbb.mp4', group: '🎬 หนัง', logo:'', hidden:false},
-      { title: 'Demo DASH', url: 'https://dash.akamaized.net/envivio/EnvivioDash3/manifest.mpd', group: '📺 ทั่วไป',logo:'', hidden:false},
-    ];
-
-    const categories = [...new Set(channels.map(c=>c.group))];
-    const catContainer = document.getElementById('categories');
-    const grid = document.getElementById('channelsGrid');
     const video = document.getElementById('video');
-    const playingTitle = document.getElementById('playingTitle');
-    const playingGroup = document.getElementById('playingGroup');
+    const playBtn = document.getElementById('playBtn');
+    const stopBtn = document.getElementById('stopBtn');
+    const urlInput = document.getElementById('urlInput');
 
-    function renderCategories(){
-      catContainer.innerHTML = '';
-      const all = document.createElement('div');
-      all.className='cat active'; all.innerText='ทั้งหมด'; all.onclick=()=>{filterBy(null, all)};
-      catContainer.appendChild(all);
-      [...new Set(channels.map(c=>c.group))].forEach(g=>{
-        const el=document.createElement('div');el.className='cat';el.innerText=g;el.onclick=()=>filterBy(g, el);catContainer.appendChild(el);
-      })
-    }
-
-    let currentFilter = null;
-    function filterBy(group, el){
-      currentFilter = group;document.querySelectorAll('.cat').forEach(x=>x.classList.remove('active'));el.classList.add('active');renderGrid();
-    }
-
-    function renderGrid(){
-      grid.innerHTML='';
-      channels.filter(c=>!c.hidden).filter(c=>currentFilter?c.group===currentFilter:true).forEach((ch, idx)=>{
-        const card=document.createElement('div');card.className='card';
-        const thumb=document.createElement('div');thumb.className='thumb';thumb.innerText=ch.title;
-        const title=document.createElement('div');title.className='title';title.innerText=ch.title;
-        const meta=document.createElement('div');meta.className='meta';meta.innerText=ch.group;
-        card.appendChild(thumb);card.appendChild(title);card.appendChild(meta);
-        card.onclick=()=>playChannel(idx);
-        grid.appendChild(card);
-      })
-    }
-
-    // Player logic - supports m3u8 via hls.js, MP4 via native, and DASH via dash.js
-    let hls=null; let dashPlayer=null;
-    function stopPlayers(){
-      if(hls){try{hls.destroy();}catch(e){}hls=null}
-      if(dashPlayer){try{dashPlayer.reset();}catch(e){}dashPlayer=null}
-      video.pause(); video.removeAttribute('src'); video.load();
-    }
-
-    function playChannel(idx){
-      const ch = channels[idx];
-      playUrl(ch.url, ch.title, ch.group);
-    }
-
-    function playUrl(url, title, group){
-      stopPlayers();
-      playingTitle.innerText = title || url;
-      playingGroup.innerText = group || '';
-      // if dash
-      if(url.endsWith('.mpd')){
-        dashPlayer = dashjs.MediaPlayer().create();
-        dashPlayer.initialize(video, url, true);
+    function loadAndPlay(url){
+      if (!url) return alert('http://playid.ddnsgeek.com:8080/live/thaihd/12345/23200.m3u8');
+      // ถ้า browser มี native HLS (Safari) ใช้โดยตรง
+      if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = url;
+        video.play().catch(e=>console.warn('play failed',e));
         return;
       }
-      // if mp4 or webm - native
-      if(url.match(/\.(mp4|webm|ogg)(\?|$)/i)){
-        video.src = url; video.play(); return;
-      }
-      // assume HLS
-      if(Hls.isSupported()){
-        hls = new Hls();
+      // ใช้ hls.js สำหรับ browser อื่น ๆ
+      if (window.Hls && Hls.isSupported()) {
+        // เคลียร์ instance เก่า
+        if (window._hlsInstance) {
+          try { window._hlsInstance.destroy(); } catch(e) {}
+          window._hlsInstance = null;
+        }
+        const hls = new Hls({
+          // คุณสามารถปรับค่า config ตามต้องการ
+          liveSyncDurationCount: 3,
+          maxBufferLength: 30,
+        });
+        window._hlsInstance = hls;
         hls.loadSource(url);
         hls.attachMedia(video);
-        hls.on(Hls.Events.MANIFEST_PARSED, ()=>video.play());
-        hls.on(Hls.Events.ERROR, function(event, data){console.warn('HLS error', data);});
-      } else if(video.canPlayType('application/vnd.apple.mpegurl')){
-        video.src = url; video.play();
+        hls.on(Hls.Events.MANIFEST_PARSED, ()=> {
+          video.play().catch(e=>console.warn('play failed',e));
+        });
+        hls.on(Hls.Events.ERROR, function(event, data) {
+          console.error('Hls error', data);
+        });
       } else {
-        alert('เบราว์เซอร์ของคุณอาจไม่รองรับการเล่น HLS');
+        alert('เบราเซอร์นี้ไม่รองรับ HLS โดยตรง กรุณาลองใช้ Safari หรือ Chromium-based พร้อม hls.js');
       }
     }
 
-    // direct play button
-    document.getElementById('playDirect').addEventListener('click', ()=>{
-      const url = document.getElementById('directUrl').value.trim();
-      const key = document.getElementById('decKey').value.trim();
-      if(!url){alert('กรุณาใส่ลิงก์');return}
-      // NOTE: inserting keys for DRM/encryption usually requires license servers and platform DRM stack.
-      if(key){console.log('received key (placeholder):', key)}
-      playUrl(url, url, 'Direct');
-    })
+    playBtn.addEventListener('click', ()=> {
+      const url = urlInput.value.trim();
+      loadAndPlay(url);
+    });
 
-    // add new channel
-    document.getElementById('addBtn').addEventListener('click', ()=>{
-      const t = document.getElementById('newTitle').value.trim();
-      const u = document.getElementById('newUrl').value.trim();
-      const g = document.getElementById('newGroup').value;
-      if(!t || !u){alert('โปรดกรอกชื่อและลิงก์');return}
-      channels.push({title:t,url:u,group:g,hidden:true});
-      document.getElementById('newTitle').value='';document.getElementById('newUrl').value='';
-      renderGrid();
-      alert('เพิ่มช่อง (ซ่อน) เรียบร้อย — ไปที่เมนูเพื่อแสดงช่องหรือตัดต่อด้วยโค้ด');
-    })
+    stopBtn.addEventListener('click', ()=> {
+      // stop playback & revoke source
+      try {
+        if (window._hlsInstance) { window._hlsInstance.destroy(); window._hlsInstance = null; }
+      } catch(e){}
+      video.pause();
+      video.removeAttribute('src');
+      video.load();
+    });
 
-    document.getElementById('toggleList').addEventListener('click', ()=>{
-      const hidden = grid.style.display==='none';
-      grid.style.display = hidden ? 'grid' : 'none';
-    })
-
-    // login modal
-    document.getElementById('loginBtn').addEventListener('click', ()=>document.getElementById('modal').style.display='flex');
-    document.getElementById('closeModal').addEventListener('click', ()=>document.getElementById('modal').style.display='none');
-    document.getElementById('doLogin').addEventListener('click', ()=>{alert('ตัวอย่าง: ระบบล็อกอินยังไม่เชื่อมต่อกับฐานข้อมูล');document.getElementById('modal').style.display='none'})
-
-    // initial render
-    renderCategories(); renderGrid();
+    // ตัวอย่าง: ใส่ placeholder ตัวอย่างที่ไม่ใช่ลิงก์จริง
+    urlInput.value = '';
   </script>
 </body>
 </html>
