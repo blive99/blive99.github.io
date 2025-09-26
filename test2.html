@@ -1,47 +1,148 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="th">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>m3u8 Player - ทดลอง</title>
-  <style>
-    body { font-family: sans-serif; display:flex;flex-direction:column;align-items:center;gap:12px;padding:20px; }
-    h1 { color:#ff6600; }
-    video { width:100%; max-width:900px; height:520px; background:#000; }
-    .note { max-width:900px; color:#444; font-size:14px; }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FUCKIDHD++3BBTV</title>
+    <script src="https://ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.js"></script>
+    <script>
+        jwplayer.key = 'XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';
+    </script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        #player {
+            width: 100%;
+            max-width: 100%;
+            aspect-ratio: 16/9;
+        }
+        #channel-list {
+            margin: 10px auto;
+            max-width: 800px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            justify-content: center;
+        }
+        .channel {
+            cursor: pointer;
+            padding: 5px;
+            background: #222;
+            border: 1px solid #444;
+            border-radius: 5px;
+            text-align: center;
+            width: 60px;
+        }
+        .channel img {
+            width: 50px;
+            height: 50px;
+            margin-bottom: 5px;
+        }
+        .channel:hover {
+            background: #000;
+        }
+        #startPlayback {
+            margin: 15px;
+            padding: 10px 20px;
+            background: orange;
+            color: black;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
-  <h1>FUCKIDPLUS3.0 - ตัวเล่น m3u8</h1>
+    <h2 style="color:orange; text-align:center;">FUCKIDHD++3BBTV + HLS</h2>
+    <div id="player"></div>
 
-  <video id="video" controls></video>
+    <button id="startPlayback">▶ เริ่มเล่น</button>
 
-  <div class="note">
-    ลิงก์ที่ใส่ตอนนี้: <code id="src">http://bestcommt2.github.io/m3u8/monomax1.m3u8</code><br>
-    ถ้าวิดีโอไม่เล่น ให้ดูคอนโซล (DevTools → Console / Network) ว่ามีข้อผิดพลาดเป็น CORS, 404, 401 หรือ 403 หรือไม่
-  </div>
+    <div id="channel-list"></div>
 
-  <!-- hls.js CDN -->
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  <script>
-    const url = 'http://bestcommt2.github.io/m3u8/monomax1.m3u8';
-    const video = document.getElementById('video');
+    <script>
+        const channels = [
+            {
+                name: "",
+                logo: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png",
+                file: "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd",
+                keyId: "87db4361f7894655a4656e9c8b935a02",
+                key: "b025a4b950df41158a87cfc8d6f2ac34",
+                drm: true
+            },
+            {
+                name: "",
+                logo: "https://www.jsports.co.jp/img/icon/ch1.png",
+                file: "https://mt01.utako.moe/js1/index.m3u8",
+                drm: false
+            },
+			  {
+                name: "",
+                logo: "http://103.114.203.129:8080/images/b803a83090f09b4a29a3acc4c7713390.jpg",
+                file: "http://playid.ddnsgeek.com:8080/live/thaihd/12345/23200.m3u8",
+                drm: false
+            },
+            {
+                name: ",
+                logo: "",
+                file: "",
+                drm: false
+            }
+			
+            // … คุณสามารถเพิ่มช่องอื่นๆ ได้ตามต้องการ
+        ];
 
-    if (video.canPlayType('application/vnd.apple.mpegurl')) {
-      // Safari (โดยตรง)
-      video.src = url;
-      video.addEventListener('error', e => console.error('video error', e));
-    } else if (Hls.isSupported()) {
-      const hls = new Hls();
-      hls.loadSource(url);
-      hls.attachMedia(video);
-      hls.on(Hls.Events.ERROR, function(event, data) {
-        console.error('Hls.js error', event, data);
-      });
-    } else {
-      console.error('HLS not supported in this browser.');
-      alert('เบราว์เซอร์ของคุณไม่รองรับ HLS โดยตรง กรุณาใช้ Chrome/Firefox และลองอีกครั้ง');
-    }
-  </script>
+        function loadPlayer(channel) {
+            const config = {
+                file: channel.file,
+                width: "100%",
+                aspectratio: "16:9",
+                autostart: true,
+                mute: false
+            };
+
+            // ถ้าเป็นไฟล์ .mpd + drm
+            if (channel.drm) {
+                config.type = "dash";
+                config.drm = {
+                    clearkey: {
+                        keyId: channel.keyId,
+                        key: channel.key
+                    }
+                };
+            } else {
+                // ถ้าไฟล์ .m3u8 (HLS)
+                config.type = "hls";
+            }
+
+            jwplayer("player").setup(config);
+        }
+
+        const channelList = document.getElementById("channel-list");
+        channels.forEach((channel, idx) => {
+            const div = document.createElement("div");
+            div.className = "channel";
+            const logoHtml = channel.logo 
+                ? `<img src="${channel.logo}" alt="${channel.name}"><br>`
+                : "";
+            div.innerHTML = logoHtml + channel.name;
+            div.onclick = () => loadPlayer(channel);
+            channelList.appendChild(div);
+        });
+
+        document.getElementById("startPlayback").onclick = () => {
+            loadPlayer(channels[0]); // เล่นช่องแรกเป็น default
+            document.getElementById("startPlayback").style.display = "none";
+        };
+    </script>
 </body>
 </html>
