@@ -1,179 +1,32 @@
-<!doctype html>
-<html lang="th">
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>HLS Player (ตัวอย่าง)</title>
-  <style>
-    :root{
-      --bg:#0f1724;
-      --card:#0b1220;
-      --accent:#ff7a00; /* ส้ม */
-      --muted:#9aa6b2;
-    }
-    body{
-      margin:0;
-      font-family:Inter,system-ui,Segoe UI,Roboto,"Helvetica Neue",Arial;
-      background:linear-gradient(180deg,#071025 0%, #07172a 100%);
-      color:#e6eef6;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      min-height:100vh;
-      padding:24px;
-    }
-    .container{
-      width:100%;
-      max-width:980px;
-      background:var(--card);
-      border-radius:14px;
-      box-shadow:0 8px 30px rgba(3,6,12,0.6);
-      padding:20px;
-      gap:16px;
-      display:flex;
-      flex-direction:column;
-    }
-    header{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:12px;
-    }
-    .title{
-      font-size:20px;
-      font-weight:700;
-      color:var(--accent);
-      text-align:center;
-      flex:1;
-    }
-    .player-wrap{
-      background:#000;
-      border-radius:8px;
-      overflow:hidden;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      position:relative;
-      aspect-ratio:16/9;
-    }
-    video{
-      width:100%;
-      height:100%;
-      display:block;
-      background:#000;
-      outline:none;
-    }
-    .controls{
-      display:flex;
-      gap:8px;
-      margin-top:10px;
-      align-items:center;
-    }
-    input[type="text"]{
-      flex:1;
-      padding:8px 10px;
-      border-radius:8px;
-      border:1px solid rgba(255,255,255,0.06);
-      background:transparent;
-      color:inherit;
-      font-size:14px;
-    }
-    button{
-      padding:8px 12px;
-      border-radius:8px;
-      border:0;
-      background:var(--accent);
-      color:#06121a;
-      font-weight:700;
-      cursor:pointer;
-    }
-    .note{ color:var(--muted); font-size:13px; margin-top:8px; }
-    @media (max-width:560px){
-      .title{ font-size:16px; }
-    }
-  </style>
-  <!-- ใช้ hls.js จาก CDN -->
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.3/dist/hls.min.js"></script>
+  <meta charset="utf-8">
+  <title>Play HLS Stream</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
-  <div class="container" role="region" aria-label="HLS player example">
-    <header>
-      <div class="title">ชื่อเว็บของคุณ (ตัวอย่าง)</div>
-      <div style="width:12px"></div>
-    </header>
-
-    <div class="player-wrap" id="playerWrap">
-      <!-- ถ้า browser รองรับ native HLS (Safari) จะเล่นได้เลย -->
-      <video id="video" controls playsinline></video>
-    </div>
-
-    <div class="controls" aria-hidden="false">
-      <input id="urlInput" type="text" placeholder="http://playid.ddnsgeek.com:8080/live/thaihd/12345/23200.m3u8" />
-      <button id="playBtn">Load & Play</button>
-      <button id="stopBtn" style="background:#374151;color:#fff">Stop</button>
-    </div>
-    <div class="note">
-      ใช้งานเฉพาะสำหรับสตรีมที่คุณมีสิทธิ์เท่านั้น — ถ้าเกิดปัญหา CORS หรือ mixed-content (http/https) ให้ตรวจสอบเซิร์ฟเวอร์หรือใช้ proxy ที่คุณควบคุมได้อย่างถูกกฎหมาย
-    </div>
-  </div>
+  <video id="video" controls style="width:100%; max-width:600px;"></video>
 
   <script>
-    const video = document.getElementById('video');
-    const playBtn = document.getElementById('playBtn');
-    const stopBtn = document.getElementById('stopBtn');
-    const urlInput = document.getElementById('urlInput');
-
-    function loadAndPlay(url){
-      if (!url) return alert('http://playid.ddnsgeek.com:8080/live/thaihd/12345/23200.m3u8');
-      // ถ้า browser มี native HLS (Safari) ใช้โดยตรง
-      if (video.canPlayType('application/vnd.apple.mpegurl')) {
-        video.src = url;
-        video.play().catch(e=>console.warn('play failed',e));
-        return;
-      }
-      // ใช้ hls.js สำหรับ browser อื่น ๆ
-      if (window.Hls && Hls.isSupported()) {
-        // เคลียร์ instance เก่า
-        if (window._hlsInstance) {
-          try { window._hlsInstance.destroy(); } catch(e) {}
-          window._hlsInstance = null;
-        }
-        const hls = new Hls({
-          // คุณสามารถปรับค่า config ตามต้องการ
-          liveSyncDurationCount: 3,
-          maxBufferLength: 30,
-        });
-        window._hlsInstance = hls;
-        hls.loadSource(url);
-        hls.attachMedia(video);
-        hls.on(Hls.Events.MANIFEST_PARSED, ()=> {
-          video.play().catch(e=>console.warn('play failed',e));
-        });
-        hls.on(Hls.Events.ERROR, function(event, data) {
-          console.error('Hls error', data);
-        });
-      } else {
-        alert('เบราเซอร์นี้ไม่รองรับ HLS โดยตรง กรุณาลองใช้ Safari หรือ Chromium-based พร้อม hls.js');
-      }
+    var video = document.getElementById('video');
+    var videoSrc = 'http://bestcommt2.github.io/m3u8/monomax2.m3u8';
+    if (Hls.isSupported()) {
+      var hls = new Hls();
+      hls.loadSource(videoSrc);
+      hls.attachMedia(video);
+      hls.on(Hls.Events.MANIFEST_PARSED, function() {
+        video.play();
+      });
+    } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      // สำหรับเบราว์เซอร์ (Safari) ที่รองรับโดยตรง
+      video.src = videoSrc;
+      video.addEventListener('loadedmetadata', function() {
+        video.play();
+      });
+    } else {
+      console.error('HLS not supported in this browser');
     }
-
-    playBtn.addEventListener('click', ()=> {
-      const url = urlInput.value.trim();
-      loadAndPlay(url);
-    });
-
-    stopBtn.addEventListener('click', ()=> {
-      // stop playback & revoke source
-      try {
-        if (window._hlsInstance) { window._hlsInstance.destroy(); window._hlsInstance = null; }
-      } catch(e){}
-      video.pause();
-      video.removeAttribute('src');
-      video.load();
-    });
-
-    // ตัวอย่าง: ใส่ placeholder ตัวอย่างที่ไม่ใช่ลิงก์จริง
-    urlInput.value = '';
   </script>
 </body>
 </html>
