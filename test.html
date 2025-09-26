@@ -1,32 +1,172 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="th">
 <head>
-  <meta charset="utf-8">
-  <title>Play HLS Stream</title>
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Simple IPTV Player</title>
+  <style>
+    :root{--bg:#0f1724;--card:#0b1220;--accent:#ff8800;--muted:#94a3b8;color-scheme:dark}
+    html,body{height:100%;margin:0;font-family:Inter, system-ui, -apple-system,Segoe UI, Roboto, "Noto Sans", "Helvetica Neue", Arial}
+    body{background:linear-gradient(180deg,#071021 0%, #08121a 100%);color:#e6eef8}
+    .app{display:grid;grid-template-columns:260px 1fr;gap:18px;height:100vh;padding:18px}
+    .sidebar{background:rgba(255,255,255,0.03);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6)}
+    .brand{text-align:center;font-weight:700;color:var(--accent);font-size:20px;margin-bottom:10px}
+    .menu{display:flex;flex-direction:column;gap:8px}
+    .menu button{background:transparent;border:1px solid rgba(255,255,255,0.05);padding:8px;border-radius:8px;color:inherit;text-align:left;cursor:pointer}
+    .menu button.active{border-color:rgba(255,136,0,0.9);box-shadow:0 4px 12px rgba(255,136,0,0.06)}
+    .playlist{margin-top:12px}
+    .playlist li{list-style:none;padding:6px 8px;border-radius:6px;margin-bottom:6px;background:rgba(255,255,255,0.02);cursor:pointer}
+    .playlist li:hover{background:rgba(255,255,255,0.03)}
+    .main{display:flex;flex-direction:column;gap:12px}
+    .controls{display:flex;gap:8px;align-items:center}
+    .input{flex:1;display:flex;gap:8px}
+    input[type=text]{width:100%;padding:10px;border-radius:8px;border:1px solid rgba(255,255,255,0.06);background:transparent;color:inherit}
+    button.btn{padding:10px 12px;border-radius:8px;border:none;background:var(--accent);color:#06121a;font-weight:600;cursor:pointer}
+    .player-wrap{background:var(--card);padding:10px;border-radius:12px;display:flex;flex-direction:column;gap:8px}
+    video{width:100%;height:60vh;border-radius:8px;background:black;outline:1px solid rgba(255,255,255,0.03)}
+    .meta{display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:13px}
+    .hint{font-size:13px;color:var(--muted);}
+    .small{font-size:12px;color:var(--muted)}
+    .footer{font-size:12px;color:var(--muted);padding:6px}
+    @media (max-width:900px){.app{grid-template-columns:1fr} .sidebar{display:none} video{height:45vh}}
+  </style>
 </head>
 <body>
-  <video id="video" controls style="width:100%; max-width:600px;"></video>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">FUCKIDPLUS3.0</div>
+      <div class="menu">
+        <button class="active" data-cat="live">ช่องสด</button>
+        <button data-cat="vod">VOD</button>
+        <button data-cat="fav">รายการโปรด</button>
+      </div>
 
+      <div class="playlist">
+        <h4 class="small">รายการทดลอง</h4>
+        <ul id="playlistList">
+          <li data-url="http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=m3u8">ลิงค์ตัวอย่าง 186563</li>
+        </ul>
+        <div style="margin-top:10px">
+          <input id="newTitle" placeholder="ชื่อรายการ (ไม่บังคับ)" type="text" style="width:100%;padding:8px;border-radius:6px;margin-bottom:6px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:inherit">
+          <input id="newUrl" placeholder="วาง URL (m3u8 / mp4)" type="text" style="width:100%;padding:8px;border-radius:6px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:inherit">
+          <div style="display:flex;gap:8px;margin-top:8px">
+            <button id="addBtn" class="btn" style="flex:1">เพิ่มในรายการ</button>
+            <button id="clearBtn" class="btn" style="background:rgba(255,255,255,0.06);color:var(--accent)">ล้าง</button>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <div class="controls">
+        <div class="input">
+          <input id="urlInput" type="text" placeholder="วางลิงก์ m3u8 หรือ mp4 แล้วกด เล่น หรือเลือกจากรายการซ้าย" value="http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=m3u8">
+          <button id="playBtn" class="btn">เล่น</button>
+        </div>
+        <div>
+          <button id="downloadBtn" class="btn" style="background:transparent;border:1px solid rgba(255,255,255,0.05);color:inherit">บันทึกลิงก์</button>
+        </div>
+      </div>
+
+      <div class="player-wrap">
+        <video id="video" controls playsinline></video>
+        <div class="meta">
+          <div class="hint">สถานะ: <span id="status">พร้อม</span></div>
+          <div class="small">รองรับ HLS (m3u8) และ mp4 — เบราว์เซอร์บางตัวอาจต้องใช้ Hls.js</div>
+        </div>
+      </div>
+
+      <div class="footer">หมายเหตุ: หากวิดีโอไม่เล่น ให้ตรวจสอบ CORS หรือนโยบายการเข้าถึงของเซิร์ฟเวอร์ต้นทาง และตรวจสอบว่าคุณมีสิทธิ์ในการเข้าถึงลิงก์ดังกล่าว</div>
+    </main>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
   <script>
-    var video = document.getElementById('video');
-    var videoSrc = 'http://bestcommt2.github.io/m3u8/monomax2.m3u8';
-    if (Hls.isSupported()) {
-      var hls = new Hls();
-      hls.loadSource(videoSrc);
-      hls.attachMedia(video);
-      hls.on(Hls.Events.MANIFEST_PARSED, function() {
-        video.play();
-      });
-    } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-      // สำหรับเบราว์เซอร์ (Safari) ที่รองรับโดยตรง
-      video.src = videoSrc;
-      video.addEventListener('loadedmetadata', function() {
-        video.play();
-      });
-    } else {
-      console.error('HLS not supported in this browser');
+    const video = document.getElementById('video');
+    const urlInput = document.getElementById('urlInput');
+    const playBtn = document.getElementById('playBtn');
+    const status = document.getElementById('status');
+    const playlistList = document.getElementById('playlistList');
+    const addBtn = document.getElementById('addBtn');
+    const newUrl = document.getElementById('newUrl');
+    const newTitle = document.getElementById('newTitle');
+    const clearBtn = document.getElementById('clearBtn');
+
+    function setStatus(s){ status.textContent = s }
+
+    async function playUrl(url){
+      if(!url){ setStatus('ไม่มีลิงก์'); return }
+      setStatus('กำลังโหลด...');
+      // If browser supports native HLS (Safari), just set src
+      if(video.canPlayType('application/vnd.apple.mpegurl')){
+        video.src = url;
+        try{ await video.play(); setStatus('เล่นอยู่ (native HLS)') }catch(e){ setStatus('ต้องโต้ตอบจากผู้ใช้เพื่อเล่น') }
+        return;
+      }
+
+      // Use hls.js for HLS streams
+      if(window.Hls && Hls.isSupported()){
+        if(window._hls){ window._hls.destroy(); window._hls = null }
+        const hls = new Hls({
+          // debug:true // เปิดถ้าต้องการ
+        });
+        window._hls = hls;
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MEDIA_ATTACHED, ()=>{
+          hls.loadSource(url);
+        });
+        hls.on(Hls.Events.MANIFEST_PARSED, ()=>{
+          video.play().then(()=> setStatus('เล่นอยู่ (Hls.js)')).catch(()=> setStatus('ต้องโต้ตอบจากผู้ใช้เพื่อเล่น'));
+        });
+        hls.on(Hls.Events.ERROR, function(event, data){
+          console.error('HLS error', event, data);
+          setStatus('เกิดข้อผิดพลาด: '+ (data && data.type ? data.type : 'unknown'));
+        });
+        return;
+      }
+
+      // Fallback: try to set as mp4
+      video.src = url;
+      try{ await video.play(); setStatus('เล่นอยู่ (fallback)') }catch(e){ setStatus('ไม่สามารถเล่นลิงก์นี้ได้') }
     }
+
+    playBtn.addEventListener('click', ()=>{
+      playUrl(urlInput.value.trim());
+    });
+
+    // click playlist
+    playlistList.addEventListener('click', (e)=>{
+      const li = e.target.closest('li'); if(!li) return;
+      const url = li.dataset.url;
+      if(url){ urlInput.value = url; playUrl(url); }
+    });
+
+    addBtn.addEventListener('click', ()=>{
+      const url = newUrl.value.trim();
+      const title = newTitle.value.trim() || url.split('/').pop();
+      if(!url) return alert('กรุณาวาง URL');
+      const li = document.createElement('li'); li.textContent = title; li.dataset.url = url;
+      playlistList.appendChild(li);
+      newUrl.value = ''; newTitle.value = '';
+    });
+
+    clearBtn.addEventListener('click', ()=>{
+      newUrl.value = ''; newTitle.value = '';
+    });
+
+    // quick play on load (optional)
+    window.addEventListener('load', ()=>{
+      // auto-play attempt disabled to avoid browser block; user should click เล่น
+      setStatus('พร้อม');
+    })
+
+    // Download link: save playlist to file
+    document.getElementById('downloadBtn').addEventListener('click', ()=>{
+      const items = Array.from(playlistList.querySelectorAll('li')).map(li=>({title:li.textContent,url:li.dataset.url}));
+      const blob = new Blob([JSON.stringify(items, null, 2)], {type:'application/json'});
+      const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'playlist.json'; a.click(); URL.revokeObjectURL(a.href);
+    });
+
   </script>
 </body>
 </html>
