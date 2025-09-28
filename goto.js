@@ -537,21 +537,21 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/AISplay-sport9.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/PS009/HLS/PS009.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/AISplay-sport10.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 10
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/PS010/HLS/PS010.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL009/HLS/TL009?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport11.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 11
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/PS011/HLS/PS011.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL101/HLS/TL101?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport12.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 12
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL103/HLS/TL103.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL103/HLS/TL103.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport13.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 13
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -566,69 +566,69 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL105/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL106/HLS/TL106.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL106/HLS/TL106.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport16.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 16
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL107/HLS/TL107.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL107/HLS/TL107.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport17.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 17
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL108/HLS/TL108.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL108/HLS/TL108.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport18.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 18
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL109/HLS/TL109.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL109/HLS/TL109.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport19.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 19
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL110/HLS/TL110.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL110/HLS/TL110.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport20.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 20
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL111/HLS/TL111.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL111/HLS/TL111.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport21.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 21
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL112/HLS/TL112.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL112/HLS/TL112.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport22.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 22
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL113/HLS/TL113.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL113/HLS/TL113.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport23.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 23
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL114/HLS/TL114.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL114/HLS/TL114.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport24.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 24
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL115/HLS/TL115.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL115/HLS/TL115.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport25.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 25
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL116/HLS/TL116.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL116/HLS/TL116.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport26.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 26
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL117/HLS/TL117.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL117/HLS/TL117.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport27.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 27
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL118/HLS/TL118.m3u8 
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL118/HLS/TL118.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport27.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 27
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/PS048/HLS/PS048.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/PS022/HLS/PS022.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport27.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 27
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/PS049/HLS/PS049.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/PS023/HLS/PS023.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport27.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 27
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/PS050/HLS/PS050.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/PS024/HLS/PS024.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=74308eb952fb9d28ea2a9f1f981bd87c&chunkHttps=true&tmid=B0003&tpbk=ccQrpGtzQVFLY2UN&rrt=1759039265&tmod=rfk&rsid=0bd7576b-15d7-479e-84f4-4a0b562eecfd&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1759125634
 
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
@@ -2627,3 +2627,8 @@ https://main.24playerhd.com/newplaylist/0a7f57ab1faff58125adb7b4/0a7f57ab1faff58
 
 --------------------------------------------------------------------------------------
 ####test####
+#EXTINF:1 tvg-logo="" group-title="📺 test",test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kixk.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://kixk.net/proxy?id=bd850d88bffb
