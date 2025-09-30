@@ -286,7 +286,7 @@ http://bestcommt2.github.io/m3u8/true2.m3u8
 http://bestcommt2.github.io/m3u8/true3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TrueSportHD4
 #EXTVLCOPT:http-referrer=https://app.inwtv.org/
-https://live4.inwstream.com/transcoder_F1/truesports4_inwiptv.stream/chunks.m3u8?nimblesessionid=229960
+https://live4.inwstream.com/transcoder_F1/truesports4_inwiptv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 5
 http://bestcommt2.github.io/m3u8/true5.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 7
@@ -2466,6 +2466,10 @@ https://main.24playerhd.com/newplaylist/990564f4d0eda078eaef0d7f/990564f4d0eda07
 https://main.24playerhd.com/newplaylist/c4201eb9a40b7bc0e3e20fb6/c4201eb9a40b7bc0e3e20fb6438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/06/The-Demons-Bride-2025-%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B5-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%B5-%E0%B8%9B%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,The Demon’s Bride (2025) รันตี แต่งผี ปลุกปีศาจ
 https://main.24playerhd.com/newplaylist/dd36371e547176bf541a3a34/dd36371e547176bf541a3a34438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Ha-Gom-The-Darkness-Of-The-Soul-2025-%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%A1-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,Ha Gom The Darkness Of The Soul (2025) ห่าก้อม
+https://main.24playerhd.com/newplaylist/c4fd2c7a2b1ca863873037a6/c4fd2c7a2b1ca863873037a6438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Afterburn-2025-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,Afterburn (2025) ล่าขุมทรัพย์แดนแดดเดือด
+https://main.24playerhd.com/newplaylist/942f8022afde7d5db7416ca6/942f8022afde7d5db7416ca6438.m3u8
 
 
 --------------------------------------------------------------------------------------
@@ -2533,6 +2537,11 @@ https://main.24playerhd.com/newplaylist8/36b174cc0a0065c3a29ea60b/36b174cc0a0065
 https://main.24playerhd.com/newplaylist/ac6c9eb592e6f281af432f91/ac6c9eb592e6f281af432f91438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/Cleaner-2025-%E0%B9%84%E0%B8%95%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81-1-187x269.png" group-title="📺 ดูหนังออนไลน์" ,HCleaner (2025) ไต่ระทึกตึกนรก
 https://main.24playerhd.com/newplaylist/48e2c5a741110e471c386257/48e2c5a741110e471c386257438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/06/K.O.-2025-%E0%B8%99%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C-187x269.png" group-title="📺 ดูหนังออนไลน์" ,K.O. (2025) น็อกเอาท์
+https://main.24playerhd.com/newplaylist/550763acbd3c0aa0b4e6340c/550763acbd3c0aa0b4e6340c438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/Night-of-Deception-2025-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Night of Deception (2025) คืนลวง
+https://main.24playerhd.com/newplaylist/05915afd901e1019e6b5263a/05915afd901e1019e6b5263a438.m3u8
+
 --------------------------------------------------------------------------------------
 ####ดูซีรี####
 
@@ -2578,8 +2587,18 @@ https://main.24playerhd.com/newplaylist/408fd58ac761f2669ea0f004/408fd58ac761f26
 #EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Su Yu Hakusho (2023) คนเก่งฟ้าประทาน  EP 5
 https://main.24playerhd.com/newplaylist/0a7f57ab1faff58125adb7b4/0a7f57ab1faff58125adb7b4438.m3u8
 
-
-
+#EXTINF:1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Alice-in-Borderland-Season-3-2025-%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-3-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Alice in Borderland Season 3 (2025) อลิสในแดนมรณะ ซีซั่น 3  EP 1
+https://main.24playerhd.com/newplaylist/dd0677b0a71f98cdb3021813/dd0677b0a71f98cdb3021813438.m3u8
+#EXTINF:1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Alice-in-Borderland-Season-3-2025-%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-3-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Alice in Borderland Season 3 (2025) อลิสในแดนมรณะ ซีซั่น 3  EP 2
+https://main.24playerhd.com/newplaylist/fa951798b2f2f3a0b6eafe7e/fa951798b2f2f3a0b6eafe7e438.m3u8
+#EXTINF:1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Alice-in-Borderland-Season-3-2025-%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-3-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Alice in Borderland Season 3 (2025) อลิสในแดนมรณะ ซีซั่น 3  EP 3
+https://main.24playerhd.com/newplaylist/019e385f9f8e970bbd208a70/019e385f9f8e970bbd208a70438.m3u8
+#EXTINF:1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Alice-in-Borderland-Season-3-2025-%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-3-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Alice in Borderland Season 3 (2025) อลิสในแดนมรณะ ซีซั่น 3  EP 4
+https://main.24playerhd.com/newplaylist/0f8d16b83ec96496e5e8bee9/0f8d16b83ec96496e5e8bee9438.m3u8
+#EXTINF:1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Alice-in-Borderland-Season-3-2025-%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-3-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Alice in Borderland Season 3 (2025) อลิสในแดนมรณะ ซีซั่น 3  EP 5
+https://main.24playerhd.com/newplaylist/74d03192795c1265b432b754/74d03192795c1265b432b754438.m3u8
+#EXTINF:1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Alice-in-Borderland-Season-3-2025-%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-3-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Alice in Borderland Season 3 (2025) อลิสในแดนมรณะ ซีซั่น 3  EP 6
+https://main.24playerhd.com/newplaylist/0ac0da9944d3ee76504a9d80/0ac0da9944d3ee76504a9d80438.m3u8
 --------------------------------------------------------------------------------------
 ####test####
 #EXTINF:1 tvg-logo="" group-title="📺 test",test
