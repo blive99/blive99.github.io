@@ -2477,17 +2477,17 @@ https://main.24playerhd.com/newplaylist/6a66306122f5ca1b6cab6905/6a66306122f5ca1
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
-#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/01/Art-of-the-Devil-Beginning-2025-%E0%B8%9E%E0%B8%99%E0%B8%AD-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Art of the Devil Beginning (2025) พนอ
+#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/01/Art-of-the-Devil-Beginning-2025-%E0%B8%9E%E0%B8%99%E0%B8%AD-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Art of the Devil Beginning (2025) พนอ
 https://main.24playerhd.com/newplaylist/27f2eea731744d8a864e5c5a/27f2eea731744d8a864e5c5a.m3u8
-#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/05/Holy-Night-Demon-Hunters-2025-%E0%B8%85%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%9C%E0%B8%B5-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Holy Night Demon Hunters (2025) ฅนต่อยผี
+#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/05/Holy-Night-Demon-Hunters-2025-%E0%B8%85%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%9C%E0%B8%B5-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Holy Night Demon Hunters (2025) ฅนต่อยผี
 https://main.24playerhd.com/newplaylist/c77e05ec12ced134bf105c36/c77e05ec12ced134bf105c36.m3u8
-#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/Eternal-Bond-2025-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Eternal Bond (2025) นาคบรรพ์
+#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/Eternal-Bond-2025-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Eternal Bond (2025) นาคบรรพ์
 https://main.24playerhd.com/newplaylist/7d52ccf049d5c4dbba5a8edb/7d52ccf049d5c4dbba5a8edb.m3u8
-#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/03/Ne-Zha-2-2025-%E0%B8%99%E0%B8%B2%E0%B8%88%E0%B8%B2-2-1-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Ne Zha 2 (2025) นาจา 2
+#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/03/Ne-Zha-2-2025-%E0%B8%99%E0%B8%B2%E0%B8%88%E0%B8%B2-2-1-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Ne Zha 2 (2025) นาจา 2
 https://main.24playerhd.com/newplaylist/f6c16a27e09b2393475ab4bf/f6c16a27e09b2393475ab4bf.m3u8
-#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/03/Journey-to-the-West-The-Helltown-of-Heaven-2025-%E0%B9%84%E0%B8%8B%E0%B8%AD%E0%B8%B4%E0%B9%8B%E0%B8%A7-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Journey to the West The Helltown of Heaven (2025) ไซอิ๋ว เมืองนรกบนสวรรค์
+#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/03/Journey-to-the-West-The-Helltown-of-Heaven-2025-%E0%B9%84%E0%B8%8B%E0%B8%AD%E0%B8%B4%E0%B9%8B%E0%B8%A7-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Journey to the West The Helltown of Heaven (2025) ไซอิ๋ว เมืองนรกบนสวรรค์
 https://main.24playerhd.com/newplaylist/8b7c996a0af42b89252f6712/8b7c996a0af42b89252f6712.m3u8
-#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/05/The-Crow-2024-%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%A2%E0%B8%A1-300x450.png" group-title="📺 ดูหนังออนไลน์" ,The Crow (2024) อีกาพญายม
+#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/05/The-Crow-2024-%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%A2%E0%B8%A1-300x450.png" group-title="📺 ดูหนังออนไลน์" ,The Crow (2024) อีกาพญายม
 https://main.24playerhd.com/newplaylist/b09126699cc146571e77d4a6/b09126699cc146571e77d4a6.m3u8
 
 
