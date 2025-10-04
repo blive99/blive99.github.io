@@ -46,12 +46,6 @@ https://smart.bengaldigital.live/WWE/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/hd-vnl4_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="http://103.114.203.129:8080/images/b803a83090f09b4a29a3acc4c7713390.jpg" group-title="📺 VIP SPORT",NFL Network  51
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/23200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AIS NFL Network  52" tvg-logo="http://103.114.203.129:8080/images/1cdf5768cb5d74cdf2f4ad90f48fa074.jpg" group-title="📺 VIP SPORT",AIS NFL Network  52
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/51377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="http://103.114.203.129:8080/images/2d694c3b16418beb9dbdc21973b62d06.jpg" group-title="📺 VIP SPORT",AIS-NFL 53
-http://playid.ddnsgeek.com:8080/live/thaihd/12345/18912.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -271,14 +265,18 @@ http://bestcommt2.github.io/m3u8/monomax9.m3u8
 
 #http://45.144.165.187:8080/xtreamvip/12345/113
 #https://playid.vercel.app/sports/max9.m3u8
-#EXTINF:-1 tvg-id="true-ball-thai-2" tvg-name="MONOMAX 10" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport010.png" group-title="📺 VIP SPORT",MONOMAX 10
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_Live_10HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-2" tvg-name="MONOMAX 10" tvg-logo="https://bestcommt2.github.io/logo/sport/liglie%201%20monomax.png" group-title="📺 VIP SPORT",LIGUE 1 MONOMAX
+https://live5.inwstream.com/transcoder_F1/monomaxlive1_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-2" tvg-name="MONOMAX 10" tvg-logo="https://bestcommt2.github.io/logo/sport/EFL%20monomax.png" group-title="📺 VIP SPORT",EFL MONOMAX
+https://live5.inwstream.com/transcoder_F1/monomaxlive5_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://www.mitihoon.com/wp-content/uploads/2025/08/21-25.jpg" group-title="📺 VIP SPORT",AIS NBA
 
-#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport011.png" group-title="📺 VIP SPORT",MONOMAX 11
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_Live_11HD/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="http://103.114.203.129:8080/images/b803a83090f09b4a29a3acc4c7713390.jpg" group-title="📺 VIP SPORT",NFL Network  51
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/23200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS NFL Network  52" tvg-logo="http://103.114.203.129:8080/images/1cdf5768cb5d74cdf2f4ad90f48fa074.jpg" group-title="📺 VIP SPORT",AIS NFL Network  52
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/51377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="http://103.114.203.129:8080/images/2d694c3b16418beb9dbdc21973b62d06.jpg" group-title="📺 VIP SPORT",AIS-NFL 53
+http://playid.ddnsgeek.com:8080/live/thaihd/12345/18912.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png" group-title="📺 VIP SPORT",TRUE SPORT 1
 http://bestcommt2.github.io/m3u8/true1.m3u8
