@@ -269,7 +269,8 @@ http://bestcommt2.github.io/m3u8/monomax9.m3u8
 https://live5.inwstream.com/transcoder_F1/monomaxlive1_inwiptv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-2" tvg-name="MONOMAX 10" tvg-logo="https://bestcommt2.github.io/logo/sport/EFL%20monomax.png" group-title="📺 VIP SPORT",EFL MONOMAX
 https://live5.inwstream.com/transcoder_F1/monomaxlive5_inwiptv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://www.mitihoon.com/wp-content/uploads/2025/08/21-25.jpg" group-title="📺 VIP SPORT",AIS NBA
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://www.mitihoon.com/wp-content/uploads/2025/08/21-25.jpg" group-title="📺 VIP SPORT",AIS NBA AIS
+https://live5.inwstream.com/transcoder_F1/monomaxlive11_inwiptv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="http://103.114.203.129:8080/images/b803a83090f09b4a29a3acc4c7713390.jpg" group-title="📺 VIP SPORT",NFL Network  51
 http://playid.ddnsgeek.com:8080/live/thaihd/12345/23200.m3u8
