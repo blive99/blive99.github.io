@@ -279,6 +279,11 @@ http://playid.ddnsgeek.com:8080/live/thaihd/12345/51377.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="http://103.114.203.129:8080/images/2d694c3b16418beb9dbdc21973b62d06.jpg" group-title="📺 VIP SPORT",AIS-NFL 53
 http://playid.ddnsgeek.com:8080/live/thaihd/12345/18912.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/fT9BmOIbR8XQ0eCgvsruvarrLqYbKNwz.png" group-title="📺 VIP SPORT",Toyota gazoo racing thailand 2025 MONOMAX
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="https://img.monomax.me/zvZtEXugLXvSQ2boUnkrNRX1dvw=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/fLuhFoGmSaEI7rtLljvkZEWrgprrKvAP.png" group-title="📺 VIP SPORT",AXCR 2025 MONOMAX
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391457.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png" group-title="📺 VIP SPORT",TRUE SPORT 1
 http://bestcommt2.github.io/m3u8/true1.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 2
@@ -932,11 +937,9 @@ https://bestcommt2.github.io/m3u8/truespotv1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://bestcommt2.github.io/m3u8/truespotv2.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/3/index.m3u8?token=mvFWafOIir5JDlQN
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391479.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/4/index.m3u8?token=mvFWafOIir5JDlQN
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391480.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
 https://bestcommt2.github.io/m3u8/true1.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",TrueSportHD 2
@@ -953,45 +956,25 @@ https://bestcommt2.github.io/m3u8/true5.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,TrueSport 7
 https://bestcommt2.github.io/m3u8/true7.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/8/index.m3u8?token=mvFWafOIir5JDlQN
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391433.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/8/index.m3u8?token=mvFWafOIir5JDlQN
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391434.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,BeinSportHD 3
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/10/index.m3u8?token=mvFWafOIir5JDlQN
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391435.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" ,BeinSportHD 4
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/11/index.m3u8?token=mvFWafOIir5JDlQN
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391436.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" ,BeinSportHD 5
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/12/index.m3u8?token=mvFWafOIir5JDlQN
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391437.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" ,BeinSportHD 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/hd-bein6_720/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391438.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/hd-bein7_720/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391439.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" ,BeinSportHD 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/hd-bein8_720/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391440.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/hd-bein9_720/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391441.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp" ,BeinSportHD 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/hd-bein10_720/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391442.m3u8
 
 
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", TRUE Golf Channel
