@@ -18,6 +18,8 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 --------------------------------------------------------------------------------------
 
 ###VIP SPORT###
+#EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://www.fileinw.com/postor/20250830191812Wsport.jpg" group-title="📺 VIP SPORT",W Sport
+https://live1.inwstream.com/transcoder_F1/hitsmovies_inwiptv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/ONE.jfif" group-title="📺 VIP SPORT",ONE Championship
 #EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
 #https://sport.livedoomovies.com:4432/02_ONE_720p/chunklist.m3u8
@@ -2470,7 +2472,8 @@ https://main.24playerhd.com/newplaylist/dd36371e547176bf541a3a34/dd36371e547176b
 https://main.24playerhd.com/newplaylist/c4fd2c7a2b1ca863873037a6/c4fd2c7a2b1ca863873037a6438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Afterburn-2025-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,Afterburn (2025) ล่าขุมทรัพย์แดนแดดเดือด
 https://main.24playerhd.com/newplaylist/942f8022afde7d5db7416ca6/942f8022afde7d5db7416ca6438.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/10/Death-Whisperer-3-2025-%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%94-3-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,Death Whisperer 3 (2025) ธี่หยด 3
+https://main.24playerhd.com/newplaylist/6a66306122f5ca1b6cab6905/6a66306122f5ca1b6cab6905438.m3u8
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
@@ -2532,7 +2535,7 @@ https://main.24playerhd.com/newplaylist/8ddd3db9f33a0287db214610/8ddd3db9f33a028
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/The-Accountant-2016-%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%84%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%8C%E0%B8%86%E0%B8%B2%E0%B8%95-1-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,The Accountant (2016) อัจฉริยะคนบัญชีเพชฌฆาต
 https://main.24playerhd.com/newplaylist/f4730e4eb03e49fc0d5abc1f/f4730e4eb03e49fc0d5abc1f438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/A-Working-Man-2025-%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81-187x269.png" group-title="📺 ดูหนังออนไลน์" ,A Working Man (2025) นรกหยุดนรก
-https://main.24playerhd.com/newplaylist8/36b174cc0a0065c3a29ea60b/36b174cc0a0065c3a29ea60b438.m3u8
+https://main.24playerhd.com/newplaylist/36b174cc0a0065c3a29ea60b/36b174cc0a0065c3a29ea60b438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Havoc-2025-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Havoc (2025) ฝ่าหายนะครองเมือง
 https://main.24playerhd.com/newplaylist/ac6c9eb592e6f281af432f91/ac6c9eb592e6f281af432f91438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/Cleaner-2025-%E0%B9%84%E0%B8%95%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81-1-187x269.png" group-title="📺 ดูหนังออนไลน์" ,HCleaner (2025) ไต่ระทึกตึกนรก
@@ -2541,6 +2544,14 @@ https://main.24playerhd.com/newplaylist/48e2c5a741110e471c386257/48e2c5a741110e4
 https://main.24playerhd.com/newplaylist/550763acbd3c0aa0b4e6340c/550763acbd3c0aa0b4e6340c438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/Night-of-Deception-2025-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Night of Deception (2025) คืนลวง
 https://main.24playerhd.com/newplaylist/05915afd901e1019e6b5263a/05915afd901e1019e6b5263a438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Mantis-2025-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%81%E0%B9%81%E0%B8%95%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Mantis (2025) ตั้กแตนนักฆ่า
+https://main.24playerhd.com/newplaylist/2b824387a16dae4b503e3506/2b824387a16dae4b503e3506438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/10/Baby-Hero-2025-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Baby Hero (2025) ฮีโร่บ้านทุ่ง
+https://main.24playerhd.com/newplaylist/e5f0f133ac12b09301ac2eb7/e5f0f133ac12b09301ac2eb7438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/10/The-Legend-Of-Phi-Ta-Khon-Mask-2025-%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%9C%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B9%82%E0%B8%82%E0%B8%99-187x269.png" group-title="📺 ดูหนังออนไลน์" ,The Legend Of Phi-Ta-Khon-Mask (2025) ตำนานหน้ากากผีตาโขน
+https://main.24playerhd.com/newplaylist/135e6c47dff2a5a7688e5f94/135e6c47dff2a5a7688e5f94438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/10/The-Astronaut-2025-187x269.png" group-title="📺 ดูหนังออนไลน์" ,The Astronaut (2025)
+https://main.24playerhd.com/newplaylist/5705fa7f5f341beee61148f6/5705fa7f5f341beee61148f6438.m3u8
 
 --------------------------------------------------------------------------------------
 ####ดูซีรี####
