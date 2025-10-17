@@ -48,9 +48,7 @@ https://smart.bengaldigital.live/WWE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
-#https://live3.inwstream.com/transcoder_F1/aismonomaxsports1_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/395400.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bestcommt2.github.io
@@ -87,8 +85,7 @@ https://verb169.com/stream/125/index.m3u8?token=mvFWafOIir5JDlQN
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport02.png" group-title="📺 VIP SPORT",MONOMAX2
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
-#https://live3.inwstream.com/transcoder_F1/aismonomaxsports2_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/395401.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport02.png" group-title="📺 VIP SPORT",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 http://bestcommt2.github.io/m3u8/monomax2.m3u8
@@ -118,8 +115,7 @@ https://verb169.com/stream/126/index.m3u8?token=mvFWafOIir5JDlQN
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport03.png" group-title="📺 VIP SPORT",MONOMAX3
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
-#https://live3.inwstream.com/transcoder_F1/aismonomaxsports3_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/395402.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_3HD/chunklist.m3u8
@@ -148,8 +144,7 @@ http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport04.png" group-title="📺 VIP SPORT",MONOMAX4
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
-https://live3.inwstream.com/transcoder_F1/aismonomaxsports4_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/395403.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_4HD/chunklist.m3u8
@@ -173,9 +168,7 @@ http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax4/playlist.m3u8
 #https://stream2.aws-live-streaming.com/bbs/ais-monomax-4/playlist.m3u8
 #https://cdn2.aws-live-streaming.com/lsmscore/monomax-4/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport05.png" group-title="📺 VIP SPORT",MONOMAX5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
-https://live3.inwstream.com/transcoder_F1/aismonomaxsports5_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/395404.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_5HD/chunklist.m3u8
@@ -197,8 +190,7 @@ http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax5/playlist.m3u8
 #https://cdn1.googlecdn.live:8081/ballsod24hrs/monomax5/playlist.m3u8
 #https://cdn2.aws-live-streaming.com/lsmscore/monomax-5/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport06.png" group-title="📺 VIP SPORT",MONOMAX6
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
-https://live3.inwstream.com/transcoder_F1/aismonomaxsports6_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/395405.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_6HD/chunklist.m3u8
@@ -218,8 +210,7 @@ http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax6/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport07.png" group-title="📺 VIP SPORT",MONOMAX7
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
-https://live3.inwstream.com/transcoder_F1/aismonomaxsports7_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/395406.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_7HD/chunklist.m3u8
@@ -237,8 +228,7 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
 #https://playid.vercel.app/sports/max7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport08.png" group-title="📺 VIP SPORT",MONOMAX8
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
-https://live3.inwstream.com/transcoder_F1/aismonomaxsports8_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/395407.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_8HD/chunklist.m3u8
@@ -257,8 +247,7 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport09.png" group-title="📺 VIP SPORT",MONOMAX9
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
-https://live3.inwstream.com/transcoder_F1/aismonomaxsports9_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/398293.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport09.png" group-title="📺 VIP SPORT",MONOMAX 9
 http://bestcommt2.github.io/m3u8/monomax9.m3u8
 
@@ -270,14 +259,14 @@ http://bestcommt2.github.io/m3u8/monomax9.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-2" tvg-name="MONOMAX 10" tvg-logo="https://bestcommt2.github.io/logo/sport/EFL%20monomax.png" group-title="📺 VIP SPORT",EFL MONOMAX
 #https://live5.inwstream.com/transcoder_F1/monomaxlive5_inwiptv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://www.mitihoon.com/wp-content/uploads/2025/08/21-25.jpg" group-title="📺 VIP SPORT",AIS NBA AIS
-#http://playid.ddnsgeek.com:8080/live/playid/12345/23200.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/425262.m3u8
 
 #EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="http://103.114.203.129:8080/images/b803a83090f09b4a29a3acc4c7713390.jpg" group-title="📺 VIP SPORT",NFL Network  51
 http://playid.ddnsgeek.com:8080/live/playid/12345/23200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AIS NFL Network  52" tvg-logo="http://103.114.203.129:8080/images/1cdf5768cb5d74cdf2f4ad90f48fa074.jpg" group-title="📺 VIP SPORT",AIS NFL Network  52
-#http://6395online.com:8080/live/iptv591@gmail.com/456672/398297.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/398297.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="http://103.114.203.129:8080/images/2d694c3b16418beb9dbdc21973b62d06.jpg" group-title="📺 VIP SPORT",AIS-NFL 53
-#http://6395online.com:8080/live/iptv591@gmail.com/456672/398298.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/398298.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/fT9BmOIbR8XQ0eCgvsruvarrLqYbKNwz.png" group-title="📺 VIP SPORT",Toyota gazoo racing thailand 2025 MONOMAX
 http://6395online.com:8080/live/iptv591@gmail.com/456672/391456.m3u8
@@ -306,9 +295,9 @@ http://bestcommt2.github.io/m3u8/truebein3.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp" group-title="📺 VIP SPORT", Trueidsport1
 http://45.144.165.187:8080/live/playid/2535/108.m3u8
 #EXTINF:-1 tvg-id="9574" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/515_LFCTVRed.png" group-title="📺 VIP SPORT",LFC TV
-#http://playid.ddnsgeek.com:8080/live/playid/12345/12251.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/12192.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/516_MUTV_.png" group-title="📺 VIP SPORT",MUTV
-#http://6395online.com:8080/live/iptv591@gmail.com/456672/391468.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/12193.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/517_RealMadridTV_.png" group-title="📺 VIP SPORT",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
@@ -532,9 +521,9 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://live4.inwstream.com/transcoder_F1/playsports9_inwiptv.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/AISplay-sport10.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 10
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://live1.inwstream.com/transcoder_F1/playsports10_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/395399.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport11.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 11
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -926,7 +915,7 @@ https://bestcommt2.github.io/m3u8/truespotv2.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
 http://6395online.com:8080/live/iptv591@gmail.com/456672/391479.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
-http://45.144.165.187:8080/live/playid/2535/23048.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391723.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
 https://bestcommt2.github.io/m3u8/true1.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",TrueSportHD 2
@@ -936,8 +925,7 @@ https://bestcommt2.github.io/m3u8/true2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://bestcommt2.github.io/m3u8/true3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 ทรูไอดีทีวี",TrueSportHD4
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
-https://live4.inwstream.com/transcoder_F1/truesports4_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391446.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,TrueSport 5
 https://bestcommt2.github.io/m3u8/true5.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,TrueSport 7
@@ -972,7 +960,7 @@ https://bestcommt2.github.io/m3u8/truetennis.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="📺 ทรูไอดีทีวี",True Thaifilm
 http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/64.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
-https://bestcommt2.github.io/m3u8/trueseries.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/146.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
 http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/66.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp" group-title="📺 ทรูไอดีทีวี",True Film 1HD
@@ -1007,13 +995,11 @@ http://playid.ddnsgeek.com:8080/live/playid/12345/82.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="D" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 ทรูไอดีทีวี",TRUE DreamWorks
 http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/54.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
-#EXTVLCOPT:http-user-agent=https://app.inwtv.org/
-#https://live3.inwstream.com/transcoder_F1/discoveryasia_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/274.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
 https://live.dinesh29.com.np/stream/jiotvplus/animalplanethdworld/master.m3u8
 #EXTINF:-1 tvg-id="4019" tvg-name="BBC Lifestyles TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 ทรูไอดีทีวี",BBC Lifestyles TH
-#EXTVLCOPT:http-user-agent=https://app.inwtv.org/
-#https://live2.inwstream.com/transcoder_F1/bbclifestyle_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/140161.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 ทรูไอดีทีวี",TRUE SPARK PLAY
 #https://bestcommt2.github.io/m3u8/truesparkplay.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------
