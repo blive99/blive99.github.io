@@ -48,7 +48,7 @@ https://smart.bengaldigital.live/WWE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
-http://6395online.com:8080/live/iptv591@gmail.com/456672/395400.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391630.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bestcommt2.github.io
@@ -144,7 +144,7 @@ http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport04.png" group-title="📺 VIP SPORT",MONOMAX4
-http://6395online.com:8080/live/iptv591@gmail.com/456672/395403.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391680.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_4HD/chunklist.m3u8
@@ -190,7 +190,7 @@ http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax5/playlist.m3u8
 #https://cdn1.googlecdn.live:8081/ballsod24hrs/monomax5/playlist.m3u8
 #https://cdn2.aws-live-streaming.com/lsmscore/monomax-5/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport06.png" group-title="📺 VIP SPORT",MONOMAX6
-http://6395online.com:8080/live/iptv591@gmail.com/456672/395405.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/398290.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_6HD/chunklist.m3u8
@@ -210,7 +210,7 @@ http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax6/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport07.png" group-title="📺 VIP SPORT",MONOMAX7
-http://6395online.com:8080/live/iptv591@gmail.com/456672/395406.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/398291.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_7HD/chunklist.m3u8
@@ -228,7 +228,7 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
 #https://playid.vercel.app/sports/max7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport08.png" group-title="📺 VIP SPORT",MONOMAX8
-http://6395online.com:8080/live/iptv591@gmail.com/456672/395407.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/398292.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_8HD/chunklist.m3u8
@@ -255,9 +255,9 @@ http://bestcommt2.github.io/m3u8/monomax9.m3u8
 #http://45.144.165.187:8080/xtreamvip/12345/113
 #https://playid.vercel.app/sports/max9.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-2" tvg-name="MONOMAX 10" tvg-logo="https://bestcommt2.github.io/logo/sport/liglie%201%20monomax.png" group-title="📺 VIP SPORT",LIGUE 1 MONOMAX
-#https://live5.inwstream.com/transcoder_F1/monomaxlive1_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391359.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-2" tvg-name="MONOMAX 10" tvg-logo="https://bestcommt2.github.io/logo/sport/EFL%20monomax.png" group-title="📺 VIP SPORT",EFL MONOMAX
-#https://live5.inwstream.com/transcoder_F1/monomaxlive5_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/398289.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://www.mitihoon.com/wp-content/uploads/2025/08/21-25.jpg" group-title="📺 VIP SPORT",AIS NBA AIS
 http://6395online.com:8080/live/iptv591@gmail.com/456672/425262.m3u8
 
