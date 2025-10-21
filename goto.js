@@ -53,17 +53,16 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/391630.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bestcommt2.github.io
 http://bestcommt2.github.io/m3u8/monomax1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_1HD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://keelasod.xyz/
 https://cdn.8kgoal.com/bbs/monomax-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/125/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.info/
+https://e110.youllneverwalkalone.online/v5/jfK5CdLxfAY3uHwQWg3njg/1760848552/e4162b14d55c6012232c3b09fb41abb3/ilDFSsVSeZLFU7Mxo77bww/1760859232/live/lx-origin/th-monomax01_720/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -96,8 +95,9 @@ https://cdn.8kgoal.com/bbs/monomax-2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_2HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/126/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTVLCOPT:http-referrer=https://livesod365.info/
+https://la4.youllneverwalkalone.online:9310/v5/CSpmS1sRvAW0iRJy3t74aQ/1760844518/ab8a2f780348d10262e72c0d4dca7258/nAd_B1gfDHm5vC3C7Me04w/1760855198/live/lx-origin/th-monomax02bkp_720/chunks.m3u8
+
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -116,15 +116,14 @@ https://verb169.com/stream/126/index.m3u8?token=mvFWafOIir5JDlQN
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport03.png" group-title="📺 VIP SPORT",MONOMAX3
 http://6395online.com:8080/live/iptv591@gmail.com/456672/395402.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport03.png" group-title="📺 VIP SPORT",MONOMAX3
+http://bestcommt2.github.io/m3u8/monomax3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_3HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/127/index.m3u8?token=mvFWafOIir5JDlQN
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport03.png" group-title="📺 VIP SPORT",MONOMAX3
-http://bestcommt2.github.io/m3u8/monomax3.m3u8
+#EXTVLCOPT:http-referrer=https://livesod365.info/
+https://e110.youllneverwalkalone.online/v5/t25Vhe701cZAITiHi-dIRg/1760848577/b1dd24e9cbcdf84f9018d522f7760dea/6AoAnlb6yxsnc0T5OOZ3Wg/1760859257/live/lx-origin/th-monomax03_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
@@ -145,18 +144,19 @@ http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport04.png" group-title="📺 VIP SPORT",MONOMAX4
 http://6395online.com:8080/live/iptv591@gmail.com/456672/391680.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport04.png" group-title="📺 VIP SPORT",MONOMAX4
+http://bestcommt2.github.io/m3u8/monomax4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_4HD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport04.png" group-title="📺 VIP SPORT",MONOMAX4
-http://bestcommt2.github.io/m3u8/monomax4.m3u8
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.info/
+https://e110.youllneverwalkalone.online/v5/mWxQREQqq90ofGg2sJBugg/1760848978/e4162b14d55c6012232c3b09fb41abb3/9TeZ2t5Cx8d5tT65Q4kUyw/1760859658/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-4/chunks.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://keelasod.xyz/
-https://cdn.8kgoal.com/bbs/monomax-4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax4/playlist.m3u8
@@ -169,13 +169,15 @@ http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax4/playlist.m3u8
 #https://cdn2.aws-live-streaming.com/lsmscore/monomax-4/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport05.png" group-title="📺 VIP SPORT",MONOMAX5
 http://6395online.com:8080/live/iptv591@gmail.com/456672/395404.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport05.png" group-title="📺 VIP SPORT",MONOMAX5
+http://bestcommt2.github.io/m3u8/monomax5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_5HD/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport05.png" group-title="📺 VIP SPORT",MONOMAX5
-http://bestcommt2.github.io/m3u8/monomax5.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.info/
+https://la4.youllneverwalkalone.online:9310/v5/FoCXDKZxcC2bTt0qm4pjVQ/1760844947/9f4b235fa2420bc8302231446cc010a5/V3fKrdZjD0lw8DTvtNMKMA/1760855627/live/lx-origin/th-monomax05_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-5/chunks.m3u8
@@ -191,13 +193,15 @@ http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax5/playlist.m3u8
 #https://cdn2.aws-live-streaming.com/lsmscore/monomax-5/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport06.png" group-title="📺 VIP SPORT",MONOMAX6
 http://6395online.com:8080/live/iptv591@gmail.com/456672/398290.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport06.png" group-title="📺 VIP SPORT",MONOMAX6
+http://bestcommt2.github.io/m3u8/monomax6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_6HD/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport06.png" group-title="📺 VIP SPORT",MONOMAX6
-http://bestcommt2.github.io/m3u8/monomax6.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.info/
+https://e110.youllneverwalkalone.online/v5/8N0176G_GYU34WFDpw8pOA/1760848890/b1dd24e9cbcdf84f9018d522f7760dea/wqN6c5GSaJWjqZB1QoaCiA/1760859570/live/lx-origin/th-monomax06_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-6/chunks.m3u8
@@ -211,13 +215,16 @@ http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport07.png" group-title="📺 VIP SPORT",MONOMAX7
 http://6395online.com:8080/live/iptv591@gmail.com/456672/398291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONOMAX 7" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport07.png" group-title="📺 VIP SPORT",MONOMAX 7
+http://bestcommt2.github.io/m3u8/monomax7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_7HD/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MONOMAX 7" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport07.png" group-title="📺 VIP SPORT",MONOMAX 7
-http://bestcommt2.github.io/m3u8/monomax7.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.info/
+https://la5.youllneverwalkalone.online:9310/v5/0Ipz6jtWhI7oDDsNGUtvrw/1760844648/9f4b235fa2420bc8302231446cc010a5/e7pZvRRtgvlK0NQ-tdwWCA/1760855328/live/lx-origin/th-monomax07bkp_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
@@ -229,13 +236,16 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport08.png" group-title="📺 VIP SPORT",MONOMAX8
 http://6395online.com:8080/live/iptv591@gmail.com/456672/398292.m3u8
+#EXTINF:-1 tvg-id="Play Sports HD1" tvg-name="MONOMAX 8" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png" group-title="📺 VIP SPORT",MONOMAX 8
+http://bestcommt2.github.io/m3u8/monomax8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_8HD/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="Play Sports HD1" tvg-name="MONOMAX 8" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png" group-title="📺 VIP SPORT",MONOMAX 8
-http://bestcommt2.github.io/m3u8/monomax8.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.info/
+https://e110.youllneverwalkalone.online/v5/pcAQUj8QVUokQtZ2s0chaQ/1760848636/e4162b14d55c6012232c3b09fb41abb3/xj-E7Ce0SMGrad9f8g4FXw/1760859316/live/lx-origin/th-monomax08_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
@@ -280,8 +290,7 @@ http://bestcommt2.github.io/m3u8/true2.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 3
 http://bestcommt2.github.io/m3u8/true3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TrueSportHD4
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
-https://live4.inwstream.com/transcoder_F1/truesports4_inwiptv.stream/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391723.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 5
 http://bestcommt2.github.io/m3u8/true5.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 7
@@ -377,7 +386,7 @@ http://49.0.64.96:8007/WSCI
 #http://45.144.165.223:9090/memfs/2d8a0d34-c005-45f6-9a20-85efe6186a0a.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.144.165.223/logo/ent/intermovie.png" group-title="📺 PREMIUM PLAY TV",อินเตอร์  เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://bestcommt2.github.io/m3u8/truefilm1.m3u8
+#https://bestcommt2.github.io/m3u8/truefilm1.m3u8
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="http://45.144.165.223/logo/ent/thaimovie.png",หนังไทย เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 #http://45.144.165.223:9090/memfs/bac4e40a-9545-4c92-b778-c2a836aeab0b.m3u8
@@ -449,13 +458,13 @@ https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/1080p/index.m3u8
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PlayID MOVIE 2K/4K" tvg-logo="http://103.114.203.129:8080/images/a0f6d13b1cb8e0e893437df4b35e1fcf.png" group-title="📺 PREMIUM PLAY TV",PlayID MOVIE 2K/4K
-http://playid.ddnsgeek.com:8080/live/playid/12345/17788.m3u8
+http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/17788.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayID ASIAN" tvg-logo="http://103.114.203.129:8080/images/6f7ed462c1495ffe276e0f53fd06cd5f.png" group-title="📺 PREMIUM PLAY TV",PlayID ASIAN
-http://playid.ddnsgeek.com:8080/live/playid/12345/17715.m3u8
+#http://playid.ddnsgeek.com:8080/live/thaihd2535d/12345/17715.m3u8
 #EXTINF:-1 tvg-id="368396" tvg-name="PlayID Blockbuster" tvg-logo="http://103.114.203.129:8080/images/907c34563fd992634bf88398017ea841.png" group-title="📺 PREMIUM PLAY TV",PlayID Blockbuster
-http://playid.ddnsgeek.com:8080/live/playid/12345/76.m3u8
+http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/76.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAYID สยองขวัญ " tvg-logo="http://103.114.203.129:8080/images/40503a438c549be836b6f04169b332a0.png" group-title="📺 PREMIUM PLAY TV",PLAYID สยองขวัญ 
-http://playid.ddnsgeek.com:8080/live/playid/12345/15672.m3u8
+http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/15672.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayID Universal" tvg-logo="http://103.114.203.129:8080/images/27c484beb0b9ac59752534a62191bc37.png" group-title="📺 PREMIUM PLAY TV",PlayID Universal
 #http://playid.ddnsgeek.com:8080/live/playid/12345/17237.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayID Series พากย์ไทย" tvg-logo="http://103.114.203.129:8080/images/fb214d22f4290d63a2acb24735eae56a.png" group-title="📺 PREMIUM PLAY TV",PlayID Series พากย์ไทย
@@ -469,7 +478,7 @@ http://playid.ddnsgeek.com:8080/live/playid/12345/15672.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="netflix สารคดี" tvg-logo="http://103.114.203.129:8080/images/9dc23f250cf096b06912e98e927a7645.png" group-title="📺 PREMIUM PLAY TV",netflix สารคดี
 #http://playid.ddnsgeek.com:8080/live/playid/12345/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="โคนัน วันพีซ" tvg-logo="http://103.114.203.129:8080/images/1d4e86e5eebde94659bef41687fdc193.jpg" group-title="📺 PREMIUM PLAY TV",โคนัน วันพีซ
-http://playid.ddnsgeek.com:8080/live/playid/12345/15674.m3u8
+http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/15674.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ฟังเพลงออนไลน์" tvg-logo="http://103.114.203.129:8080/images/46ba79616463763746124ac67d2c3bbb.png" group-title="📺 PREMIUM PLAY TV",ฟังเพลงออนไลน์
 #http://playid.ddnsgeek.com:8080/live/playid/12345/15676.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAYID รวมเป็นต่อ" tvg-logo="http://103.114.203.129:8080/images/20d4a4f84994a352b713603d9418ea74.png" group-title="📺 PREMIUM PLAY TV",PLAYID รวมเป็นต่อ
@@ -477,9 +486,9 @@ http://playid.ddnsgeek.com:8080/live/playid/12345/15674.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAYID ซีรีย์`ไทย" tvg-logo="http://103.114.203.129:8080/images/e10af3f934e832297997b709c38f80dd.png" group-title="📺 PREMIUM PLAY TV",PLAYID ซีรีย์`ไทย
 #http://playid.ddnsgeek.com:8080/live/playid/12345/18833.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayID MOVIE 3" tvg-logo="http://103.114.203.129:8080/images/29efb2063241af95e4ee6c5fb75c5119.png" group-title="📺 PREMIUM PLAY TV",PlayID MOVIE 3
-http://playid.ddnsgeek.com:8080/live/playid/12345/11055.m3u8
+http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/11055.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ทีวี ดาวเทียม infosat" tvg-logo="https://image.makewebcdn.com/makeweb/m_1920x0/YuMQ0nq3x/Icon/Logo_01_01.png?v=202405291424" group-title="📺 PREMIUM PLAY TV",ทีวี ดาวเทียม infosat
-http://playid.ddnsgeek.com:8080/live/playid/12345/19220.m3u8
+http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/19220.m3u8
 
 --------------------------------------------------------------------------------------
 ###BallThai###
@@ -887,11 +896,10 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="📺 3BB ทีวี",Discovery Asia
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/503.png" group-title="📺 3BB ทีวี",Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
-
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 
 --------------------------------------------------------------------------------------
 ###TRUEVISION NOW###
@@ -964,7 +972,7 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/146.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
 http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/66.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp" group-title="📺 ทรูไอดีทีวี",True Film 1HD
-http://playid.ddnsgeek.com:8080/live/playid/12345/67.m3u8
+http://45.144.165.187:8080/live/playid/2535/67.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp" group-title="📺 ทรูไอดีทีวี",True Film 2HD
 http://45.144.165.187:8080/live/playid/2535/79.m3u8
 
@@ -979,19 +987,24 @@ https://bestcommt2.github.io/m3u8/truefilmasia.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://bestcommt2.github.io/m3u8/trueccm.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
-http://45.144.165.187:8080/live/playid/2535/49.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.info/
+https://la4.youllneverwalkalone.online:9310/v5/_G5W7TGxzwDqPXiF8-XxiA/1760508349/7e57a128a6a70eb8f7edde6114a94937/pCJaT-C2Ct0-PKHG1WC8tw/1760519029/live/vx-origin/sd-expwild_480/chunks.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
 http://45.144.165.187:8080/live/playid/2535/52.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
-http://playid.ddnsgeek.com:8080/live/playid/12345/51.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.info/
+https://la4.youllneverwalkalone.online:9310/v5/cBf9YXyck1Dsq_nETqRYXA/1760508298/7e57a128a6a70eb8f7edde6114a94937/-kpPkGP0S799ACqVIDI-5w/1760518978/live/vx-origin/sd-expsci_480/chunks.m3u8
+
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 ทรูไอดีทีวี",True AXN
-http://playid.ddnsgeek.com:8080/live/playid/12345/75.m3u8
+http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/75.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 ทรูไอดีทีวี", TRUE HISTORY
-http://playid.ddnsgeek.com:8080/live/playid/12345/48.m3u8
+http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/48.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://bestcommt2.github.io/m3u8/truewb.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
-http://playid.ddnsgeek.com:8080/live/playid/12345/82.m3u8
+http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/82.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="D" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 ทรูไอดีทีวี",TRUE DreamWorks
 http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/54.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
@@ -1011,355 +1024,355 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/140161.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="📺 AISทีวี", NBT  
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0001/DASH/B0001.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0001/DASH/B0001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="📺 AISทีวี", TPBS
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0014/DASH/B0014.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0014/DASH/B0014.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="📺 AISทีวี", ALTV4
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0085/DASH/V0085.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0085/DASH/V0085.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="📺 AISทีวี", CH5 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0007/DASH/B0007.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0007/DASH/B0007.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="📺 AISทีวี", Parliament
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0048/DASH/V0048.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0048/DASH/V0048.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="📺 AISทีวี", TNN 16
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0053/DASH/V0053.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0053/DASH/V0053.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="📺 AISทีวี", JKN 18
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0010/DASH/B0010.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0010/DASH/B0010.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="📺 AISทีวี", Nation TV
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0021/DASH/B0021.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0021/DASH/B0021.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="📺 AISทีวี", Workpoint TV
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0015/DASH/B0015.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0015/DASH/B0015.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="📺 AISทีวี", True 4 U
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0054/DASH/B0054.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0054/DASH/B0054.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="📺 AISทีวี", GMM25
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0019/DASH/B0019.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0019/DASH/B0019.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="📺 AISทีวี", CH8
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0006/DASH/B0006.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0006/DASH/B0006.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="📺 AISทีวี", MONO29
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0016/DASH/B0016.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0016/DASH/B0016.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="📺 AISทีวี", MCOT9 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0008/DASH/B0008.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0008/DASH/B0008.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="📺 AISทีวี", ONE 31 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0012/DASH/B0012.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0012/DASH/B0012.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="📺 AISทีวี", Thairath  
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0013/DASH/B0013.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0013/DASH/B0013.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="📺 AISทีวี", 3HD 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0003/DASH/B0003.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0003/DASH/B0003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="📺 AISทีวี", Amarin  
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0017/DASH/B0017.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0017/DASH/B0017.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="📺 AISทีวี", CH7 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0018/DASH/B0018.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0018/DASH/B0018.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="📺 AISทีวี", PPTV 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0022/DASH/B0022.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0022/DASH/B0022.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/VTVNews.png" group-title="📺 AISทีวี",VTVNews 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0026/DASH/V0026.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0026/DASH/V0026.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//GolfChannelThailand.png" group-title="📺 AISทีวี", GOLF CHANNEL
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0130/DASH/V0130.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0130/DASH/V0130.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="📺 AISทีวี", ASIAN HITS
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=379c40f0207c33f804d115d3ba77ee63:b20b45bea3d8bc7ad4961f813e79d0c1
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0191/DASH/V0191.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0191/DASH/V0191.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="📺 AISทีวี", Warner TV
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00a6eeb6a8623e7f5dd0de890fc55f52:57349ce17aa9f5692ad2fb7d9cdb01c7
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/X105/DASH/X105.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/X105/DASH/X105.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="📺 AISทีวี", MONO29 Plus
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2698a310f625b96ac6c46d5a7c8e779b:35b285a0ace10e4f4cbb7aab67c94fba
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0192/DASH/V0192.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0192/DASH/V0192.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="📺 AISทีวี", HBO
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0114/DASH/V0114.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0114/DASH/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="📺 AISทีวี", HBO Signature
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0117/DASH/V0117.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0117/DASH/V0117.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="📺 AISทีวี", HBO Hits
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0116/DASH/V0116.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0116/DASH/V0116.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="📺 AISทีวี", HBO Family
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0115/DASH/V0115.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0115/DASH/V0115.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="📺 AISทีวี", CINEMAX
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0118/DASH/V0118.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0118/DASH/V0118.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="📺 AISทีวี", Mangkorn
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0159/DASH/V0159.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0159/DASH/V0159.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="📺 AISทีวี", ROCK ENTERTAINMENT
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3837d26526efca2fa1f18823bd073c0f:ab4d56168a618b2413beb137d70ac453
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0165/DASH/V0165.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0165/DASH/V0165.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="📺 AISทีวี", ROCK Action
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a3f4f0914988cc2f6be128c28893fff:db158f0d2bb85efd8f06e38d483de19c
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0166/DASH/V0166.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0166/DASH/V0166.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" group-title="📺 AISทีวี", MONO29 Music Station
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2355ee65664e0b7fc02e7d389e1d2658:a935ccb1065ffe214823aae414f8b257
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0193/DASH/V0193.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0193/DASH/V0193.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png" group-title="📺 AISทีวี", Food Network
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7372347ddf65ab1594ee35362240dafa:4d78d33c15d1098214b3d3cd3bb7c2a4
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0162/DASH/V0162.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0162/DASH/V0162.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="📺 AISทีวี", Asian Food Network
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41c6d6041786bf8142636da6646af821:943bc1ff87a15e9cf19613713bed6509
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0161/DASH/V0161.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0161/DASH/V0161.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="📺 AISทีวี", TLC
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adfe8e6aa801559a4e129992c0f20403:6c7aefc27c4bea0fd10c282061c138d8
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0183/DASH/V0183.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0183/DASH/V0183.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="📺 AISทีวี", Khong Dee Thailand
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0154/DASH/V0154.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0154/DASH/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="📺 AISทีวี", Thainess
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0155/DASH/V0155.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0155/DASH/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TV5MONDEasie.png" group-title="📺 AISทีวี", TV5MONDE
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0141/HLS/V0141.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0141/HLS/V0141.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0090.png" group-title="📺 AISทีวี", MVTV
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0090/DASH/V0090.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0090/DASH/V0090.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/MediaTV.png" group-title="📺 AISทีวี", Media
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0062/DASH/V0062.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0062/DASH/V0062.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0039.png" group-title="📺 AISทีวี", ATTV
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0039/DASH/V0039.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0039/DASH/V0039.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png" group-title="📺 AISทีวี", TVB Thai
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0095/DASH/V0095.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0095/DASH/V0095.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RamaChannel.png" group-title="📺 AISทีวี", Rama Channel
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0096/DASH/V0096.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0096/DASH/V0096.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LunthungTV.PNG" group-title="📺 AISทีวี", LunthungTV
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0092/DASH/V0092.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0092/DASH/V0092.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0089.png" group-title="📺 AISทีวี", Topline
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0089/DASH/V0089.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0089/DASH/V0089.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0094.png" group-title="📺 AISทีวี", MV Lao
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0094/DASH/V0094.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0094/DASH/V0094.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="📺 AISทีวี", Cartoonito
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6a1b556425b6932c6ffe80e7a828e57:bd8ea11b338954c1746f45bcf851c91e
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0113/DASH/V0113.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0113/DASH/V0113.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="📺 AISทีวี", Cartoon Network
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=752cdfe2fd238fcb0b98a8cb7e0ed584:1f0d3ac06263a52d9c826394c7f3b1d4
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/X171/DASH/X171.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/X171/DASH/X171.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" group-title="📺 AISทีวี", Nickelodeon
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34cf6695d9082bc5b4687e59d61b48d2:64e30dc5efbacf1f3fd344a01ba2f906
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0187/DASH/V0187.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0187/DASH/V0187.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png" group-title="📺 AISทีวี", Nick Jr.
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0186/DASH/V0186.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0186/DASH/V0186.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png" group-title="📺 AISทีวี", Boomerang
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0104/DASH/V0104.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0104/DASH/V0104.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png" group-title="📺 AISทีวี", Cartoon Club
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0100/DASH/V0100.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0100/DASH/V0100.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="📺 AISทีวี", Animal Planet
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=445b1220aeb39feb55a95944aeeb65f4:52d98a1cd54f99d67e6512799504d235
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0182/DASH/V0182.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0182/DASH/V0182.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="📺 AISทีวี", Discovery
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0180/DASH/V0180.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0180/DASH/V0180.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="📺 AISทีวี", Discovery Asia
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7d2b3a2ee44d2d9e676f5ff1c09cc57:17d93e04b88ec01e67e3f07f68947164
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0181/DASH/V0181.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0181/DASH/V0181.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="📺 AISทีวี", Samrujlok
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="📺 AISทีวี", MySci
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="📺 AISทีวี", Animal Show
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png" group-title="📺 AISทีวี", RT Documentary
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/HLS/V0106.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/HLS/V0106.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" group-title="📺 AISทีวี", CNN 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1a2180a2489df5ab7f950fe447ba60b:972ce3ee5c678f04b94212690f9ac76c
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0172/DASH/V0172.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0172/DASH/V0172.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBCNEWS.png" group-title="📺 AISทีวี", BBCNEWS
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e7078457bda703b567e3fbfa46ffaac:116c7d0b1960bf398798a09a75ee155b
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0125/DASH/V0125.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0125/DASH/V0125.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png" group-title="📺 AISทีวี", NHK
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0102/DASH/V0102.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0102/DASH/V0102.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png" group-title="📺 AISทีวี", CCTV4
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0173/DASH/V0173.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0173/DASH/V0173.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CGTN.png" group-title="📺 AISทีวี", CGTN
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0174/DASH/V0174.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0174/DASH/V0174.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVBS.png" group-title="📺 AISทีวี", TVBS News
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0108/HLS/V0108.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0108/HLS/V0108.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png" group-title="📺 AISทีวี", CNA
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0122/DASH/V0122.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0122/DASH/V0122.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/EuroNnews-1.png" group-title="📺 AISทีวี", UERO NEWS
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0119/DASH/V0119.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0119/DASH/V0119.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png" group-title="📺 AISทีวี", FRANCE24
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0123/DASH/V0123.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0123/DASH/V0123.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0177.png" group-title="📺 AISทีวี", Arirang
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0177/HLS/V0177.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0177/HLS/V0177.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png" group-title="📺 AISทีวี", ALJAZEERA
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0140/DASH/V0140.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0140/DASH/V0140.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121.png" group-title="📺 AISทีวี", DW
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0121/HLS/V0121.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0121/HLS/V0121.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="📺 AISทีวี", T-SPORTS
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/DASH/B0129.mpd8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/DASH/B0129.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-Sports7HD1.png" group-title="📺 AISทีวี", T-SPORTS HD 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0124/HLS/V0124.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0124/HLS/V0124.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH1.png" group-title="📺 AISทีวี",Live 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH2.png" group-title="📺 AISทีวี",Live 2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH3.png" group-title="📺 AISทีวี",Live 3
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="📺 AISทีวี",VolleyballPEA
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/PS042/HLS/PS042.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/PS042/HLS/PS042.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="📺 AISทีวี",VolleyballPEA 2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS043/HLS/PS043.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS043/HLS/PS043.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="📺 AISทีวี",VolleyballPEA 3
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS044/HLS/PS044.m3u88?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=27ccb823ba7fc9dbc7672bec7a4ea53b&chunkHttps=true&tmid=B0003&tpbk=i0Tjw0Emuo0Xq5Zj&rrt=1760698254&tmod=rfk&rsid=49b4d364-2f4f-4a15-ad6f-827ebebc412c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1760784654
+https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS044/HLS/PS044.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fb5ac19f03e4ae93e98e4982f07d649c&chunkHttps=true&tmid=B0003&tpbk=wbmVWqivwanphpWd&rrt=1761027430&tmod=rfk&rsid=4ea6bf40-a457-429e-b14f-72fcd3b10fe9&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1761113830
 -----------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -1368,7 +1381,7 @@ https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS044/HLS/PS
 ###SPORT###
 
 #EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-7017516947077464d1nudkfzi.png",HBO MAX
-https://keela2.com/stream/61/index.m3u8?token=mvFWafOIir5JDlQN
+#https://keela2.com/stream/61/index.m3u8?token=mvFWafOIir5JDlQN
 
 #EXTINF:-1 group-title="📺 รวมช่องกีฬา" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-spotv.png",SPOTV1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -1583,17 +1596,21 @@ http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://i.ibb.co/tTqXqqrf/espn.png" , ESPN
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/33/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/4/2/espn-2-logo-png_seeklogo-49202.png" , ESPN 2
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/34/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg" , ESPN 3
-#EXTVLCOPT:http-referrer=https://www3.dooball24hr.com/
-https://verb169.com/stream/35/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://futbollibre-tv.su/img/logo-canal/ESPN_4.webp" , ESPN 4
-https://verb169.com/stream/48/index.m3u8?token=J5iyZmyDDiw7NdQm
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="📺 รวมช่องกีฬาต่างประเทศ",ESPN MX
+#EXTVLCOPT:http-user-agent=FireFox
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-HD/manifest.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="📺 รวมช่องกีฬาต่างประเทศ",ESPN 2 MX
+#EXTVLCOPT:http-user-agent=FireFox
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/manifest.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="📺 รวมช่องกีฬาต่างประเทศ",ESPN 3 MX
+#EXTVLCOPT:http-user-agent=FireFox
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
 
 #EXTINF:-1  group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250213_081044.png",One Golf HD
 https://sscsott.com/pk/ONEGOLF/tracks-v1a1/mono.m3u8
@@ -1692,16 +1709,17 @@ https://bestcommt2.github.io/m3u8/wwe.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-#EXTINF:-1 tvg-ID="" tvg-name="ID ▎ANIPLUS" tvg-logo="https://dookeela2.live/uploads/1749743199.png" group-title="📺 ดูการ์ตูนทีวี", ANIPLUS
-http://45.144.165.187:8080/xtreamvip/12345/49943
-#EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี" tvg-id="Cartoonito.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",Cartoonito
-http://45.144.165.187:8080/xtreamvip/12345/60
+
+#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="📺 ดูการ์ตูนทีวี",Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="📺 ดูการ์ตูนทีวี",Cartoon Network
 https://bestcommt2.github.io/m3u8/cn.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://dookeela2.live/uploads/1709573298.png" group-title="📺 ดูการ์ตูนทีวี",CBeebies
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/cbeebies/chunks.m3u8
 #EXTINF:-1 tvg-id="89936" tvg-name="Dreamworks" tvg-logo="http://103.114.203.129:8080/images/d54e66ce7b497b5264bd99c575f6403f.png" group-title="📺 ดูการ์ตูนทีวี",Dreamworks
-http://45.144.165.187:8080/xtreamvip/12345/54
+http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/54.m3u8
 
 
 
@@ -1758,6 +1776,9 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 http://185.189.225.150:85/BabyTV/index.m3u8
 #EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี" tvg-logo="https://i.ibb.co/TxmtLxqQ/pngegg.png",BabyFirst.us
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ID ▎ANIPLUS" tvg-logo="https://dookeela2.live/uploads/1749743199.png" group-title="📺 ดูการ์ตูนทีวี", ANIPLUS
+#http://45.144.165.187:8080/xtreamvip/12345/49943
 
 #EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี"   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVfKsOCHZW1jzOsGZydivGZP2ZDwROxtPdWQ&usqp=CAU",Disney Junior NO 24/7
 #https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/disney-junior/chunks.m3u8
@@ -1916,25 +1937,23 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits-movies/chunks.m3u8
 ###Documentary###
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="📺 สารคดีรอบโลก", Khong Dee Thailand GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://bestcommt2.github.io/m3u8/khongdeethai.m3u8
+https://bestcommt2.github.io/m3u8/goodtvkhongdeethai.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="📺 สารคดีรอบโลก", Samrujlok GoodTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e105.hellotherepadawan.org/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-samrujlok_1080/chunks.m3u8
+#https://e105.hellotherepadawan.org/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-ais-samrujlok_1080/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="📺 สารคดีรอบโลก", Animal Show GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://bestcommt2.github.io/m3u8/goodtvanimalshow.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="📺 สารคดีรอบโลก", MySci GoodTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-mysci_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://bestcommt2.github.io/m3u8/goodtvmysci.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="📺 สารคดีรอบโลก", Thainess GoodTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-3bb-thainess_1080/chunks.m3u8
+#https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-3bb-thainess_1080/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="📺 สารคดีรอบโลก", TLC TH
 https://bestcommt2.github.io/m3u8/tlc.m3u8
