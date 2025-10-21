@@ -57,11 +57,12 @@ http://bestcommt2.github.io/m3u8/monomax1.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_1HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://keelasod.xyz/
-https://cdn.8kgoal.com/bbs/monomax-1/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 https://e110.youllneverwalkalone.online/v5/jfK5CdLxfAY3uHwQWg3njg/1760848552/e4162b14d55c6012232c3b09fb41abb3/ilDFSsVSeZLFU7Mxo77bww/1760859232/live/lx-origin/th-monomax01_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://keelasod.xyz/
+https://cdn.8kgoal.com/bbs/monomax-1/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
@@ -89,15 +90,14 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/395401.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 http://bestcommt2.github.io/m3u8/monomax2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://keelasod.xyz/
-https://cdn.8kgoal.com/bbs/monomax-2/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_2HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 https://la4.youllneverwalkalone.online:9310/v5/CSpmS1sRvAW0iRJy3t74aQ/1760844518/ab8a2f780348d10262e72c0d4dca7258/nAd_B1gfDHm5vC3C7Me04w/1760855198/live/lx-origin/th-monomax02bkp_720/chunks.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://keelasod.xyz/
+https://cdn.8kgoal.com/bbs/monomax-2/playlist.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -124,6 +124,8 @@ https://www.livedoomovies.com/Monomax_PL_3HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 https://e110.youllneverwalkalone.online/v5/t25Vhe701cZAITiHi-dIRg/1760848577/b1dd24e9cbcdf84f9018d522f7760dea/6AoAnlb6yxsnc0T5OOZ3Wg/1760859257/live/lx-origin/th-monomax03_720/chunks.m3u8
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
@@ -149,11 +151,10 @@ http://bestcommt2.github.io/m3u8/monomax4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/Monomax_PL_4HD/chunklist.m3u8
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 https://e110.youllneverwalkalone.online/v5/mWxQREQqq90ofGg2sJBugg/1760848978/e4162b14d55c6012232c3b09fb41abb3/9TeZ2t5Cx8d5tT65Q4kUyw/1760859658/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-4/chunks.m3u8
@@ -460,7 +461,7 @@ https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PlayID MOVIE 2K/4K" tvg-logo="http://103.114.203.129:8080/images/a0f6d13b1cb8e0e893437df4b35e1fcf.png" group-title="📺 PREMIUM PLAY TV",PlayID MOVIE 2K/4K
 http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/17788.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayID ASIAN" tvg-logo="http://103.114.203.129:8080/images/6f7ed462c1495ffe276e0f53fd06cd5f.png" group-title="📺 PREMIUM PLAY TV",PlayID ASIAN
-#http://playid.ddnsgeek.com:8080/live/thaihd2535d/12345/17715.m3u8
+http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/17715.m3u8
 #EXTINF:-1 tvg-id="368396" tvg-name="PlayID Blockbuster" tvg-logo="http://103.114.203.129:8080/images/907c34563fd992634bf88398017ea841.png" group-title="📺 PREMIUM PLAY TV",PlayID Blockbuster
 http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/76.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAYID สยองขวัญ " tvg-logo="http://103.114.203.129:8080/images/40503a438c549be836b6f04169b332a0.png" group-title="📺 PREMIUM PLAY TV",PLAYID สยองขวัญ 
@@ -478,7 +479,7 @@ http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/15672.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="netflix สารคดี" tvg-logo="http://103.114.203.129:8080/images/9dc23f250cf096b06912e98e927a7645.png" group-title="📺 PREMIUM PLAY TV",netflix สารคดี
 #http://playid.ddnsgeek.com:8080/live/playid/12345/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="โคนัน วันพีซ" tvg-logo="http://103.114.203.129:8080/images/1d4e86e5eebde94659bef41687fdc193.jpg" group-title="📺 PREMIUM PLAY TV",โคนัน วันพีซ
-http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/15674.m3u8
+#http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/15674.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ฟังเพลงออนไลน์" tvg-logo="http://103.114.203.129:8080/images/46ba79616463763746124ac67d2c3bbb.png" group-title="📺 PREMIUM PLAY TV",ฟังเพลงออนไลน์
 #http://playid.ddnsgeek.com:8080/live/playid/12345/15676.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAYID รวมเป็นต่อ" tvg-logo="http://103.114.203.129:8080/images/20d4a4f84994a352b713603d9418ea74.png" group-title="📺 PREMIUM PLAY TV",PLAYID รวมเป็นต่อ
