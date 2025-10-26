@@ -19,7 +19,7 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 
 ###VIP SPORT###
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://www.fileinw.com/postor/20250830191812Wsport.jpg" group-title="📺 VIP SPORT",W Sport
-#https://live1.inwstream.com/transcoder_F1/hitsmovies_inwiptv.stream/chunks.m3u8
+https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/vx-origin/my-wsport_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/ONE.jfif" group-title="📺 VIP SPORT",ONE Championship
 #EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
 #https://sport.livedoomovies.com:4432/02_ONE_720p/chunklist.m3u8
@@ -307,7 +307,7 @@ http://45.144.165.187:8080/live/playid/2535/108.m3u8
 #EXTINF:-1 tvg-id="9574" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/515_LFCTVRed.png" group-title="📺 VIP SPORT",LFC TV
 http://6395online.com:8080/live/iptv591@gmail.com/456672/12192.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/516_MUTV_.png" group-title="📺 VIP SPORT",MUTV
-http://6395online.com:8080/live/iptv591@gmail.com/456672/12193.m3u8
+https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/vx-origin/uk-mutvbkp_480/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/517_RealMadridTV_.png" group-title="📺 VIP SPORT",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
@@ -529,35 +529,35 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/AISplay-sport9.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
 #EXTVLCOPT:http-referrer=https://app.inwtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://live4.inwstream.com/transcoder_F1/playsports9_inwiptv.stream/chunks.m3u8
+https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/dx-origin/th-monotpl09_720/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/AISplay-sport10.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 10
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://6395online.com:8080/live/iptv591@gmail.com/456672/395399.m3u8
+https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/dx-origin/th-monotpl10_720/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport11.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 11
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://6395online.com:8080/live/iptv591@gmail.com/456672/400472.m3u8
+https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/dx-origin/th-monotpl11_720/chunks.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport12.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 12
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://6395online.com:8080/live/iptv591@gmail.com/456672/400473.m3u8
+https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/dx-origin/th-monotpl12_720/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport13.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 13
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://6395online.com:8080/live/iptv591@gmail.com/456672/400474.m3u8
+https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/dx-origin/th-monotpl13_720/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport14.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 14
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://6395online.com:8080/live/iptv591@gmail.com/456672/400475.m3u8
+https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/dx-origin/th-monotpl14_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport15.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://6395online.com:8080/live/iptv591@gmail.com/456672/400476.m3u8
+https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/dx-origin/th-monotpl15_720/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport16.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 16
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -967,7 +967,9 @@ https://bestcommt2.github.io/m3u8/trueGOLF.m3u8
 https://bestcommt2.github.io/m3u8/truetennis.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="📺 ทรูไอดีทีวี",True Thaifilm
-http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/64.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.info/
+https://la4.youllneverwalkalone.online:9311/v5/LkR1LgWHA8MRaZXmRHoF9A/1761464798/8f45d06e1f2965c1b4c175f2c608f54b/Hck6xljzYqTsrQ0uvLVjEA/1761475478/live/dx-origin/sd-thaifilm_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
 http://6395online.com:8080/live/iptv591@gmail.com/456672/146.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
