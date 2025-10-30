@@ -307,21 +307,21 @@ http://45.144.165.187:8080/live/playid/2535/108.m3u8
 #EXTINF:-1 tvg-id="9574" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/515_LFCTVRed.png" group-title="📺 VIP SPORT",LFC TV
 http://6395online.com:8080/live/iptv591@gmail.com/456672/12192.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/516_MUTV_.png" group-title="📺 VIP SPORT",MUTV
-https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/vx-origin/uk-mutvbkp_480/chunks.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/517_RealMadridTV_.png" group-title="📺 VIP SPORT",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J SPORTS 1
-https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/dx-origin/jp-jsports1_720/chunks.m3u8
+https://us1001.utako.moe/js1/index.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png", J SPORTS 2
-https://mt01.utako.moe/js2/index.m3u8
+https://us1001.utako.moe/js2/index.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png", J SPORTS 3
-https://mt01.utako.moe/js3/index.m3u8
+https://us1001.utako.moe/js3/index.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png", J SPORTS 4
-https://mt01.utako.moe/js4/index.m3u8
+https://us1001.utako.moe/js4/index.m3u8
 
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
@@ -914,17 +914,13 @@ https://bestcommt2.github.io/m3u8/NFL.m3u8
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://bestcommt2.github.io/m3u8/truespotv1.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://bestcommt2.github.io/m3u8/truespotv2.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
-https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/lx-origin/epl-3_720/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391722.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
-https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/lx-origin/epl-4_720/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/391723.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
 https://bestcommt2.github.io/m3u8/true1.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",TrueSportHD 2
@@ -967,8 +963,6 @@ https://bestcommt2.github.io/m3u8/trueGOLF.m3u8
 https://bestcommt2.github.io/m3u8/truetennis.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="📺 ทรูไอดีทีวี",True Thaifilm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.info/
 http://6395online.com:8080/live/iptv591@gmail.com/456672/141.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
 http://6395online.com:8080/live/iptv591@gmail.com/456672/146.m3u8
@@ -990,14 +984,10 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/147.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://bestcommt2.github.io/m3u8/trueccm.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.info/
 http://6395online.com:8080/live/iptv591@gmail.com/456672/285.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
 http://45.144.165.187:8080/live/playid/2535/52.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.info/
 http://6395online.com:8080/live/iptv591@gmail.com/456672/283.m3u8
 
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 ทรูไอดีทีวี",True AXN
