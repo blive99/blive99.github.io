@@ -58,7 +58,7 @@ http://bestcommt2.github.io/m3u8/monomax1.m3u8
 https://www.livedoomovies.com/Monomax_PL_1HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
-https://e110.youllneverwalkalone.online/v5/jfK5CdLxfAY3uHwQWg3njg/1760848552/e4162b14d55c6012232c3b09fb41abb3/ilDFSsVSeZLFU7Mxo77bww/1760859232/live/lx-origin/th-monomax01_720/chunks.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130733.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://keelasod.xyz/
 https://cdn.8kgoal.com/bbs/monomax-1/playlist.m3u8
@@ -94,7 +94,7 @@ http://bestcommt2.github.io/m3u8/monomax2.m3u8
 https://www.livedoomovies.com/Monomax_PL_2HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
-https://la4.youllneverwalkalone.online:9310/v5/CSpmS1sRvAW0iRJy3t74aQ/1760844518/ab8a2f780348d10262e72c0d4dca7258/nAd_B1gfDHm5vC3C7Me04w/1760855198/live/lx-origin/th-monomax02bkp_720/chunks.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130724.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://keelasod.xyz/
 https://cdn.8kgoal.com/bbs/monomax-2/playlist.m3u8
@@ -123,7 +123,7 @@ http://bestcommt2.github.io/m3u8/monomax3.m3u8
 https://www.livedoomovies.com/Monomax_PL_3HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
-https://e110.youllneverwalkalone.online/v5/t25Vhe701cZAITiHi-dIRg/1760848577/b1dd24e9cbcdf84f9018d522f7760dea/6AoAnlb6yxsnc0T5OOZ3Wg/1760859257/live/lx-origin/th-monomax03_720/chunks.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130720.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -153,7 +153,7 @@ http://bestcommt2.github.io/m3u8/monomax4.m3u8
 https://www.livedoomovies.com/Monomax_PL_4HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
-https://e110.youllneverwalkalone.online/v5/mWxQREQqq90ofGg2sJBugg/1760848978/e4162b14d55c6012232c3b09fb41abb3/9TeZ2t5Cx8d5tT65Q4kUyw/1760859658/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130716.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -178,7 +178,7 @@ https://www.livedoomovies.com/Monomax_PL_5HD/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
-https://la4.youllneverwalkalone.online:9310/v5/FoCXDKZxcC2bTt0qm4pjVQ/1760844947/9f4b235fa2420bc8302231446cc010a5/V3fKrdZjD0lw8DTvtNMKMA/1760855627/live/lx-origin/th-monomax05_720/chunks.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130714.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-5/chunks.m3u8
@@ -202,7 +202,7 @@ https://www.livedoomovies.com/Monomax_PL_6HD/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
-https://e110.youllneverwalkalone.online/v5/8N0176G_GYU34WFDpw8pOA/1760848890/b1dd24e9cbcdf84f9018d522f7760dea/wqN6c5GSaJWjqZB1QoaCiA/1760859570/live/lx-origin/th-monomax06_720/chunks.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130710.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-6/chunks.m3u8
@@ -225,7 +225,7 @@ https://www.livedoomovies.com/Monomax_PL_7HD/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
-https://la5.youllneverwalkalone.online:9310/v5/0Ipz6jtWhI7oDDsNGUtvrw/1760844648/9f4b235fa2420bc8302231446cc010a5/e7pZvRRtgvlK0NQ-tdwWCA/1760855328/live/lx-origin/th-monomax07bkp_720/chunks.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130706.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
@@ -246,7 +246,7 @@ https://www.livedoomovies.com/Monomax_PL_8HD/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
-https://e110.youllneverwalkalone.online/v5/pcAQUj8QVUokQtZ2s0chaQ/1760848636/e4162b14d55c6012232c3b09fb41abb3/xj-E7Ce0SMGrad9f8g4FXw/1760859316/live/lx-origin/th-monomax08_720/chunks.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130702.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
@@ -261,7 +261,14 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
 http://6395online.com:8080/live/iptv591@gmail.com/456672/398293.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport09.png" group-title="📺 VIP SPORT",MONOMAX 9
 http://bestcommt2.github.io/m3u8/monomax9.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport09.png" group-title="📺 VIP SPORT",MONOMAX 9
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130698.m3u8
 
+#EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="http://apk-x.org/pics/images/klz1755230997i.jpg" group-title="📺 VIP SPORT",MONOMAX 10
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130730.m3u8
+
+#EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="http://apk-x.org/pics/images/jdv1755231023m.jpg" group-title="📺 VIP SPORT",MONOMAX 11
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130728.m3u8
 
 #http://45.144.165.187:8080/xtreamvip/12345/113
 #https://playid.vercel.app/sports/max9.m3u8
