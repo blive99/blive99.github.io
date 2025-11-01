@@ -260,16 +260,16 @@ https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J SPORTS 1
-https://us1001.utako.moe/js1/index.m3u8
+https://ca01.utako.moe/js1/index.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png", J SPORTS 2
-https://us1001.utako.moe/js2/index.m3u8
+https://ca01.utako.moe/js2/index.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png", J SPORTS 3
-https://us1001.utako.moe/js3/index.m3u8
+https://ca01.utako.moe/js3/index.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png", J SPORTS 4
-https://us1001.utako.moe/js4/index.m3u8
+https://ca01.utako.moe/js4/index.m3u8
 
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
