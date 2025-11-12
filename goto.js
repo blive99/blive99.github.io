@@ -957,7 +957,7 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/283.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 ทรูไอดีทีวี",True AXN
 https://bestcommt2.github.io/m3u8/trueAXN.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 ทรูไอดีทีวี", TRUE HISTORY
-http://6395online.com:8080/live/iptv591@gmail.com/456672/277.m3u8
+https://bestcommt2.github.io/m3u8/truehistroy.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://bestcommt2.github.io/m3u8/truewb.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
