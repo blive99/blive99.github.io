@@ -2325,6 +2325,12 @@ https://live.zoom072.com/ch9/ch9.m3u8
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIESZOOM####
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Predator-Badlands-2025-%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน" ,Predator Badlands (2025) พรีเดเตอร์ แดนเถื่อน
+https://main.24playerhd.com/newplaylist/d6b208951e13dd7e2004d26e/d6b208951e13dd7e2004d26e438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Primitive-War-2025-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%B5-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน" ,Primitive War (2025) สงครามโลกล้านปี
+https://main.24playerhd.com/newplaylist/c20a66ca037505a3cb24441f/c20a66ca037505a3cb24441f438.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/06/Haunting-of-Mount-Gede-2025-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B9%80%E0%B8%94-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน" ,Haunting of Mount Gede (2025) คำสาปแห่งเขาเกเด
 https://main.24playerhd.com/newplaylist/28eaba617c46744c5a1dffd6/28eaba617c46744c5a1dffd6438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/Lembayung-2024-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%97-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน" ,HLembayung (2024) โรงพยาบาท
@@ -2359,6 +2365,12 @@ https://main.24playerhd.com/newplaylist/01a4753ca2acdf149be5b599/01a4753ca2acdf1
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
+
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Tee-Yai-Rerk-Dao-Jone-2025-%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88-%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%94%E0%B8%B2%E0%B8%A7-%E0%B9%82%E0%B8%88%E0%B8%A3-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Tee Yai Rerk Dao Jone (2025) ตี๋ใหญ่ ฤกษ์ ดาว โจร
+https://main.24playerhd.com/newplaylist/e46631dc76069334ee054bac/e46631dc76069334ee054bac438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Frankenstein-2025-%E0%B9%81%E0%B8%9F%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%99%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%99%E0%B9%8C-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Frankenstein (2025) แฟรงเกนสไตน์
+https://main.24playerhd.com/newplaylist/a89ced62cc1a3231f9f652e8/a89ced62cc1a3231f9f652e8438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/01/Art-of-the-Devil-Beginning-2025-%E0%B8%9E%E0%B8%99%E0%B8%AD-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Art of the Devil Beginning (2025) พนอ
 https://main.24playerhd.com/newplaylist/27f2eea731744d8a864e5c5a/27f2eea731744d8a864e5c5a.m3u8
 #EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/05/Holy-Night-Demon-Hunters-2025-%E0%B8%85%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%9C%E0%B8%B5-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Holy Night Demon Hunters (2025) ฅนต่อยผี
@@ -2439,7 +2451,14 @@ https://main.24playerhd.com/newplaylist/4e9114e0bd0246a439fc73c5/4e9114e0bd0246a
 
 --------------------------------------------------------------------------------------
 ####ดูซีรี####
-
+#EXTINF:1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Squid-Game-The-Challenge-Season-2-2025-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B8%88%E0%B9%8C-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-2-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Squid Game The Challenge Season 2 (2025) สควิดเกม เดอะ ชาเลนจ์ ซีซั่น  2 EP1
+https://main.24playerhd.com/newplaylist/27b4eee9034069169f0e9645/27b4eee9034069169f0e9645438.m3u8
+#EXTINF:1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Squid-Game-The-Challenge-Season-2-2025-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B8%88%E0%B9%8C-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-2-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Squid Game The Challenge Season 2 (2025) สควิดเกม เดอะ ชาเลนจ์ ซีซั่น  2 EP2
+https://main.24playerhd.com/newplaylist/7fc8078caab3b469d29c7b46/7fc8078caab3b469d29c7b46438.m3u8
+#EXTINF:1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Squid-Game-The-Challenge-Season-2-2025-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B8%88%E0%B9%8C-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-2-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Squid Game The Challenge Season 2 (2025) สควิดเกม เดอะ ชาเลนจ์ ซีซั่น  2 EP3
+https://main.24playerhd.com/newplaylist/fd15ff9984ce6986450b3f0f/fd15ff9984ce6986450b3f0f438.m3u8
+#EXTINF:1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Squid-Game-The-Challenge-Season-2-2025-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B8%88%E0%B9%8C-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-2-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Squid Game The Challenge Season 2 (2025) สควิดเกม เดอะ ชาเลนจ์ ซีซั่น  2 EP4 
+https://main.24playerhd.com/newplaylist/614db4468feaa591af2ffc55/614db4468feaa591af2ffc55438.m3u8
 
 #EXTINF:1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/Squid-Game-Season-3-2025-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-3-300x450.jpg" group-title="📺 ดูซีรีย์ออนไลน์",Squid Game Season 3 (2025) สควิดเกม เล่นลุ้นตาย ซีซั่น 3    EP 1
 https://main.24playerhd.com/newplaylist/391756cae470136a63faa435/391756cae470136a63faa435.m3u8
