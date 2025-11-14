@@ -2365,7 +2365,8 @@ https://main.24playerhd.com/newplaylist/01a4753ca2acdf149be5b599/01a4753ca2acdf1
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
-
+#EXTINF:-1 tvg-logo="https://9nung.com/wp-content/uploads/2025/10/bGayfYtfdkzttIKrGU6ApeVxIPc-185x278.jpg" group-title="📺 ดูหนังออนไลน์" ,Doraemon the Movie Nobita s Art World Tales (2025) โดราเอมอน เดอะมูฟวี่ เรื่องราวในโลกภาพวาดของโนบิตะ
+https://media-asset.fembed.co/rP_0IXg6k-i3y/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Tee-Yai-Rerk-Dao-Jone-2025-%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88-%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%94%E0%B8%B2%E0%B8%A7-%E0%B9%82%E0%B8%88%E0%B8%A3-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Tee Yai Rerk Dao Jone (2025) ตี๋ใหญ่ ฤกษ์ ดาว โจร
 https://main.24playerhd.com/newplaylist/e46631dc76069334ee054bac/e46631dc76069334ee054bac438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Frankenstein-2025-%E0%B9%81%E0%B8%9F%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%99%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%99%E0%B9%8C-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Frankenstein (2025) แฟรงเกนสไตน์
