@@ -218,11 +218,11 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/398289.m3u8
 http://6395online.com:8080/live/iptv591@gmail.com/456672/425262.m3u8
 
 #EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="http://103.114.203.129:8080/images/b803a83090f09b4a29a3acc4c7713390.jpg" group-title="📺 VIP SPORT",NFL Network  51
-http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/23200.m3u8
+http://119.59.118.159/live/ch21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AIS NFL Network  52" tvg-logo="http://103.114.203.129:8080/images/1cdf5768cb5d74cdf2f4ad90f48fa074.jpg" group-title="📺 VIP SPORT",AIS NFL Network  52
-http://6395online.com:8080/live/iptv591@gmail.com/456672/398297.m3u8
+http://119.59.118.159/live/ch22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="http://103.114.203.129:8080/images/2d694c3b16418beb9dbdc21973b62d06.jpg" group-title="📺 VIP SPORT",AIS-NFL 53
-http://6395online.com:8080/live/iptv591@gmail.com/456672/398298.m3u8
+http://119.59.118.159/live/ch23/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/fT9BmOIbR8XQ0eCgvsruvarrLqYbKNwz.png" group-title="📺 VIP SPORT",Toyota gazoo racing thailand 2025 MONOMAX
 http://6395online.com:8080/live/iptv591@gmail.com/456672/391456.m3u8
@@ -881,10 +881,10 @@ http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/SPOTV01_720p/chunklist.m3u8
+http://119.59.118.159/live/ch18/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/SPOTV02_720p/chunklist.m3u8
+http://119.59.118.159/live/ch19/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
@@ -893,13 +893,13 @@ https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_sport1_720p/chunklist.m3u8
+https://bestcommt2.github.io/m3u8/true1.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",TrueSportHD 2
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_sport2_720p/chunklist.m3u8
+https://bestcommt2.github.io/m3u8/true2.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",TrueSportHD 3
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_sport3_720p/chunklist.m3u8
+https://bestcommt2.github.io/m3u8/true3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 ทรูไอดีทีวี",TrueSportHD4
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/02_sport4_720p/chunklist.m3u8
@@ -908,13 +908,13 @@ https://www.livedoomovies.com/02_sport4_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,TrueSport 7
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_sport7_720p/chunklist.m3u8
+http://119.59.118.159/live/ch14/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+http://119.59.118.159/live/ch15/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+http://119.59.118.159/live/ch16/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,BeinSportHD 3
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com/02_epl3_720p/chunklist.m3u8
@@ -962,7 +962,7 @@ http://119.59.118.159/live/ch64/index.m3u8
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 #http://45.144.165.187:8080/live/xtreamvip/12345/65.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="📺 ทรูไอดีทีวี",True Film Asia
-http://6395online.com:8080/live/iptv591@gmail.com/456672/147.m3u8
+http://119.59.118.159/live/ch61/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 http://119.59.118.159/live/ch62/index.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
@@ -1917,10 +1917,10 @@ https://bestcommt2.github.io/m3u8/goodtvkhongdeethai.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.uflixtv.com/web/?a=tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://6395online.com:8080/live/iptv591@gmail.com/456672/295.m3u8
+http://119.59.118.159/live/ch50/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="📺 สารคดีรอบโลก", Animal Show GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://bestcommt2.github.io/m3u8/goodtvanimalshow.m3u8
+http://119.59.118.159/live/ch30/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="📺 สารคดีรอบโลก", MySci GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://bestcommt2.github.io/m3u8/goodtvmysci.m3u8
