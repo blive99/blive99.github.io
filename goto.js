@@ -881,16 +881,16 @@ http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://119.59.118.159/live/ch18/index.m3u8
+http://154.215.14.8:8080/live/iptv591@gmail.com/456672/219.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://119.59.118.159/live/ch19/index.m3u8
+http://154.215.14.8:8080/live/iptv591@gmail.com/456672/220.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+http://154.215.14.8:8080/live/iptv591@gmail.com/456672/391479.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+http://154.215.14.8:8080/live/iptv591@gmail.com/456672/391480.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://bestcommt2.github.io/m3u8/true1.m3u8
@@ -902,7 +902,7 @@ https://bestcommt2.github.io/m3u8/true2.m3u8
 https://bestcommt2.github.io/m3u8/true3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 ทรูไอดีทีวี",TrueSportHD4
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_sport4_720p/chunklist.m3u8
+http://154.215.14.8:8080/live/iptv591@gmail.com/456672/209.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,TrueSport 5
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 http://45.144.165.187:8080/live/playid/2535/18907.m3u8
@@ -914,25 +914,25 @@ https://bestcommt2.github.io/m3u8/true7.m3u8
 http://45.144.165.187:8080/live/playid/2535/22873.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://119.59.118.159/live/ch16/index.m3u8
+http://154.215.14.8:8080/live/iptv591@gmail.com/456672/204.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,BeinSportHD 3
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 http://45.144.165.187:8080/live/playid/2535/103.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" ,BeinSportHD 4
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_epl4_720p/chunklist.m3u8
+http://154.215.14.8:8080/live/iptv591@gmail.com/456672/391436.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" ,BeinSportHD 5
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_epl5_720p/chunklist.m3u8
+http://154.215.14.8:8080/live/iptv591@gmail.com/456672/391437.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" ,BeinSportHD 6
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_epl6_720p/chunklist.m3u8
+http://154.215.14.8:8080/live/iptv591@gmail.com/456672/391438.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 7
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_epl7_720p/chunklist.m3u8
+http://154.215.14.8:8080/live/iptv591@gmail.com/456672/391439.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" ,BeinSportHD 8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_epl8_720p/chunklist.m3u8
+http://154.215.14.8:8080/live/iptv591@gmail.com/456672/391440.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 9
 http://6395online.com:8080/live/iptv591@gmail.com/456672/391441.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp" ,BeinSportHD 10
@@ -943,9 +943,10 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/391442.m3u8
 https://bestcommt2.github.io/m3u8/trueGOLF.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="true-tennis-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp", TRUE Tennis
 https://bestcommt2.github.io/m3u8/truetennis.m3u8
-#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp", TRUE Sport ID
+#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp", TRUE ID Sport
 http://45.144.165.187:8080/live/playid/2535/108.m3u8
-
+#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png", TRUE ID Station
+http://154.215.14.8:8080/live/iptv591@gmail.com/456672/214.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="📺 ทรูไอดีทีวี",True Thaifilm
 http://154.215.14.8:8080/live/iptv591@gmail.com/456672/141.m3u8
