@@ -98,11 +98,8 @@ https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130722.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=:https://warpdooball.net/
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130720.m3u8
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/monomax3.m3u8
 
 
 
@@ -117,12 +114,8 @@ https://ww.dooballfree.vip/live/monomax-4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130716.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130718.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=:https://warpdooball.net/
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130716.m3u8
-
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/monomax4.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport05.png" group-title="📺 VIP SPORT",MONOMAX5
@@ -136,11 +129,8 @@ https://ww.dooballfree.vip/live/monomax-5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130714.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130714.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=:https://warpdooball.net/
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130712.m3u8
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/monomax5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport06.png" group-title="📺 VIP SPORT",MONOMAX6
 http://6395online.com:8080/live/iptv591@gmail.com/456672/398290.m3u8
