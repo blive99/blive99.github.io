@@ -56,9 +56,8 @@ http://bestcommt2.github.io/m3u8/monomax1.m3u8
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130732.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130734.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130732.m3u8
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/monomax1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 #https://cdn1.googlecdnforstreaming.live/live/monomax-1/playlist.m3u8
@@ -79,11 +78,8 @@ https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130724.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://keelasod.xyz/
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130724.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130726.m3u8
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/monomax1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
@@ -398,9 +394,7 @@ http://49.0.64.96:8007/SUPERJOKE
 #EXTINF:-1 tvg-id="" tvg-name="Doraemon TV" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/doremon.png" group-title="📺 PREMIUM PLAY TV",Doraemon TV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 #http://43.229.79.245:8080/live/moo7/moo7/101611.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png", MONO29 Music Station เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-#http://43.229.79.245:8080/live/moo7/moo7/195196.m3u8
+
 
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Jc8ZGd3mxtwvL4JkQsprAhjuHrTUcdw5.png",Asian Hits
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/1080p/index.m3u8
@@ -450,7 +444,7 @@ http://103.114.203.129:8080/live/ott168/ott168/18833.m3u8
 http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/11055.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ทีวี ดาวเทียม infosat" tvg-logo="https://image.makewebcdn.com/makeweb/m_1920x0/YuMQ0nq3x/Icon/Logo_01_01.png?v=202405291424" group-title="📺 PREMIUM PLAY TV",ทีวี ดาวเทียม infosat
 http://playid.ddnsgeek.com:8080/live/thaihd2535/12345/19220.m3u8
-#EXTINF:-1 tvg-id="491" tvg-name="ฟังเพลง สากล" tvg-logo="http://103.114.203.129:8080/live/images/409624905ed761494e394d709acee012.png" group-title="ช่องพรีเมียม พิเศษ",ฟังเพลง สากล
+#EXTINF:-1 tvg-id="491" tvg-name="ฟังเพลง สากล" tvg-logo="http://103.114.203.129:8080/live/images/409624905ed761494e394d709acee012.png" group-title="📺 PREMIUM PLAY TV",ฟังเพลง สากล
 http://103.114.203.129:8080/live/ott168/ott168/125
 
 --------------------------------------------------------------------------------------
