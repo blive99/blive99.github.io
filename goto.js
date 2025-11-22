@@ -53,17 +53,15 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/391630.m3u8
 #EXTVLCOPT:http-referrer=https://bestcommt2.github.io
 http://bestcommt2.github.io/m3u8/monomax1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/Monomax_PL_1HD/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
+https://ww.dooballfree.vip/live/monomax-1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130732.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://keelasod.xyz/
-https://cdn.8kgoal.com/bbs/monomax-1/playlist.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130734.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/Monomax_Live_1HD/chunklist.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130732.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-1/playlist.m3u8
@@ -75,17 +73,17 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/395401.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 http://bestcommt2.github.io/m3u8/monomax2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/Monomax_PL_2HD/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
+https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130724.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://keelasod.xyz/
-https://cdn.8kgoal.com/bbs/monomax-2/playlist.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130724.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/Monomax_Live_2HD/chunklist.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130726.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
@@ -98,17 +96,17 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/395402.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport03.png" group-title="📺 VIP SPORT",MONOMAX3
 http://bestcommt2.github.io/m3u8/monomax3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/Monomax_PL_3HD/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
+https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/Monomax_Live_3HD/chunklist.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130722.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/monomax-3/playlist.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130720.m3u8
 
 
 
@@ -117,34 +115,36 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/391680.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport04.png" group-title="📺 VIP SPORT",MONOMAX4
 http://bestcommt2.github.io/m3u8/monomax4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/Monomax_PL_4HD/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
+https://ww.dooballfree.vip/live/monomax-4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130716.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/Monomax_Live_4HD/chunklist.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130718.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/monomax-4/playlist.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130716.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport05.png" group-title="📺 VIP SPORT",MONOMAX5
 http://6395online.com:8080/live/iptv591@gmail.com/456672/395404.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport05.png" group-title="📺 VIP SPORT",MONOMAX5
 http://bestcommt2.github.io/m3u8/monomax5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/Monomax_PL_5HD/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
+https://ww.dooballfree.vip/live/monomax-5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130714.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/Monomax_Live_5HD/chunklist.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130714.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/monomax-5/playlist.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130712.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport06.png" group-title="📺 VIP SPORT",MONOMAX6
 http://6395online.com:8080/live/iptv591@gmail.com/456672/398290.m3u8
@@ -255,18 +255,17 @@ http://bestcommt2.github.io/m3u8/true5.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 7
 http://bestcommt2.github.io/m3u8/true7.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="📺 VIP SPORT",beIN SPORT 1
-http://bestcommt2.github.io/m3u8/truebein1.m3u8
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch7.png" group-title="📺 VIP SPORT",beIN SPORT 2
 http://bestcommt2.github.io/m3u8/truebein2.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch8.png" group-title="📺 VIP SPORT",beIN SPORT 3
-http://bestcommt2.github.io/m3u8/truebein3.m3u8
+https://ww.dooballfree.vip/live/bein3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp" group-title="📺 VIP SPORT", Trueidsport1
 http://45.144.165.187:8080/live/playid/2535/108.m3u8
 #EXTINF:-1 tvg-id="9574" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/515_LFCTVRed.png" group-title="📺 VIP SPORT",LFC TV
-http://6395online.com:8080/live/iptv591@gmail.com/456672/12192.m3u8
+https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/516_MUTV_.png" group-title="📺 VIP SPORT",MUTV
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+https://ww.dooballfree.vip/live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/517_RealMadridTV_.png" group-title="📺 VIP SPORT",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
@@ -339,6 +338,8 @@ http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png",Science
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/WSCI
+#EXTINF:-1 tvg-logo="https://www.upload.ee/image/18801878/hicable1.png" group-title="📺 PREMIUM PLAY TV",Super Joke
+http://49.0.64.96:8007/SUPERJOKE
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.144.165.223/logo/ent/asianmovie.png" group-title="📺 PREMIUM PLAY TV",หนังเอเชีย เครดิตช่อง Moo7
