@@ -226,14 +226,13 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/391359.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-2" tvg-name="MONOMAX 10" tvg-logo="https://bestcommt2.github.io/logo/sport/EFL%20monomax.png" group-title="📺 VIP SPORT",EFL MONOMAX
 http://6395online.com:8080/live/iptv591@gmail.com/456672/398289.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://www.mitihoon.com/wp-content/uploads/2025/08/21-25.jpg" group-title="📺 VIP SPORT",AIS NBA AIS
-http://6395online.com:8080/live/iptv591@gmail.com/456672/425262.m3u8
-
+http://119.59.118.159/live/ch41/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="http://103.114.203.129:8080/images/b803a83090f09b4a29a3acc4c7713390.jpg" group-title="📺 VIP SPORT",NFL Network  51
-http://119.59.118.159/live/ch21/index.m3u8
+http://119.59.118.159/live/ch21/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AIS NFL Network  52" tvg-logo="http://103.114.203.129:8080/images/1cdf5768cb5d74cdf2f4ad90f48fa074.jpg" group-title="📺 VIP SPORT",AIS NFL Network  52
-http://119.59.118.159/live/ch22/index.m3u8
+http://119.59.118.159/live/ch22/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="http://103.114.203.129:8080/images/2d694c3b16418beb9dbdc21973b62d06.jpg" group-title="📺 VIP SPORT",AIS-NFL 53
-http://119.59.118.159/live/ch23/index.m3u8
+http://119.59.118.159/live/ch23/xxccxgd134/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/fT9BmOIbR8XQ0eCgvsruvarrLqYbKNwz.png" group-title="📺 VIP SPORT",Toyota gazoo racing thailand 2025 MONOMAX
 http://6395online.com:8080/live/iptv591@gmail.com/456672/391456.m3u8
@@ -1006,7 +1005,7 @@ https://blive99.github.io/m3u8/movietv/wb.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
 https://blive99.github.io/m3u8/documentary/Truexzyte.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="D" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 ทรูไอดีทีวี",TRUE DreamWorks
-http://154.215.14.8:8080/live/iptv591@gmail.com/456672/176.m3u8
+http://119.59.118.159/live/ch65/xxccxgd134/index.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
 http://154.215.14.8:8080/live/iptv591@gmail.com/456672/274.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
@@ -1938,7 +1937,7 @@ https://blive99.github.io/m3u8/goodtv/goodtvkhongdeethai.m3u8
 https://blive99.github.io/m3u8/goodtv/goodtvSamrulok.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="📺 สารคดีรอบโลก", Animal Show GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://blive99.github.io/m3u8/goodtv/goodtvSamrulok.m3u8
+https://blive99.github.io/m3u8/goodtv/goodtvanimalshow.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="📺 สารคดีรอบโลก", MySci GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://blive99.github.io/m3u8/goodtv/goodtvmysci.m3u8
