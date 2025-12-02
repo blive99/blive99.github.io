@@ -268,16 +268,20 @@ https://ww.dooballfree.vip/live/mutv/playlist.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J SPORTS 1
-https://nl00.utako.moe/js1/index.m3u8
+#EXTVLCOPT:http-referrer=https://web.utako.moe/
+https://nl.utako.moe/js1/index.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png", J SPORTS 2
-https://nl00.utako.moe/js2/index.m3u8
+#EXTVLCOPT:http-referrer=https://web.utako.moe/
+https://nl.utako.moe/js2/index.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png", J SPORTS 3
-https://nl00.utako.moe/js3/index.m3u8
+#EXTVLCOPT:http-referrer=https://web.utako.moe/
+https://nl.utako.moe/js3/index.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png", J SPORTS 4
-https://nl00.utako.moe/js4/index.m3u8
+#EXTVLCOPT:http-referrer=https://web.utako.moe/
+https://nl.utako.moe/js4/index.m3u8
 
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
@@ -1705,10 +1709,7 @@ https://bestcommt2.github.io/m3u8/wwe.m3u8
 ###9️⃣ ช่องการ์ตูน###
 
 #EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี" tvg-logo="https://i.ibb.co/vJdY0NG/animax.png",ANIMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
+https://nl.utako.moe/Animax/index.m3u8
 #EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="📺 ดูการ์ตูนทีวี",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
