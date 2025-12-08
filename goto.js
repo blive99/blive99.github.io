@@ -2375,6 +2375,13 @@ https://main.24playerhd.com/newplaylist/01a4753ca2acdf149be5b599/01a4753ca2acdf1
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูหนังออนไลน์" ,The Believers 2 (2025) สาธุ 2
+https://main.24playerhd.com/newplaylist/92b6b305d84666532f99147d/92b6b305d84666532f99147d438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Frankenstein-2025-%E0%B9%81%E0%B8%9F%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%99%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%99%E0%B9%8C-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Frankenstein (2025) แฟรงเกนสไตน์
+https://main.24playerhd.com/newplaylist/a89ced62cc1a3231f9f652e8/a89ced62cc1a3231f9f652e8438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Predator-Badlands-2025-%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Predator Badlands (2025) พรีเดเตอร์ แดนเถื่อน
+https://main.24playerhd.com/newplaylist/2360ef5b8c1ddac78b174faa/2360ef5b8c1ddac78b174faa438.m3u8
+
 #EXTINF:-1 tvg-logo="https://9nung.com/wp-content/uploads/2025/10/bGayfYtfdkzttIKrGU6ApeVxIPc-185x278.jpg" group-title="📺 ดูหนังออนไลน์" ,Doraemon the Movie Nobita s Art World Tales (2025) โดราเอมอน เดอะมูฟวี่ เรื่องราวในโลกภาพวาดของโนบิตะ
 https://media-asset.fembed.co/rP_0IXg6k-i3y/video.m3u8
 #EXTINF:-1 tvg-logo="https://9nung.com/wp-content/uploads/2025/11/7MSluuPJEw0EfYc7wPb5Oa5iy3B-185x278.jpg" group-title="📺 ดูหนังออนไลน์" ,4 Tigers (2025) เสือ
