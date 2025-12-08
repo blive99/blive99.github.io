@@ -1,0 +1,33 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# ตัวหลัก (url ที่ 4)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch4
+http://vip.tvgiganten.com:25461/play/live.php?mac=00:1A:79:C2:27:5C&stream=563004&extension=m3u8
+# ตัวหลัก (url ที่ 1)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C2:27:5C&stream=563004&extension=m3u8
+# ตัวหลัก (url ที่ 2)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:C2:27:5C&stream=563004&extension=m3u8
+# ตัวหลัก (url ที่ 3)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch3
+http://trekronor.tv:2095/play/live.php?mac=00:1A:79:C2:27:5C&stream=563004&extension=m3u8
+# ตัวหลัก (url ที่ 5)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch5
+http://viafnatt.tv:2095/play/live.php?mac=00:1A:79:C2:27:5C&stream=563004&extension=m3u8
+# ตัวหลัก (url ที่ 6)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch6
+http://nordicone.eu:2095/play/live.php?mac=00:1A:79:C2:27:5C&stream=563004&extension=m3u8
+# ตัวหลัก (url ที่ 7)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch7
+http://vip.4kiptv.pro:2095/play/live.php?mac=00:1A:79:C2:27:5C&stream=563004&extension=m3u8
+# ตัวหลัก (url ที่ 8)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch8
+http://superbits.tv:2095/play/live.php?mac=00:1A:79:C2:27:5C&stream=563004&extension=m3u8
+# ตัวหลัก (url ที่ 9)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch9
+http://mypanel.be:2095/play/live.php?mac=00:1A:79:C2:27:5C&stream=563004&extension=m3u8
+# ตัวหลัก (url ที่ 10)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch10
+http://ultratv.one:2095/play/live.php?mac=00:1A:79:C2:27:5C&stream=563004&extension=m3u8
