@@ -24,7 +24,7 @@ https://blive99.github.io/m3u8/sporttv/seagame1.m3u8
 https://blive99.github.io/m3u8/sporttv/seagame2.m3u8
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://storage.googleapis.com/seagames-2025.firebasestorage.app/medium/content/SG(2)-STORY04-29052025/SGC%20FB%20post%20-%20930%20x%20630%20px-1_0.png" group-title="📺 VIP SPORT",SEA Games 3
 https://blive99.github.io/m3u8/sporttv/seagame3.m3u8
-#EXTINF:-1  tvg-id="576059" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", SEA Games CH01
+#EXTINF:-1  tvg-id="576059" group-title="📺 VIP SPORT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", SEA Games CH01
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
 https://ls-mp03.eo-edgefunctions7.com/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
@@ -2403,8 +2403,12 @@ https://main.24playerhd.com/newplaylist/01a4753ca2acdf149be5b599/01a4753ca2acdf1
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
-#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูหนังออนไลน์" ,The Believers 2 (2025) สาธุ 2
-https://main.24playerhd.com/newplaylist/92b6b305d84666532f99147d/92b6b305d84666532f99147d438.m3u8
+#EXTINF:-1 tvg-logo="https://www.finsliqblog.com/wp-content/uploads/2025/11/Troll-2-2025.webp" group-title="📺 ดูหนังออนไลน์" ,Troll 2 (2025) โทรลล์ 2
+#EXTVLCOPT:http-referrer=https://www.finsliqblog.com/
+https://player77hdfree.xyz/19fa9d7e-a08b-44d2-8073-fbbdf88d9943/0
+
+
+
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Frankenstein-2025-%E0%B9%81%E0%B8%9F%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%99%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%99%E0%B9%8C-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Frankenstein (2025) แฟรงเกนสไตน์
 https://main.24playerhd.com/newplaylist/a89ced62cc1a3231f9f652e8/a89ced62cc1a3231f9f652e8438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Predator-Badlands-2025-%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Predator Badlands (2025) พรีเดเตอร์ แดนเถื่อน
@@ -2499,6 +2503,24 @@ https://main.24playerhd.com/newplaylist/4e9114e0bd0246a439fc73c5/4e9114e0bd0246a
 
 --------------------------------------------------------------------------------------
 ####ดูซีรี####
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์", ,The Believers 2 (2025) สาธุ 2 EP1
+https://main.24playerhd.com/newplaylist/92b6b305d84666532f99147d/92b6b305d84666532f99147d438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์", ,The Believers 2 (2025) สาธุ 2 EP2
+https://main.24playerhd.com/newplaylist/66f74392ff5640fa08983aea/66f74392ff5640fa08983aea438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์", ,The Believers 2 (2025) สาธุ 2 EP3
+https://main.24playerhd.com/newplaylist/0b4bc263e5168cdeb0c0c930/0b4bc263e5168cdeb0c0c930438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์", ,The Believers 2 (2025) สาธุ 2 EP4
+https://main.24playerhd.com/newplaylist/4eb825162c7b6f6cca177391/4eb825162c7b6f6cca177391438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์", ,The Believers 2 (2025) สาธุ 2 EP5
+https://main.24playerhd.com/newplaylist/3f1ad1af65b4b40363a0d732/3f1ad1af65b4b40363a0d732438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์", ,The Believers 2 (2025) สาธุ 2 EP6
+https://main.24playerhd.com/newplaylist/fa54cae7749236ae0f0a5332/fa54cae7749236ae0f0a5332438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์", ,The Believers 2 (2025) สาธุ 2 EP7
+https://main.24playerhd.com/newplaylist/a4a30e4a588b5a7cc5b72425/a4a30e4a588b5a7cc5b72425438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์", ,The Believers 2 (2025) สาธุ 2 EP8
+https://main.24playerhd.com/newplaylist/845c34f9ccd06f00971150c2/845c34f9ccd06f00971150c2438.m3u8
+
+
 #EXTINF:1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Squid-Game-The-Challenge-Season-2-2025-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B8%88%E0%B9%8C-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-2-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Squid Game The Challenge Season 2 (2025) สควิดเกม เดอะ ชาเลนจ์ ซีซั่น  2 EP1
 https://main.24playerhd.com/newplaylist/27b4eee9034069169f0e9645/27b4eee9034069169f0e9645438.m3u8
 #EXTINF:1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/11/Squid-Game-The-Challenge-Season-2-2025-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B8%88%E0%B9%8C-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-2-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Squid Game The Challenge Season 2 (2025) สควิดเกม เดอะ ชาเลนจ์ ซีซั่น  2 EP2
