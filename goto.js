@@ -42,6 +42,14 @@ https://blive99.github.io/m3u8/sporttv/seagame8.m3u8
 https://blive99.github.io/m3u8/sporttv/seagame9.m3u8
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://storage.googleapis.com/seagames-2025.firebasestorage.app/medium/content/SG(2)-STORY04-29052025/SGC%20FB%20post%20-%20930%20x%20630%20px-1_0.png" group-title="📺 VIP SPORT",SEA Games 10
 https://blive99.github.io/m3u8/sporttv/seagame10.m3u8
+#EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://storage.googleapis.com/seagames-2025.firebasestorage.app/medium/content/SG(2)-STORY04-29052025/SGC%20FB%20post%20-%20930%20x%20630%20px-1_0.png" group-title="📺 VIP SPORT",SEA Games 11
+https://blive99.github.io/m3u8/sporttv/seagame11.m3u8
+#EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://storage.googleapis.com/seagames-2025.firebasestorage.app/medium/content/SG(2)-STORY04-29052025/SGC%20FB%20post%20-%20930%20x%20630%20px-1_0.png" group-title="📺 VIP SPORT",SEA Games 12
+https://blive99.github.io/m3u8/sporttv/seagame12.m3u8
+#EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://storage.googleapis.com/seagames-2025.firebasestorage.app/medium/content/SG(2)-STORY04-29052025/SGC%20FB%20post%20-%20930%20x%20630%20px-1_0.png" group-title="📺 VIP SPORT",SEA Games 13
+https://blive99.github.io/m3u8/sporttv/seagame13.m3u8
+#EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://storage.googleapis.com/seagames-2025.firebasestorage.app/medium/content/SG(2)-STORY04-29052025/SGC%20FB%20post%20-%20930%20x%20630%20px-1_0.png" group-title="📺 VIP SPORT",SEA Games 14
+https://blive99.github.io/m3u8/sporttv/seagame14.m3u8
 
 #EXTINF:-1  tvg-id="576059" group-title="📺 VIP SPORT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", SEA Games CH01
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -298,8 +306,7 @@ http://bestcommt2.github.io/m3u8/true2.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 3
 http://bestcommt2.github.io/m3u8/true3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TrueSportHD4
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://103.114.203.129:8080/live/ott168/ott168/18907.m3u8
+https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 5
 http://bestcommt2.github.io/m3u8/true5.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 7
@@ -969,7 +976,7 @@ https://bestcommt2.github.io/m3u8/true2.m3u8
 https://bestcommt2.github.io/m3u8/true3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 ทรูไอดีทีวี",TrueSportHD4
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://bestcommt2.github.io/m3u8/true4.m3u8
+https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,TrueSport 5
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://bestcommt2.github.io/m3u8/true5.m3u8
@@ -1011,9 +1018,9 @@ https://bestcommt2.github.io/m3u8/trueGOLF.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="true-tennis-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp", TRUE Tennis
 https://bestcommt2.github.io/m3u8/truetennis.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp", TRUE ID Sport
-http://45.144.165.187:8080/live/playid/2535/108.m3u8
+#http://45.144.165.187:8080/live/playid/2535/108.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png", TRUE ID Station
-http://154.215.14.8:8080/live/iptv591@gmail.com/456672/214.m3u8
+#http://154.215.14.8:8080/live/iptv591@gmail.com/456672/214.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="📺 ทรูไอดีทีวี",True Thaifilm
 https://blive99.github.io/m3u8/movietv/Truethaifilm.m3u8
@@ -1050,7 +1057,7 @@ https://blive99.github.io/m3u8/movietv/wb.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
 https://blive99.github.io/m3u8/documentary/Truexzyte.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="D" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 ทรูไอดีทีวี",TRUE DreamWorks
-http://119.59.118.159/live/ch65/xxccxgd134/index.m3u8
+https://blive99.github.io/m3u8/cartoon/truedreamworks.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
 https://blive99.github.io/m3u8/documentary/discoverasia.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
@@ -1058,7 +1065,7 @@ http://66.90.99.154:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=
 #EXTINF:-1 tvg-id="4019" tvg-name="BBC Lifestyles TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 ทรูไอดีทีวี",BBC Lifestyles TH
 http://6395online.com:8080/live/iptv591@gmail.com/456672/140161.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 ทรูไอดีทีวี",TRUE SPARK PLAY
-http://154.215.14.8:8080/live/iptv591@gmail.com/456672/180.m3u8
+#http://154.215.14.8:8080/live/iptv591@gmail.com/456672/180.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://cms.dmpcdn.com/livetv/2022/09/08/e5b667c0-2f27-11ed-9e57-d98920d4c462_webp_original.webp" group-title="📺 ทรูไอดีทีวี",DW
 https://blive99.github.io/m3u8/news/DW.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------
