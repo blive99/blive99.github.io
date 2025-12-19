@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
 http://119.59.118.159/live/ch59/Mariogogo007/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
-http://45.144.165.187:8080/live/xtreamvip/12345/66.m3u8
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776088&extension=m3u8
