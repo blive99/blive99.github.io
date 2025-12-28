@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
+http://jiiiiiilllllav.funtogether.xyz:8080/live/Y6HqlJ43iZ/LO8CzcR4a3/130730.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
+http://jiiiiiilllllav.funtogether.xyz:8080/live/Y6HqlJ43iZ/LO8CzcR4a3/130729.m3u8
