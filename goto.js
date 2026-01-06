@@ -402,9 +402,9 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/AISplay-sport9.jpg" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
-#EXTVLCOPT:http-referrer=https://app.inwtv.org/
+#EXTVLCOPT:http-referrer=https://blive99.github.io
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://6395online.com:8080/live/iptv591@gmail.com/456672/395398.m3u8
+https://blive99.github.io/m3u8/sporttv/aislive9.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="📺 ไทยพรีเมียร์",Playsports48
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
