@@ -62,7 +62,7 @@ https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport02.png" group-title="📺 VIP SPORT",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://blive99.github.io
-https://blive99.github.io/m3u8/sporttv/monomax1.m3u8
+https://blive99.github.io/m3u8/sporttv/monomax2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
 https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
@@ -1712,27 +1712,32 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fashiontv/manifest.mpd
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4gNhVWH.png?v=1.1.1.1" group-title="📺 หนังและบันเทิง"tvg-id="Warner.id" tvg-name="Warner TV", Warner TV
-https://bestcommt2.github.io/m3u8/truewb.m3u8
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="📺 หนังและบันเทิง"tvg-id="mjh-ahm-FAST" tvg-name="Action Hollywood Movies", Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
+#EXTINF:-1 group-title="📺 หนังและบันเทิง" tvg-id="" tvg-logo="http://epg.one/img2/2345.png" ,TLC
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F65BX3TKGTCBZQ/1105/index.m3u8
 
+#EXTINF:-1 group-title="📺 หนังและบันเทิง" tvg-id="" tvg-logo="http://epg.one/img2/3727.png" ,Cinemax
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F65BX3TKGTCBZQ/6985/index.m3u8
+
+#EXTINF:-1 group-title="📺 หนังและบันเทิง" tvg-id="" tvg-logo="http://epg.one/img2/3775.png" ,Warner TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F65BX3TKGTCBZQ/7033/index.m3u8
+
+#EXTINF:-1 group-title="📺 หนังและบันเทิง" tvg-id="" tvg-logo="http://epg.one/img2/2376.png" ,AMC HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F65BX3TKGTCBZQ/1083/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="HITS.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg" group-title="📺 หนังและบันเทิง",Hits
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="📺 หนังและบันเทิง"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",HITS Movies
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits-movies/chunks.m3u8
+#https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits-movies/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
