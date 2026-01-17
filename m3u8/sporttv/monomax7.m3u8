@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/130706.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130706.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130706.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch3
@@ -11,10 +11,10 @@ http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130704.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch5
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130703.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch6
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/130706.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130706.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch7
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/130705.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130705.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch8
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/130704.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130704.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch9
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/130703.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130703.m3u8
