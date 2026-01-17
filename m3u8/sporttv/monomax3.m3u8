@@ -1,12 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/130721.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130721.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf//130722.ts
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch3
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf//130721.ts
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch4
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf//130722.ts
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch5
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf//130722.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130722.m3u8
+
+
