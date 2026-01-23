@@ -20,11 +20,9 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 ###VIP SPORT###
 
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://www.fileinw.com/postor/20250830191812Wsport.jpg" group-title="📺 VIP SPORT",W Sport
-http://superom5.xyz/live/056DC1997A7C/12D4FA6617E8/1052656.m3u8
-#EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/ONE.jfif" group-title="📺 VIP SPORT",ONE Championship
-#http://119.59.118.159/live/ch31/index.m3u8
+#http://superom5.xyz/live/056DC1997A7C/12D4FA6617E8/1052656.m3u8
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="http://45.144.165.187:8080/images/db5e472498bd0b086a3c8671b5273cf4.png" group-title="📺 VIP SPORT",WWE
-http://119.59.118.159/live/ch42/xxccxgd134/index.m3u8
+#http://119.59.118.159/live/ch42/xxccxgd134/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
@@ -246,9 +244,9 @@ http://43.229.79.245:8080/live/premier/reimerp/119704.m3u8
 http://43.229.79.245:8080/live/premier/reimerp/119705.m3u8
 #EXTINF:-1 tvg-id="C5.53.tunarr.com" tvg-name="TCC" tvg-logo="https://img2.pic.in.th/1000533253.png" group-title="📺 PREMIUM PLAY TV",TCC
 http://43.229.79.245:8080/live/premier/reimerp/119706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ซิทคอม&วาไรตี้ ย้อนหลัง" tvg-logo="https://img2.pic.in.th/pic/1000440180.png" group-title="ENT | ความบันเทิง",ซิทคอม&วาไรตี้ ย้อนหลัง
+#EXTINF:-1 tvg-id="" tvg-name="ซิทคอม&วาไรตี้ ย้อนหลัง" tvg-logo="https://img2.pic.in.th/pic/1000440180.png" group-title="📺 PREMIUM PLAY TV",ซิทคอม&วาไรตี้ ย้อนหลัง
 http://43.229.79.245:8080/live/premier/reimerp/31422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTHAI" tvg-logo="https://img2.pic.in.th/pic/1000440182.png" group-title="ENT | ความบันเทิง",SHOWTHAI
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTHAI" tvg-logo="https://img2.pic.in.th/pic/1000440182.png" group-title="📺 PREMIUM PLAY TV",SHOWTHAI
 http://43.229.79.245:8080/live/premier/reimerp/33061.m3u8
 
 
@@ -678,10 +676,7 @@ https://www.livedoomovies.com:4431/02_epl7_720p/playlist.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" ,BeinSportHD 8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/02_epl8_720p/playlist.m3u8
-#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 9
-http://6395online.com:8080/live/iptv591@gmail.com/456672/391441.m3u8
-#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp" ,BeinSportHD 10
-http://6395online.com:8080/live/iptv591@gmail.com/456672/391442.m3u8
+
 
 
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", TRUE Golf Channel
