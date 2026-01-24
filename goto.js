@@ -632,11 +632,11 @@ https://blive99.github.io/m3u8/sporttv/truespotv.m3u8
 #EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/truespotv2.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
-https://ww.dooballfree.vip/live/tpf3/playlist.m3u8
+https://blive99.github.io/m3u8/sporttv/truePremierFootballHD3.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
-https://www.livedoomovies.com:4431/02_PremierHD4_720p/playlist.m3u8
+https://blive99.github.io/m3u8/sporttv/truePremierFootballHD4.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
-https://ww.dooballfree.vip/live/tpf5/playlist.m3u8
+https://blive99.github.io/m3u8/sporttv/truePremierFootballHD5.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
 #EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/truesport1.m3u8
