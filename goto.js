@@ -34,7 +34,7 @@ https://blive99.github.io/m3u8/sporttv/monomax1.m3u8
 https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
-#https://ww.dooballfree.vip/live/monomax-1/playlist.m3u8
+https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/monomax-1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport02.png" group-title="📺 VIP SPORT",MONOMAX2
@@ -43,7 +43,7 @@ https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
 https://blive99.github.io/m3u8/sporttv/monomax2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
-https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
+https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
@@ -59,7 +59,7 @@ https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
 https://blive99.github.io/m3u8/sporttv/monomax3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
-https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
+https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_3HD/playlist.m3u8
@@ -72,7 +72,7 @@ https://blive99.github.io/m3u8/sporttv/monomax4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport04.png" group-title="📺 VIP SPORT",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
-https://ww.dooballfree.vip/live/monomax-4/playlist.m3u8
+https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/monomax-4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_4HD/playlist.m3u8
@@ -85,7 +85,7 @@ https://blive99.github.io/m3u8/sporttv/monomax5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport05.png" group-title="📺 VIP SPORT",MONOMAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
-https://ww.dooballfree.vip/live/monomax-5/playlist.m3u8
+https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/monomax-5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_5HD/playlist.m3u8
@@ -145,27 +145,22 @@ https://blive99.github.io/m3u8/sporttv/monomax10.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png" group-title="📺 VIP SPORT",TRUE SPORT 1
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport1.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport2.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=hhttps://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TrueSportHD4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport5.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport7.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="📺 VIP SPORT",beIN SPORT 1
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
@@ -177,7 +172,7 @@ https://ww.dooballfree.vip/live/bein3/playlist.m3u8
 #EXTINF:-1 tvg-id="9574" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/515_LFCTVRed.png" group-title="📺 VIP SPORT",LFC TV
 https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/516_MUTV_.png" group-title="📺 VIP SPORT",MUTV
-https://ww.dooballfree.vip/live/mutv/playlist.m3u8
+https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/517_RealMadridTV_.png" group-title="📺 VIP SPORT",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
@@ -264,9 +259,9 @@ https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/1080p/index.m3u8
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/at
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela4.live/uploads/1714100840.png" group-title="📺 PREMIUM PLAY TV",tvN-movies
-https://ww.dooballfree.vip/live/tvn-movies/playlist.m3u8
+https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/tvn-movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela4.live/uploads/1716339097.png" group-title="📺 PREMIUM PLAY TV",amc
-https://ww.dooballfree.vip/live/amc/chunks.m3u8
+https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/amc/chunks.m3u8
 
 --------------------------------------------------------------------------------------
 ###BallThai###
@@ -626,34 +621,37 @@ https://blive99.github.io/m3u8/sporttv/nfl.m3u8
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truespotv.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truespotv2.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truePremierFootballHD3.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truePremierFootballHD4.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truePremierFootballHD5.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport1.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",TrueSportHD 2
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport2.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",TrueSportHD 3
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 ทรูไอดีทีวี",TrueSportHD4
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,TrueSport 5
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport5.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,TrueSport 7
-#EXTVLCOPT:http-referrer=https://blive99.github.io
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport7.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
