@@ -3,8 +3,8 @@
 
 # ตัวหลัก (url ที่ 1)
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
 https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
+https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=115537&extension=m3u8
