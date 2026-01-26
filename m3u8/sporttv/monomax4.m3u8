@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-http://45.139.122.199:2095/live/uEhrs33y/aMgpJfY/813036.m3u8
 https://love.tivov68423.workers.dev/lx-origin/th-aismax04_480/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130718.m3u8
