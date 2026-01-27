@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-https://love.pifipa2974.workers.dev/lx-origin/th-hbo_720/chunks.m3u8
+http://xtreamui.thddns.net:3883/proxy/android/livedee/proxy.php?proxy=https://love.pifipa2974.workers.dev/lx-origin/th-hbo_720/chunks.m3u8
