@@ -157,10 +157,10 @@ https://blive99.github.io/m3u8/sporttv/truesport3.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 5
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:http-referrer=https://stream-x.cc/
 https://blive99.github.io/m3u8/sporttv/truesport5.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 7
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:http-referrer=https://stream-x.cc/
 https://blive99.github.io/m3u8/sporttv/truesport7.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="📺 VIP SPORT",beIN SPORT 1
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
@@ -194,7 +194,7 @@ https://nl.utako.moe/js4/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="http://103.114.203.129:8080/images/b803a83090f09b4a29a3acc4c7713390.jpg" group-title="📺 VIP SPORT",AIS NFL Network  51
+#EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="https://cache.streamx-static.cc/images/tv/png/th-aislive51.png" group-title="📺 VIP SPORT",AIS NFL Network  51
 http://119.59.118.168/live/ch72/Ultraman008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AIS NFL Network  52" tvg-logo="http://103.114.203.129:8080/images/1cdf5768cb5d74cdf2f4ad90f48fa074.jpg" group-title="📺 VIP SPORT",AIS NFL Network  52
 #http://6395online.com:8080/live/iptv591@gmail.com/456672/398297.m3u8
@@ -204,6 +204,8 @@ http://119.59.118.168/live/ch72/Ultraman008/index.m3u8
 http://119.59.118.168/live/ch40/Ultraman008/index.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://www.mitihoon.com/wp-content/uploads/2025/08/21-25.jpg" group-title="📺 VIP SPORT",AIS NBA AIS 56
 http://119.59.118.168/live/ch41/Ultraman008/index.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://cache.streamx-static.cc/images/tv/png/th-aisgolf03.png" group-title="📺 VIP SPORT",AIS GOLF AIS 
+https://love.pifipa2974.workers.dev/lx-origin/th-aisgolf03_720/chunks.m3u8
 
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
@@ -644,10 +646,10 @@ https://blive99.github.io/m3u8/sporttv/truesport3.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,TrueSport 5
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:http-referrer=https://stream-x.cc/
 https://blive99.github.io/m3u8/sporttv/truesport5.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,TrueSport 7
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:http-referrer=https://stream-x.cc/
 https://blive99.github.io/m3u8/sporttv/truesport7.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
@@ -663,16 +665,16 @@ https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 https://love.pifipa2974.workers.dev/lx-origin/hd-bein4_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" ,BeinSportHD 5
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://love.pifipa2974.workers.dev/lx-origin/hd-bein4_720/chunks.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/hd-bein5_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" ,BeinSportHD 6
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://love.pifipa2974.workers.dev/lx-origin/hd-bein4_720/chunks.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/hd-bein6_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 7
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://love.pifipa2974.workers.dev/lx-origin/hd-bein4_720/chunks.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" ,BeinSportHD 8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://love.pifipa2974.workers.dev/lx-origin/hd-bein4_720/chunks.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/hd-bein8_720/chunks.m3u8
 
 
 
