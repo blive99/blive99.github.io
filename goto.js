@@ -599,7 +599,7 @@ https://blive99.github.io/m3u8/sporttv/nfl.m3u8
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
-https://love.pifipa2974.workers.dev/lx-origin/hd-spotv2bkp_720/chunks.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/hd-spotvbkp_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truespotv2.m3u8
