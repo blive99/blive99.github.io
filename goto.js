@@ -585,9 +585,9 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="📺 3BB ทีวี", ROCK ENTERTAINMENT
-https://blive99.github.io/m3u8/movietv/rockaction.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/th-blueant_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="📺 3BB ทีวี", ROCK Action
-https://blive99.github.io/m3u8/movietv/rockentertainment.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/th-blueantex_720/chunks.m3u8
 
 --------------------------------------------------------------------------------------
 ###TRUEVISION NOW###
