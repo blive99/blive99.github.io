@@ -142,24 +142,6 @@ http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130728.m3u8
 #EXTVLCOPT:http-referrer=http://bestcommt2.github.io
 https://blive99.github.io/m3u8/sporttv/monomax10.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png" group-title="📺 VIP SPORT",TRUE SPORT 1
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://blive99.github.io/m3u8/sporttv/truesport1.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 2
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://blive99.github.io/m3u8/sporttv/truesport2.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 3
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://blive99.github.io/m3u8/sporttv/truesport3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 VIP SPORT",TrueSportHD4
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 5
-https://blive99.github.io/m3u8/sporttv/truesport5.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 7
-https://blive99.github.io/m3u8/sporttv/truesport7.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="📺 VIP SPORT",beIN SPORT 1
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch7.png" group-title="📺 VIP SPORT",beIN SPORT 2
@@ -645,10 +627,10 @@ https://blive99.github.io/m3u8/sporttv/truesport3.m3u8
 https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,TrueSport 5
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://blive99.github.io/m3u8/sporttv/truesport5.m3u8
+https://blive99.github.io/m3u8/sporttv/truesport5bkp.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,TrueSport 7
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://blive99.github.io/m3u8/sporttv/truesport7.m3u8
+https://blive99.github.io/m3u8/sporttv/truesport7bkp.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/02_epl1_720p/playlist.m3u8
