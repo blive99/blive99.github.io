@@ -157,10 +157,8 @@ https://blive99.github.io/m3u8/sporttv/truesport3.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 5
-#EXTVLCOPT:http-referrer=https://stream-x.cc/
 https://blive99.github.io/m3u8/sporttv/truesport5.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="📺 VIP SPORT",TRUE SPORT 7
-#EXTVLCOPT:http-referrer=https://stream-x.cc/
 https://blive99.github.io/m3u8/sporttv/truesport7.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="📺 VIP SPORT",beIN SPORT 1
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
