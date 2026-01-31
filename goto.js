@@ -2167,3 +2167,23 @@ https://main.24playerhd.com/newplaylist/74d03192795c1265b432b754/74d03192795c126
 #EXTINF:1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Alice-in-Borderland-Season-3-2025-%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-3-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Alice in Borderland Season 3 (2025) อลิสในแดนมรณะ ซีซั่น 3  EP 6
 https://main.24playerhd.com/newplaylist/0ac0da9944d3ee76504a9d80/0ac0da9944d3ee76504a9d80438.m3u8
 --------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+####DOOMXXX####
+
+#EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH1
+https://love.pifipa2974.workers.dev/lx-origin/xxx-01_720/chunks.m3u8
+#EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH2
+https://love.pifipa2974.workers.dev/lx-origin/xxx-02_720/chunks.m3u8
+#EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH3
+https://love.pifipa2974.workers.dev/lx-origin/xxx-03_720/chunks.m3u8
+#EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH4
+https://love.pifipa2974.workers.dev/lx-origin/xxx-04_720/chunks.m3u8
+#EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH5
+https://love.pifipa2974.workers.dev/lx-origin/xxx-05_720/chunks.m3u8
+#EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH6
+https://love.pifipa2974.workers.dev/lx-origin/xxx-06_720/chunks.m3u8
+#EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH7
+https://love.pifipa2974.workers.dev/lx-origin/xxx-07_720/chunks.m3u8
+#EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH8
+https://love.pifipa2974.workers.dev/lx-origin/xxx-08_720/chunks.m3u8
