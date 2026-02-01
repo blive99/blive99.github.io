@@ -2114,10 +2114,10 @@ https://love.pifipa2974.workers.dev/lx-origin/xxx-08_720/chunks.m3u8
 ####TEST####
 #EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH1
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
-https://cdn2.googlecdnforstreaming.live/tubtoeball/playsportsfootball2/playlist.m3u8
+https://cdn2.googlecdnforstreaming.live/tubtoeball/playsportsfootball2/chunks.m3u8
 #EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH2
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
-https://cdn2.googlecdnforstreaming.live/tubtoeball/playsportsfootball1/playlist.m3u8
+https://cdn2.googlecdnforstreaming.live/tubtoeball/playsportsfootball1/chunks.m3u8
 #EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH3
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
 https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-2/chunks.m3u8
