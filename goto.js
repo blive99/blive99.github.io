@@ -22,8 +22,7 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://www.fileinw.com/postor/20250830191812Wsport.jpg" group-title="📺 VIP SPORT",W Sport
 #http://superom5.xyz/live/056DC1997A7C/12D4FA6617E8/1052656.m3u8
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="http://45.144.165.187:8080/images/db5e472498bd0b086a3c8671b5273cf4.png" group-title="📺 VIP SPORT",WWE
-#http://119.59.118.159/live/ch42/xxccxgd134/index.m3u8
-
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A2:29:95&stream=1641617&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -2115,13 +2114,16 @@ https://love.pifipa2974.workers.dev/lx-origin/xxx-08_720/chunks.m3u8
 ####TEST####
 #EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH1
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
-https://cdn2.googlecdnforstreaming.live/tubtoeball/trueballthai1/playlist.m3u8
+https://cdn2.googlecdnforstreaming.live/tubtoeball/playsportsfootball2/playlist.m3u8
 #EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH2
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
-https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-1/chunks.m3u8
+https://cdn2.googlecdnforstreaming.live/tubtoeball/playsportsfootball1/playlist.m3u8
 #EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH3
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
 https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-2/chunks.m3u8
 #EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH4
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
-https://cdn2.googlecdnforstreaming.live/tubtoeball/filmhd/chunks.m3u8
+https://cdn2.googlecdnforstreaming.live/tubtoeball/ch20/chunks.m3u8
+#EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH5
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/ch01/chunks.m3u8
