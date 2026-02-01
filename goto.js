@@ -436,20 +436,6 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS050/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL031/DASH/TL031.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MuangthongUnited.png" group-title="BALLTHAI",MuangthongUnited
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL032/DASH/TL032.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MuangthongUnited.png" group-title="BALLTHAI",MuangthongUnited
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL033/DASH/TL033.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MuangthongUnited.png" group-title="BALLTHAI",MuangthongUnited
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL034/DASH/TL034.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MuangthongUnited.png" group-title="BALLTHAI",MuangthongUnited
@@ -477,11 +463,6 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL038/DASH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL039/DASH/TL039.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MuangthongUnited.png" group-title="BALLTHAI",MuangthongUnited
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL040/DASH/TL040.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
 
 
 --------------------------------------------------------------------------------------
@@ -2263,7 +2244,7 @@ https://love.pifipa2974.workers.dev/lx-origin/xxx-08_720/chunks.m3u8
 https://cdn2.googlecdnforstreaming.live/tubtoeball/playsportsfootball2/chunks.m3u8
 #EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH2
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
-https://cdn2.googlecdnforstreaming.live/tubtoeball/playsportsfootball1/chunks.m3u8
+https://cdn2.googlecdnforstreaming.live/tubtoeball/playsportsfootball8/chunks.m3u8
 #EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH3
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
 https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-2/chunks.m3u8
@@ -2272,4 +2253,4 @@ https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-2/chunks.m3u8
 https://cdn2.googlecdnforstreaming.live/tubtoeball/ch20/chunks.m3u8
 #EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH5
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
-https://cdn2.googlecdnforstreaming.live/tubtoeball/ch01/chunks.m3u8
+https://cdn2.googlecdnforstreaming.live/tubtoeball/ch7/chunks.m3u8
