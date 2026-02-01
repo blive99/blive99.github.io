@@ -143,16 +143,19 @@ http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130728.m3u8
 https://blive99.github.io/m3u8/sporttv/monomax10.m3u8
 
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="📺 VIP SPORT",beIN SPORT 1
-https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch7.png" group-title="📺 VIP SPORT",beIN SPORT 2
-https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch8.png" group-title="📺 VIP SPORT",beIN SPORT 3
-https://ww.dooballfree.vip/live/bein3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein3/chunks.m3u8
 
 #EXTINF:-1 tvg-id="9574" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/515_LFCTVRed.png" group-title="📺 VIP SPORT",LFC TV
-https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
+https://blive99.github.io/m3u8/sporttv/LFC-TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/516_MUTV_.png" group-title="📺 VIP SPORT",MUTV
-https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/mutv/playlist.m3u8
+https://blive99.github.io/m3u8/sporttv/MU-TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/517_RealMadridTV_.png" group-title="📺 VIP SPORT",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
@@ -609,22 +612,23 @@ https://love.pifipa2974.workers.dev/lx-origin/hd-spotvbkp_720/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truespotv2.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
-http://119.59.118.168/live/ch43/Ultraman008/index.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tpf3/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
-#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
-https://ww.dooballfree.vip/live/tpf4/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tpf4/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
 #EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
 https://ww.dooballfree.vip/live/tpf5/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://blive99.github.io/m3u8/sporttv/truesport1.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp1/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",TrueSportHD 2
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://blive99.github.io/m3u8/sporttv/truesport2.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp2/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",TrueSportHD 3
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://blive99.github.io/m3u8/sporttv/truesport3.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp3/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 ทรูไอดีทีวี",TrueSportHD4
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
@@ -635,30 +639,29 @@ https://blive99.github.io/m3u8/sporttv/truesport5bkp.m3u8
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
 https://blive99.github.io/m3u8/sporttv/truesport7bkp.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4431/02_epl1_720p/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein2/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,BeinSportHD 3
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein3/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" ,BeinSportHD 4
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://love.pifipa2974.workers.dev/lx-origin/hd-bein4_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein4/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" ,BeinSportHD 5
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://love.pifipa2974.workers.dev/lx-origin/hd-bein5_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein5/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" ,BeinSportHD 6
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://love.pifipa2974.workers.dev/lx-origin/hd-bein6_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein6/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 7
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://love.pifipa2974.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein7/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" ,BeinSportHD 8
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://love.pifipa2974.workers.dev/lx-origin/hd-bein8_720/chunks.m3u8
-
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein8/chunks.m3u8
 
 
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", TRUE Golf Channel
