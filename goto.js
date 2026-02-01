@@ -386,29 +386,29 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL028/DASH
 
 
 
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports48.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS 48
+
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports48.png" group-title="AIS PLAY SPORT",PLAY SPORTS 48
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports49.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS 49
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports49.png" group-title="AIS PLAY SPORT",PLAY SPORTS 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/TL104.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports50.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS 50
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports50.png" group-title="AIS PLAY SPORT",PLAY SPORTS 50
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="📺 ไทยพรีเมียร์",VolleyballPEA
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="AIS PLAY SPORT",VolleyballPEA
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/PS042/HLS/PS042.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="📺 ไทยพรีเมียร์",VolleyballPEA 2
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="AIS PLAY SPORT",VolleyballPEA 2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS043/HLS/PS043.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="📺 ไทยพรีเมียร์",VolleyballPEA 3
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="AIS PLAY SPORT",VolleyballPEA 3
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS044/HLS/PS044.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
@@ -416,50 +416,41 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS044/HLS/
 
 
 
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="BALLTHAI",VolleyballPEA 3
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/w1200876bbf210fd8bdbe.jpg" group-title="AIS PLAY SPORT",ATP TOUR TENNIS - AIS
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS046/HLS/PS046.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="BALLTHAI",VolleyballPEA 3
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS049/HLS/PS049.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="BALLTHAI",VolleyballPEA 3
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS050/HLS/PS050.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/BuriramUnited.png" group-title="BALLTHAI",BuriramUnited
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/BuriramUnited.png" group-title="AIS PLAY SPORT",THAI WOMEN'S LEAGUE 1 - AIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL031/DASH/TL031.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MuangthongUnited.png" group-title="BALLTHAI",MuangthongUnited
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.pic.in.th/ico-logo-womens-league2.jpg" group-title="AIS PLAY SPORT",THAI WOMEN'S LEAGUE 2 - AIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL035/DASH/TL035.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MuangthongUnited.png" group-title="BALLTHAI",MuangthongUnited
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.pic.in.th/ico-logo-womens-league2.jpg" group-title="AIS PLAY SPORT",THAI WOMEN'S LEAGUE 2 - AIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL036/DASH/TL036.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MuangthongUnited.png" group-title="BALLTHAI",MuangthongUnited
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.pic.in.th/ico-logo-womens-league2.jpg" group-title="AIS PLAY SPORT",THAI WOMEN'S LEAGUE 2 - AIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL037/DASH/TL037.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MuangthongUnited.png" group-title="BALLTHAI",MuangthongUnited
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.pic.in.th/ico-logo-womens-league2.jpg" group-title="AIS PLAY SPORT",THAI WOMEN'S LEAGUE 2 - AIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL038/DASH/TL038.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MuangthongUnited.png" group-title="BALLTHAI",MuangthongUnited
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.pic.in.th/ico-logo-womens-league2.jpg" group-title="AIS PLAY SPORT",THAI WOMEN'S LEAGUE 2 - AIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL039/DASH/TL039.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=6137fc0cd1f872790b96a3695ed70ab1&chunkHttps=true&tmid=B0003&tpbk=btX7uviCv3o8Qr9z&rrt=1769934901&tmod=rfk&rsid=fe75a83f-818c-4334-be6f-b6d484d66d59&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1770021301
