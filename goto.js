@@ -2110,3 +2110,18 @@ https://love.pifipa2974.workers.dev/lx-origin/xxx-06_720/chunks.m3u8
 https://love.pifipa2974.workers.dev/lx-origin/xxx-07_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH8
 https://love.pifipa2974.workers.dev/lx-origin/xxx-08_720/chunks.m3u8
+
+--------------------------------------------------------------------------------------
+####TEST####
+#EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH1
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/trueballthai1/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH2
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-1/chunks.m3u8
+#EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH3
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-2/chunks.m3u8
+#EXTINF:1 tvg-logo="" group-title="📺 TEST",TEST CH4
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/filmhd/chunks.m3u8
