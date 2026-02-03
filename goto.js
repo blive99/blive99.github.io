@@ -21,7 +21,7 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://www.fileinw.com/postor/20250830191812Wsport.jpg" group-title="📺 VIP SPORT",W Sport
 #http://superom5.xyz/live/056DC1997A7C/12D4FA6617E8/1052656.m3u8
-#EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="http://45.144.165.187:8080/images/db5e472498bd0b086a3c8671b5273cf4.png" group-title="📺 VIP SPORT",WWE
+#EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://bestcommt2.github.io/logo/sport/wwe-network-logo.jpg" group-title="📺 VIP SPORT",WWE
 https://wandering-oldman.github.io/server2/app24-alwan-sport-WWE.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="📺 VIP SPORT",MONOMAX1
