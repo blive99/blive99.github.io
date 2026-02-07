@@ -32,8 +32,8 @@ https://blive99.github.io/m3u8/sporttv/monomax1.m3u8
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
-https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/monomax-1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball66w.com/
+https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/02/HIpSfgMjM9YzmeIBONjA9w/1c8a527e032333d63399e20138d8c0f7/1770481912/th-monomax01_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport02.png" group-title="📺 VIP SPORT",MONOMAX2
@@ -41,8 +41,8 @@ https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/monomax-1/playlist.
 #EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/monomax2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
-https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball66w.com/
+https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/02/HIpSfgMjM9YzmeIBONjA9w/1c8a527e032333d63399e20138d8c0f7/1770481912/th-monomax02_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
@@ -57,8 +57,8 @@ https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/monomax3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
-https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball66w.com/
+https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/02/HIpSfgMjM9YzmeIBONjA9w/1c8a527e032333d63399e20138d8c0f7/1770481912/th-monomax03_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_3HD/playlist.m3u8
@@ -70,8 +70,8 @@ https://www.livedoomovies.com:4431/Monomax_PL_3HD/playlist.m3u8
 https://blive99.github.io/m3u8/sporttv/monomax4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport04.png" group-title="📺 VIP SPORT",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
-https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/monomax-4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball66w.com/
+https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/02/HIpSfgMjM9YzmeIBONjA9w/1c8a527e032333d63399e20138d8c0f7/1770481912/th-monomax04_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_4HD/playlist.m3u8
@@ -83,8 +83,8 @@ https://www.livedoomovies.com:4431/Monomax_PL_4HD/playlist.m3u8
 https://blive99.github.io/m3u8/sporttv/monomax5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport05.png" group-title="📺 VIP SPORT",MONOMAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
-https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/monomax-5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball66w.com/
+https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/02/HIpSfgMjM9YzmeIBONjA9w/1c8a527e032333d63399e20138d8c0f7/1770481912/th-monomax05_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_5HD/playlist.m3u8
@@ -100,7 +100,9 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_Live_6HD/chunklist.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66w.com/
+https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/02/HIpSfgMjM9YzmeIBONjA9w/1c8a527e032333d63399e20138d8c0f7/1770481912/th-monomax06_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX 7" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport07.png" group-title="📺 VIP SPORT",MONOMAX 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -112,7 +114,9 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_Live_7HD/chunklist.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66w.com/
+https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/02/HIpSfgMjM9YzmeIBONjA9w/1c8a527e032333d63399e20138d8c0f7/1770481912/th-monomax07_720/chunks.m3u8
 
 
 
@@ -123,23 +127,36 @@ https://blive99.github.io/m3u8/sporttv/monomax8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_Live_8HD/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66w.com/
+https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/02/HIpSfgMjM9YzmeIBONjA9w/1c8a527e032333d63399e20138d8c0f7/1770481912/th-monomax08_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport09.png" group-title="📺 VIP SPORT",MONOMAX 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/monomax9.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66w.com/
+https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/02/HIpSfgMjM9YzmeIBONjA9w/1c8a527e032333d63399e20138d8c0f7/1770481912/th-monomax09_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport010.png" group-title="📺 VIP SPORT",MONOMAX 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/monomax10.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66w.com/
+https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/02/HIpSfgMjM9YzmeIBONjA9w/1c8a527e032333d63399e20138d8c0f7/1770481912/th-monomax10_720/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport011.png" group-title="📺 VIP SPORT",MONOMAX 11
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130728.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://bestcommt2.github.io
-https://blive99.github.io/m3u8/sporttv/monomax10.m3u8
+https://blive99.github.io/m3u8/sporttv/monomax11.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66w.com/
+https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/02/HIpSfgMjM9YzmeIBONjA9w/1c8a527e032333d63399e20138d8c0f7/1770481912/th-monomax11_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="📺 VIP SPORT",beIN SPORT 1
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
