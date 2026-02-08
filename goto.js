@@ -2064,14 +2064,19 @@ https://main.24playerhd.com/newplaylist/dd36371e547176bf541a3a34/dd36371e547176b
 https://main.24playerhd.com/newplaylist/c4fd2c7a2b1ca863873037a6/c4fd2c7a2b1ca863873037a6438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Afterburn-2025-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,Afterburn (2025) ล่าขุมทรัพย์แดนแดดเดือด
 https://main.24playerhd.com/newplaylist/942f8022afde7d5db7416ca6/942f8022afde7d5db7416ca6438.m3u8
-#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/10/Death-Whisperer-3-2025-%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%94-3-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,Death Whisperer 3 (2025) ธี่หยด 3
-https://main.24playerhd.com/newplaylist/6a66306122f5ca1b6cab6905/6a66306122f5ca1b6cab6905438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/10/Tron-Ares-2025-%E0%B8%97%E0%B8%A3%E0%B8%AD%E0%B8%99-%E0%B9%81%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B8%AA-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,Tron Ares (2025) ทรอน แอรีส
 https://main.24playerhd.com/newplaylist/01a4753ca2acdf149be5b599/01a4753ca2acdf149be5b599438.m3u8
 
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIES####
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Deaw-Still-Alive-2026-%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-%E0%B8%AA%E0%B8%95%E0%B8%B5%E0%B8%A5-%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Deaw Still Alive (2026) เดี่ยว สตีล อะไลฟ์
+https://main.24playerhd.com/newplaylist/fb24105d68f2b4f428909236/fb24105d68f2b4f428909236438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/10/Death-Whisperer-3-2025-%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%94-3-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน"  ,Death Whisperer 3 (2025) ธี่หยด 3
+https://main.24playerhd.com/newplaylist/abd82a71ec04762c078c4432/abd82a71ec04762c078c4432438.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/11/Art-Of-The-Devil-2004-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Art Of The Devil (2004) คนเล่นของ
 https://main.24playerhd.com/newplaylist/38f79789164051a25d820605/38f79789164051a25d820605438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/11/Art-Of-The-Devil-2-2005-%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Art Of The Devil 2 (2005) ลองของ
@@ -2265,6 +2270,8 @@ https://main.24playerhd.com/newplaylist/0f8d16b83ec96496e5e8bee9/0f8d16b83ec9649
 https://main.24playerhd.com/newplaylist/74d03192795c1265b432b754/74d03192795c1265b432b754438.m3u8
 #EXTINF:1 tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/09/Alice-in-Borderland-Season-3-2025-%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-3-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์",Alice in Borderland Season 3 (2025) อลิสในแดนมรณะ ซีซั่น 3  EP 6
 https://main.24playerhd.com/newplaylist/0ac0da9944d3ee76504a9d80/0ac0da9944d3ee76504a9d80438.m3u8
+
+
 --------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------
