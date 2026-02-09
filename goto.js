@@ -2188,6 +2188,23 @@ https://main.24playerhd.com/newplaylist/5705fa7f5f341beee61148f6/5705fa7f5f341be
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/09/Osiris-2025-%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C-187x269.png" group-title="📺 ดูหนังออนไลน์" ,Osiris (2025) มฤตยูล้างพันธุ์มนุษย์
 https://main.24playerhd.com/newplaylist/4e9114e0bd0246a439fc73c5/4e9114e0bd0246a439fc73c5438.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-1-And-The-Sorcerers-Stone-2001-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter and the Sorcerer’s Stone (2001) แฮร์รี่ พอตเตอร์กับศิลาอาถรรพ์ 1
+https://meeplayer.com/filesr2/744aa59a9cdd83dfa4d43f291dd42320/720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-2-And-The-Chamber-Of-Secrets-2002-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 2 And The Chamber Of Secrets (2002) แฮร์รี่ พอตเตอร์ 2 กับห้องแห่งความลับ
+https://meeplayer.com/filesr2/85de8a75a4bd8bfd6bcb25637645c004/720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-3-And-The-Prisoner-Of-Azkaban-2004-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 3 And The Prisoner Of Azkaban (2004) แฮร์รี่ พอตเตอร์ 3
+https://main.24playerhd.com/newplaylist/b27c04bf1ffd56ae90449cfa/b27c04bf1ffd56ae90449cfa438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-4-And-The-Goblet-Of-Fire-2005-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 4 And The Goblet Of Fire (2005) แฮร์รี่ พอตเตอร์ 4 กับถ้วย
+https://main.24playerhd.com/newplaylist/1facf185181e88daddf8d8c7/1facf185181e88daddf8d8c7438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-5-And-The-Order-Of-The-Phoenix-2007-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 5 And The Order Of The Phoenix (2007) แฮร์รี่ พอตเตอร์ 5
+https://main.24playerhd.com/newplaylist/495b645e5ceb7a677f3e183c/495b645e5ceb7a677f3e183c438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-6-And-The-Half-Blood-Prince-2009-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 6 And The Half-Blood Prince (2009) แฮร์รี่ พอตเตอร์ 6 กับเจ้าชายเลือดผสม
+https://cdn.meeplayer.com/files/a9ea87fdfd2696cfcc59cc31c88ca933/720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-7-And-The-Deathly-Hallows-Part-1-2010-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 7 And The Deathly Hallows Part 1 (2010) แฮร์รี่ พอตเตอร์ เครื่องรางยมฑูต ตอน 1
+https://main.24playerhd.com/newplaylist/ed6df56148009c0adbccec49/ed6df56148009c0adbccec49438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-7-And-The-Deathly-Hallows-Part-2-2011-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 7 And The Deathly Hallows Part 2 (2011) แฮร์รี่ พอตเตอร์ เครื่องรางยมฑูต ตอน 2
+https://cdn.meeplayer.com/files/31a0fd6cf8861959b3f46a79b609f8f0/720/index.m3u8
+
 --------------------------------------------------------------------------------------
 ####ดูซีรี####
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์", ,The Believers 2 (2025) สาธุ 2 EP1
