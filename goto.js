@@ -2199,11 +2199,11 @@ https://main.24playerhd.com/newplaylist/1facf185181e88daddf8d8c7/1facf185181e88d
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-5-And-The-Order-Of-The-Phoenix-2007-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 5 And The Order Of The Phoenix (2007) แฮร์รี่ พอตเตอร์ 5
 https://main.24playerhd.com/newplaylist/495b645e5ceb7a677f3e183c/495b645e5ceb7a677f3e183c438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-6-And-The-Half-Blood-Prince-2009-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 6 And The Half-Blood Prince (2009) แฮร์รี่ พอตเตอร์ 6 กับเจ้าชายเลือดผสม
-https://cdn.meeplayer.com/files/a9ea87fdfd2696cfcc59cc31c88ca933/720/index.m3u8
+https://main.24playerhd.com/newplaylist/97ebf3c241d38ce97ad9a07c/97ebf3c241d38ce97ad9a07c438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-7-And-The-Deathly-Hallows-Part-1-2010-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 7 And The Deathly Hallows Part 1 (2010) แฮร์รี่ พอตเตอร์ เครื่องรางยมฑูต ตอน 1
 https://main.24playerhd.com/newplaylist/ed6df56148009c0adbccec49/ed6df56148009c0adbccec49438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-7-And-The-Deathly-Hallows-Part-2-2011-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 7 And The Deathly Hallows Part 2 (2011) แฮร์รี่ พอตเตอร์ เครื่องรางยมฑูต ตอน 2
-https://cdn.meeplayer.com/files/31a0fd6cf8861959b3f46a79b609f8f0/720/index.m3u8
+https://main.24playerhd.com/newplaylist/62ba862abb6bbea4010c8f31/62ba862abb6bbea4010c8f31438.m3u8
 
 --------------------------------------------------------------------------------------
 ####ดูซีรี####
