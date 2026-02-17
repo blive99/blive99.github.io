@@ -243,22 +243,22 @@ http://49.0.64.96:8007/WSCI
 #EXTINF:-1 tvg-logo="https://www.upload.ee/image/18801878/hicable1.png" group-title="📺 PREMIUM PLAY TV",Super Joke
 http://49.0.64.96:8007/SUPERJOKE
 
-#EXTINF:-1 tvg-id="" tvg-name="ITS" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000533262.png" group-title="📺 PREMIUM PLAY TV",ITS
-http://43.229.79.245:8080/live/premier/reimerp/101611.m3u8
-#EXTINF:-1 tvg-id="C3.51.tunarr.com" tvg-name="ASS" tvg-logo="https://img2.pic.in.th/1000533263.png" group-title="📺 PREMIUM PLAY TV",ASS
-http://43.229.79.245:8080/live/premier/reimerp/119707.m3u8
-#EXTINF:-1 tvg-id="C4.52.tunarr.com" tvg-name="TDC" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000533261.png" group-title="📺 PREMIUM PLAY TV",TDC
-http://43.229.79.245:8080/live/premier/reimerp/119703.m3u8
-#EXTINF:-1 tvg-id="C2.50.tunarr.com" tvg-name="IMC" tvg-logo="https://img2.pic.in.th/1000533252.png" group-title="📺 PREMIUM PLAY TV",IMC
-http://43.229.79.245:8080/live/premier/reimerp/119704.m3u8
-#EXTINF:-1 tvg-id="C3.51.tunarr.com" tvg-name="AMC" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000533251.png" group-title="📺 PREMIUM PLAY TV",AMC
-http://43.229.79.245:8080/live/premier/reimerp/119705.m3u8
-#EXTINF:-1 tvg-id="C5.53.tunarr.com" tvg-name="TCC" tvg-logo="https://img2.pic.in.th/1000533253.png" group-title="📺 PREMIUM PLAY TV",TCC
-http://43.229.79.245:8080/live/premier/reimerp/119706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ซิทคอม&วาไรตี้ ย้อนหลัง" tvg-logo="https://img2.pic.in.th/pic/1000440180.png" group-title="📺 PREMIUM PLAY TV",ซิทคอม&วาไรตี้ ย้อนหลัง
-http://43.229.79.245:8080/live/premier/reimerp/31422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTHAI" tvg-logo="https://img2.pic.in.th/pic/1000440182.png" group-title="📺 PREMIUM PLAY TV",SHOWTHAI
-http://43.229.79.245:8080/live/premier/reimerp/33061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITS" tvg-logo="https://www.kindpng.com/picc/m/8-80652_world-movies-logo-png-transparent-png.png" group-title="📺 PREMIUM PLAY TV",Movies_World_1
+http://flussictv.ddns.net:9091/Movies_World_1/index.m3u8
+#EXTINF:-1 tvg-id="C3.51.tunarr.com" tvg-name="ASS" tvg-logo="https://www.kindpng.com/picc/m/8-80652_world-movies-logo-png-transparent-png.png" group-title="📺 PREMIUM PLAY TV",Movies_World_2
+http://flussictv.ddns.net:9091/Movies_World_2/index.m3u8
+#EXTINF:-1 tvg-id="C4.52.tunarr.com" tvg-name="TDC" tvg-logo="https://www.kindpng.com/picc/m/8-80652_world-movies-logo-png-transparent-png.png" group-title="📺 PREMIUM PLAY TV",Movies_World_3
+http://flussictv.ddns.net:9091/Movies_World_3/index.m3u8
+#EXTINF:-1 tvg-id="C2.50.tunarr.com" tvg-name="IMC" tvg-logo="https://www.kindpng.com/picc/m/8-80652_world-movies-logo-png-transparent-png.png" group-title="📺 PREMIUM PLAY TV",Movies_World_4
+http://flussictv.ddns.net:9091/Movies_3/index.m3u8
+#EXTINF:-1 tvg-id="C3.51.tunarr.com" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/330px-Star_Gold_2020.svg.png" group-title="📺 PREMIUM PLAY TV",Star_Gold
+http://flussictv.ddns.net:9091/Star_Gold/index.m3u8
+#EXTINF:-1 tvg-id="C5.53.tunarr.com" tvg-name="TCC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="📺 PREMIUM PLAY TV",Star_Plus_1
+http://flussictv.ddns.net:9091/Star_Plus_1/index.m3u8
+http://flussictv.ddns.net:9091/Star_Plus_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ซิทคอม&วาไรตี้ ย้อนหลัง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="📺 PREMIUM PLAY TV",Star_Plus_2
+http://flussictv.ddns.net:9091/Star_Plus_2/index.m3u8
+
 
 
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Jc8ZGd3mxtwvL4JkQsprAhjuHrTUcdw5.png",Asian Hits
@@ -874,7 +874,7 @@ http://66.90.99.154:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=
 https://blive99.github.io/m3u8/news/DW.m3u8
 
 #EXTINF:-1 tvg-id="4019" tvg-name="BBC Lifestyles TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 ทรูไอดีทีวี",BBC Lifestyles TH
-#http://6395online.com:8080/live/iptv591@gmail.com/456672/140161.m3u8
+http://flussictv.ddns.net:9091/BBC_Lifestyle/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 ทรูไอดีทีวี",TRUE SPARK PLAY
 #http://154.215.14.8:8080/live/iptv591@gmail.com/456672/180.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp", TRUE ID Sport
@@ -1306,8 +1306,6 @@ https://sscsott.com/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
-#EXTINF:-1 group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/NHK-Logo.png" , NHK
-https://bestcommt2.github.io/m3u8/NHK.m3u8
 #EXTINF:-1 tvg-id="FIFA.us" tvg-logo="https://i.postimg.cc/g0BccBJ5/IMG-2292.png" group-title="📺 รวมช่องกีฬาต่างประเทศ",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX.us" tvg-logo="https://i.postimg.cc/T1qRzgjp/IMG-2262.png" group-title="📺 รวมช่องกีฬาต่างประเทศ",FOX NHRA
@@ -1478,9 +1476,11 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8
 #EXTINF:-1 group-title="📺 หนังและบันเทิง"tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="📺 หนังและบันเทิง", True Crime+Investigation
 https://bestcommt2.github.io/m3u8/ci.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="📺 หนังและบันเทิง", ROCK ENTERTAINMENT
-https://bestcommt2.github.io/m3u8/rockentertainment.m3u8
+http://119.82.250.109:8080/nl.m3u8?id=1111
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="📺 หนังและบันเทิง", ROCK Action
-https://bestcommt2.github.io/m3u8/rockaction.m3u8
+http://119.82.250.109:8080/nl.m3u8?id=1112
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 หนังและบันเทิง", AXN
+http://119.82.250.109:8080/nl.m3u8?id=1138
 
 
 #EXTINF:-1 group-title="📺 หนังและบันเทิง" tvg-logo="https://i.ibb.co/pBHghpSx/237x0-icon.png",Superrix
@@ -1680,9 +1680,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mediampd/HistoryHD.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLGEBrdnRS7LT4-fqbtjAwdfaeIlNgnoBFtlN6koglMfe3P2MEANaZT1d8uJT-Jd6mZOg4oeZJzHXwPpVdJsvqN2TP1jdnu8hWkhg6MtKQ5XcSGq6B_U9x0-MJ4XhAxq6UZIqxHrVi8r7-IS6_iu5d426iELYPIYhBbUTP5MQXfJtxkpSgg-ksknBoLFvY/s700/GLOBAL%20TREKKER.png" group-title="📺 สารคดีรอบโลก",GLOBAL TREKKER
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
-https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTrekkerHD.mpd
+http://119.82.250.109:8080/nl.m3u8?id=1110
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjkxuGkobTkqFWULsZULXQS7B3IvKXunvMXpiO-Ty_qMeT5r50z2JsQCkryc8yMH8aSMbiI2ao92ZD4FCYeCPA4lqI7pfebire02W4fdiM69bzagdi7YkP7ocZGpL-DGpMz6dJNVVbTPSyBLv-ykobxW-hr3DXtS5Xp7IMgVt23AEU5HA9hKgEpofug0PP/s700/DMAX%20TV.png" group-title="📺 สารคดีรอบโลก",DMAX TV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1767,6 +1765,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 -----------------------------------------------------------------------------------------
 ###NEWS###
 
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/NHK-Logo.png",NHK
+http://119.82.250.109:8080/nl.m3u8?id=1063
+
 #EXTINF:-1  group-title="📺 ข่าวรอบโลก" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png",Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
@@ -1809,13 +1810,6 @@ http://119.82.250.109:8080/nl.m3u8?id=1016
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/CCTV-1_Logo.svg/330px-CCTV-1_Logo.svg.png",CCTV1
-http://119.82.250.109:8080/nl.m3u8?id=1037
-#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png",CCTV4
-http://119.82.250.109:8080/nl.m3u8?id=1038
-#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV13
-http://119.82.250.109:8080/nl.m3u8?id=1039
-
 #EXTINF:-1 tvg-id="521.astro" tvg-logo="https://iili.io/Jhksu87.png" group-title="📺 ข่าวรอบโลก", DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="TRT WORLD HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TRT_World_logosu.png/330px-TRT_World_logosu.png" group-title="📺 ข่าวรอบโลก", TRT World
@@ -1845,6 +1839,31 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 http://119.82.250.109:8080/nl.m3u8?id=1023
 #EXTINF:-1 tvg-id="517.astro" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/EuroNnews-1.png" group-title="📺 ข่าวรอบโลก", EuroNnews
 http://119.82.250.109:8080/nl.m3u8?id=1052
+
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/CCTV-1_Logo.svg/330px-CCTV-1_Logo.svg.png",CCTV1
+http://119.82.250.109:8080/nl.m3u8?id=1037
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/2/2f/1920px-CCTV-2_Logo.svg.png/330px-1920px-CCTV-2_Logo.svg.png",CCTV2
+http://119.82.250.109:8080/nl.m3u8?id=1091
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png",CCTV4
+http://119.82.250.109:8080/nl.m3u8?id=1038
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV5
+http://119.82.250.109:8080/nl.m3u8?id=1066
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV5+
+http://119.82.250.109:8080/nl.m3u8?id=1073
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png",CCTV7
+http://119.82.250.109:8080/nl.m3u8?id=1151
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png",CCTV10
+http://119.82.250.109:8080/nl.m3u8?id=1090
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/CCTV_channel_11.svg",CCTV11
+http://119.82.250.109:8080/nl.m3u8?id=1123
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png",CCTV12
+http://119.82.250.109:8080/nl.m3u8?id=1124
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV13
+http://119.82.250.109:8080/nl.m3u8?id=1039
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/kung-fu-sock/images/7/74/CCTV-14.png",CCTV14
+http://119.82.250.109:8080/nl.m3u8?id=1088
+#EXTINF:-1 group-title="📺 ข่าวรอบโลก" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/CCTV_channel_15.svg",CCTV15
+http://119.82.250.109:8080/nl.m3u8?id=1087
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ###สถานีทองถิ่นไทย### 
