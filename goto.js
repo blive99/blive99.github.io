@@ -779,14 +779,14 @@ https://cdn2.googlecdnforstreaming.live/tubtoeball/tpf4/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
 https://ww.dooballfree.vip/live/tpf5/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
-#EXTVLCOPT:http-referrer=https://tubtoeball.net/
-https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp1/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree.vip/
+http://ww.dooballfree.vip/live/tsp1/playlist.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",TrueSportHD 2
-#EXTVLCOPT:http-referrer=https://tubtoeball.net/
-https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp2/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree.vip/
+http://ww.dooballfree.vip/live/tsp2/playlist.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",TrueSportHD 3
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
-https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp3/chunks.m3u8
+http://thangap.ddns.net:8080/proxy/vip/tsp3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 ทรูไอดีทีวี",TrueSportHD4
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
