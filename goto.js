@@ -41,15 +41,17 @@ https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/91/Z-jPxAyZQjhob1sXIbwTdQ/67e8cf
 #EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/monomax2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dooball66w.com/
-https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/91/Z-jPxAyZQjhob1sXIbwTdQ/67e8cfc40c994238686f5b1721bc1375/1770706023/th-monomax02_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=http://thangap.ddns.net:8080
+http://thangap.ddns.net:8080/proxy/vip/monomax-2/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://ww.dooballfree.vip
+http://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport03.png" group-title="📺 VIP SPORT",MONOMAX3
@@ -191,22 +193,17 @@ https://nl.utako.moe/js3/index.m3u8
 #EXTVLCOPT:http-referrer=https://web.utako.moe/
 https://nl.utako.moe/js4/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="BG Sport 1" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/sportus/opt1729770760d.png" group-title="📺 VIP SPORT",BG Sport 1
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/300100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG Sport 2" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/sportus/opt1729770760d.png" group-title="📺 VIP SPORT",BG Sport 2
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/300101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG Sport 3" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/sportus/opt1729770760d.png" group-title="📺 VIP SPORT",BG Sport 3
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/304692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG Sport 4" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/sportus/opt1729770760d.png" group-title="📺 VIP SPORT",BG Sport 4
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/304693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG Sport 5" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/sportus/opt1729770760d.png" group-title="📺 VIP SPORT",BG Sport 5
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/304694.m3u8
 
-
-#EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="https://bestcommt2.github.io/logo/sport/nfk%20ais.png" group-title="📺 VIP SPORT",AIS NFL Network  51
-https://blive99.github.io/m3u8/sporttv/aisnfl51.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AIS NFL Network  52" tvg-logo="https://bestcommt2.github.io/logo/sport/nfk%20ais.png" group-title="📺 VIP SPORT",AIS NFL Network  52
-#http://6395online.com:8080/live/iptv591@gmail.com/456672/398297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="https://bestcommt2.github.io/logo/sport/nfk%20ais.png" group-title="📺 VIP SPORT",AIS NFL Network 53
-#http://6395online.com:8080/live/iptv591@gmail.com/456672/398298.m3u8
-#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/nba%20ais.png" group-title="📺 VIP SPORT",AIS NBA AIS 55
-https://blive99.github.io/m3u8/sporttv/aisnba55.m3u8
-#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/nba%20ais.png" group-title="📺 VIP SPORT",AIS NBA AIS 56
-https://blive99.github.io/m3u8/sporttv/aisnba56.m3u8
-#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 VIP SPORT",AIS GOLF AIS 61
-https://love.pifipa2974.workers.dev/lx-origin/th-aisgolf01_720/chunks.m3u8
-#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 VIP SPORT",AIS GOLF AIS 69
-https://love.pifipa2974.workers.dev/lx-origin/th-aisgolf03_720/chunks.m3u8
 
 
 --------------------------------------------------------------------------------------
@@ -258,7 +255,26 @@ http://flussictv.ddns.net:9091/Star_Plus_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ซิทคอม&วาไรตี้ ย้อนหลัง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="📺 PREMIUM PLAY TV",Star_Plus_2
 http://flussictv.ddns.net:9091/Star_Plus_2/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="หนังซอมบี้" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/45.png" group-title="📺 PREMIUM PLAY TV",หนังซอมบี้
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="หนังฝรั่ง" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/inter.png" group-title="📺 PREMIUM PLAY TV",หนังฝรั่ง
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="หนังเกาหลี" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/ka.png" group-title="📺 PREMIUM PLAY TV",หนังเกาหลี
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="หนังจีน" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/movie/jn.png" group-title="📺 PREMIUM PLAY TV",หนังจีน
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/movie/netflix.png" group-title="📺 PREMIUM PLAY TV",Netflix
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ThaiFilm" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/movie/th.png" group-title="📺 PREMIUM PLAY TV",ThaiFilm
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="หนังตลก" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/movie/joke.png" group-title="📺 PREMIUM PLAY TV",หนังตลก
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Livesky 1" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/Livesky11.png" group-title="📺 PREMIUM PLAY TV",Livesky 1
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Livesky 2" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/Livesky22.png" group-title="📺 PREMIUM PLAY TV",Livesky 2
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/ipm_series_plus_hd.png" group-title="📺 PREMIUM PLAY TV",SERIES
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443075.m3u8
 
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Jc8ZGd3mxtwvL4JkQsprAhjuHrTUcdw5.png",Asian Hits
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/1080p/index.m3u8
@@ -471,6 +487,52 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL038/DASH
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL039/DASH/TL039.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=c745e967f3d66bbd9952edf90f4233c4&chunkHttps=true&tmid=B0003&tpbk=SzlgM3yowqvPLDmt&rrt=1771647874&tmod=rfk&rsid=34da976c-34cb-4786-8537-fc2e925db9d3&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1771734274
 
+
+#EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="https://bestcommt2.github.io/logo/sport/nfk%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NFL Network  51
+https://blive99.github.io/m3u8/sporttv/aisnfl51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS NFL Network  52" tvg-logo="https://bestcommt2.github.io/logo/sport/nfk%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NFL Network  52
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/398297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="https://bestcommt2.github.io/logo/sport/nfk%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NFL Network 53
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/398298.m3u8
+
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/nba%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NBA AIS 55
+https://blive99.github.io/m3u8/sporttv/aisnba55.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/nba%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NBA AIS 56
+https://blive99.github.io/m3u8/sporttv/aisnba56.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/nba%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NBA AIS 57
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446300.m3u8
+
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 61
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444732.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 62
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444733.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 64
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444752.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 65
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446293.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 66
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446293.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 69
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444734.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 69
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444734.m3u8
+
+#EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 71
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443260.m3u8
+#EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 72
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443261.m3u8
+#EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 73
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443262.m3u8
+#EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 74
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447497.m3u8
+#EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 75
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447498.m3u8
+#EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 76
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447499.m3u8
+#EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 77
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447500.m3u8
+#EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 78
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447501.m3u8
 
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
@@ -779,11 +841,11 @@ https://cdn2.googlecdnforstreaming.live/tubtoeball/tpf4/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
 https://ww.dooballfree.vip/live/tpf5/chunks.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
-#EXTVLCOPT:http-referrer=https://www.dooballfree.vip/
-http://ww.dooballfree.vip/live/tsp1/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://flussictv.ddns.net:9091
+http://flussictv.ddns.net:9091/truesporthd1/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",TrueSportHD 2
-#EXTVLCOPT:http-referrer=https://www.dooballfree.vip/
-http://ww.dooballfree.vip/live/tsp2/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://flussictv.ddns.net:9091
+http://flussictv.ddns.net:9091/truesporthd1/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",TrueSportHD 3
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
 http://thangap.ddns.net:8080/proxy/vip/tsp3/playlist.m3u8
@@ -875,10 +937,8 @@ http://flussictv.ddns.net:9091/BBC_Lifestyle/index.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 ทรูไอดีทีวี",TRUE SPARK PLAY
 #http://154.215.14.8:8080/live/iptv591@gmail.com/456672/180.m3u8
-#EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp", TRUE ID Sport
-#http://45.144.165.187:8080/live/playid/2535/108.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png", TRUE ID Station
-#http://154.215.14.8:8080/live/iptv591@gmail.com/456672/214.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/214.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/02/26/407828e0-f412-11ef-a64e-0d554f1e32aa_webp_original.webp",True ID Asian Series
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 #http://45.144.165.187:8080/live/xtreamvip/12345/65.m3u8
@@ -1389,6 +1449,8 @@ https://bestcommt2.github.io/m3u8/wwe.m3u8
 
 #EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี wolrd" tvg-logo="https://i.ibb.co/vJdY0NG/animax.png",ANIMAX
 http://119.82.250.109:8080/nl.m3u8?id=1162
+#EXTINF:-1 tvg-ID="" tvg-name="ID ▎ANIPLUS" tvg-logo="https://dookeela2.live/uploads/1749743199.png" group-title="📺 ดูการ์ตูนทีวี wolrd", ANIPLUS
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/398610.m3u8
 #EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="📺 ดูการ์ตูนทีวี wolrd",Cartoonito
 http://119.82.250.109:8080/nl.m3u8?id=1012
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="📺 ดูการ์ตูนทีวี wolrd",Cartoon Network
@@ -1450,8 +1512,6 @@ http://185.189.225.150:85/BabyTV/index.m3u8
 #EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี wolrd" tvg-logo="https://i.ibb.co/TxmtLxqQ/pngegg.png",BabyFirst.us
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="ID ▎ANIPLUS" tvg-logo="https://dookeela2.live/uploads/1749743199.png" group-title="📺 ดูการ์ตูนทีวี wolrd", ANIPLUS
-#http://45.144.165.187:8080/xtreamvip/12345/49943
 
 #EXTINF:-1 group-title="📺 ดูการ์ตูนทีวี wolrd"   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVfKsOCHZW1jzOsGZydivGZP2ZDwROxtPdWQ&usqp=CAU",Disney Junior NO 24/7
 #https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/disney-junior/chunks.m3u8
@@ -1615,7 +1675,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F65BX3TKGTCBZQ/1083/inde
 ###Documentary###
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="📺 สารคดีรอบโลก", Khong Dee Thailand GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://blive99.github.io/m3u8/goodtv/goodtvkhongdeethai.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/140164
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="📺 สารคดีรอบโลก", Samrujlok GoodTV
 https://blive99.github.io/m3u8/goodtv/goodtvSamrulok.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="📺 สารคดีรอบโลก", Animal Show GoodTV
