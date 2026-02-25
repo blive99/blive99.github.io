@@ -2078,6 +2078,13 @@ https://live.zoom072.com/ch9/ch9.m3u8
 
 --------------------------------------------------------------------------------------
 ####DOOMOVIESZOOM####
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/09/Greenland-2020-187x269.jpg" group-title="📺 ดูหนังซูมใหม่ๆๆกัน" ,Greenland (2020) นาทีระทึกวันสิ้ นโลก
+https://main.24playerhd.com/newplaylist/0ea094a257787e4bb6376927/0ea094a257787e4bb6376927438.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Greenland-2-Migration-2025-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2-%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน" ,Greenland 2 Migration (2025) ฝ่าชะตา โลกาวินาศ
+https://main.24playerhd.com/newplaylist/17e21649f2537b88952d1bf8/17e21649f2537b88952d1bf8438.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/Avatar-Fire-and-Ash-2025-%E0%B8%AD%E0%B8%A7%E0%B8%95%E0%B8%B2%E0%B8%A3-%E0%B8%AD%E0%B8%B1%E0%B8%84%E0%B8%99%E0%B8%B5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%98%E0%B8%B8%E0%B8%A5%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%99-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน" ,Avatar Fire and Ash (2025) อวตาร อัคนีและธุลีดิน
 https://main.24playerhd.com/newplaylist/5708e6f723f0710670bf471e/5708e6f723f0710670bf471e438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/12/Avatar-The-Way-of-Water-2022-%E0%B8%AD%E0%B8%A7%E0%B8%95%E0%B8%B2%E0%B8%A3-%E0%B8%A7%E0%B8%B4%E0%B8%96%E0%B8%B5%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3-187x269.jpg" group-title="📺 ดูหนังซูมใหม่ๆๆกัน" ,Avatar 2 The Way of Water (2022) อวตาร วิถีแห่งสายน้ำ
