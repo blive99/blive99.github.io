@@ -815,234 +815,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 https://love.pifipa2974.workers.dev/lx-origin/th-blueant_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="📺3BBGIGATV", ROCK Action
 https://love.pifipa2974.workers.dev/lx-origin/th-blueantex_720/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1706112755.png" group-title="📺3BBGIGATV",Discovery Asia(3BB)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/3BB-spot.png" group-title="📺3BBGIGATV", 3BB Sport One(3BB)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
-#EXTINF:-1 tvg-id="abc-australia" tvg-logo="https://i.imgur.com/SHwfqzO.png" group-title="📺3BBGIGATV",ABC Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/abc_aus/default/index.mpd
-
-#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://i.imgur.com/SkpFpW4.png" group-title="📺3BBGIGATV",Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
-
-#EXTINF:-1 tvg-id="animax" tvg-logo="https://i.imgur.com/5gJTEHT.png" group-title="📺3BBGIGATV",Animax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
-
-#EXTINF:-1 tvg-id="asian-food-network" tvg-logo="https://i.imgur.com/PUe61Ov.png" group-title="📺3BBGIGATV",Asian Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
-
-#EXTINF:-1 tvg-id="axn" tvg-logo="https://i.imgur.com/OuaLV7f.png" group-title="📺3BBGIGATV",AXN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
-
-#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://i.imgur.com/vip1JIz.png" group-title="📺3BBGIGATV",BBC Earth
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
-
-#EXTINF:-1 tvg-id="bbc-news" tvg-logo="https://i.imgur.com/CTf7nGs.png" group-title="📺3BBGIGATV",BBC World News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd
-
-#EXTINF:-1 tvg-id="bilyonaryo-news-channel" tvg-logo="https://i.imgur.com/FxHmXYU.png" group-title="📺3BBGIGATV",Bilyonaryo Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/index.mpd
-
-#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://i.imgur.com/2WGEb3V.png" group-title="📺3BBGIGATV",Bloomberg
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd
-
-#EXTINF:-1 tvg-id="buko" tvg-logo="https://i.imgur.com/BxQvEil.png" group-title="📺3BBGIGATV",Buko
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
-
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="📺3BBGIGATV",Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
-
-#EXTINF:-1 tvg-id="cctv-4" tvg-logo="https://i.imgur.com/TuwJPPz.png" group-title="📺3BBGIGATV",CCTV-4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b83566836c0d4216b7107bd7b8399366:32d50635bfd05fbf8189a0e3f6c8db09
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_cctv4/default/index.mpd
-
-#EXTINF:-1 tvg-id="celestial-movies-pinoy" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="📺3BBGIGATV",Celestial Movies Pinoy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/celmovie_pinoy_sd/default/index.mpd
-
-#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://i.imgur.com/9LNJXe3.png" group-title="📺3BBGIGATV",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
-
-#EXTINF:-1 tvg-id="cnn-international" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="📺3BBGIGATV",CNN International
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
-
-#EXTINF:-1 tvg-id="crime-investigation" tvg-logo="https://i.imgur.com/9QBOVGF.png" group-title="📺3BBGIGATV",Crime & Investigation SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
-
-#EXTINF:-1 tvg-id="deped-tv" tvg-logo="https://i.imgur.com/Ii7tRrE.png" group-title="📺3BBGIGATV",DepEd Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd
-
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://i.imgur.com/XsvAk5H.png" group-title="📺3BBGIGATV",Discovery Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
-
-#EXTINF:-1 tvg-id="dreamworks-hd" tvg-logo="https://i.imgur.com/bzTr9Y2.png" group-title="📺3BBGIGATV",DreamWorks HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
-
-#EXTINF:-1 tvg-id="dreamworks-tagalized" tvg-logo="https://i.imgur.com/bzTr9Y2.png" group-title="📺3BBGIGATV",Dreamworks Tagalog
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
-
-#EXTINF:-1 tvg-id="fashion-tv-hd" tvg-logo="https://i.imgur.com/lb9cHrS.png" group-title="📺3BBGIGATV",Fashion TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/fashiontvhd/default/index.mpd
-
-#EXTINF:-1 tvg-id="food-network-hd" tvg-logo="https://i.imgur.com/FZBze3z.png" group-title="📺3BBGIGATV",Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
-
-#EXTINF:-1 tvg-id="france-24" tvg-logo="https://i.imgur.com/d8doNpe.png" group-title="📺3BBGIGATV",France 24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/france24/default/index.mpd
-
-#EXTINF:-1 tvg-id="global-trekker" tvg-logo="https://accion.com.ph/wp-content/uploads/2023/02/GT-Thumbnail-New.jpg" group-title="📺3BBGIGATV",Global Trekker
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapedge/default/index.mpd
-
-#EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.imgur.com/6uN52OW.png" group-title="📺3BBGIGATV",HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
-
-#EXTINF:-1 tvg-id="hbo-hits" tvg-logo="https://i.imgur.com/tGSLZWz.png" group-title="📺3BBGIGATV",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
-
-#EXTINF:-1 tvg-id="hbo-family" tvg-logo="https://i.imgur.com/SefoKAw.png" group-title="📺3BBGIGATV",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
-
-#EXTINF:-1 tvg-id="hbo-signature" tvg-logo="https://i.imgur.com/3L9QRDw.png" group-title="📺3BBGIGATV",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
-
-#EXTINF:-1 tvg-id="hits-hd" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="📺3BBGIGATV",Hits HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
-
-#EXTINF:-1 tvg-id="hits-movies" tvg-logo="https://i.imgur.com/xjyDTMr.png" group-title="📺3BBGIGATV",HITS Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_hitsmovies/default/index.mpd
-
-#EXTINF:-1 tvg-id="hits-now" tvg-logo="https://i.imgur.com/Ck0ad9b.png" group-title="📺3BBGIGATV",Hits Now
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
-
-#EXTINF:-1 tvg-id="hgtv-hd" tvg-logo="https://i.imgur.com/a6gRxAV.png" group-title="📺3BBGIGATV",HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
-
-#EXTINF:-1 tvg-id="history-hd" tvg-logo="https://i.imgur.com/oJQJyhb.png" group-title="📺3BBGIGATV",History HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
-
-#EXTINF:-1 tvg-id="ibc" tvg-logo="https://i.imgur.com/CTHhr3Q.png" group-title="📺3BBGIGATV",IBC 13
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:05b47ae3be1368912ebe28f87480fc84
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/index.mpd
-
-#EXTINF:-1 tvg-id="kbs-world-sd" tvg-logo="https://i.imgur.com/aFDRmtm.png" group-title="📺3BBGIGATV",KBS World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
-
-#EXTINF:-1 tvg-id="knowledge-channel" tvg-logo="https://i.imgur.com/4O93eBO.png" group-title="📺3BBGIGATV",Knowledge Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd
-
-#EXTINF:-1 tvg-id="lifetime-sd" tvg-logo="https://i.imgur.com/ZyqbNXn.png" group-title="📺3BBGIGATV",Lifetime
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
-
-#EXTINF:-1 tvg-id="lotus-macau" tvg-logo="https://i.imgur.com/5G72qjx.png" group-title="📺3BBGIGATV",Lotus Macau
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
-
-#EXTINF:-1 tvg-id="moonbug-kids" tvg-logo="https://i.imgur.com/ILaPSzA.png" group-title="📺3BBGIGATV",Moonbug Kids
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
-
-#EXTINF:-1 tvg-id="nba-tv-philippines-cignal" tvg-logo="https://i.imgur.com/RcxNoIC.png" group-title="📺3BBGIGATV",NBA TV Philippines
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
-
-#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://i.imgur.com/4o5dNZA.png" group-title="📺3BBGIGATV",Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd
-
-#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://i.imgur.com/iIVYdZP.png" group-title="📺3BBGIGATV",Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mpd
-
-#EXTINF:-1 tvg-id="one-news-hd" tvg-logo="https://i.imgur.com/25PG6TF.png" group-title="📺3BBGIGATV",One News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd
-
-#EXTINF:-1 tvg-id="one-ph" tvg-logo="https://i.imgur.com/U9QwJSE.png" group-title="📺3BBGIGATV",One PH
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
 
 
@@ -2309,7 +2082,7 @@ https://live.zoom072.com/ch9/ch9.m3u8
 --------------------------------------------------------------------------------------
 ####DOOMOVIESZOOM####
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/09/Greenland-2020-187x269.jpg" group-title="📺 ดูหนังซูมใหม่ๆๆกัน" ,Greenland (2020) นาทีระทึกวันสิ้ นโลก
-https://main.24playerhd.com/newplaylist/0ea094a257787e4bb6376927/0ea094a257787e4bb6376927438.m3u8
+https://ezycdn.stream/playlist-bveimlcq-HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Greenland-2-Migration-2025-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2-%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8-187x269.png" group-title="📺 ดูหนังซูมใหม่ๆๆกัน" ,Greenland 2 Migration (2025) ฝ่าชะตา โลกาวินาศ
 https://main.24playerhd.com/newplaylist/17e21649f2537b88952d1bf8/17e21649f2537b88952d1bf8438.m3u8
 
@@ -2491,10 +2264,31 @@ https://main.24playerhd.com/newplaylist/97ebf3c241d38ce97ad9a07c/97ebf3c241d38ce
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-7-And-The-Deathly-Hallows-Part-1-2010-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 7 And The Deathly Hallows Part 1 (2010) แฮร์รี่ พอตเตอร์ เครื่องรางยมฑูต ตอน 1
 https://main.24playerhd.com/newplaylist/ed6df56148009c0adbccec49/ed6df56148009c0adbccec49438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2022/08/Harry-Potter-7-And-The-Deathly-Hallows-Part-2-2011-187x269.jpg" group-title="📺 ดูหนังออนไลน์" ,Harry Potter 7 And The Deathly Hallows Part 2 (2011) แฮร์รี่ พอตเตอร์ เครื่องรางยมฑูต ตอน 2
-https://main.24playerhd.com/newplaylist/62ba862abb6bbea4010c8f31/62ba862abb6bbea4010c8f31438.m3u8
+https://media.vdohls.com/uYZ_941D-Am6X/video.m3u8
 
 --------------------------------------------------------------------------------------
 ####ดูซีรี####
+#EXTINF:1 tvg-logo="https://7-hd.com/wp-content/uploads/2026/02/-2569-02-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.49.12-e1771618409688.png" group-title="📺 ดูซีรีย์ออนไลน์",จอมขมังเวทย์ 2026 EP 1
+https://media.vdohls.com/r-RjfNa_WWcpc/video.m3u8
+#EXTINF:1 tvg-logo="https://7-hd.com/wp-content/uploads/2026/02/-2569-02-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.49.12-e1771618409688.png" group-title="📺 ดูซีรีย์ออนไลน์",จอมขมังเวทย์ 2026 EP 2
+https://media.vdohls.com/pAN_G-m2L33nk/video.m3u8
+#EXTINF:1 tvg-logo="https://7-hd.com/wp-content/uploads/2026/02/-2569-02-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.49.12-e1771618409688.png" group-title="📺 ดูซีรีย์ออนไลน์",จอมขมังเวทย์ 2026 EP 3
+https://media.vdohls.com/P90_k-NG0xCz1/video.m3u8
+#EXTINF:1 tvg-logo="https://7-hd.com/wp-content/uploads/2026/02/-2569-02-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.49.12-e1771618409688.png" group-title="📺 ดูซีรีย์ออนไลน์",จอมขมังเวทย์ 2026 EP 4
+https://media.vdohls.com/VXPPY_er8-rkT/video.m3u8
+#EXTINF:1 tvg-logo="https://7-hd.com/wp-content/uploads/2026/02/-2569-02-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.49.12-e1771618409688.png" group-title="📺 ดูซีรีย์ออนไลน์",จอมขมังเวทย์ 2026 EP 5
+https://media.vdohls.com/XZMF_L-VkOA6I/video.m3u8
+#EXTINF:1 tvg-logo="https://7-hd.com/wp-content/uploads/2026/02/-2569-02-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.49.12-e1771618409688.png" group-title="📺 ดูซีรีย์ออนไลน์",จอมขมังเวทย์ 2026 EP 6
+https://media.vdohls.com/dyZ_Ag-kSlXWt/video.m3u8
+#EXTINF:1 tvg-logo="https://7-hd.com/wp-content/uploads/2026/02/-2569-02-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.49.12-e1771618409688.png" group-title="📺 ดูซีรีย์ออนไลน์",จอมขมังเวทย์ 2026 EP 7
+https://media.vdohls.com/Q_lXhb-RgvOrS/video.m3u8
+#EXTINF:1 tvg-logo="https://7-hd.com/wp-content/uploads/2026/02/-2569-02-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.49.12-e1771618409688.png" group-title="📺 ดูซีรีย์ออนไลน์",จอมขมังเวทย์ 2026 EP 8
+https://media.vdohls.com/B-Zc0i_bO6BZi/video.m3u8
+#EXTINF:1 tvg-logo="https://7-hd.com/wp-content/uploads/2026/02/-2569-02-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.49.12-e1771618409688.png" group-title="📺 ดูซีรีย์ออนไลน์",จอมขมังเวทย์ 2026 EP 9
+https://media.vdohls.com/W-E_zNaqbGD2l/video.m3u8
+#EXTINF:1 tvg-logo="https://7-hd.com/wp-content/uploads/2026/02/-2569-02-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.49.12-e1771618409688.png" group-title="📺 ดูซีรีย์ออนไลน์",จอมขมังเวทย์ 2026 EP 10
+https://media.vdohls.com/z-L_kJItE0vJA/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์", ,The Believers 2 (2025) สาธุ 2 EP1
 https://main.24playerhd.com/newplaylist/92b6b305d84666532f99147d/92b6b305d84666532f99147d438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Believers-2-2025-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-2-240x300-1-187x269.png" group-title="📺 ดูซีรีย์ออนไลน์", ,The Believers 2 (2025) สาธุ 2 EP2
