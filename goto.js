@@ -849,7 +849,7 @@ https://ww.dooballfree.vip/live/tpf5/chunks.m3u8
 http://flussictv.ddns.net:9091/truesporthd1/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",TrueSportHD 2
 #EXTVLCOPT:http-referrer=http://flussictv.ddns.net:9091
-http://flussictv.ddns.net:9091/truesporthd1/index.m3u8
+http://flussictv.ddns.net:9091/truesporthd2/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",TrueSportHD 3
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
 http://thangap.ddns.net:8080/proxy/vip/tsp3/playlist.m3u8
@@ -857,11 +857,11 @@ http://thangap.ddns.net:8080/proxy/vip/tsp3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,TrueSport 5
-#EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://blive99.github.io/m3u8/sporttv/truesport5bkp.m3u8
+#EXTVLCOPT:http-referrer=http://flussictv.ddns.net:9091
+http://flussictv.ddns.net:9091/truesporthd5/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,TrueSport 7
-#EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://blive99.github.io/m3u8/sporttv/truesport7bkp.m3u8
+#EXTVLCOPT:http-referrer=http://flussictv.ddns.net:9091
+http://flussictv.ddns.net:9091/truesporthd7/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
 https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8
@@ -914,11 +914,11 @@ https://blive99.github.io/m3u8/movietv/Truefilmasia.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://blive99.github.io/m3u8/movietv/Trueccm.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
-https://blive99.github.io/m3u8/documentary/truewild.m3u8
+http://flussictv.ddns.net:9091/explore_Wild/index.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
-https://blive99.github.io/m3u8/documentary/truelife.m3u8
+http://flussictv.ddns.net:9091/explore_Life/index.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
-https://blive99.github.io/m3u8/documentary/truesci.m3u8
+http://flussictv.ddns.net:9091/explore_Sci/index.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 ทรูไอดีทีวี",True AXN
 https://blive99.github.io/m3u8/movietv/Trueaxn.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 ทรูไอดีทีวี", TRUE HISTORY
@@ -926,7 +926,7 @@ https://blive99.github.io/m3u8/documentary/truehistory.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://blive99.github.io/m3u8/movietv/wb.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
-https://blive99.github.io/m3u8/documentary/Truexzyte.m3u8
+http://flussictv.ddns.net:9091/X-ZYTE/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="D" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 ทรูไอดีทีวี",TRUE DreamWorks
 https://blive99.github.io/m3u8/cartoon/truedreamworks.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
