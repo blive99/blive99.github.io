@@ -243,25 +243,25 @@ http://49.0.64.96:8007/SUPERJOKE
 
 
 #EXTINF:-1 tvg-id="" tvg-name="หนังซอมบี้" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/45.png" group-title="📺 PREMIUM PLAY TV",หนังซอมบี้
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435626.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435626.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="หนังฝรั่ง" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/inter.png" group-title="📺 PREMIUM PLAY TV",หนังฝรั่ง
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435627.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435627.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="หนังเกาหลี" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/ka.png" group-title="📺 PREMIUM PLAY TV",หนังเกาหลี
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435628.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435628.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="หนังจีน" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/movie/jn.png" group-title="📺 PREMIUM PLAY TV",หนังจีน
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442715.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442715.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Netflix" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/movie/netflix.png" group-title="📺 PREMIUM PLAY TV",Netflix
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442716.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442716.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ThaiFilm" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/movie/th.png" group-title="📺 PREMIUM PLAY TV",ThaiFilm
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442717.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442717.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="หนังตลก" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/movie/joke.png" group-title="📺 PREMIUM PLAY TV",หนังตลก
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442718.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442718.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Livesky 1" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/Livesky11.png" group-title="📺 PREMIUM PLAY TV",Livesky 1
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443073.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443073.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Livesky 2" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/Livesky22.png" group-title="📺 PREMIUM PLAY TV",Livesky 2
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443074.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443074.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/ipm_series_plus_hd.png" group-title="📺 PREMIUM PLAY TV",SERIES
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443075.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443075.m3u8
 
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Jc8ZGd3mxtwvL4JkQsprAhjuHrTUcdw5.png",Asian Hits
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/1080p/index.m3u8
@@ -276,10 +276,8 @@ https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Zee_Nung_new.jpg" group-title="📺 PREMIUM PLAY TV",Zหนัง
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/at
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela4.live/uploads/1714100840.png" group-title="📺 PREMIUM PLAY TV",tvN-movies
-#https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/tvn-movies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela4.live/uploads/1716339097.png" group-title="📺 PREMIUM PLAY TV",amc
-#https://cors-proxy.cooks.fyi/https://ww.dooballfree.vip/live/amc/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/330px-SBS_World_Movies_logo_2019.svg.png" group-title="📺 PREMIUM PLAY TV",Movies_World_1
 #http://flussictv.ddns.net:9091/Movies_World_1/index.m3u8
@@ -930,7 +928,7 @@ https://love.pifipa2974.workers.dev/vx-origin/hd-xzyte_720/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="D" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 ทรูไอดีทีวี",TRUE DreamWorks
 https://blive99.github.io/m3u8/cartoon/truedreamworks.m3u8
 #EXTINF:-0 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
-https://blive99.github.io/m3u8/documentary/discoverasia.m3u8
+http://flussictv.ddns.net:9091/Discovery_Asia/index.m3u8
 #EXTINF:-1 group-title="📺 ทรูไอดีทีวี" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
 http://66.90.99.154:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://cms.dmpcdn.com/livetv/2022/09/08/e5b667c0-2f27-11ed-9e57-d98920d4c462_webp_original.webp" group-title="📺 ทรูไอดีทีวี",DW
@@ -1316,17 +1314,17 @@ https://freelive2.inwstream.com:1936/freelive-edge/dtv07_tsports7/playlist.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------------
 ###กีฬาต่างประเทศ### 
 
+#EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="📺 รวมช่องกีฬาต่างประเทศ", Eurosport 1 España (Backup)
+http://145.239.5.177/529/index.m3u8
+
+#EXTINF:-1 cuid="1062" tvg-chno="1062" tvg-name="Eurosport 2 🇪🇸" tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="📺 รวมช่องกีฬาต่างประเทศ", Eurosport 2 España (Backup)
+http://145.239.5.177/530/index.m3u8
 
 #EXTINF:-1 group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-name="Astro SuperSport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" ,000.Astro SuperSport 1
 #EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrunns.iosplayer.ru/zeko/premium123/mono.m3u8
 
-#EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="📺 รวมช่องกีฬาต่างประเทศ", Eurosport 1 España (Backup)
-http://185.189.225.150:85/Eurosport1/index.m3u8
-
-#EXTINF:-1 cuid="1062" tvg-chno="1062" tvg-name="Eurosport 2 🇪🇸" tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="📺 รวมช่องกีฬาต่างประเทศ", Eurosport 2 España (Backup)
-http://185.189.225.150:85/Eurosport2/index.m3u8
 
 #EXTINF:-1 group-title="📺 รวมช่องกีฬาต่างประเทศ" tvg-id="" tvg-logo="https://raz-media.se/wp-content/uploads/2022/04/fight-sports.png" ,Fight Sports
 https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
