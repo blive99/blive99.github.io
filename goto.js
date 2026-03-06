@@ -844,9 +844,8 @@ https://love.pifipa2974.workers.dev/lx-origin/th-blueantex_720/chunks.m3u8
 
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://bestcommt2.github.io/logo/sport/NFL.png",NFL NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip/
-https://ww.dooballfree.vip/live/nfl/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
+https://blive99.github.io/m3u8/sporttv/nfl.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://i.ibb.co/V0CqBx96/nba.png" ,NBATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
