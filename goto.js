@@ -843,7 +843,7 @@ https://love.pifipa2974.workers.dev/lx-origin/th-blueantex_720/chunks.m3u8
 ###TRUEVISION NOW###
 
 
-#EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://www.shutterstock.com/image-illustration/logo-nfl-national-football-league-260nw-2279125329.jpg",NFL NETWORK
+#EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://bestcommt2.github.io/logo/sport/NFL.png",NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://blive99.github.io/m3u8/sporttv/nfl.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://i.ibb.co/V0CqBx96/nba.png" ,NBATV
