@@ -845,6 +845,7 @@ https://love.pifipa2974.workers.dev/lx-origin/th-blueantex_720/chunks.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://bestcommt2.github.io/logo/sport/NFL.png",NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ww.dooballfree.vip/
 https://blive99.github.io/m3u8/sporttv/nfl.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://i.ibb.co/V0CqBx96/nba.png" ,NBATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -871,7 +872,7 @@ https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport2.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",TrueSportHD 3
-#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 TrueIDTV",TrueSportHD4
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
