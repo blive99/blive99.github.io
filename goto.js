@@ -66,7 +66,7 @@ https://d3twnfx8ka3p8a.cloudfront.net/lx-origin/91/Z-jPxAyZQjhob1sXIbwTdQ/67e8cf
 https://www.livedoomovies.com:4431/Monomax_PL_3HD/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_4.png group-title="📺 VIP SPORT",MONOMAX4
+#EXTINF:-1 tvg-id="" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_4.png" group-title="📺 VIP SPORT",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/monomax4.m3u8
@@ -317,11 +317,11 @@ http://flussictv.ddns.net:9091/Movies_3/index.m3u8
 #http://flussictv.ddns.net:9091/Star_Plus_2/index.m3u8
 --------------------------------------------------------------------------------------
 ###BallThai###
-#EXTINF:-1 tvg-name="PlaysportsFootball1" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport11.jpg" group-title="📺 Thaileague",PLAY SPORTS FOOTBALL 1
+#EXTINF:-1 tvg-name="PlaysportsFootball1" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport1.jpg" group-title="📺 Thaileague",PLAY SPORTS FOOTBALL 1
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8 
-#EXTINF:-1 tvg-name="PlaysportsFootball2" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport12.jpg" group-title="📺 Thaileague",PLAY SPORTS FOOTBALL 2
+#EXTINF:-1 tvg-name="PlaysportsFootball2" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport2.jpg" group-title="📺 Thaileague",PLAY SPORTS FOOTBALL 2
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8 
@@ -843,7 +843,7 @@ https://love.pifipa2974.workers.dev/lx-origin/th-blueantex_720/chunks.m3u8
 ###TRUEVISION NOW###
 
 
-#EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/270px-NFL_Network_logo.svg.png",NFL NETWORK
+#EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://www.shutterstock.com/image-illustration/logo-nfl-national-football-league-260nw-2279125329.jpg",NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://blive99.github.io/m3u8/sporttv/nfl.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://i.ibb.co/V0CqBx96/nba.png" ,NBATV
@@ -855,13 +855,13 @@ https://love.pifipa2974.workers.dev/lx-origin/hd-spotvbkp_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truespotv2.m3u8
-#EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
+#EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://fw4free.com/channel/ch3.webp",Premier Football HD 3
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
 https://cdn2.googlecdnforstreaming.live/tubtoeball/tpf3/chunks.m3u8
-#EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
+#EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://fw4free.com/channel/ch4.webp",Premier Football HD 4
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
 https://cdn2.googlecdnforstreaming.live/tubtoeball/tpf4/chunks.m3u8
-#EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
+#EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://fw4free.com/channel/ch5.webp",Premier Football HD 5
 #EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
 https://ww.dooballfree.vip/live/tpf5/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
