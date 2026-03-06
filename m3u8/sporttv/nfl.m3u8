@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/115742.m3u8
+https://ww.dooballfree.vip/live/nfl/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
+http://thangap.ddns.net:8080/proxy/vip/nfl/playlist.m3u8
