@@ -956,7 +956,7 @@ http://66.90.99.154:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://cms.dmpcdn.com/livetv/2022/09/08/e5b667c0-2f27-11ed-9e57-d98920d4c462_webp_original.webp" group-title="📺 TrueIDTV",DW
 https://blive99.github.io/m3u8/news/DW.m3u8
 #EXTINF:-1 tvg-id="4019" tvg-name="BBC Lifestyles TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 TrueIDTV",BBC Lifestyles TH
-http://flussictv.ddns.net:9091/BBC_Lifestyle/index.m3u8
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1163705&extension=m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://iconlogovector.com/uploads/images/2024/11/lg-672e0603c9c4f-iQIYI.webp" group-title="📺 TrueIDTV",IQIYI
 #http://flussictv.ddns.net:9091/Animal_Planet/index.m3u8
 
