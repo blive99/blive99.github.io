@@ -521,7 +521,7 @@ https://blive99.github.io/m3u8/sporttv/aisnba55.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/nba%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NBA AIS 56
 https://blive99.github.io/m3u8/sporttv/aisnba56.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/nba%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NBA AIS 57
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446300.m3u8
+https://blive99.github.io/m3u8/sporttv/aisnba57.m3u8
 
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 61
 https://blive99.github.io/m3u8/sporttv/aisgolf61.m3u8
@@ -958,12 +958,12 @@ https://blive99.github.io/m3u8/news/DW.m3u8
 #EXTINF:-1 tvg-id="4019" tvg-name="BBC Lifestyles TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 TrueIDTV",BBC Lifestyles TH
 http://flussictv.ddns.net:9091/BBC_Lifestyle/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://iconlogovector.com/uploads/images/2024/11/lg-672e0603c9c4f-iQIYI.webp" group-title="📺 TrueIDTV",IQIYI
-http://flussictv.ddns.net:9091/Animal_Planet/index.m3u8
+#http://flussictv.ddns.net:9091/Animal_Planet/index.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 TrueIDTV",TRUE SPARK PLAY
 #http://154.215.14.8:8080/live/iptv591@gmail.com/456672/180.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png", TRUE ID Station
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/214.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/214.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/02/26/407828e0-f412-11ef-a64e-0d554f1e32aa_webp_original.webp",True ID Asian Series
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 #http://45.144.165.187:8080/live/xtreamvip/12345/65.m3u8
