@@ -521,39 +521,39 @@ https://blive99.github.io/m3u8/sporttv/aisnba55.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/nba%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NBA AIS 56
 https://blive99.github.io/m3u8/sporttv/aisnba56.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/nba%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NBA AIS 57
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446300.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446300.m3u8
 
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 61
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444732.m3u8
+https://blive99.github.io/m3u8/sporttv/aisgolf61.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 62
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444733.m3u8
+https://blive99.github.io/m3u8/sporttv/aisgolf62.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 64
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444752.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444752.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 65
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446293.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446293.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 66
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446293.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446293.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 69
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444734.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444734.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 69
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444734.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444734.m3u8
 
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 71
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443260.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443260.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 72
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443261.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443261.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 73
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443262.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443262.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 74
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447497.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447497.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 75
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447498.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447498.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 76
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447499.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447499.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 77
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447500.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447500.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 78
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447501.m3u8
+#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447501.m3u8
 
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
@@ -1700,7 +1700,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F65BX3TKGTCBZQ/1083/inde
 ###Documentary###
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="📺 สารคดีรอบโลก", Khong Dee Thailand GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/140164
+http://117.18.127.253:8080/live/m7smarter/1234/75404.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="📺 สารคดีรอบโลก", Samrujlok GoodTV
 https://blive99.github.io/m3u8/goodtv/goodtvSamrulok.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="📺 สารคดีรอบโลก", Animal Show GoodTV
@@ -1708,10 +1708,9 @@ https://blive99.github.io/m3u8/goodtv/goodtvSamrulok.m3u8
 https://blive99.github.io/m3u8/goodtv/goodtvanimalshow.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="📺 สารคดีรอบโลก", MySci GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://blive99.github.io/m3u8/goodtv/goodtvmysci.m3u8
+#https://blive99.github.io/m3u8/goodtv/goodtvmysci.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="📺 สารคดีรอบโลก", Thainess GoodTV
-https://blive99.github.io/m3u8/goodtv/goodtvthainess.m3u8
-
+http://117.18.127.253:8080/live/m7smarter/1234/75405.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="📺 สารคดีรอบโลก", CGTN Documentary
 http://119.82.250.109:8080/nl.m3u8?id=1021
