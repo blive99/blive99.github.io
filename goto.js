@@ -255,27 +255,27 @@ https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/1080p/index.m3u8
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="C2.50.tunarr.com" tvg-name="IMC" tvg-logo="https://img2.pic.in.th/1000533252.png" group-title="📺 PREMIUM PLAY TV",IMC
-#http://117.18.127.253:8080/live/m7smarter/1234/119704.m3u8
+http://117.18.127.253:8080/live/m7smarter/1234/119704.m3u8
 #EXTINF:-1 tvg-id="C3.51.tunarr.com" tvg-name="AMC" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000533251.png" group-title="📺 PREMIUM PLAY TV",AMC
-#http://117.18.127.253:8080/live/m7smarter/1234/119705.m3u8
+http://117.18.127.253:8080/live/m7smarter/1234/119705.m3u8
 #EXTINF:-1 tvg-id="C5.53.tunarr.com" tvg-name="TCC" tvg-logo="https://img2.pic.in.th/1000533253.png" group-title="📺 PREMIUM PLAY TV",TCC
-#http://117.18.127.253:8080/live/m7smarter/1234/119706.m3u8
+http://117.18.127.253:8080/live/m7smarter/1234/119706.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ITS" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000533262.png" group-title="📺 PREMIUM PLAY TV",ITS
-#http://117.18.127.253:8080/live/m7smarter/1234/101611.m3u8
+http://117.18.127.253:8080/live/m7smarter/1234/101611.m3u8
 #EXTINF:-1 tvg-id="C3.51.tunarr.com" tvg-name="ASS" tvg-logo="https://img2.pic.in.th/1000533263.png" group-title="📺 PREMIUM PLAY TV",ASS
-#http://117.18.127.253:8080/live/m7smarter/1234/119707.m3u8
+http://117.18.127.253:8080/live/m7smarter/1234/119707.m3u8
 #EXTINF:-1 tvg-id="C4.52.tunarr.com" tvg-name="TDC" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000533261.png" group-title="📺 PREMIUM PLAY TV",TDC
-#http://117.18.127.253:8080/live/m7smarter/1234/119703.m3u8
+http://117.18.127.253:8080/live/m7smarter/1234/119703.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sitcom & Variety" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/sitcom.png" group-title="📺 PREMIUM PLAY TV",Sitcom & Variety
-#http://117.18.127.253:8080/live/m7smarter/1234/31422.m3u8
+http://117.18.127.253:8080/live/m7smarter/1234/31422.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWTHAI" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/moo7show.png" group-title="📺 PREMIUM PLAY TV",SHOWTHAI
-#http://117.18.127.253:8080/live/m7smarter/1234/33061.m3u8
+http://117.18.127.253:8080/live/m7smarter/1234/33061.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="https://img2.pic.in.th/1000591940.png" group-title="📺 PREMIUM PLAY TV",ANIME TV
-#http://117.18.127.253:8080/live/m7smarter/1234/31426.m3u8
+http://117.18.127.253:8080/live/m7smarter/1234/31426.m3u8
 #EXTINF:-1 tvg-id="C1.49.tunarr.com" tvg-name="iPlay MEDIA" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/iplay.png" group-title="📺 PREMIUM PLAY TV",iPlay MEDIA
-#http://117.18.127.253:8080/live/m7smarter/1234/37875.m3u8
+http://117.18.127.253:8080/live/m7smarter/1234/37875.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M Live Concert" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000608298.png" group-title="📺 PREMIUM PLAY TV",M Live Concert
-#http://117.18.127.253:8080/live/m7smarter/1234/250908.m3u8
+http://117.18.127.253:8080/live/m7smarter/1234/250908.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="หนังซอมบี้" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/45.png" group-title="📺 PREMIUM PLAY TV",หนังซอมบี้
