@@ -967,7 +967,7 @@ https://dkl-1.shop/dookeela/iqiyi/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/8ae7d3e0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp" group-title="📺 TrueIDTV",tvN
 https://aisth.online/dookeela/tvn/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/234474a0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp" group-title="📺 TrueIDTV",TRUE Rock X Stream
-https://dkl-1.shop/dookeela/rock-x-stream/chunks.m3u8
+https://aisth.online/dookeela/rock-x-stream/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="📺 TrueIDTV",TRUE Crime Investigation
 https://dkl-1.shop/dookeela/crime-investigation/chunks.m3u8
 
