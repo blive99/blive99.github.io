@@ -939,7 +939,7 @@ https://blive99.github.io/m3u8/movietv/Truefilmasia.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://blive99.github.io/m3u8/movietv/Trueccm.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
-http://flussictv.ddns.net:9091/explore_Wild/index.m3u8
+https://blive99.github.io/m3u8/documentary/truewild.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2026/03/02/8a5801b0-15ea-11f1-88f0-3d6bf67e1529_webp_original.webp",True Foodiez Channel
 https://dkl-1.shop/dookeela/foodiez-channel/chunks.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
