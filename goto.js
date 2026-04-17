@@ -862,10 +862,10 @@ https://love.pifipa2974.workers.dev/lx-origin/hd-spotvbkp_720/chunks.m3u8
 https://blive99.github.io/m3u8/sporttv/truespotv2.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://fw4free.com/channel/ch3.webp",Premier Football HD 3
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.pifipa2974.workers.dev/vx-origin/epl-3_720/chunks.m3u8
+http://flussictv.ddns.net:9091/truepremierfootball3/index.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://fw4free.com/channel/ch4.webp",Premier Football HD 4
-#EXTVLCOPT:http-referrer=https://www.livedoomovies.com
-https://blive99.github.io/m3u8/sporttv/truePremierFootballHD4.m3u8
+#EXTVLCOPT:http-referrer=https://streamx-web.cc/
+http://flussictv.ddns.net:9091/truepremierfootball4/index.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://fw4free.com/channel/ch5.webp",Premier Football HD 5
 #EXTVLCOPT:http-referrer=https://ww.dooballfree.vip
 https://ww.dooballfree.vip/live/tpf5/chunks.m3u8
@@ -951,7 +951,7 @@ https://blive99.github.io/m3u8/documentary/truehistory.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://blive99.github.io/m3u8/movietv/wb.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
-https://love.pifipa2974.workers.dev/vx-origin/hd-xzyte_720/chunks.m3u8
+http://flussictv.ddns.net:9091/X-ZYTE/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="D" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 TrueIDTV",TRUE DreamWorks
 https://blive99.github.io/m3u8/cartoon/truedreamworks.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
@@ -969,7 +969,7 @@ https://aisth.online/dookeela/tvn/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/234474a0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp" group-title="📺 TrueIDTV",TRUE Rock X Stream
 https://aisth.online/dookeela/rock-x-stream/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="📺 TrueIDTV",TRUE Crime Investigation
-https://dkl-1.shop/dookeela/crime-investigation/chunks.m3u8
+http://flussictv.ddns.net:9091/Crime_Investigation/index.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 TrueIDTV",TRUE SPARK PLAY
 #http://154.215.14.8:8080/live/iptv591@gmail.com/456672/180.m3u8
