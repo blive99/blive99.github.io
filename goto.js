@@ -2166,6 +2166,8 @@ https://main.24playerhd.com/newplaylist/01a4753ca2acdf149be5b599/01a4753ca2acdf1
 ####DOOMOVIES####
 #EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2025/03/Big-World-2024-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B9%83%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Big World (2024) คนเล็กในโลกใหญ่
 https://main.24playerhd.com/newplaylist/84a754ec2a47a54f0bbefa8b/84a754ec2a47a54f0bbefa8b438.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2023/01/Better-Days-2019-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%89%E0%B8%B1%E0%B8%99-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%98%E0%B8%AD-300x450.png" group-title="📺 ดูหนังออนไลน์" ,Better Days (2019) ไม่มีวัน ไม่มีฉัน ไม่มีเธอ
+https://main.24playerhd.com/newplaylist/291e7356c9114c290a9b43d5/291e7356c9114c290a9b43d5438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/03/War-Machine-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81-187x269.png" group-title="📺 ดูหนังออนไลน์" ,War Machine (2026) สงครามจักรกลถล่มโลก
 https://main.24playerhd.com/newplaylist/2ca33e5cbde1d7e0bcd0f74b/2ca33e5cbde1d7e0bcd0f74b438.m3u8
