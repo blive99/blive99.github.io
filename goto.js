@@ -934,7 +934,7 @@ https://blive99.github.io/m3u8/movietv/TruefilmHD2.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",True Asian More
 https://blive99.github.io/m3u8/movietv/Trueasiamore.m3u8
-#EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="📺 TrueIDTV",True Film Asia
+#EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="📺 TrueIDTV",True Film Asia
 https://blive99.github.io/m3u8/movietv/Truefilmasia.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://blive99.github.io/m3u8/movietv/Trueccm.m3u8
