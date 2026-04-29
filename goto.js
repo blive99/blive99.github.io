@@ -963,7 +963,7 @@ http://flussictv.ddns.net:9091/Crime_Investigation/index.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/05/29/895eab60-3c92-11f0-b877-437fa63d2c00_webp_original.webp",True ANIPLUS Channel
 #EXTVLCOPT:http-referrer=https://dookeela4.live
-https://aisth.online/dookeela/anipluschannel/chunks.m3u8
+https://ipplaybox.fun/dookeela/anipluschannel/playlist.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/02/26/407828e0-f412-11ef-a64e-0d554f1e32aa_webp_original.webp",True ID Asian Series
 #EXTVLCOPT:http-referrer=https://dookeela4.live
 https://ipplaybox.fun/dookeela/trueidasianseries/playlist.m3u8
@@ -984,7 +984,7 @@ https://ipplaybox.fun/dookeela/af-reality/chunks.m3u8
 https://ipplaybox.fun/dookeela/tvn/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e13eeed0-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 TrueIDTV",KBS World HD
 #EXTVLCOPT:http-referrer=https://dookeela4.live
-https://aisth.online/dookeela/kbsworld/chunks.m3u8
+https://ipplaybox.fun/dookeela/kbsworld/chunks.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2025/06/26/44b90e20-525d-11f0-9c0d-151e7d28e33f_webp_original.webp" group-title="📺 TrueIDTV",CartoonClubChannel
 #EXTVLCOPT:http-referrer=https://tv.trueid.net/th-th
@@ -1001,7 +1001,7 @@ https://cdn142.stm.trueid.net/p201dai/143_multi_w_auto_tidapp.smil/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 TrueIDTV",TRUE SPARK PLAY
 #http://154.215.14.8:8080/live/iptv591@gmail.com/456672/180.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png", TRUE ID Station
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/214.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/214.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------
 ###AISPLAY###
 ###อ่านก่อนก๊อป ลิงค์มันจะต้องอัฟเดททุกวัน บางวันก็ไม่มีเวลามาอัฟให้####
