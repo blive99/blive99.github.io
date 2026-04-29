@@ -533,16 +533,16 @@ https://blive99.github.io/m3u8/sporttv/aisnba57.m3u8
 https://blive99.github.io/m3u8/sporttv/aisgolf61.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 62
 https://blive99.github.io/m3u8/sporttv/aisgolf62.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 63
+https://blive99.github.io/m3u8/sporttv/aisgolf63.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 64
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444752.m3u8
+https://blive99.github.io/m3u8/sporttv/aisgolf64.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 65
 #http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446293.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 66
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446293.m3u8
+https://blive99.github.io/m3u8/sporttv/aisgolf66.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 69
 https://aisth.online/dookeela/playsports69/chunks.m3u8
-#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 69
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444734.m3u8
 
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 71
 https://blive99.github.io/m3u8/sporttv/ais71.m3u8
