@@ -961,7 +961,9 @@ https://blive99.github.io/m3u8/news/DW.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="📺 TrueIDTV",TRUE Crime Investigation
 http://flussictv.ddns.net:9091/Crime_Investigation/index.m3u8
 
-
+#EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/05/29/895eab60-3c92-11f0-b877-437fa63d2c00_webp_original.webp",True ANIPLUS Channel
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://aisth.online/dookeela/anipluschannel/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/02/26/407828e0-f412-11ef-a64e-0d554f1e32aa_webp_original.webp",True ID Asian Series
 #EXTVLCOPT:http-referrer=https://dookeela4.live
 https://ipplaybox.fun/dookeela/trueidasianseries/playlist.m3u8
