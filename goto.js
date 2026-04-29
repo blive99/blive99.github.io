@@ -987,7 +987,7 @@ https://ipplaybox.fun/dookeela/tvn/chunks.m3u8
 https://aisth.online/dookeela/kbsworld/chunks.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2025/06/26/44b90e20-525d-11f0-9c0d-151e7d28e33f_webp_original.webp" group-title="📺 TrueIDTV",CartoonClubChannel
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://tv.trueid.net/th-th
 https://cdn142.stm.trueid.net/p201dai/143_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=168066705&did=X1ZOUTBhTW5CNUoxbEkyQWNKNFhaSE0wd2o5NmE5RTI&mpass=25PaG19r7chBtdYW6ipw2thfHVXMm7hJn7E243f_Q3k3DZdwhKGdc0CZNnvhM-WcTVg36HJcyvuNOPznT2MWVdutDotN-1vg1rS2BhjB19ggIA4bAl1oAf6R5O7QvAgecuo&sid=34630cdfcb&rt=1777431940&ds=25200&tk=AgDh2Y2wAAjRmIU6ZjuwXXsz1Zyild8bflU5gsONjnU
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/5c6a1ff0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp",True SOUL SIAM
