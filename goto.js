@@ -20,8 +20,8 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 ###VIP SPORT###
 
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://www.fileinw.com/postor/20250830191812Wsport.jpg" group-title="📺 VIP SPORT",W Sport
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://stereomax.shop/dookeela/w-sport/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/live-tv
+https://ipplaybox.fun/dookeela/w-sport/chunks.m3u8
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://bestcommt2.github.io/logo/sport/wwe-network-logo.jpg" group-title="📺 VIP SPORT",WWE
 https://wandering-oldman.github.io/server2/app24-alwan-sport-WWE.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="📺 VIP SPORT",FIFA+
