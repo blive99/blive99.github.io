@@ -259,49 +259,49 @@ https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/1080p/index.m3u8
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="C2.50.tunarr.com" tvg-name="IMC" tvg-logo="https://img2.pic.in.th/1000533252.png" group-title="📺 PREMIUM PLAY TV",IMC
-http://117.18.127.253:8080/live/m7smarter/1234/119704.m3u8
+#http://117.18.127.253:8080/live/m7smarter/1234/119704.m3u8
 #EXTINF:-1 tvg-id="C3.51.tunarr.com" tvg-name="AMC" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000533251.png" group-title="📺 PREMIUM PLAY TV",AMC
-http://117.18.127.253:8080/live/m7smarter/1234/119705.m3u8
+#http://117.18.127.253:8080/live/m7smarter/1234/119705.m3u8
 #EXTINF:-1 tvg-id="C5.53.tunarr.com" tvg-name="TCC" tvg-logo="https://img2.pic.in.th/1000533253.png" group-title="📺 PREMIUM PLAY TV",TCC
-http://117.18.127.253:8080/live/m7smarter/1234/119706.m3u8
+#http://117.18.127.253:8080/live/m7smarter/1234/119706.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ITS" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000533262.png" group-title="📺 PREMIUM PLAY TV",ITS
-http://117.18.127.253:8080/live/m7smarter/1234/101611.m3u8
+#http://117.18.127.253:8080/live/m7smarter/1234/101611.m3u8
 #EXTINF:-1 tvg-id="C3.51.tunarr.com" tvg-name="ASS" tvg-logo="https://img2.pic.in.th/1000533263.png" group-title="📺 PREMIUM PLAY TV",ASS
-http://117.18.127.253:8080/live/m7smarter/1234/119707.m3u8
+#http://117.18.127.253:8080/live/m7smarter/1234/119707.m3u8
 #EXTINF:-1 tvg-id="C4.52.tunarr.com" tvg-name="TDC" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000533261.png" group-title="📺 PREMIUM PLAY TV",TDC
-http://117.18.127.253:8080/live/m7smarter/1234/119703.m3u8
+#http://117.18.127.253:8080/live/m7smarter/1234/119703.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sitcom & Variety" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/sitcom.png" group-title="📺 PREMIUM PLAY TV",Sitcom & Variety
-http://117.18.127.253:8080/live/m7smarter/1234/31422.m3u8
+#http://117.18.127.253:8080/live/m7smarter/1234/31422.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWTHAI" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/moo7show.png" group-title="📺 PREMIUM PLAY TV",SHOWTHAI
-http://117.18.127.253:8080/live/m7smarter/1234/33061.m3u8
+#http://117.18.127.253:8080/live/m7smarter/1234/33061.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="https://img2.pic.in.th/1000591940.png" group-title="📺 PREMIUM PLAY TV",ANIME TV
-http://117.18.127.253:8080/live/m7smarter/1234/31426.m3u8
+#http://117.18.127.253:8080/live/m7smarter/1234/31426.m3u8
 #EXTINF:-1 tvg-id="C1.49.tunarr.com" tvg-name="iPlay MEDIA" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/iplay.png" group-title="📺 PREMIUM PLAY TV",iPlay MEDIA
-http://117.18.127.253:8080/live/m7smarter/1234/37875.m3u8
+#http://117.18.127.253:8080/live/m7smarter/1234/37875.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M Live Concert" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000608298.png" group-title="📺 PREMIUM PLAY TV",M Live Concert
-http://117.18.127.253:8080/live/m7smarter/1234/250908.m3u8
+#http://117.18.127.253:8080/live/m7smarter/1234/250908.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="หนังซอมบี้" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/45.png" group-title="📺 PREMIUM PLAY TV",หนังซอมบี้
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435626.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435626.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="หนังฝรั่ง" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/inter.png" group-title="📺 PREMIUM PLAY TV",หนังฝรั่ง
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435627.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435627.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="หนังเกาหลี" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/ka.png" group-title="📺 PREMIUM PLAY TV",หนังเกาหลี
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435628.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/435628.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="หนังจีน" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/movie/jn.png" group-title="📺 PREMIUM PLAY TV",หนังจีน
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442715.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442715.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Netflix" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/movie/netflix.png" group-title="📺 PREMIUM PLAY TV",Netflix
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442716.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442716.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ThaiFilm" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/movie/th.png" group-title="📺 PREMIUM PLAY TV",ThaiFilm
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442717.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442717.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="หนังตลก" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/movie/joke.png" group-title="📺 PREMIUM PLAY TV",หนังตลก
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442718.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/442718.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Livesky 1" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/Livesky11.png" group-title="📺 PREMIUM PLAY TV",Livesky 1
 http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443073.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Livesky 2" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/Livesky22.png" group-title="📺 PREMIUM PLAY TV",Livesky 2
 http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443074.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/movie/ipm_series_plus_hd.png" group-title="📺 PREMIUM PLAY TV",SERIES
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443075.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443075.m3u8
 
 
 
@@ -545,21 +545,21 @@ https://aisth.online/dookeela/playsports69/chunks.m3u8
 #http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/444734.m3u8
 
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 71
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443260.m3u8
+https://blive99.github.io/m3u8/sporttv/ais71.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 72
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443261.m3u8
+https://blive99.github.io/m3u8/sporttv/ais72.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 73
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443262.m3u8
+https://blive99.github.io/m3u8/sporttv/ais73.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 74
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447497.m3u8
+https://blive99.github.io/m3u8/sporttv/ais74.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 75
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447498.m3u8
+https://blive99.github.io/m3u8/sporttv/ais75.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 76
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447499.m3u8
+https://blive99.github.io/m3u8/sporttv/ais76.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 77
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447500.m3u8
+https://blive99.github.io/m3u8/sporttv/ais77.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 78
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/447501.m3u8
+https://blive99.github.io/m3u8/sporttv/ais78.m3u8
 
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
