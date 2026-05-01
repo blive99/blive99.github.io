@@ -1,4 +1,4 @@
-name: Restream IZAA
+name: Restream
 
 on:
   workflow_dispatch:
@@ -14,7 +14,7 @@ jobs:
 
       - name: Convert to HLS
         run: |
-          ffmpeg -re -i "http://49.0.64.96:8007/IZAA" \
+          ffmpeg -re -i "https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/1080p/index.m3u8" \
           -c copy \
           -f hls \
           -hls_time 6 \
