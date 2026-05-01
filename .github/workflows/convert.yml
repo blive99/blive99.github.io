@@ -1,0 +1,30 @@
+name: Convert MP4 to HLS
+
+on: [push]
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install FFmpeg
+        run: sudo apt update && sudo apt install ffmpeg -y
+
+      - name: Convert MP4 to M3U8
+        run: |
+          ffmpeg -i input.mp4 \
+          -c:v libx264 -c:a aac \
+          -hls_time 6 \
+          -hls_playlist_type vod \
+          -f hls index.m3u8
+
+      - name: Upload output
+        uses: actions/upload-artifact@v4
+        with:
+          name: hls-output
+          path: |
+            *.m3u8
+            *.ts
