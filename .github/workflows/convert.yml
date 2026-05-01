@@ -31,6 +31,6 @@ jobs:
     # Replace with your actual file source
     wget https://example.com/input.mp4
     # or curl -O https://example.com/input.mp4
-	
+
             *.m3u8
             *.ts
