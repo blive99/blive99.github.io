@@ -14,7 +14,7 @@ jobs:
 
       - name: Restream
         run: |
-          ffmpeg -re -i "https://example.com/source.m3u8" \
+          ffmpeg -re -i "https://love.sayob28681.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8" \
           -c copy \
           -f hls \
           -hls_time 6 \
