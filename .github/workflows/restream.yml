@@ -1,4 +1,4 @@
-name: Restream M3U8
+name: Restream IZAA
 
 on:
   workflow_dispatch:
@@ -6,13 +6,13 @@ on:
 jobs:
   restream:
     runs-on: ubuntu-latest
-    timeout-minutes: 2
+    timeout-minutes: 10
 
     steps:
       - name: Install FFmpeg
         run: sudo apt update && sudo apt install -y ffmpeg
 
-      - name: Restream M3U8
+      - name: Convert to HLS
         run: |
           ffmpeg -re -i "http://49.0.64.96:8007/IZAA" \
           -c copy \
@@ -22,7 +22,7 @@ jobs:
           -hls_flags delete_segments \
           stream.m3u8
 
-      - name: Upload Result
+      - name: Upload Output
         uses: actions/upload-artifact@v4
         with:
           name: hls-stream
