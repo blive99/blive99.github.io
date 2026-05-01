@@ -6,7 +6,7 @@ on:
 jobs:
   restream:
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    timeout-minutes: 2
 
     steps:
       - name: Install FFmpeg
