@@ -14,7 +14,7 @@ jobs:
 
       - name: Restream M3U8
         run: |
-          ffmpeg -re -i "https://love.sayob28681.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8" \
+          ffmpeg -re -i "http://49.0.64.96:8007/IZAA" \
           -c copy \
           -f hls \
           -hls_time 6 \
