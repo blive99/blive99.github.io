@@ -952,12 +952,11 @@ https://blive99.github.io/m3u8/documentary/truehistory.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://blive99.github.io/m3u8/tvmovie/wb.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
-http://flussictv.ddns.net:9091/X-ZYTE/index.m3u8
+https://ipplaybox.fun/dookeela/truex-zyte/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="D" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 TrueIDTV",TRUE DreamWorks
 https://blive99.github.io/m3u8/cartoon/truedreamworks.m3u8
 
-#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://cms.dmpcdn.com/livetv/2022/09/08/e5b667c0-2f27-11ed-9e57-d98920d4c462_webp_original.webp" group-title="📺 TrueIDTV",DW
-https://blive99.github.io/m3u8/news/DW.m3u8
+
 
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="📺 TrueIDTV",TRUE Crime Investigation
 https://ipplaybox.fun/dookeela/crime-investigation/chunks.m3u8
@@ -1003,6 +1002,8 @@ https://ipplaybox.fun/dookeela/kbsworld/chunks.m3u8
 #http://154.215.14.8:8080/live/iptv591@gmail.com/456672/180.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png", TRUE ID Station
 #http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/214.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://cms.dmpcdn.com/livetv/2022/09/08/e5b667c0-2f27-11ed-9e57-d98920d4c462_webp_original.webp" group-title="📺 TrueIDTV",DW
+#https://blive99.github.io/m3u8/news/DW.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/11539.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------
