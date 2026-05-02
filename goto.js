@@ -1004,7 +1004,7 @@ https://ipplaybox.fun/dookeela/kbsworld/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png", TRUE ID Station
 #http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/214.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
-#http://66.90.99.154:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/11539.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------
 ###AISPLAY###
 ###อ่านก่อนก๊อป ลิงค์มันจะต้องอัฟเดททุกวัน บางวันก็ไม่มีเวลามาอัฟให้####
@@ -1738,7 +1738,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F65BX3TKGTCBZQ/1083/inde
 ###Documentary###
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="📺 สารคดีรอบโลก", Khong Dee Thailand GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://117.18.127.253:8080/live/m7smarter/1234/75404.m3u8
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/116072.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="📺 สารคดีรอบโลก", Samrujlok GoodTV
 https://blive99.github.io/m3u8/goodtv/goodtvSamrulok.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="📺 สารคดีรอบโลก", Animal Show GoodTV
@@ -1749,7 +1749,7 @@ https://blive99.github.io/m3u8/goodtv/goodtvanimalshow.m3u8
 #https://blive99.github.io/m3u8/goodtv/goodtvmysci.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="📺 สารคดีรอบโลก", Thainess GoodTV
 #EXTVLCOPT:http-referrer=https://dookeela4.live
-https://aisth.online/dookeela/thainess/chunks.m3u8
+https://ipplaybox.fun/dookeela/thainess/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="📺 สารคดีรอบโลก", CGTN Documentary
 http://119.82.250.109:8080/nl.m3u8?id=1021
