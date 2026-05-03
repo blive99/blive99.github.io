@@ -895,7 +895,7 @@ https://blive99.github.io/m3u8/sporttv/truePremierFootballHD3.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truePremierFootballHD4.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2026/04/09/a7bbba40-33f8-11f1-bcc9-eb625ebc3222_webp_original.webp",Premier Football HD 5
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:http-referrer=https://dookeela4.live/live-tv
 https://blive99.github.io/m3u8/sporttv/truePremierFootballHD5.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
