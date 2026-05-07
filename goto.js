@@ -1022,7 +1022,7 @@ https://ipplaybox.fun/dookeela/kbsworld/chunks.m3u8
 #https://ipplaybox.fun/dookeela/iqiyi/chunks.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/234474a0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp" group-title="📺 TrueIDTV",TRUE Rock X Stream
-#https://ipplaybox.fun/dookeela/rock-x-stream/chunks.m3u8
+https://ipplaybox.fun/dookeela/rock-x-stream/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 TrueIDTV",TRUE SPARK PLAY
 #http://154.215.14.8:8080/live/iptv591@gmail.com/456672/180.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png", TRUE ID Station
