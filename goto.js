@@ -43,10 +43,10 @@ https://blive99.github.io/m3u8/sporttv/max1.m3u8
 https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-max01_480/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-max01_480/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_2.png" group-title="📺 VIP SPORT",MONOMAX2
@@ -59,10 +59,10 @@ https://blive99.github.io/m3u8/sporttv/monomax2.m3u8
 https://blive99.github.io/m3u8/sporttv/max2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-max02_480/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-max02_480/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
@@ -78,13 +78,13 @@ https://blive99.github.io/m3u8/sporttv/monomax3.m3u8
 https://blive99.github.io/m3u8/sporttv/max3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_3HD/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-max03_480/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-max03_480/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_4.png" group-title="📺 VIP SPORT",MONOMAX4
@@ -98,13 +98,13 @@ https://blive99.github.io/m3u8/sporttv/max4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_4.png" group-title="📺 VIP SPORT",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax04_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-monomax04_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_4HD/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-max04_480/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-max04_480/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_5.png" group-title="📺 VIP SPORT",MONOMAX5
@@ -114,13 +114,13 @@ https://blive99.github.io/m3u8/sporttv/monomax5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_5.png" group-title="📺 VIP SPORT",MONOMAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_PL_5HD/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-max05_480/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-max05_480/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_6.png" group-title="📺 VIP SPORT",MONOMAX6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -129,13 +129,13 @@ https://blive99.github.io/m3u8/sporttv/monomax6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_6.png" group-title="📺 VIP SPORT",MONOMAX6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-max06_480/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-max06_480/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/Monomax_Live_6HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MONOMAX 7" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_7.png" group-title="📺 VIP SPORT",MONOMAX 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -149,7 +149,7 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-7/playlist.m3u8
 https://www.livedoomovies.com:4431/Monomax_Live_7HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax07_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-monomax07_720/chunks.m3u8
 
 
 
@@ -162,7 +162,7 @@ https://blive99.github.io/m3u8/sporttv/monomax8.m3u8
 https://www.livedoomovies.com:4431/Monomax_Live_8HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_9.png" group-title="📺 VIP SPORT",MONOMAX 9
@@ -171,7 +171,7 @@ https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8
 https://blive99.github.io/m3u8/sporttv/monomax9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_10.png" group-title="📺 VIP SPORT",MONOMAX 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -179,7 +179,7 @@ https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8
 https://blive99.github.io/m3u8/sporttv/monomax10.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax10_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-monomax10_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name="MONOMAX 9" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_11.png" group-title="📺 VIP SPORT",MONOMAX 11
@@ -189,17 +189,17 @@ http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130728.m3u8
 https://blive99.github.io/m3u8/sporttv/monomax11.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://stream-x.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax11_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-monomax11_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="📺 VIP SPORT",beIN SPORT 1
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/hd-bein1_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/hd-bein1_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch7.png" group-title="📺 VIP SPORT",beIN SPORT 2
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/hd-bein2_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/hd-bein2_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch8.png" group-title="📺 VIP SPORT",beIN SPORT 3
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/hd-bein3_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/hd-bein3_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="9574" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/515_LFCTVRed.png" group-title="📺 VIP SPORT",LFC TV
 https://blive99.github.io/m3u8/sporttv/LFC-TV.m3u8
@@ -865,9 +865,9 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="📺3BBGIGATV", ROCK ENTERTAINMENT
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-blueant_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-blueant_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="📺3BBGIGATV", ROCK Action
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-blueantex_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/th-blueantex_720/chunks.m3u8
 
 
 
@@ -878,13 +878,13 @@ https://love.uh6wzyncw9.workers.dev/lx-origin/th-blueantex_720/chunks.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://bestcommt2.github.io/logo/sport/NFL.png",NFL NETWORK
 #EXTVLCOPT:http-referrer=https://tubtoeball.net/
-https://love.uh6wzyncw9.workers.dev/vx-origin/us-nfl_720/chunks.m3u8
+https://love.bebin98399.workers.dev/vx-origin/us-nfl_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://i.ibb.co/V0CqBx96/nba.png" ,NBATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
-https://love.uh6wzyncw9.workers.dev/lx-origin/hd-spotvbkp_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/hd-spotvbkp_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truespotv2.m3u8
@@ -899,13 +899,13 @@ https://blive99.github.io/m3u8/sporttv/truePremierFootballHD4.m3u8
 https://blive99.github.io/m3u8/sporttv/truePremierFootballHD5.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+https://love.bebin98399.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",TrueSportHD 2
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
+https://love.bebin98399.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",TrueSportHD 3
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
+https://love.bebin98399.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 TrueIDTV",TrueSportHD4
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
@@ -917,28 +917,28 @@ https://blive99.github.io/m3u8/sporttv/truesport5bkp.m3u8
 https://blive99.github.io/m3u8/sporttv/truesport7bkp.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
+https://love.bebin98399.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
+https://love.bebin98399.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,BeinSportHD 3
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
+https://love.bebin98399.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" ,BeinSportHD 4
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/vx-origin/epl-bein4_720/chunks.m3u8
+https://love.bebin98399.workers.dev/vx-origin/epl-bein4_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" ,BeinSportHD 5
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/hd-bein5_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/hd-bein5_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" ,BeinSportHD 6
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/hd-bein6_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/hd-bein6_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 7
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" ,BeinSportHD 8
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.uh6wzyncw9.workers.dev/lx-origin/hd-bein8_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/hd-bein8_720/chunks.m3u8
 
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", TRUE Golf Channel
@@ -2469,21 +2469,21 @@ https://main.24playerhd.com/newplaylist/0ac0da9944d3ee76504a9d80/0ac0da9944d3ee7
 ####DOOMXXX####
 
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH1
-https://love.uh6wzyncw9.workers.dev/lx-origin/xxx-01_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/xxx-01_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH2
-https://love.uh6wzyncw9.workers.dev/lx-origin/xxx-02_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/xxx-02_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH3
-https://love.uh6wzyncw9.workers.dev/lx-origin/xxx-03_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/xxx-03_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH4
-https://love.uh6wzyncw9.workers.dev/lx-origin/xxx-04_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/xxx-04_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH5
-https://love.uh6wzyncw9.workers.dev/lx-origin/xxx-05_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/xxx-05_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH6
-https://love.uh6wzyncw9.workers.dev/lx-origin/xxx-06_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/xxx-06_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH7
-https://love.uh6wzyncw9.workers.dev/lx-origin/xxx-07_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/xxx-07_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH8
-https://love.uh6wzyncw9.workers.dev/lx-origin/xxx-08_720/chunks.m3u8
+https://love.bebin98399.workers.dev/lx-origin/xxx-08_720/chunks.m3u8
 
 --------------------------------------------------------------------------------------
 ####J AV####
