@@ -489,18 +489,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL028/DASH
 
 
 
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports48.png" group-title="📺 AIS PLAY SPORT",PLAY SPORTS 48
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports49.png" group-title="📺 AIS PLAY SPORT",PLAY SPORTS 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/TL104.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports50.png" group-title="📺 AIS PLAY SPORT",PLAY SPORTS 50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8
+
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/VolleyballPEA.png" group-title="📺 AIS PLAY SPORT",VolleyballPEA
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -522,39 +511,52 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS044/HLS/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/PS046/HLS/PS046.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/thai%20momen%20l1.jpg" group-title="📺 AIS PLAY SPORT",THAI WOMEN'S LEAGUE 1 - AIS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130091042038139.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL031/DASH/TL031.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/thai%20momen%20l2.jpg" group-title="📺 AIS PLAY SPORT",THAI WOMEN'S LEAGUE 2 - AIS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130091121038140.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL032/DASH/TL032.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130091242038203.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL035/DASH/TL035.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/thai%20momen%20l2.jpg" group-title="📺 AIS PLAY SPORT",THAI WOMEN'S LEAGUE 2 - AIS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130095229038208.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL036/DASH/TL036.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/thai%20momen%20l2.jpg" group-title="📺 AIS PLAY SPORT",THAI WOMEN'S LEAGUE 2 - AIS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130091330038205.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL037/DASH/TL037.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/thai%20momen%20l2.jpg" group-title="📺 AIS PLAY SPORT",THAI WOMEN'S LEAGUE 2 - AIS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130091356038206.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL038/DASH/TL038.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/thai%20momen%20l2.jpg" group-title="📺 AIS PLAY SPORT",THAI WOMEN'S LEAGUE 2 - AIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL039/DASH/TL039.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260422135014049847.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/RWS001/DASH/RWS001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports48.png" group-title="📺 AIS PLAY SPORT",PLAY SPORTS 48
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports49.png" group-title="📺 AIS PLAY SPORT",PLAY SPORTS 49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/TL104.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports50.png" group-title="📺 AIS PLAY SPORT",PLAY SPORTS 50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="https://bestcommt2.github.io/logo/sport/nfk%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NFL Network  51
@@ -603,48 +605,12 @@ https://blive99.github.io/m3u8/sporttv/ais77.m3u8
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 78
 https://blive99.github.io/m3u8/sporttv/ais78.m3u8
 
-#EXTINF:-1 tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260127140505037927.png" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS Premier sports
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0029/DASH/V0029.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130091042038139.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL031/DASH/TL031.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130091121038140.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL032/DASH/TL032.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130091242038203.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL035/DASH/TL035.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130095229038208.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL036/DASH/TL036.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130091330038205.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL037/DASH/TL037.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130091356038206.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL038/DASH/TL038.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260422135014049847.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/RWS001/DASH/RWS001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20251001131957025352.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 55
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/NBA001/DASH/NBA001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20251001132050025353.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 56
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -698,6 +664,15 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0027/DASH
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0028/DASH/V0028.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
 
+
+#EXTINF:-1 tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260127140505037927.png" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS Premier sports
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0029/DASH/V0029.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20251001131957025352.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/NBA001/DASH/NBA001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=aa97a27ac031350b2d6b97e6a7506dad&chunkHttps=true&tmid=B0003&tpbk=WlpBrqWpF6QR6frX&rrt=1779514606&tmod=rfk&rsid=5ca99e10-4c9d-4a94-a123-e6dd7444ab2a&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1779601006
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
 
