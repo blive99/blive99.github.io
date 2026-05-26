@@ -1,0 +1,22 @@
+name: Auto Restream
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run-stream:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install FFmpeg
+        run: |
+          sudo apt update
+          sudo apt install ffmpeg -y
+
+      - name: Run Stream
+        run: |
+          chmod +x stream.sh
+          ./stream.sh
