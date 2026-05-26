@@ -1,4 +1,4 @@
-name: Restream
+name: Restream test
 
 on:
   workflow_dispatch:
