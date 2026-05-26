@@ -14,7 +14,7 @@ jobs:
 
       - name: Convert to HLS
         run: |
-          ffmpeg -re -i "https://dkl-1.shop/dookeela/truefilm2/chunks.m3u8" \
+          ffmpeg -re -i "https://ipplaybox.fun/dookeela/truefilm2/chunks.m3u8" \
           -c copy \
           -f hls \
           -hls_time 6 \
