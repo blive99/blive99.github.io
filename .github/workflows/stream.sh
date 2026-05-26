@@ -14,8 +14,11 @@ do
     -user_agent "Mozilla/5.0" \
     -i "https://dkl-1.shop/dookeela/truefilm2/chunks.m3u8" \
     -c copy \
-    -f flv \
-    "rtmp://YOUR_SERVER/live/streamkey"
+    -f hls \
+-hls_time 5 \
+-hls_list_size 10 \
+-hls_flags delete_segments+append_list \
+output.m3u8
 
     echo "Stream disconnected! Reconnecting in 5 seconds..."
     sleep 5
