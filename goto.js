@@ -19,7 +19,7 @@ https://ctrl.laotv.la/live/WWE/manifest.mpd
 
 ###VIP SPORT###
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://bestcommt2.github.io/logo/sport/one%20championship.jpg" group-title="📺 VIP SPORT",ONE Samurai 1
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://blive99.github.io/m3u8/sporttv/one_championship.m3u8
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://www.fileinw.com/postor/20250830191812Wsport.jpg" group-title="📺 VIP SPORT",W Sport
 #EXTVLCOPT:http-referrer=https://blive99.github.io
@@ -224,11 +224,11 @@ https://blive99.github.io/m3u8/sporttv/MU-TV.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J SPORTS 1
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://blive99.github.io/m3u8/sporttv/Jsport1.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png", J SPORTS 2
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://blive99.github.io/m3u8/sporttv/Jsport2.m3u8
 
 #EXTINF:-1 group-title="📺 VIP SPORT" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png", J SPORTS 3
@@ -994,7 +994,7 @@ https://blive99.github.io/m3u8/sporttv/truePremierFootballHD3.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://blive99.github.io/m3u8/sporttv/truePremierFootballHD4.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2026/04/09/a7bbba40-33f8-11f1-bcc9-eb625ebc3222_webp_original.webp",Premier Football HD 5
-#EXTVLCOPT:http-referrer=https://dookeela4.live/live-tv
+#EXTVLCOPT:http-referrer=https://dkl-1.shop/live-tv
 https://blive99.github.io/m3u8/sporttv/truePremierFootballHD5.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
@@ -1057,7 +1057,7 @@ https://blive99.github.io/m3u8/tvmovie/Truemoviehit.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp" group-title="📺 TrueIDTV",True Film 1HD
 https://blive99.github.io/m3u8/tvmovie/TruefilmHD1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp" group-title="📺 TrueIDTV",True Film 2HD
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://blive99.github.io/m3u8/tvmovie/TruefilmHD2.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",True Asian More
@@ -1087,28 +1087,28 @@ https://blive99.github.io/m3u8/cartoon/truedreamworks.m3u8
 https://dkl-1.shop/dookeela/crime-investigation/chunks.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/05/29/895eab60-3c92-11f0-b877-437fa63d2c00_webp_original.webp",True ANIPLUS Channel
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://dkl-1.shop/dookeela/anipluschannel/playlist.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/02/26/407828e0-f412-11ef-a64e-0d554f1e32aa_webp_original.webp",True ID Asian Series
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://dkl-1.shop/dookeela/trueidasianseries/playlist.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
-#EXTVLCOPT:http-referrer=https://dookeela4.live/live-tv
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://dkl-1.shop/dookeela/discovery-asia/chunks.m3u8
 #EXTINF:-1 tvg-id="4019" tvg-name="BBC Lifestyles TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 TrueIDTV",TRUE BBC Lifestyles
-#EXTVLCOPT:http-referrer=https://dookeela4.live/live-tv
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://dkl-1.shop/dookeela/bbc-lifestyle/chunks.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2026/03/02/8a5801b0-15ea-11f1-88f0-3d6bf67e1529_webp_original.webp",True Foodiez Channel
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://dkl-1.shop/dookeela/foodiez-channel/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2026/03/16/64dc3290-20e8-11f1-a2c3-2d8fe274e8a2_webp_original.webp",True AF Reality 
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://dkl-1.shop/dookeela/af-reality/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/8ae7d3e0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp" group-title="📺 TrueIDTV",tvN
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://dkl-1.shop/dookeela/tvn/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e13eeed0-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 TrueIDTV",KBS World HD
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://dkl-1.shop/dookeela/kbsworld/chunks.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2025/06/26/44b90e20-525d-11f0-9c0d-151e7d28e33f_webp_original.webp" group-title="📺 TrueIDTV",CartoonClubChannel
@@ -1116,7 +1116,7 @@ https://dkl-1.shop/dookeela/kbsworld/chunks.m3u8
 #https://cdn142.stm.trueid.net/p201dai/143_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=168066705&did=X1ZOUTBhTW5CNUoxbEkyQWNKNFhaSE0wd2o5NmE5RTI&mpass=25PaG19r7chBtdYW6ipw2thfHVXMm7hJn7E243f_Q3k3DZdwhKGdc0CZNnvhM-WcTVg36HJcyvuNOPznT2MWVdutDotN-1vg1rS2BhjB19ggIA4bAl1oAf6R5O7QvAgecuo&sid=34630cdfcb&rt=1777431940&ds=25200&tk=AgDh2Y2wAAjRmIU6ZjuwXXsz1Zyild8bflU5gsONjnU
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/5c6a1ff0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp",True SOUL SIAM
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 #https://dkl-1.shop/dookeela/af-reality/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://iconlogovector.com/uploads/images/2024/11/lg-672e0603c9c4f-iQIYI.webp" group-title="📺 TrueIDTV",IQIYI
 #https://dkl-1.shop/dookeela/iqiyi/chunks.m3u8
@@ -1874,7 +1874,7 @@ https://blive99.github.io/m3u8/goodtv/goodtvanimalshow.m3u8
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 #https://blive99.github.io/m3u8/goodtv/goodtvmysci.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="📺 สารคดีรอบโลก", Thainess GoodTV
-#EXTVLCOPT:http-referrer=https://dookeela4.live
+#EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://dkl-1.shop/dookeela/thainess/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="📺 สารคดีรอบโลก", CGTN Documentary
