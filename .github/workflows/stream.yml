@@ -1,15 +1,15 @@
-name: Auto Restream
+name: Stream
 
 on:
   workflow_dispatch:
 
 jobs:
-  run-stream:
+  build:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Install FFmpeg
         run: |
