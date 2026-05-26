@@ -1058,7 +1058,7 @@ https://blive99.github.io/m3u8/tvmovie/Truemoviehit.m3u8
 https://blive99.github.io/m3u8/tvmovie/TruefilmHD1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp" group-title="📺 TrueIDTV",True Film 2HD
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
-https://blive99.github.io/m3u8/tvmovie/TruefilmHD2.m3u8
+https://ipplaybox.fun/dookeela/truefilm2/chunks.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",True Asian More
 https://blive99.github.io/m3u8/tvmovie/Trueasiamore.m3u8
