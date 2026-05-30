@@ -381,6 +381,11 @@ http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/443075.m3u8
 #http://flussictv.ddns.net:9091/Star_Plus_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ซิทคอม&วาไรตี้ ย้อนหลัง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="📺 PREMIUM PLAY TV",Star_Plus_2
 #http://flussictv.ddns.net:9091/Star_Plus_2/index.m3u8
+
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGB2pA7hcsQ6BaWYgQKeist-p0-lqGid26g&usqp=CAU",Movie
+#EXTVLCOPT:http-referrer=https://livesod365.com/
+https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 --------------------------------------------------------------------------------------
 ###BallThai###
 #EXTINF:-1 tvg-name="PlaysportsFootball1" tvg-logo="https://bestcommt2.github.io/logo/sport/AISplay-sport1.jpg" group-title="📺 Thaileague",PLAY SPORTS FOOTBALL 1
@@ -1986,7 +1991,8 @@ https://blive99.github.io/m3u8/goodtv/goodtvSamrulok.m3u8
 https://blive99.github.io/m3u8/goodtv/goodtvanimalshow.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="📺 สารคดีรอบโลก", MySci GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-#https://blive99.github.io/m3u8/goodtv/goodtvmysci.m3u8
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=31dcdd09588bf67594a316c13fd491d6&chunkHttps=true&tmid=B0015&tpbk=OKAJuDlJPrYRk5As&rrt=1751326270&tmod=rfk&rsid=83c4448e-8f1e-4298-88ce-99c426b36448&tuid=i3s4oe8Umb9vkroNBH7qT6fIKs2pmPcHuXpmuzeY%2BL2BWPCUuMn2JTgBnQYel9wNZjQTLYxWNqIVgz3ZzybbJRYyMvvS8EEQKXulLJP9984AU%3D&cdn=redfox-https&tdid=11825acc7df882991f32b9ba07ac7710&origin=anevia&tfa=f0-fc&tttl=1751412666|referer=https://ais-vidnt.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="📺 สารคดีรอบโลก", Thainess GoodTV
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://ipplaybox.fun/dookeela/thainess/chunks.m3u8
