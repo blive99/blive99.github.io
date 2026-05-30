@@ -553,7 +553,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL037/DASH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL038/DASH/TL038.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=5acebdf1e102e5e97de043d9f61c76b0&chunkHttps=true&tmid=B0003&tpbk=kwdQEnu2TUdq5s9B&rrt=1780111355&tmod=rfk&rsid=e6e57db9-eb65-4127-b6c1-ad24c57f3735&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1780197755
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bestcommt2.github.io/logo/sport/thai%20momen%20l2.jpg" group-title="📺 AIS PLAY SPORT",THAI WOMEN'S LEAGUE 2 - AIS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmi-f.play-rfcdn.ais.th/iptvepg/images/poster/20260130091356038206.png" group-title="📺 AIS PLAY SPORT",AIS PLAY SPORT 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL039/DASH/TL039.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=5acebdf1e102e5e97de043d9f61c76b0&chunkHttps=true&tmid=B0003&tpbk=kwdQEnu2TUdq5s9B&rrt=1780111355&tmod=rfk&rsid=e6e57db9-eb65-4127-b6c1-ad24c57f3735&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=6e64becfd23c5372186cbe8b0eab34f8&origin=anevia&tfa=f0-fc&tttl=1780197755
@@ -580,9 +580,9 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/
 #EXTINF:-1 tvg-id="4146" tvg-name="NFL Network  51" tvg-logo="https://bestcommt2.github.io/logo/sport/nfk%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NFL Network  51
 https://blive99.github.io/m3u8/sporttv/aisnfl51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AIS NFL Network  52" tvg-logo="https://bestcommt2.github.io/logo/sport/nfk%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NFL Network  52
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/398297.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/398297.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AIS-NFL 53" tvg-logo="https://bestcommt2.github.io/logo/sport/nfk%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NFL Network 53
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/398298.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/398298.m3u8
 
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/nba%20ais.png" group-title="📺 AIS PLAY SPORT",AIS NBA AIS 55
 https://blive99.github.io/m3u8/sporttv/aisnba55.m3u8
@@ -600,11 +600,11 @@ https://blive99.github.io/m3u8/sporttv/aisgolf63.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 64
 https://blive99.github.io/m3u8/sporttv/aisgolf64.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 65
-#http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446293.m3u8
+http://6395online.com:8080/live/mrpoogapooga@gmail.com/085858/446293.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 66
 https://blive99.github.io/m3u8/sporttv/ais66.m3u8
 #EXTINF:-1 tvg-id="true-ball-thai-3" tvg-name="MONOMAX 11" tvg-logo="https://bestcommt2.github.io/logo/sport/lpga%20ais.png" group-title="📺 AIS PLAY SPORT",AIS GOLF AIS 69
-https://ipplaybox.fun/dookeela/playsports69/chunks.m3u8
+http://6395online.com:8080/live/iptv591@gmail.com/456672/444734.m3u8
 
 #EXTINF:-1 tvg-logo="https://bestcommt2.github.io/logo/sport/atp%20tour%20ais.jpg" group-title="📺 AIS PLAY SPORT",ATP TOUR TENNIS - AIS 71
 https://blive99.github.io/m3u8/sporttv/ais71.m3u8
