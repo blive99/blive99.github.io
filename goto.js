@@ -30,8 +30,7 @@ http://45.139.122.199:2095/play/live.php?mac=00:1A:79:46:E4:1E&stream=2107433&ex
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://www.jumpdesign.co.uk/wp-content/uploads/2025/07/HD-GRABS_0000_Layer-55.jpg" group-title="📺 VIP SPORT",VNL
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oYspg1SS/live.isml/index.m3u8
-
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KNoZm1zY/live.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bestcommt2.github.io/logo/sport/momomaxsport_1.png" group-title="📺 VIP SPORT",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
