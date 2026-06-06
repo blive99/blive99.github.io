@@ -1209,8 +1209,7 @@ https://blive99.github.io/m3u8/tvmovie/Truemoviehit.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp" group-title="📺 TrueIDTV",True Film 1HD
 https://blive99.github.io/m3u8/tvmovie/TruefilmHD1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp" group-title="📺 TrueIDTV",True Film 2HD
-#EXTVLCOPT:http-referrer=https://dkl-1.shop
-https://ipplaybox.fun/dookeela/truefilm2/chunks.m3u8
+https://blive99.github.io/m3u8/tvmovie/TruefilmHD2.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",True Asian More
 https://blive99.github.io/m3u8/tvmovie/Trueasiamore.m3u8
@@ -1229,7 +1228,7 @@ https://blive99.github.io/m3u8/documentary/truehistory.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://blive99.github.io/m3u8/tvmovie/wb.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
-https://ipplaybox.fun/dookeela/truex-zyte/chunks.m3u8
+https://blive99.github.io/m3u8/documentary/Truexzyte.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="D" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 TrueIDTV",TRUE DreamWorks
 https://blive99.github.io/m3u8/cartoon/truedreamworks.m3u8
 
@@ -1246,10 +1245,10 @@ https://ipplaybox.fun/dookeela/anipluschannel/playlist.m3u8
 https://ipplaybox.fun/dookeela/trueidasianseries/playlist.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
-https://ipplaybox.fun/dookeela/discovery-asia/chunks.m3u8
+https://blive99.github.io/m3u8/documentary/discoverasia.m3u8
 #EXTINF:-1 tvg-id="4019" tvg-name="BBC Lifestyles TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 TrueIDTV",TRUE BBC Lifestyles
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
-https://ipplaybox.fun/dookeela/bbc-lifestyle/chunks.m3u8
+https://blive99.github.io/m3u8/documentary/TrueBBCLifestyles.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2026/03/02/8a5801b0-15ea-11f1-88f0-3d6bf67e1529_webp_original.webp",True Foodiez Channel
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://ipplaybox.fun/dookeela/foodiez-channel/chunks.m3u8
