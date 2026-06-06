@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
+http://opplextv.cyou:8080/nasir6160/nasir/346243
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
 https://love.bebin98399.workers.dev/vx-origin/uk-lfctv_720/chunks.m3u8
