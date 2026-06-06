@@ -3,5 +3,7 @@
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
 #EXTVLCOPT:http-referrer=https://dookeela4.live
 https://ipplaybox.fun/dookeela/w-sport/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch12
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1417232.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch3
+http://6395online.com:8080/live/iptv591@gmail.com/456672/398630.m3u8
