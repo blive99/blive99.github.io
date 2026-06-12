@@ -18,10 +18,13 @@ https://blive99.github.io/hls-output/index.m3u8
 __________________________________________FIFA World Cup_________________________________________
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup MONOMAX 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
+https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup MONOMAX 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
+https://yyi7tewa2x.3ppnkog.com/xstream/monomax-2/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup MONOMAX 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (Caze TV 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
