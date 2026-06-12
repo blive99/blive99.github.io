@@ -3,11 +3,4 @@
 
 # ตัวหลัก (url ที่ 1)
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-#EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.bebin98399.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
-https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch3
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=115537&extension=m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch4
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
+http://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8
