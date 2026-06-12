@@ -262,29 +262,26 @@ https://blive99.github.io/m3u8/sporttv/monomax11.m3u8
 https://love.bebin98399.workers.dev/lx-origin/th-monomax11_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="📺 VIP SPORT",beIN SPORT 1
-#EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
+http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch7.png" group-title="📺 VIP SPORT",beIN SPORT 2
-#EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8
+http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch8.png" group-title="📺 VIP SPORT",beIN SPORT 3
-#EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein3.m3u8
+http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" group-title="📺 VIP SPORT",beIN SPORT 4
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein4.m3u8
+#https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein4.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" group-title="📺 VIP SPORT",beIN SPORT 5
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein5.m3u8
+#https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein5.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" group-title="📺 VIP SPORT",beIN SPORT 6
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein6.m3u8
+#https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein6.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" group-title="📺 VIP SPORT",beIN SPORT 7
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8
+#https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="📺 VIP SPORT",beIN SPORT 8
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein8.m3u8
+#https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein8.m3u8
 
 #EXTINF:-1 tvg-id="9574" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/515_LFCTVRed.png" group-title="📺 VIP SPORT",LFC TV
 https://blive99.github.io/m3u8/sporttv/LFC-TV.m3u8
@@ -1096,68 +1093,78 @@ https://love.bebin98399.workers.dev/vx-origin/us-nfl_720/chunks.m3u8
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
-https://love.bebin98399.workers.dev/lx-origin/hd-spotvbkp_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/truespotv.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/truespotv2.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2026/04/09/a7906480-33f8-11f1-bcc9-eb625ebc3222_webp_original.webp",Premier Football HD 3
-#EXTVLCOPT:http-referrer=https://streamx-web.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/truePremierFootballHD3.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2026/04/09/a7af3720-33f8-11f1-bcc9-eb625ebc3222_webp_original.webp",Premier Football HD 4
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/truePremierFootballHD4.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2026/04/09/a7bbba40-33f8-11f1-bcc9-eb625ebc3222_webp_original.webp",Premier Football HD 5
 #EXTVLCOPT:http-referrer=https://ipplaybox.fun/live-tv
 https://blive99.github.io/m3u8/sporttv/truePremierFootballHD5.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TrueSportHD 1
-#EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.bebin98399.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/truesport1.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",TrueSportHD 2
-#EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.bebin98399.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/truesport2.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",TrueSportHD 3
-#EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.bebin98399.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/truesport3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="📺 TrueIDTV",TrueSportHD4
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/truesport4.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,TrueSport 5
-#EXTVLCOPT:http-referrer=http://flussictv.ddns.net:9091
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/truesport5bkp.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,TrueSport 7
-#EXTVLCOPT:http-referrer=http://flussictv.ddns.net:9091
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/truesport7bkp.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
-#EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.bebin98399.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
+http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2
-#EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.bebin98399.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
+http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,BeinSportHD 3
-#EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.bebin98399.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
+http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" ,BeinSportHD 4
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.bebin98399.workers.dev/vx-origin/epl-bein4_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/vx-origin/epl-bein4_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" ,BeinSportHD 5
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.bebin98399.workers.dev/lx-origin/hd-bein5_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/lx-origin/hd-bein5_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" ,BeinSportHD 6
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.bebin98399.workers.dev/lx-origin/hd-bein6_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/lx-origin/hd-bein6_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 7
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.bebin98399.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" ,BeinSportHD 8
 #EXTVLCOPT:http-referrer=https://streamx-web.cc/
-https://love.bebin98399.workers.dev/lx-origin/hd-bein8_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/lx-origin/hd-bein8_720/chunks.m3u8
 
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", TRUE Golf Channel
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/truegolf.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="true-tennis-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp", TRUE Tennis
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/sporttv/truetennis.m3u8
 
 
