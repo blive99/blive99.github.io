@@ -1,10 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-https://www.livedoomovies.com:4431/02_GOLFHD_720p/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
-https://love.bebin98399.workers.dev/lx-origin/th-aisgolf01_720/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch3
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115698.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch4
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115699.m3u8
+http://api.plus-server.sbs/play.php?key=1234&ch=golf2
