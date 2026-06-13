@@ -1150,11 +1150,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 https://cdn728.stm.trueid.net/p203drm/t534_multi_w_auto_wv_tidapp.smil/manifest_w925141521_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD1jYzNmMzc4NGZkJmRpZD1VVm80Y1hwZlUwUkViWEUzYW1aUmQwWnRWSHBhT1dKS2NWTldhaTF0UTFvJnNpZD0yYzBkZDlmMDQ2JnJ0PTE3Nzc5OTQ4MjkmZHM9MjUyMDAmdGs9ajkyanRlQXNHTlktM1BhMEd2aXVSamhRYmRrV3VpajlHUm9VUmxpYzlnMA==.mpd
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://bestcommt2.github.io/logo/sport/NFL.png",NFL NETWORK
-#EXTVLCOPT:http-referrer=https://tubtoeball.net/
-https://love.bebin98399.workers.dev/vx-origin/us-nfl_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/nfl.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://i.ibb.co/V0CqBx96/nba.png" ,NBATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/nbatv.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1283,8 +1284,9 @@ https://blive99.github.io/m3u8/documentary/TrueBBCLifestyles.m3u8
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://ipplaybox.fun/dookeela/foodiez-channel/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2026/03/16/64dc3290-20e8-11f1-a2c3-2d8fe274e8a2_webp_original.webp",True AF Reality 
-#EXTVLCOPT:http-referrer=https://dkl-1.shop
-https://ipplaybox.fun/dookeela/af-reality/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/cartoon/truedreamworks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/8ae7d3e0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp" group-title="📺 TrueIDTV",tvN
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
 https://ipplaybox.fun/dookeela/tvn/chunks.m3u8
