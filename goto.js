@@ -22,9 +22,12 @@ https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup MONOMAX 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://yyi7tewa2x.3ppnkog.com/xstream/monomax-2/playlist.m3u8
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup MONOMAX 2
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup MONOMAX 3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup MONOMAX 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://yyi7tewa2x.3ppnkog.com/xstream/monomax-4/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (Caze TV 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1087,67 +1090,8 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 
 
-#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://i.imgur.com/SkpFpW4.png" group-title="馃摵3BBGIGATV馃摵",Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
-#EXTINF:-1 tvg-id="asian-food-network" tvg-logo="https://i.imgur.com/PUe61Ov.png" group-title="馃摵3BBGIGATV馃摵",Asian Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
-#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://i.imgur.com/vip1JIz.png" group-title="馃摵3BBGIGATV馃摵",BBC Earth
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
-#EXTINF:-1 tvg-id="bbc-news" tvg-logo="https://i.imgur.com/CTf7nGs.png" group-title="馃摵3BBGIGATV馃摵",BBC World News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd
-#EXTINF:-1 tvg-id="bilyonaryo-news-channel" tvg-logo="https://i.imgur.com/FxHmXYU.png" group-title="馃摵3BBGIGATV馃摵",Bilyonaryo Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/index.mpd
-
-#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://i.imgur.com/9LNJXe3.png" group-title="馃摵3BBGIGATV馃摵",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
-#EXTINF:-1 tvg-id="cctv-4" tvg-logo="https://i.imgur.com/TuwJPPz.png" group-title="馃摵3BBGIGATV馃摵",CCTV-4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b83566836c0d4216b7107bd7b8399366:32d50635bfd05fbf8189a0e3f6c8db09
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_cctv4/default/index.mpd
-#EXTINF:-1 tvg-id="cnn-international" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="馃摵3BBGIGATV馃摵",CNN International
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
-
-#EXTINF:-1 tvg-id="france-24" tvg-logo="https://i.imgur.com/d8doNpe.png" group-title="馃摵3BBGIGATV馃摵",France 24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/france24/default/index.mpd
-#EXTINF:-1 tvg-id="hbo-hits" tvg-logo="https://i.imgur.com/tGSLZWz.png" group-title="馃摵3BBGIGATV馃摵",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
-#EXTINF:-1 tvg-id="hbo-family" tvg-logo="https://i.imgur.com/SefoKAw.png" group-title="馃摵3BBGIGATV馃摵",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
-#EXTINF:-1 tvg-id="hbo-signature" tvg-logo="https://i.imgur.com/3L9QRDw.png" group-title="馃摵3BBGIGATV馃摵",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
-
 --------------------------------------------------------------------------------------
 ###TRUEVISION NOW###
-
-#EXTINF:-1 group-title="TrueID_DRM" tvg-id="true_sport_2",TrueID Sport (T534)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tv.trueid.net/
-#EXTVLCOPT:http-origin=https://tv.trueid.net
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://license.trueid.net/widevine?appid=trueid&type=live&visitor=web&drm=wv&Dvtj-BBCTy1pas-f0hEOHw24RICD_58Cf_ID80MzsUSwE-VoO|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Referer=https://tv.trueid.net/&Origin=https://tv.trueid.net
-https://cdn728.stm.trueid.net/p203drm/t534_multi_w_auto_wv_tidapp.smil/manifest_w925141521_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD1jYzNmMzc4NGZkJmRpZD1VVm80Y1hwZlUwUkViWEUzYW1aUmQwWnRWSHBhT1dKS2NWTldhaTF0UTFvJnNpZD0yYzBkZDlmMDQ2JnJ0PTE3Nzc5OTQ4MjkmZHM9MjUyMDAmdGs9ajkyanRlQXNHTlktM1BhMEd2aXVSamhRYmRrV3VpajlHUm9VUmxpYzlnMA==.mpd
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-logo="https://bestcommt2.github.io/logo/sport/NFL.png",NFL NETWORK
 #EXTVLCOPT:http-referrer=https://blive99.github.io
@@ -1268,31 +1212,31 @@ https://blive99.github.io/m3u8/cartoon/truedreamworks.m3u8
 
 
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="📺 TrueIDTV",TRUE Crime Investigation
-https://ipplaybox.fun/dookeela/crime-investigation/chunks.m3u8
+https://blive99.github.io/m3u8/tvmovie/crime%26investigation.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/05/29/895eab60-3c92-11f0-b877-437fa63d2c00_webp_original.webp",True ANIPLUS Channel
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
-https://ipplaybox.fun/dookeela/anipluschannel/playlist.m3u8
+#https://ipplaybox.fun/dookeela/anipluschannel/playlist.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/02/26/407828e0-f412-11ef-a64e-0d554f1e32aa_webp_original.webp",True ID Asian Series
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
-https://ipplaybox.fun/dookeela/trueidasianseries/playlist.m3u8
+#https://ipplaybox.fun/dookeela/trueidasianseries/playlist.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" ,TRUE Discovery-asia
 https://blive99.github.io/m3u8/documentary/discoverasia.m3u8
 #EXTINF:-1 tvg-id="4019" tvg-name="BBC Lifestyles TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 TrueIDTV",TRUE BBC Lifestyles
 https://blive99.github.io/m3u8/documentary/TrueBBCLifestyles.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2026/03/02/8a5801b0-15ea-11f1-88f0-3d6bf67e1529_webp_original.webp",True Foodiez Channel
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
-https://ipplaybox.fun/dookeela/foodiez-channel/chunks.m3u8
+#https://ipplaybox.fun/dookeela/foodiez-channel/chunks.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2026/03/16/64dc3290-20e8-11f1-a2c3-2d8fe274e8a2_webp_original.webp",True AF Reality 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://blive99.github.io
-https://blive99.github.io/m3u8/cartoon/truedreamworks.m3u8
+https://blive99.github.io/m3u8/tvmovie/trueAF.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/8ae7d3e0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp" group-title="📺 TrueIDTV",tvN
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
-https://ipplaybox.fun/dookeela/tvn/chunks.m3u8
+#https://ipplaybox.fun/dookeela/tvn/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e13eeed0-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 TrueIDTV",KBS World HD
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
-https://ipplaybox.fun/dookeela/kbsworld/chunks.m3u8
+#https://ipplaybox.fun/dookeela/kbsworld/chunks.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTickhQlYH7J2KU22pql_PhRblzcwdM5UDUIg&s" group-title="📺 TrueIDTV",Cartoon Club
 http://6395online.com:8080/iptv591@gmail.com/456672/215
@@ -1309,7 +1253,7 @@ http://6395online.com:8080/iptv591@gmail.com/456672/215
 #https://ipplaybox.fun/dookeela/iqiyi/chunks.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="IQIYI" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/234474a0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp" group-title="📺 TrueIDTV",TRUE Rock X Stream
-https://ipplaybox.fun/dookeela/rock-x-stream/chunks.m3u8
+#https://ipplaybox.fun/dookeela/rock-x-stream/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 TrueIDTV",TRUE SPARK PLAY
 #http://154.215.14.8:8080/live/iptv591@gmail.com/456672/180.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png", TRUE ID Station
