@@ -1003,15 +1003,15 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="📺3BBGIGATV", HBO
-https://blive99.github.io/m3u8/tvmovie/hbo.m3u8
+https://blive99.github.io/m3u8/movietv/hbo.m3u8
 #EXTINF:-0 group-title="📺3BBGIGATV" tvg-id="hbosignature.th" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png", HBO Signature
-https://blive99.github.io/m3u8/tvmovie/hboiqnature.m3u8
+https://blive99.github.io/m3u8/movietv/hboiqnature.m3u8
 #EXTINF:-0 group-title="📺3BBGIGATV" tvg-id="HBOHits.th" tvg-logo="https://i.postimg.cc/tJhns8pz/hitsth.png", HBO Hits
-https://blive99.github.io/m3u8/tvmovie/hbohit.m3u8
+https://blive99.github.io/m3u8/movietv/hbohit.m3u8
 #EXTINF:-0 group-title="📺3BBGIGATV" tvg-id="HBOFamily.th" tvg-logo="https://i.postimg.cc/x8rbT9DC/lfdvs017.png",HBO FAMILY
-https://blive99.github.io/m3u8/tvmovie/hbofamily.m3u8
+https://blive99.github.io/m3u8/movietv/hbofamily.m3u8
 #EXTINF:-1 group-title="📺3BBGIGATV" tvg-id="cinemaxasia.sg" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",CINEMAX
-https://blive99.github.io/m3u8/tvmovie/hbocinemax.m3u8
+https://blive99.github.io/m3u8/movietv/hbocinemax.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="📺3BBGIGATV", Discovery
 https://blive99.github.io/m3u8/documentary/discover.m3u8
 
@@ -1163,14 +1163,20 @@ https://blive99.github.io/m3u8/documentary/truewild.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
 https://blive99.github.io/m3u8/documentary/truesci.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 TrueIDTV",True AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/tvmovie/Trueaxn.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 TrueIDTV", TRUE HISTORY
 https://blive99.github.io/m3u8/documentary/truehistory.m3u8
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://blive99.github.io/m3u8/tvmovie/wb.m3u8
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/documentary/Truexzyte.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="D" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 TrueIDTV",TRUE DreamWorks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/cartoon/truedreamworks.m3u8
 
 
