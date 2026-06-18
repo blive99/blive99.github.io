@@ -28,14 +28,10 @@ https://yyi7tewa2x.3ppnkog.com/xstream/monomax-2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooballfree.cam/
 https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup MONOMAX 3
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup MONOMAX 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
 https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup MONOMAX 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dooballfree.cam/
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
 
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (Caze TV 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
