@@ -2,6 +2,4 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-https://love.bebin98399.workers.dev/lx-origin/th-cinemax_720/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/563005.m3u8
+http://54.37.19.157/cinemax/tracks-v1a1/playlist.m3u8
