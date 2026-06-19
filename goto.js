@@ -99,7 +99,9 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/
 
 ###VIP SPORT###
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://bestcommt2.github.io/logo/sport/one%20championship.jpg" group-title="📺 VIP SPORT",ONE Championship
-https://one.shchenyu8810.workers.dev/live/one/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/one_championship.m3u8
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://cdn.prod.website-files.com/5f83d33e914b90417b3c0fd8/5f83d33e914b907aa03c128c_GLORY-KB_LOGO-02%20copy.png" group-title="📺 VIP SPORT",Glory Kickboxing
 https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="416888" tvg-name="WWE" tvg-logo="https://www.fileinw.com/postor/20250830191812Wsport.jpg" group-title="📺 VIP SPORT",W Sport
