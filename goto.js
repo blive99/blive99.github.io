@@ -34,8 +34,8 @@ https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8
 https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup MONOMAX 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://6395online.com:8080/live/iptv591@gmail.com/456672/395400.m3u8
+#EXTVLCOPT:http-referrer=https://blive99.github.io
+https://blive99.github.io/m3u8/sporttv/fifaworldcup2.m3u8
 
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (Caze TV 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
