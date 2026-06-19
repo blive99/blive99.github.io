@@ -2750,21 +2750,21 @@ https://main.24playerhd.com/newplaylist/0ac0da9944d3ee76504a9d80/0ac0da9944d3ee7
 ####DOOMXXX####
 
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH1
-https://love.bebin98399.workers.dev/lx-origin/xxx-01_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/lx-origin/xxx-01_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH2
-https://love.bebin98399.workers.dev/lx-origin/xxx-02_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/lx-origin/xxx-02_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH3
-https://love.bebin98399.workers.dev/lx-origin/xxx-03_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/lx-origin/xxx-03_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH4
-https://love.bebin98399.workers.dev/lx-origin/xxx-04_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/lx-origin/xxx-04_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH5
-https://love.bebin98399.workers.dev/lx-origin/xxx-05_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/lx-origin/xxx-05_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH6
-https://love.bebin98399.workers.dev/lx-origin/xxx-06_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/lx-origin/xxx-06_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH7
-https://love.bebin98399.workers.dev/lx-origin/xxx-07_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/lx-origin/xxx-07_720/chunks.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/4359377/8503/v/950/depositphotos_85032664-stock-illustration-xxx-logo-sex-and-love.jpg" group-title="📺 xxx",XXX CH8
-https://love.bebin98399.workers.dev/lx-origin/xxx-08_720/chunks.m3u8
+#https://love.bebin98399.workers.dev/lx-origin/xxx-08_720/chunks.m3u8
 
 --------------------------------------------------------------------------------------
 ####J AV####
