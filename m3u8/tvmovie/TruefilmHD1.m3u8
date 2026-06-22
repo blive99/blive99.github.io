@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-http://6395online.com:8080/live/iptv591@gmail.com/456672/142.m3u8
+https://dl.dropboxusercontent.com/scl/fi/fga43foq2dxd3ymqqje9m/TruefilmHD1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
 http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776050.m3u8
