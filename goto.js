@@ -1169,14 +1169,11 @@ https://dl.dropboxusercontent.com/scl/fi/g3uyjbt29s7guf68u70ge/True_Explore_Wild
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
 https://blive99.github.io/m3u8/documentary/truesci.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 TrueIDTV",True AXN
-#EXTVLCOPT:http-referrer=http://54.37.19.157
-https://dl.dropboxusercontent.com/scl/fi/q67rv1rcyz4so2bvn9rmb/True_AXN.m3u8?rlkey=5iny8xlat7tk65yrfolu19i53&st=kt92vsee&dl=0
+https://dl.dropboxusercontent.com/scl/fi/q67rv1rcyz4so2bvn9rmb/True_AXN.m3u8?rlkey=5iny8xlat7tk65yrfolu19i53&st=6r2mzg19&dl=1
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 TrueIDTV", TRUE HISTORY
-#EXTVLCOPT:http-referrer=http://54.37.19.157
-https://dl.dropboxusercontent.com/scl/fi/yh4yi4o00wmojatr54csk/True_history.m3u8?rlkey=wqgatvb8kfh5twcfbam80rv2y&st=uo2g4q8s&dl=0
+https://dl.dropboxusercontent.com/scl/fi/yh4yi4o00wmojatr54csk/True_history.m3u8?rlkey=wqgatvb8kfh5twcfbam80rv2y&st=32y6y1i8&dl=1
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
-#EXTVLCOPT:http-referrer=http://54.37.19.157
-https://dl.dropboxusercontent.com/scl/fi/8iyp98xrofwhjozpb30ni/True_warner.m3u8?rlkey=8kizvxiqa43uwg7z4ysis5kin&st=dy019294&dl=0
+https://dl.dropboxusercontent.com/scl/fi/8iyp98xrofwhjozpb30ni/True_warner.m3u8?rlkey=8kizvxiqa43uwg7z4ysis5kin&st=dy019294&dl=1
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://blive99.github.io
