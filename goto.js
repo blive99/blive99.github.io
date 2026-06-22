@@ -1170,11 +1170,11 @@ https://dl.dropboxusercontent.com/scl/fi/g3uyjbt29s7guf68u70ge/True_Explore_Wild
 https://blive99.github.io/m3u8/documentary/truesci.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 TrueIDTV",True AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://www.dropbox.com/scl/fi/q67rv1rcyz4so2bvn9rmb/True_AXN.m3u8?rlkey=5iny8xlat7tk65yrfolu19i53&st=kt92vsee&dl=0
+https://dl.dropboxusercontent.com/scl/fi/q67rv1rcyz4so2bvn9rmb/True_AXN.m3u8?rlkey=5iny8xlat7tk65yrfolu19i53&st=kt92vsee&dl=0
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 TrueIDTV", TRUE HISTORY
-https://www.dropbox.com/scl/fi/yh4yi4o00wmojatr54csk/True_history.m3u8?rlkey=wqgatvb8kfh5twcfbam80rv2y&st=uo2g4q8s&dl=0
+https://dl.dropboxusercontent.com/scl/fi/yh4yi4o00wmojatr54csk/True_history.m3u8?rlkey=wqgatvb8kfh5twcfbam80rv2y&st=uo2g4q8s&dl=0
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
-https://www.dropbox.com/scl/fi/8iyp98xrofwhjozpb30ni/True_warner.m3u8?rlkey=8kizvxiqa43uwg7z4ysis5kin&st=dy019294&dl=0
+https://dl.dropboxusercontent.com/scl/fi/8iyp98xrofwhjozpb30ni/True_warner.m3u8?rlkey=8kizvxiqa43uwg7z4ysis5kin&st=dy019294&dl=0
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://blive99.github.io
@@ -2018,10 +2018,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F65BX3TKGTCBZQ/1083/inde
 https://blive99.github.io/m3u8/goodtv/goodtvkhongdeethai.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="📺 สารคดีรอบโลก", Samrujlok GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://blive99.github.io/m3u8/goodtv/goodtvSamrulok.m3u8
+https://dl.dropboxusercontent.com/scl/fi/ygkdz8ydi24es0q1mc67a/GoodTV_samrujlok.m3u8?rlkey=7i6ykzj7udi414wg6k8rg4maz&st=el7ntimv&dl=0
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="📺 สารคดีรอบโลก", Animal Show GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://blive99.github.io/m3u8/goodtv/goodtvanimalshow.m3u8
+https://dl.dropboxusercontent.com/scl/fi/x804t5y4do2wvpfoz4mml/GoodTV_animalshow.m3u8?rlkey=qo69qmvrnye6zbcmn5slbc6xc&st=58n1f1zv&dl=0
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="📺 สารคดีรอบโลก", MySci GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://blive99.github.io/m3u8/goodtv/goodtvmysci.m3u8
