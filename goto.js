@@ -1212,7 +1212,7 @@ https://dl.dropboxusercontent.com/scl/fi/3nmvrhcnr3wyukfm8zqi2/True_bbclifestyle
 #https://ipplaybox.fun/dookeela/kbsworld/chunks.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTickhQlYH7J2KU22pql_PhRblzcwdM5UDUIg&s" group-title="📺 TrueIDTV",Cartoon Club
-http://6395online.com:8080/iptv591@gmail.com/456672/215
+https://blive99.github.io/m3u8/cartoon/TrueCartoon_Club.m3u8
 
 #EXTINF:-1 group-title="📺 TrueIDTV" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/5c6a1ff0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp",True SOUL SIAM
 #EXTVLCOPT:http-referrer=https://dkl-1.shop
