@@ -1169,7 +1169,6 @@ https://dl.dropboxusercontent.com/scl/fi/g3uyjbt29s7guf68u70ge/True_Explore_Wild
 #EXTINF:-0 group-title="📺 TrueIDTV" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
 https://blive99.github.io/m3u8/documentary/truesci.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 TrueIDTV",True AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://dl.dropboxusercontent.com/scl/fi/q67rv1rcyz4so2bvn9rmb/True_AXN.m3u8?rlkey=5iny8xlat7tk65yrfolu19i53&st=kt92vsee&dl=0
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 TrueIDTV", TRUE HISTORY
 https://dl.dropboxusercontent.com/scl/fi/yh4yi4o00wmojatr54csk/True_history.m3u8?rlkey=wqgatvb8kfh5twcfbam80rv2y&st=uo2g4q8s&dl=0
@@ -1180,7 +1179,6 @@ https://dl.dropboxusercontent.com/scl/fi/8iyp98xrofwhjozpb30ni/True_warner.m3u8?
 #EXTVLCOPT:http-referrer=https://blive99.github.io
 https://blive99.github.io/m3u8/documentary/Truexzyte.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="D" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 TrueIDTV",TRUE DreamWorks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://dl.dropboxusercontent.com/scl/fi/13ge0fkrlzbvzzghugfjg/True_DreamWorks.m3u8?rlkey=v3sw8emo449m9dgos8z2cli5h&st=f8fssxur&dl=0
 
 
