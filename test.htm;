@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Player - World Cup 2026 Edition</title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <style>
+        body {
+            /* เปลี่ยนพื้นหลังเป็นรูปภาพธีม World Cup 2026 */
+            background-image: url('');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed; /* ทำให้พื้นหลังอยู่กับที่เมื่อเลื่อนหน้าจอ */
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .video-container {
+            width: 90%;
+            max-width: 800px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.7);
+            border-radius: 12px;
+            overflow: hidden;
+            background-color: #000; /* สีพื้นหลังดำสำหรับตัววิดีโอเอง */
+            border: 2px solid rgba(255, 255, 255, 0.1);
+        }
+        video {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        h2 {
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>ตัวเล่นวิดีโอ .m3u8 (World Cup 2026)</h2>
+    <div class="video-container">
+        <video id="video-player" controls autoplay></video>
+    </div>
+
+    <script>
+        const video = document.getElementById('video-player');
+        // ใช้ลิงก์วิดีโอที่คุณให้มา
+        const videoSrc = 'http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w0oWEYO_FOJVpIFrwrh9dqo/m3u8';
+
+        if (Hls.isSupported()) {
+            const hls = new Hls();
+            hls.loadSource(videoSrc);
+            hls.attachMedia(video);
+            hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                video.play().catch(e => console.log("Auto-play prevented by browser"));
+            });
+        }
+        else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+            video.src = videoSrc;
+            video.addEventListener('loadedmetadata', function() {
+                video.play();
+            });
+        }
+    </script>
+
+</body>
+</html>
