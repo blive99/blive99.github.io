@@ -1,60 +1,25 @@
 <!DOCTYPE html>
-<html lang="th">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>HLS Player</title>
-
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-
-    <style>
-        body{
-            margin:0;
-            background:#000;
-            display:flex;
-            justify-content:center;
-            align-items:center;
-            height:100vh;
-        }
-
-        video{
-            width:90%;
-            max-width:1000px;
-            border-radius:10px;
-        }
-    </style>
+<meta charset="utf-8">
+<title>TSN1 Player</title>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
 
-<video id="video" controls autoplay></video>
+<video id="video" controls autoplay width="100%"></video>
 
 <script>
-
 const video = document.getElementById('video');
-
-const videoSrc = "http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w0oWEYO_FOJVpIFrwrh9dqo/m3u8";
+const url = 'https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=ca-tsn1';
 
 if (Hls.isSupported()) {
-
     const hls = new Hls();
-
-    hls.loadSource(videoSrc);
-
+    hls.loadSource(url);
     hls.attachMedia(video);
-
-    hls.on(Hls.Events.MANIFEST_PARSED, function () {
-        video.play();
-    });
-
 } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-
-    video.src = videoSrc;
-
-    video.addEventListener('loadedmetadata', function () {
-        video.play();
-    });
-
+    video.src = url;
 }
-
 </script>
 
 </body>
