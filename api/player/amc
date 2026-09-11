@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="th">
+<head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="preload" href="https://content.jwplatform.com/libraries/foHt6P0J.js" as="script">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js" as="script">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js" as="script">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/hls.js@0.14.17" as="script">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mobile-detect/1.4.5/mobile-detect.min.js"></script>
+    <title>Video Player</title>
+    <style>
+        body { margin-top: 0; margin-bottom: 0; background: #000; }
+        #video_container { max-width: 100vw; width: 100vw !important; height: 100vh !important; }
+        #video { width: 100vw !important; height: 100vh !important; outline: 0 !important; }
+        video, video:focus { outline: 0 !important; }
+    </style>
+</head>
+<body>
+    <div id="hls_player1" id="hls_player"></div>
+    <script>
+        function mobileAndTabletCheck() {
+            const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+            return /android|iPhone|iPad|iPod|blackberry|windows phone|opera mini|iemobile|mobile/i.test(userAgent);
+        }
+        function isIOS() {
+            const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+            return /iPhone|iPad|iPod/i.test(userAgent);
+        }
+        function isTV() {
+            const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+            return /smart-tv|smarttv|hbbtv|netcast|webos|googletv|appletv|firetv|tizen|roku|tv|viera/i.test(userAgent);
+        }
+
+        const trackerAnnounce = ["wss://tracker.fastfastcdn.com"];
+        const HTTP = 3;
+        const P2P = 3;
+
+        var BASE_URL     = "https://dov.streaming-api.xyz/kicksballcom/amc/playlist.m3u8";
+        var LICENSE_URL  = "/api/license";
+        var NEEDS_LICENSE = true;
+
+        // เรียก backend ขอ license (wmsAuthSign) — key อยู่ฝั่ง server, คืนแค่ลายเซ็น
+        function get_license() {
+            return fetch(LICENSE_URL, { headers: { 'X-Requested-With': 'XMLHttpRequest' } })
+                .then(function (response) { return response.json(); })
+                .then(function (response) { return response.license; });
+        }
+
+        // ตั้ง window.hls แล้วโหลดตัวเล่น (ต้องตั้ง URL ก่อนโหลด videoPlayer.js)
+        function loadPlayer(url) {
+            window.hls = url;
+            window.imagex = '';
+            var s = document.createElement('script');
+            s.src = 'https://cdn.jsdelivr.net/gh/vlogg1527/Vidstack-Player-HLS-P2P@main/videoPlayer.js';
+            document.body.appendChild(s);
+        }
+
+        if (NEEDS_LICENSE && LICENSE_URL) {
+            // ขอ license มาต่อท้าย URL ตอนจะเล่น (token สดเสมอ)
+            get_license().then(function (license) {
+                var sep = BASE_URL.indexOf('?') !== -1 ? '&' : '?';
+                loadPlayer(BASE_URL + sep + 'wmsAuthSign=' + license);
+            }).catch(function () {
+                loadPlayer(BASE_URL); // ขอ license ไม่ได้ -> ลองเล่น URL เปล่า
+            });
+        } else {
+            loadPlayer(BASE_URL);
+        }
+    </script>
+    <script async src="https://cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"67bc971e776e48f5a3906011174e8677","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
