@@ -1,10 +1,10 @@
 import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-BASE_URL = "https://apitv.moneyclub999.com/ngz168/{}/playlist.m3u8"
+BASE_URL = "https://v.ball-live.org/api/proxy/stream?tv={}"
 
-START = 10000
-END = 20000
+START = 1
+END = 1000
 
 OUTPUT_FILE = "working_links.txt"
 
