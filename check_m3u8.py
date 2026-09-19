@@ -3,8 +3,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 BASE_URL = "https://apitv.moneyclub999.com/ngz168/{}/playlist.m3u8"
 
-START = 100
-END = 200
+START = 200
+END = 500
 
 OUTPUT_FILE = "working_links.txt"
 
