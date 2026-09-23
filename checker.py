@@ -3,8 +3,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 BASE = "https://doodii1.ufxplay.com/lowq/m{}/index.m3u8"
 
-START = 19880000
-END   = 19889999
+START = 19880700
+END   = 19880799
 
 TIMEOUT = 5
 WORKERS = 20
